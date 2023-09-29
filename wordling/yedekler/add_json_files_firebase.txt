@@ -1,0 +1,51 @@
+import 'dart:convert';
+import 'package:firebase_core/firebase_core.dart';
+import 'package:flutter/material.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:flutter/services.dart' show rootBundle;
+
+void addWordsToFirestore(String letter, List<Map<String, dynamic>> words) async {
+  final CollectionReference letterCollection = FirebaseFirestore.instance.collection('words');
+  final DocumentReference letterDocument = letterCollection.doc(letter);
+
+  // Firestore'a veriyi ekleyin
+  await letterDocument.set(
+    {
+      'words': FieldValue.arrayUnion(words),
+    },
+  );
+}
+
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
+
+  // Her harf için ayrı JSON dosyasını yükleme ve Firestore'a eklemeyi tekrarlayın
+  for (var letterCode = 'j'.codeUnitAt(0); letterCode <= 'z'.codeUnitAt(0); letterCode++) {
+    final letter = String.fromCharCode(letterCode);
+    final jsonFilePath = 'lib/dictionary/$letter.json';
+    final jsonSample = await rootBundle.loadString(jsonFilePath);
+    final jsonData = List<Map<String, dynamic>>.from(json.decode(jsonSample));
+
+     addWordsToFirestore(letter, jsonData);
+  }
+
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Firestore Example',
+      home: Scaffold(
+        appBar: AppBar(
+          title: Text('Firestore Example'),
+        ),
+        body: Center(
+          child: Text('Veriler Eklendi'),
+        ),
+      ),
+    );
+  }
+}

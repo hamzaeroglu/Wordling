@@ -1,0 +1,89 @@
+import 'dart:async';
+import 'package:flutter/material.dart';
+import 'data_provider.dart';
+
+class RandomWordScreen extends StatefulWidget {
+  @override
+  _RandomWordScreenState createState() => _RandomWordScreenState();
+}
+
+class _RandomWordScreenState extends State<RandomWordScreen> {
+  Timer? _timer;
+  Map<String, dynamic> wordData = {};
+
+  @override
+  void initState() {
+    super.initState();
+
+
+    // Düzenli olarak yeni kelime çekmek için zamanlayıcıyı başlat
+    _startTimer();
+    // Uygulama başlatıldığında kayıtları kontrol et
+    _loadLastWordAndTime();
+
+  }
+  // Kayıtları kontrol ederek son kelimeyi ve zamanı almak için kullanılacak işlev
+  _loadLastWordAndTime() async {
+    final data = await DataProvider().getLastWordAndTime();
+    if (data != null) {
+      setState(() {
+        wordData = data;
+      });
+    }
+  }
+
+  // İlk kelimeyi çekmek için kullanılan işlev
+  _loadInitialWord() async {
+    final data = await DataProvider().getRandomWord();
+    if (data != null) {
+      setState(() {
+        wordData = data;
+      });
+    }
+  }
+
+  // Her dakika yeni bir kelime çekmek için zamanlayıcıyı başlatan işlev
+  _startTimer() {
+    _timer = Timer.periodic(Duration(minutes: 1), (timer) async {
+      final data = await DataProvider().getRandomWord();
+      if (data != null) {
+        setState(() {
+          wordData = data;
+        });
+      }
+      // Her yeni kelimeyi ve kapatılma zamanını kaydet
+      DataProvider().saveLastWordAndTime(wordData);
+    });
+  }
+
+  @override
+  void dispose() {
+    // Zamanlayıcıyı iptal et
+    _timer?.cancel();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Rastgele Kelime'),
+      ),
+      body: Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: <Widget>[
+            if (wordData.isNotEmpty)
+              Text('Kelime: ${wordData['word']}'),
+            if (wordData.isNotEmpty)
+              Text('Anlamı: ${wordData['meaning']}'),
+            if (wordData.isNotEmpty)
+              Text('Cümlede Kullanım: ${wordData['sentence']}'),
+            if (wordData.isNotEmpty)
+              Text('Türkçe Çevirisi: ${wordData['turkish_translation']}'),
+          ],
+        ),
+      ),
+    );
+  }
+}

@@ -1,0 +1,367 @@
+import 'package:flutter/material.dart';
+import 'package:wordling/data_provider.dart';
+
+enum Difficulty { Easy, Medium, Hard }
+
+class WordleGamePage extends StatefulWidget {
+  const WordleGamePage({Key? key}) : super(key: key);
+
+  @override
+  State<WordleGamePage> createState() => _WordleGamePageState();
+}
+
+const List<String> list = <String>['Easy', 'Medium', 'Hard'];
+const List<String> list2 = <String>['Turkish','English'];
+
+class _WordleGamePageState extends State<WordleGamePage> {
+  String wordToGuess = ""; // Tahmin edilmesi gereken kelime
+  List<String> correctWord = []; // Doğru kelimenin harf sıralaması
+  int maxAttempts = 6; // Maksimum tahmin hakkı
+  int remainingAttempts = 6; // Kullanıcının kalan tahmin hakkı
+  List<String?> currentGuesses = List.generate(7, (_) => null); // Tahminler
+  List<List<Color>> cellColors = List.generate(7, (_) => List.filled(6, Colors.grey)); // Kutucuk renkleri
+  int currentAttempt = 0; // Track the current attempt
+  TextEditingController _textEditingController = TextEditingController();
+  String currentGuess = ""; // Kullanıcının girdiği tahmin
+  bool isTurkish = true;
+  bool press1 = false;
+  bool press2 = false;
+  String dropdownValue = 'Easy'; // Başlangıçta kolay zorluk seviyesini seç
+  String dropdownValue2 = 'Turkish'; // Başlangıçta Türkçe dilini seç
+  int minLength = 3; // Minimum kelime uzunluğu
+  int maxLength = 7; // Maksimum kelime uzunluğu
+
+
+  @override
+  void initState() {
+    super.initState();
+    _initializeGame();
+  }
+  void _initializeGame() async {
+    final dataProvider = DataProvider();
+
+    Map<String, dynamic>? randomWordData;
+    String meaning = ''; // Kelimenin anlamını tutacak değişken
+
+    // Zorluk seviyesine göre minimum ve maksimum uzunlukları ayarla
+    if (dropdownValue == 'Easy') {
+      minLength = 4;
+      maxLength = 4;
+    } else if (dropdownValue == 'Medium') {
+      minLength = 5;
+      maxLength = 5;
+    } else {
+      minLength = 6;
+      maxLength = 6;
+    }
+
+    bool containsForbiddenLetters = true;
+
+    while (containsForbiddenLetters) {
+      if (isTurkish == true) {
+        do {
+          randomWordData = await dataProvider.getRandomWord();
+          print("Random Kelime (Türkçe): ${randomWordData?['meaning']}"); // Rastgele Türkçe kelimeyi kontrol et
+        } while (randomWordData != null &&
+            (randomWordData['meaning'].length < minLength ||
+                randomWordData['meaning'].length > maxLength));
+
+        if (randomWordData != null) {
+          wordToGuess = randomWordData['meaning'];
+          correctWord = wordToGuess.split('');
+          meaning = randomWordData['word']; // Kelimenin İngilizce anlamını al
+
+          // 'j', 'x' veya 'w' harf gruplarını içermeyen kelimeleri kabul et
+          if (!wordToGuess.contains('j') &&
+              !wordToGuess.contains('x') &&
+              !wordToGuess.contains('w')) {
+            containsForbiddenLetters = false;
+          }
+        }
+      } else {
+        do {
+          randomWordData = await dataProvider.getRandomWord();
+          print("Random Kelime (İngilizce): ${randomWordData?['word']}"); // Rastgele İngilizce kelimeyi kontrol et
+        } while (randomWordData != null &&
+            (randomWordData['word'].length < minLength ||
+                randomWordData['word'].length > maxLength));
+
+        if (randomWordData != null) {
+          wordToGuess = randomWordData['word'];
+          correctWord = wordToGuess.split('');
+          containsForbiddenLetters = false; // İngilizce kelime çekildiğinde containsForbiddenLetters'ı false olarak ayarla
+        }
+      }
+    }
+
+    setState(() {
+      currentGuesses = List.generate(7, (_) => null);
+      cellColors = List.generate(7, (_) => List.filled(6, Colors.grey));
+      currentAttempt = 0;
+    });
+  }
+
+
+  Widget _choseLanguage() {
+    return DropdownButton<String>(
+      value: dropdownValue2,
+      icon: const Icon(Icons.arrow_downward),
+      elevation: 16,
+      style: const TextStyle(color: Colors.deepPurple),
+      underline: Container(
+        height: 2,
+        color: Colors.deepPurpleAccent,
+      ),
+      onChanged: (String? value) {
+        // This is called when the user selects an item.
+        setState(() {
+          dropdownValue2 = value!;
+          if (dropdownValue2 == 'Turkish') {
+            isTurkish = true;
+          } else if(dropdownValue2 == 'English'){
+            isTurkish = false;
+          }
+        });
+        _initializeGame(); // Dil değiştiğinde oyunu yeniden başlat
+
+      },
+      items: list2.map<DropdownMenuItem<String>>((String value) {
+        return DropdownMenuItem<String>(
+          value: value,
+          child: Text(value),
+        );
+      }).toList(),
+    );
+  }
+
+
+
+  Widget _choseDifficulty() {
+    return DropdownButton<String>(
+      value: dropdownValue,
+      icon: const Icon(Icons.arrow_downward),
+      elevation: 16,
+      style: const TextStyle(color: Colors.deepPurple),
+      underline: Container(
+        height: 2,
+        color: Colors.deepPurpleAccent,
+      ),
+      onChanged: (String? value) {
+        // This is called when the user selects an item.
+        setState(() {
+          dropdownValue = value!;
+        });
+        _initializeGame();
+      },
+      items: ['Easy', 'Medium', 'Hard'].map<DropdownMenuItem<String>>((String value) {
+        return DropdownMenuItem<String>(
+          value: value,
+          child: Text(value),
+        );
+      }).toList(),
+    );
+  }
+
+
+  void _checkGuess() {
+    if (currentGuesses[currentAttempt] != null) {
+      // Zaten bir tahmin yapılmışsa işlem yapma
+      return;
+    }
+    if (currentGuess.length < minLength || currentGuess.length > maxLength) {
+      // Tahmin uzunluğu sınırların dışında ise uyarı göster
+      _showLengthWarning();
+      return;
+    }
+
+    currentGuesses[currentAttempt] = currentGuess.toLowerCase();
+    List<String> currentGuessLetters = currentGuess.split('');
+    List<String> remainingLetters = List.from(correctWord);
+
+    for (int i = 0; i < currentGuessLetters.length; i++) {
+      String letter = currentGuessLetters[i];
+      if (remainingLetters.contains(letter)) {
+        int index = remainingLetters.indexOf(letter);
+        if (index == i) {
+          cellColors[currentAttempt][i] = Colors.green; // Doğru harf, doğru sırada
+        } else {
+          cellColors[currentAttempt][i] = Colors.yellow; // Doğru harf, yanlış sırada
+        }
+        remainingLetters[index] = ''; // Aynı harfi birden fazla kez kullanmayı engelle
+      }
+    }
+
+    setState(() {
+      currentAttempt++;
+      _textEditingController.clear(); // Denetleyiciyi temizle
+    });
+
+    if (currentGuess == wordToGuess) {
+      _showCongratulationsDialog();
+    } else if (currentAttempt >= 7) {
+      _showLoseDialog();
+    }
+  }
+
+  void _showLengthWarning() {
+    final snackBar = SnackBar(
+      content: Text("Tahmin uzunluğu belirlenen sınırların dışında."),
+      action: SnackBarAction(
+        label: 'Tamam',
+        onPressed: () {
+          // Eylem gerçekleştiğinde burada bir şey yapabilirsiniz.
+        },
+      ),
+    );
+
+    ScaffoldMessenger.of(context).showSnackBar(snackBar);
+  }
+
+
+  void _showCongratulationsDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: Text("Tebrikler! Kazandınız!"),
+          content: Text("Doğru kelimeyi buldunuz: $wordToGuess"),
+          actions: <Widget>[
+            TextButton(
+              child: Text("Yeni Oyun"),
+              onPressed: () {
+                setState(() {
+                  currentAttempt = 0;
+                  _initializeGame();
+                });
+
+                Navigator.of(context).pop();
+              },
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  void _showLoseDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: Text("Üzgünüz! Kaybettiniz."),
+          content: isTurkish == true
+              ? Text("Doğru kelimeyi bulamadınız. Kelime: $wordToGuess \n Anlamı: ")
+              : Text("Doğru kelimeyi bulamadınız. Kelime: $wordToGuess \n Anlamı: "),
+          actions: <Widget>[
+            TextButton(
+              child: Text("Yeni Oyun"),
+              onPressed: () {
+                setState(() {
+                  currentAttempt = 0;
+                  _initializeGame();
+                });
+                Navigator.of(context).pop();
+              },
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(),
+      body: Center(
+        child: SingleChildScrollView(
+          child: Column(
+            children: <Widget>[
+              Row(
+                children: [
+                  _choseLanguage(),
+                  _choseDifficulty(),
+                ],
+              ),
+              SizedBox(height: 20),
+              Text(
+                '$wordToGuess',
+                style: TextStyle(fontSize: 18),
+              ),
+              SizedBox(height: 20),
+              for (int row = 0; row < 7; row++)
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: <Widget>[
+                    for (int col = 0; col < wordToGuess.length; col++)
+                      Container(
+                        width: 30,
+                        height: 30,
+                        margin: EdgeInsets.all(5),
+                        decoration: BoxDecoration(
+                          border: Border.all(
+                            color: Colors.black,
+                          ),
+                          color: cellColors[row][col],
+                        ),
+                        child: Center(
+                          child: Text(
+                            currentGuesses[row] != null
+                                ? (currentGuesses[row]!.length > col
+                                ? currentGuesses[row]![col]
+                                : '')
+                                : '',
+                            style: TextStyle(
+                              color: Colors.black,
+                            ),
+                          ),
+                        ),
+                      ),
+                  ],
+                ),
+              SizedBox(height: 20),
+              Stack(
+                alignment: Alignment.centerRight,
+                children: [
+                  TextField(
+                    controller: _textEditingController,
+                    onChanged: (value) {
+                      setState(() {
+                        currentGuess = value.toLowerCase();
+                      });
+                    },
+                    decoration: InputDecoration(labelText: 'Kelime Tahmini'),
+                  ),
+                  IconButton(
+                    onPressed: () {
+                      _checkGuess();
+                    },
+                    icon: Icon(Icons.check_circle, color: Colors.green, size: 37,),
+                  ),
+                ],
+              ),
+
+              Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+
+                  SizedBox(
+                    width: 5,
+                  ),
+                  ElevatedButton(
+                    onPressed: () {
+                      _showLoseDialog();
+                    },
+                    child: Text('Bilemedim Köylüyüm'),
+                  ),
+                ],
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+}

@@ -1,0 +1,46 @@
+/* Widget _chooseDifficulty() {
+    return Row(
+      mainAxisAlignment: MainAxisAlignment.center,
+      children: [
+        ElevatedButton(
+          onPressed: () {
+            setState(() {
+              selectedDifficulty = Difficulty.Easy;
+            });
+            _initializeGame();
+          },
+          child: Text("Kolay"),
+          style: ButtonStyle(
+            backgroundColor: MaterialStateProperty.all(
+                selectedDifficulty == Difficulty.Easy ? Colors.green : Colors.blue),
+          ),
+        ),
+        ElevatedButton(
+          onPressed: () {
+            setState(() {
+              selectedDifficulty = Difficulty.Medium;
+            });
+            _initializeGame();
+          },
+          child: Text("Orta"),
+          style: ButtonStyle(
+            backgroundColor: MaterialStateProperty.all(
+                selectedDifficulty == Difficulty.Medium ? Colors.green : Colors.blue),
+          ),
+        ),
+        ElevatedButton(
+          onPressed: () {
+            setState(() {
+              selectedDifficulty = Difficulty.Hard;
+            });
+            _initializeGame();
+          },
+          child: Text("Zor"),
+          style: ButtonStyle(
+            backgroundColor: MaterialStateProperty.all(
+                selectedDifficulty == Difficulty.Hard ? Colors.green : Colors.blue),
+          ),
+        ),
+      ],
+    );
+  }*/

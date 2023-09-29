@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213811827453",
+    "project_id": "wordling-d49b8",
+    "storage_bucket": "wordling-d49b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213811827453:android:5bfda53b7833d88140e494",
+        "android_client_info": {
+          "package_name": "com.example.wordling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213811827453-ut2h6eln0fier93bjubsji4evu78gdus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXpz2wZPU0aIevR-NTkkYhwUPLjCo6zKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213811827453-ut2h6eln0fier93bjubsji4evu78gdus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+/*
+  Widget _choseLang(){
+    return Row(
+      mainAxisAlignment: MainAxisAlignment.center,
+      children: [
+        ElevatedButton(
+          onPressed: () {
+            setState(() {
+              press1 = true;
+              press2 = false;
+              isTurkish = true; // Türkçe kelime çekme ayarı
+            });
+            _initializeGame();
+          },
+          child: Text("TÜRKÇE"),
+          style: ButtonStyle(
+            backgroundColor: MaterialStateProperty.all(press1 ? Colors.green : Colors.blue),
+          ),
+        ),
+        ElevatedButton(
+          onPressed: () {
+            setState(() {
+              press1 = false;
+              press2 = true;
+              isTurkish = false; // İngilizce kelime çekme ayarı
+            });
+            _initializeGame();
+          },
+          child: Text("İNGİLİZCE"),
+          style: ButtonStyle(
+            backgroundColor: MaterialStateProperty.all(press2 ? Colors.green : Colors.blue),
+          ),
+        ),
+      ],
+    );
+  }*/
