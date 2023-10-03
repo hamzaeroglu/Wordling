@@ -19,6 +19,8 @@ class _QuizPageState extends State<QuizPage> {
   List<String> choices = []; // Seçeneklerin listesi
   Color boxColor = Color(0xFFBCEFD0);
   Random random = Random();
+  bool containsForbiddenLetters = false;
+
   @override
   void initState() {
     super.initState();
@@ -35,16 +37,27 @@ class _QuizPageState extends State<QuizPage> {
         randomWordsData.add(randomWordData);
       }
     }
-    int randomNumber = random.nextInt(2) + 1;
-    // Soru ve seçenekleri ayarla
-    final randomIndex = Random().nextInt(3);
-    final randomWordData = randomWordsData[randomIndex];
 
-    if (randomWordData != null) {
+    // Rastgele bir kelime seçin
+    final filteredWordsData = randomWordsData.where((wordData) {
+      final word = wordData?['word'] as String;
+      final meaning = wordData?['meaning'] as String;
+
+      return !word.contains('x') &&
+          !meaning.contains('x') &&
+          !word.startsWith(RegExp(r'[A-Z]')) &&
+          !meaning.startsWith(RegExp(r'[A-Z]'));
+    }).toList();
+
+    if (filteredWordsData.isNotEmpty) {
+      final randomIndex = Random().nextInt(filteredWordsData.length);
+      final randomWordData = filteredWordsData[randomIndex];
+
       setState(() {
-        if(randomNumber==2){
-          question = '${randomWordData['word']}';
-          correctAnswer = randomWordData['meaning'];
+        int randomNumber = random.nextInt(2) + 1;
+        if (randomNumber == 2) {
+          question = '${randomWordData?['word']}';
+          correctAnswer = randomWordData?['meaning'];
 
           // Şıkları karıştırın ve sırayla A, B, C olarak atayın
           choices = [
@@ -52,9 +65,9 @@ class _QuizPageState extends State<QuizPage> {
             randomWordsData[1]!['meaning'] as String,
             randomWordsData[2]!['meaning'] as String,
           ]..shuffle();
-        }else if (randomNumber == 1){
-          question = '${randomWordData['meaning']}';
-          correctAnswer = randomWordData['word'];
+        } else if (randomNumber == 1) {
+          question = '${randomWordData?['meaning']}';
+          correctAnswer = randomWordData?['word'];
 
           // Şıkları karıştırın ve sırayla A, B, C olarak atayın
           choices = [
@@ -63,10 +76,13 @@ class _QuizPageState extends State<QuizPage> {
             randomWordsData[2]!['word'] as String,
           ]..shuffle();
         }
-
       });
+    } else {
+      // Uygun kelime bulunamazsa, isteğe bağlı olarak bir hata mesajı gösterilebilir
+      print("Uygun kelime bulunamadı.");
     }
   }
+
 
 
   void _failedMessage(){
@@ -97,44 +113,47 @@ class _QuizPageState extends State<QuizPage> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: widgets.buildAppBar("Kelimenin Karşılığı Nedir"),
-      body: Column(
-        crossAxisAlignment: CrossAxisAlignment.center,
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          Card(
-            shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
-            elevation: 20,
-            color:Color(0XFF09B7E6) ,
-            child: Column(
-              children: [
+    return Stack(
+      children:
+      [
+      Scaffold(
+        appBar: widgets.buildAppBar("Kelimenin Karşılığı Nedir"),
+        body: Column(
+          crossAxisAlignment: CrossAxisAlignment.center,
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Card(
+              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+              elevation: 20,
+              color:Color(0XFF09B7E6) ,
+              child: Column(
+                children: [
 
-                Container(
+                  Container(
 
-                  width: MediaQuery.of(context).size.width*0.7,
-                  decoration: BoxDecoration( border: Border.all(width: 0.6, style: BorderStyle.solid), borderRadius: BorderRadius.circular(20), color: Color(0xFFF0C70A)),
-                  alignment: Alignment.center,
-                  margin: EdgeInsets.only(top: 10),
-                  padding: EdgeInsets.all(16.0),
-                  child: Text(
-                    question,
-                    style: widgets.text_style(),
+                    width: MediaQuery.of(context).size.width*0.7,
+                    decoration: BoxDecoration( border: Border.all(width: 0.6, style: BorderStyle.solid), borderRadius: BorderRadius.circular(20), color: Color(0xFFF0C70A)),
+                    alignment: Alignment.center,
+                    margin: EdgeInsets.only(top: 10),
+                    padding: EdgeInsets.all(16.0),
+                    child: Text(
+                      question,
+                      style: widgets.text_style(),
+                    ),
                   ),
-                ),
-                SizedBox(height: 20),
-                Column(
-                  children: choices.asMap().entries.map((entry) {
-                    final index = entry.key;
-                    final choice = entry.value;
+                  SizedBox(height: 20),
+                  Column(
+                    children: choices.asMap().entries.map((entry) {
+                      final index = entry.key;
+                      final choice = entry.value;
 
-                    return ListTile(
+                      return ListTile(
 
-                      title: Container(
-                          decoration: BoxDecoration(borderRadius: BorderRadius.circular(20), color: boxColor),
-                          height: MediaQuery.of(context).size.height*0.07,
-                          child: Center(child: Text('$choice', textAlign: TextAlign.center, style: widgets.text_style()))), // A, B, C şeklinde şıkları numaralandırır
-                      onTap: () {
+                        title: Container(
+                            decoration: BoxDecoration(borderRadius: BorderRadius.circular(20), color: boxColor),
+                            height: MediaQuery.of(context).size.height*0.07,
+                            child: Center(child: Text('$choice', textAlign: TextAlign.center, style: widgets.text_style()))), // A, B, C şeklinde şıkları numaralandırır
+                        onTap: () {
 
                           if (choice == correctAnswer) {
                             // Doğru cevap verildiğinde yeni soruyu oluşturun
@@ -143,19 +162,22 @@ class _QuizPageState extends State<QuizPage> {
                           } else {
                             _failedMessage();
                           }
-                      },
-                    );
-                  }).toList(),
-                ),
-                SizedBox(height: 20),
+                        },
+                      );
+                    }).toList(),
+                  ),
+                  SizedBox(height: 20),
 
-              ],
+                ],
+              ),
+
             ),
 
-          ),
-
-        ],
+          ],
+        ),
       ),
+        widgets.buttonShortCut(context),
+      ]
     );
   }
 }
