@@ -2,6 +2,7 @@ import 'dart:async';
 import 'package:circular_menu/circular_menu.dart';
 import 'package:flutter/material.dart';
 import 'package:wordling/favorites_page.dart';
+import 'package:wordling/games.dart';
 import 'package:wordling/search.dart';
 import 'package:wordling/widgets.dart';
 import 'package:wordling/wordle.dart';
@@ -25,24 +26,28 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
     super.initState();
 
     // Uygulama başladığında belirli saatteki kelimeyi kontrol et ve çek
-    checkAndFetchWordAtScheduledTime();
+    checkAndFetchWordAtScheduledDate();
   }
 
-  void checkAndFetchWordAtScheduledTime() async {
-    final now = DateTime.now();
-    final scheduledTime = DateTime(now.year, now.month, now.day, 13, 28); // Örnek: Her gün saat 12:00'de çekilir.
+  void checkAndFetchWordAtScheduledDate() async {
     final prefs = await SharedPreferences.getInstance();
-    final hasAutoFetchedWord = prefs.getBool('has_auto_fetched_word') ?? false;
+    final lastEntryDate = prefs.getString('last_entry_date');
+    final now = DateTime.now();
 
-    if (!hasAutoFetchedWord && now.isAfter(scheduledTime)) {
-      // Belirtilen saat geçtiyse ve otomatik kelime çekilmediyse yeni kelimeyi çek ve göster
-      _loadNewWord();
-      prefs.setBool('has_auto_fetched_word', true); // Otomatik kelime çekildi olarak işaretle
+    if (lastEntryDate == null || !_isSameDay(now, DateTime.parse(lastEntryDate))) {
+      // İlk giriş veya gün farklıysa yeni kelimeyi çek ve göster
+      await _loadNewWord();
+      prefs.setString('last_entry_date', now.toIso8601String()); // Son giriş tarihini güncelle
     } else {
       // Otomatik kelime zaten çekildiyse sadece son kelimeyi göster
       _loadLastWordAndTime();
     }
   }
+
+  bool _isSameDay(DateTime date1, DateTime date2) {
+    return date1.year == date2.year && date1.month == date2.month && date1.day == date2.day;
+  }
+
 
   _loadNewWord() async {
     final data = await DataProvider().getRandomWord();
@@ -208,11 +213,14 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
         Positioned(
 
           child: CircularMenu(
+
             alignment: Alignment.bottomRight,
             radius: 60, // Yarıçapı ayarlayabilirsiniz
             toggleButtonColor: Colors.black,
             items: [
               CircularMenuItem(
+                color: Color(0XFFDB56AD),
+
                 icon: Icons.favorite,
                 onTap: () {
                   Navigator.push(
@@ -224,6 +232,8 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
                 },
               ),
               CircularMenuItem(
+                color: Color(0XFFDB56AD),
+
                 icon: Icons.search,
                 onTap: () {
                   Navigator.push(
@@ -235,12 +245,14 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
                 },
               ),
               CircularMenuItem(
+                color: Color(0XFFDB56AD),
+
                 icon: Icons.videogame_asset_rounded,
                 onTap: () {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (context) => WordleGamePage(),
+                      builder: (context) => chooseGame(),
                     ),
                   );
                 },
