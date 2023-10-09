@@ -50,6 +50,8 @@ class _FavoritesPageState extends State<FavoritesPage> {
             toggleButtonColor: Colors.black,
             items: [
               CircularMenuItem(
+                color: Color(0XFFDB56AD),
+
                 icon: Icons.my_library_books_sharp,
                 onTap: () {
                   Navigator.push(
@@ -61,6 +63,7 @@ class _FavoritesPageState extends State<FavoritesPage> {
                 },
               ),
               CircularMenuItem(
+                color: Color(0XFFDB56AD),
                 icon: Icons.search,
                 onTap: () {
                   Navigator.push(
@@ -72,6 +75,7 @@ class _FavoritesPageState extends State<FavoritesPage> {
                 },
               ),
               CircularMenuItem(
+                color: Color(0XFFDB56AD),
                 icon: Icons.videogame_asset_rounded,
                 onTap: () {
                   Navigator.push(

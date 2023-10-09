@@ -19,7 +19,10 @@ class DataProvider {
       callback();
     });
   }
-
+  int getRandomNumber(int max) {
+    final random = Random();
+    return random.nextInt(max);
+  }
   Future<Map<String, dynamic>?> getLastWord() async {
     final documentSnapshot =
     await FirebaseFirestore.instance.collection('last_word').doc('last').get();
@@ -56,6 +59,29 @@ class DataProvider {
     }
 
     return null;
+  }
+
+  Future<List<String>> getRandomMeanings(int count) async {
+    final List<String> meanings = [];
+    final alphabet = 'abcdefghijklmnopqrstuvwxyz';
+    final random = Random();
+
+    for (int i = 0; i < count; i++) {
+      final randomLetter = alphabet[random.nextInt(alphabet.length)];
+      final letterDocument =
+      FirebaseFirestore.instance.collection('words').doc(randomLetter);
+      final documentSnapshot = await letterDocument.get();
+
+      if (documentSnapshot.exists) {
+        final words = documentSnapshot.data()?['words'];
+        if (words != null && words.isNotEmpty) {
+          final newWordData = words[random.nextInt(words.length)];
+          meanings.add(newWordData['meaning']);
+        }
+      }
+    }
+
+    return meanings;
   }
 
   Future<List<Map<String, dynamic>>> getWords() async {

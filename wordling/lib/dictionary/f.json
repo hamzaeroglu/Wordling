@@ -1,0 +1,2879 @@
+[
+  {"word": "face", "meaning": "yüzleşmek, yüz",
+    "sentence": "She had to face her fears.",
+    "turkish_translation": "Korkularıyla yüzleşmek zorunda kaldı."},
+
+  {"word": "fact", "meaning": "gerçek, olgu",
+    "sentence": "The fact is, they are moving to a new city.",
+    "turkish_translation": "Gerçek şu ki, yeni bir şehre taşınıyorlar."},
+
+  {"word": "fail", "meaning": "başarısız olmak",
+    "sentence": "She was determined not to fail the exam.",
+    "turkish_translation": "Sınavı geçmemeye kararlıydı."},
+
+  {"word": "fair", "meaning": "adil, fuar",
+    "sentence": "She believes in treating everyone fairly.",
+    "turkish_translation": "Herkesi adil bir şekilde davranmanın önemine inanır."},
+
+  {"word": "fall", "meaning": "düşmek, sonbahar",
+    "sentence": "The leaves fall from the trees in the fall.",
+    "turkish_translation": "Yapraklar sonbaharda ağaçlardan düşer."},
+
+  {"word": "false", "meaning": "yanlış, sahte",
+    "sentence": "The information turned out to be false.",
+    "turkish_translation": "Bilgi yanlış çıktı."},
+
+  {"word": "family", "meaning": "aile",
+    "sentence": "She spent the weekend with her family.",
+    "turkish_translation": "Hafta sonunu ailesiyle geçirdi."},
+
+  {"word": "famous", "meaning": "ünlü",
+    "sentence": "She met a famous actor at the event.",
+    "turkish_translation": "Etkinlikte ünlü bir aktörle tanıştı."},
+
+  {"word": "far", "meaning": "uzak",
+    "sentence": "The nearest grocery store is too far to walk.",
+    "turkish_translation": "En yakın bakkal yürümek için çok uzak."},
+
+  {"word": "farm", "meaning": "çiftlik",
+    "sentence": "She spent her childhood summers on her grandparents' farm.",
+    "turkish_translation": "Çocukluk yazlarını büyük ebeveynlerinin çiftliğinde geçirdi."},
+
+  {"word": "fast", "meaning": "hızlı, oruç tutmak",
+    "sentence": "She's a fast runner.",
+    "turkish_translation": "Hızlı bir koşucudur."},
+
+  {"word": "fat", "meaning": "şişman, yağ",
+    "sentence": "She's trying to lose weight and reduce her body fat.",
+    "turkish_translation": "Kilo vermek ve vücut yağını azaltmak için uğraşıyor."},
+
+  {"word": "father", "meaning": "baba",
+    "sentence": "Her father taught her how to ride a bike.",
+    "turkish_translation": "Babası ona bisiklet sürmeyi öğretti."},
+
+  {"word": "fault", "meaning": "kusur, hata",
+    "sentence": "It wasn't her fault that the project failed.",
+    "turkish_translation": "Projenin başarısız olması onun hatası değildi."},
+
+  {"word": "fear", "meaning": "korku, korkmak",
+    "sentence": "She overcame her fear of public speaking.",
+    "turkish_translation": "Kamu konuşma korkusunu yenmeyi başardı."},
+
+  {"word": "feed", "meaning": "beslemek",
+    "sentence": "She feeds her cat every morning.",
+    "turkish_translation": "Her sabah kedisini besler."},
+
+  {"word": "feel", "meaning": "hissetmek",
+    "sentence": "She feels happy when she's with her friends.",
+    "turkish_translation": "Arkadaşlarıyla olduğunda mutlu hisseder."},
+
+  {"word": "female", "meaning": "dişi",
+    "sentence": "She adopted a female kitten from the shelter.",
+    "turkish_translation": "Barınaktan dişi bir yavru kedi sahiplendi."},
+
+  {"word": "fence", "meaning": "çit",
+    "sentence": "They built a wooden fence around their backyard.",
+    "turkish_translation": "Arka bahçelerinin etrafına tahta bir çit inşa ettiler."},
+
+  {"word": "few", "meaning": "birkaç",
+    "sentence": "She has a few close friends.",
+    "turkish_translation": "Birkaç yakın arkadaşı var."},
+
+  {"word": "field", "meaning": "alan, tarla",
+    "sentence": "They played soccer in the field.",
+    "turkish_translation": "Futbolu alanda oynadılar."},
+
+  {"word": "fight", "meaning": "kavga etmek, savaş",
+    "sentence": "They had a fight over the last piece of cake.",
+    "turkish_translation": "Son pasta parçası üzerine kavga ettiler."},
+
+  {"word": "fill", "meaning": "doldurmak",
+    "sentence": "She used a watering can to fill the plant's pot with water.",
+    "turkish_translation": "Bitkinin saksısını suyla doldurmak için bir su kovası kullandı."},
+
+  {"word": "film", "meaning": "film",
+    "sentence": "She's a fan of classic films.",
+    "turkish_translation": "Klasik filmlerin hayranıdır."},
+
+  {"word": "find", "meaning": "bulmak",
+    "sentence": "She couldn't find her keys.",
+    "turkish_translation": "Anahtarlarını bulamadı."},
+
+  {"word": "fine", "meaning": "iyi, para cezası",
+    "sentence": "She said she's feeling fine after her recovery.",
+    "turkish_translation": "İyileşmesinin ardından iyi hissettiğini söyledi."},
+
+  {"word": "finger", "meaning": "parmak",
+    "sentence": "She accidentally cut her finger while chopping vegetables.",
+    "turkish_translation": "Sebzeleri doğrarken kazara parmağını kesti."},
+
+  {"word": "finish", "meaning": "bitirmek, bitiş",
+    "sentence": "She wants to finish reading the book tonight.",
+    "turkish_translation": "Kitabı bu gece bitirmek istiyor."},
+
+  {"word": "fire", "meaning": "ateş, işten çıkarmak",
+    "sentence": "They roasted marshmallows over the campfire.",
+    "turkish_translation": "Kamp ateşi üzerinde marshmallow kızarttılar."},
+
+  {"word": "first", "meaning": "ilk",
+    "sentence": "She was the first one to arrive at the party.",
+    "turkish_translation": "Partiye varan ilk kişi oldu."},
+
+  {"word": "fish", "meaning": "balık",
+    "sentence": "She caught a big fish while fishing at the lake.",
+    "turkish_translation": "Gölde balık tutarken büyük bir balık yakaladı."},
+
+  {"word": "fit", "meaning": "uygun, uymak",
+    "sentence": "The dress fit her perfectly.",
+    "turkish_translation": "Elbise ona mükemmel bir şekilde uydu."},
+
+  {"word": "five", "meaning": "beş",
+    "sentence": "She has five cousins.",
+    "turkish_translation": "Beş kuzeni var."},
+
+  {"word": "fix", "meaning": "tamir etmek",
+    "sentence": "She needs to fix the leaky faucet.",
+    "turkish_translation": "Sızdıran musluğu tamir etmesi gerekiyor."},
+
+  {"word": "flag", "meaning": "bayrak",
+    "sentence": "The flag was waving in the wind.",
+    "turkish_translation": "Bayrak rüzgarda dalgalanıyordu."},
+
+  {"word": "flame", "meaning": "alev",
+    "sentence": "The candle's flame flickered in the dark.",
+    "turkish_translation": "Mumun alevi karanlıkta titredi."},
+
+  {"word": "flat", "meaning": "düz, apartman dairesi",
+    "sentence": "She lives in a small flat in the city.",
+    "turkish_translation": "Şehirde küçük bir dairede yaşıyor."},
+
+  {"word": "float", "meaning": "yüzmek, yüzdürmek",
+    "sentence": "They watched the boats float on the calm lake.",
+    "turkish_translation": "Sakin gölde teknelerin yüzdüğünü izlediler."},
+
+  {"word": "floor", "meaning": "zemin, kat",
+    "sentence": "The ball rolled across the floor.",
+    "turkish_translation": "Top zeminin üzerinden kaydı."},
+
+  {"word": "flour", "meaning": "un",
+    "sentence": "She used flour to bake bread.",
+    "turkish_translation": "Ekmek yapmak için un kullandı."},
+
+  {"word": "flower", "meaning": "çiçek",
+    "sentence": "She received a bouquet of flowers on her birthday.",
+    "turkish_translation": "Doğum gününde bir buket çiçek aldı."},
+
+  {"word": "fly", "meaning": "uçmak, sinek",
+    "sentence": "She watched the birds fly in the sky.",
+    "turkish_translation": "Kuşları gökyüzünde uçarken izledi."},
+
+  {"word": "focus", "meaning": "odaklanmak, odak",
+    "sentence": "She needs to focus on her studies.",
+    "turkish_translation": "Çalışmalarına odaklanması gerekiyor."},
+
+  {"word": "fold", "meaning": "katlamak",
+    "sentence": "She folded the paper in half.",
+    "turkish_translation": "Kağıdı ortadan katladı."},
+
+  {"word": "follow", "meaning": "takip etmek",
+    "sentence": "She likes to follow the latest fashion trends.",
+    "turkish_translation": "En son moda trendlerini takip etmeyi sever."},
+
+  {"word": "food", "meaning": "yiyecek",
+    "sentence": "She cooked a delicious meal for dinner.",
+    "turkish_translation": "Akşam yemeği için lezzetli bir yemek pişirdi."},
+
+  {"word": "foot", "meaning": "ayak",
+    "sentence": "She hurt her foot while hiking.",
+    "turkish_translation": "Yürüyüş yaparken ayağını incitti."},
+
+  {"word": "football", "meaning": "futbol (Amerikan)",
+    "sentence": "She enjoys watching football games on Sundays.",
+    "turkish_translation": "Pazar günleri Amerikan futbolu maçlarını izlemekten hoşlanır."},
+
+  {"word": "for", "meaning": "için",
+    "sentence": "She bought flowers for her mother.",
+    "turkish_translation": "Annesi için çiçekler aldı."},
+
+  {"word": "force", "meaning": "zorlamak, güç",
+    "sentence": "She used force to open the stuck door.",
+    "turkish_translation": "Sıkışmış kapıyı açmak için güç kullandı."},
+
+  {"word": "forest", "meaning": "orman",
+    "sentence": "They went camping in the forest.",
+    "turkish_translation": "Ormanda kamp yapmaya gittiler."},
+
+  {"word": "forget", "meaning": "unutmak",
+    "sentence": "She forgot her umbrella at home.",
+    "turkish_translation": "Şemsiyesini evde unuttu."},
+
+  {"word": "forgive", "meaning": "affetmek",
+    "sentence": "She found it in her heart to forgive him.",
+    "turkish_translation": "Onu affetmeye kalbinde yer buldu."},
+
+  {"word": "fork", "meaning": "çatal",
+    "sentence": "She used a fork to eat her salad.",
+    "turkish_translation": "Salatasını yemek için çatal kullandı."},
+
+  {"word": "form", "meaning": "şekil, form",
+    "sentence": "She filled out a form to apply for the job.",
+    "turkish_translation": "İş başvurusu yapmak için bir form doldurdu."},
+
+  {"word": "fortune", "meaning": "servet, talih",
+    "sentence": "She believed in making her own fortune.",
+    "turkish_translation": "Kendi talihini kendisinin yaratmaya inanırdı."},
+
+  {"word": "forward", "meaning": "ileri, iletme",
+    "sentence": "She moved forward with her plans.",
+    "turkish_translation": "Planlarına ilerledi."},
+
+  {"word": "found", "meaning": "kurmak, bulmak (simple past tense of find)",
+    "sentence": "They found a lost dog and took it to the shelter.",
+    "turkish_translation": "Kaybolmuş bir köpek buldular ve barınağa götürdüler."},
+
+  {"word": "four", "meaning": "dört",
+    "sentence": "She has four siblings.",
+    "turkish_translation": "Dört kardeşi var."},
+
+  {"word": "free", "meaning": "özgür, ücretsiz",
+    "sentence": "She enjoys spending her free time reading.",
+    "turkish_translation": "Boş zamanını okuyarak geçirmekten hoşlanır."},
+
+  {"word": "freeze", "meaning": "donmak, dondurmak",
+    "sentence": "The water in the pond started to freeze in the winter.",
+    "turkish_translation": "Göldeki su kışın donmaya başladı."},
+
+  {"word": "fresh", "meaning": "taze",
+    "sentence": "She bought fresh vegetables from the farmers' market.",
+    "turkish_translation": "Taze sebzeleri çiftçi pazarından aldı."},
+
+  {"word": "Friday", "meaning": "Cuma",
+    "sentence": "They're planning a movie night for this Friday.",
+    "turkish_translation": "Bu Cuma için bir film gecesi planlıyorlar."},
+
+  {"word": "friend", "meaning": "arkadaş",
+    "sentence": "She's been best friends with him since childhood.",
+    "turkish_translation": "Çocukluklarından beri en iyi arkadaşıdır."},
+
+  {"word": "friendly", "meaning": "dostça",
+    "sentence": "She has a friendly demeanor and gets along with everyone.",
+    "turkish_translation": "Dostça bir tavır sergiler ve herkesle iyi geçinir."},
+
+  {"word": "from", "meaning": "den, dan, -den, -dan",
+    "sentence": "She received a gift from her grandmother.",
+    "turkish_translation": "Büyükannesinden bir hediye aldı."},
+
+  {"word": "front", "meaning": "ön, cephe",
+    "sentence": "She stood at the front of the line.",
+    "turkish_translation": "Sıranın önünde durdu."},
+
+  {"word": "fruit", "meaning": "meyve",
+    "sentence": "She enjoys eating a variety of fresh fruits.",
+    "turkish_translation": "Çeşitli taze meyveler yemekten hoşlanır."},
+
+  {"word": "full", "meaning": "tam, dolu",
+    "sentence": "She felt full after the big meal.",
+    "turkish_translation": "Büyük yemekten sonra tok hissetti."},
+
+  {"word": "fun", "meaning": "eğlence",
+    "sentence": "They had a lot of fun at the amusement park.",
+    "turkish_translation": "Lunaparkta çok eğlendiler."},
+
+  {"word": "funny", "meaning": "komik",
+    "sentence": "She told a funny joke that made everyone laugh.",
+    "turkish_translation": "Herkesi güldüren komik bir şaka anlattı."},
+
+  {"word": "furniture", "meaning": "mobilya",
+    "sentence": "She rearranged the furniture in her living room.",
+    "turkish_translation": "Oturma odasındaki mobilyaları yeniden düzenledi."},
+
+  {"word": "future", "meaning": "gelecek",
+    "sentence": "She's excited about her future plans.",
+    "turkish_translation": "Gelecek planlarından heyecan duyuyor."},
+  {
+    "word": "fa",
+    "meaning": "anlamı yok",
+    "sentence": "No sentence available.",
+    "turkish_translation": "Cümle mevcut değil."
+  },
+  {
+    "word": "fabric",
+    "meaning": "kumaş",
+    "sentence": "The dress was made from a beautiful silk fabric.",
+    "turkish_translation": "Elbise güzel ipek kumaştan yapıldı."
+  },
+  {
+    "word": "fabrics",
+    "meaning": "kumaşlar",
+    "sentence": "The shop offers a variety of fabrics for sewing.",
+    "turkish_translation": "Dükkan dikiş için çeşitli kumaşlar sunuyor."
+  },
+  {
+    "word": "fabulous",
+    "meaning": "harika, muhteşem",
+    "sentence": "The sunset over the ocean was absolutely fabulous.",
+    "turkish_translation": "Denizin üzerindeki günbatımı kesinlikle harikaydı."
+  },
+  {
+    "word": "face",
+    "meaning": "yüz",
+    "sentence": "She had a smile on her face as she greeted us.",
+    "turkish_translation": "Bizi selamlarken yüzünde bir gülümseme vardı."
+  },
+  {
+    "word": "faced",
+    "meaning": "yüzleşti",
+    "sentence": "He faced many challenges throughout his career.",
+    "turkish_translation": "Kariyeri boyunca birçok zorlukla yüzleşti."
+  },
+  {
+    "word": "faces",
+    "meaning": "yüzler",
+    "sentence": "The portraits of historical figures hung on the walls.",
+    "turkish_translation": "Tarihi figürlerin portreleri duvarlarda asılıydı."
+  },
+  {
+    "word": "facial",
+    "meaning": "yüzle ilgili",
+    "sentence": "She enjoys getting a relaxing facial at the spa.",
+    "turkish_translation": "Spada rahatlatıcı bir yüz bakımını seviyor."
+  },
+  {
+    "word": "facilitate",
+    "meaning": "kolaylaştırmak",
+    "sentence": "The new software will facilitate the process of data analysis.",
+    "turkish_translation": "Yeni yazılım veri analiz sürecini kolaylaştıracak."
+  },
+  {
+    "word": "facilities",
+    "meaning": "tesisler",
+    "sentence": "The hotel offers excellent facilities for its guests.",
+    "turkish_translation": "Otel misafirleri için mükemmel tesisler sunuyor."
+  },
+  {
+    "word": "facility",
+    "meaning": "tesis",
+    "sentence": "The sports facility has a swimming pool and tennis courts.",
+    "turkish_translation": "Spor tesisi bir yüzme havuzu ve tenis kortuna sahip."
+  },
+  {
+    "word": "facing",
+    "meaning": "karşı karşıya",
+    "sentence": "The two buildings were facing each other across the street.",
+    "turkish_translation": "İki bina cadde boyunca birbirlerine karşı karşıyaydı."
+  },
+  {
+    "word": "fact",
+    "meaning": "gerçek",
+    "sentence": "The fact is that the Earth orbits around the Sun.",
+    "turkish_translation": "Gerçek şu ki Dünya, Güneş etrafında dönüyor."
+  },
+  {
+    "word": "factor",
+    "meaning": "faktör",
+    "sentence": "Stress can be a contributing factor to various health issues.",
+    "turkish_translation": "Stres çeşitli sağlık sorunlarına katkıda bulunan bir faktör olabilir."
+  },
+  {
+    "word": "factors",
+    "meaning": "faktörler",
+    "sentence": "Several factors play a role in determining climate patterns.",
+    "turkish_translation": "İklim modellerini belirlemede birkaç faktör rol oynar."
+  },
+  {
+    "word": "factory",
+    "meaning": "fabrika",
+    "sentence": "The factory produces electronic devices.",
+    "turkish_translation": "Fabrika elektronik cihazlar üretiyor."
+  },
+  {
+    "word": "facts",
+    "meaning": "gerçekler",
+    "sentence": "He presented the facts to support his argument.",
+    "turkish_translation": "Argümanını desteklemek için gerçekleri sundu."
+  },
+  {
+    "word": "faculty",
+    "meaning": "fakülte",
+    "sentence": "The university's Faculty of Science offers a wide range of programs.",
+    "turkish_translation": "Üniversitenin Fen Fakültesi geniş bir program yelpazesi sunuyor."
+  },
+  {
+    "word": "fail",
+    "meaning": "başarısız olmak",
+    "sentence": "It's okay to fail as long as you learn from your mistakes.",
+    "turkish_translation": "Hatalarınızdan öğreniyorsanız başarısız olmak sorun değil."
+  },
+  {
+    "word": "failed",
+    "meaning": "başarısız oldu",
+    "sentence": "The experiment failed to produce the expected results.",
+    "turkish_translation": "Deney beklenen sonuçları üretmeyi başaramadı."
+  },
+  {
+    "word": "failing",
+    "meaning": "eksiklik, hata",
+    "sentence": "Procrastination is often seen as a common failing.",
+    "turkish_translation": "İşleri ertelemenin sıkça görülen bir eksiklik olduğu düşünülür."
+  },
+  {
+    "word": "fails",
+    "meaning": "başarısız olur",
+    "sentence": "The engine fails to start in cold weather.",
+    "turkish_translation": "Motor soğuk havalarda çalışmayı başaramaz."
+  },
+  {
+    "word": "failure",
+    "meaning": "başarısızlık",
+    "sentence": "He viewed the failure as an opportunity to learn and grow.",
+    "turkish_translation": "Başarısızlığı öğrenme ve büyüme fırsatı olarak gördü."
+  },
+  {
+    "word": "failures",
+    "meaning": "başarısızlıklar",
+    "sentence": "There were several failures before they achieved success.",
+    "turkish_translation": "Başarıya ulaşmadan önce birkaç başarısızlık yaşandı."
+  },
+  {
+    "word": "fair",
+    "meaning": "adil",
+    "sentence": "He always tries to be fair in his judgments.",
+    "turkish_translation": "Her zaman yargılamalarında adil olmaya çalışır."
+  },
+  {
+    "word": "fairfield",
+    "meaning": "Fairfield (bir yer adı)",
+    "sentence": "She grew up in Fairfield and has fond memories of her hometown.",
+    "turkish_translation": "Fairfield'da büyüdü ve memleketiyle güzel anıları var."
+  },
+  {
+    "word": "fairly",
+    "meaning": "oldukça, adil bir şekilde",
+    "sentence": "The prices were fairly reasonable at the local market.",
+    "turkish_translation": "Fiyatlar yerel pazarda oldukça makuldu."
+  },
+  {
+    "word": "fairy",
+    "meaning": "peri",
+    "sentence": "She believed in the existence of fairies when she was a child.",
+    "turkish_translation": "Çocukken perilerin varlığına inanıyordu."
+  },
+  {
+    "word": "faith",
+    "meaning": "inanç",
+    "sentence": "His faith gives him strength during difficult times.",
+    "turkish_translation": "İnancı ona zor zamanlarda güç veriyor."
+  },
+  {
+    "word": "fake",
+    "meaning": "sahte",
+    "sentence": "They discovered that the painting was a fake.",
+    "turkish_translation": "Tablonun sahte olduğunu keşfettiler."
+  },
+  {
+    "word": "fall",
+    "meaning": "düşmek, sonbahar",
+    "sentence": "The leaves fall from the trees in the autumn.",
+    "turkish_translation": "Yapraklar sonbaharda ağaçlardan düşer."
+  },
+  {
+    "word": "fallen",
+    "meaning": "düşmüş",
+    "sentence": "The statue had fallen over during the earthquake.",
+    "turkish_translation": "Heykel deprem sırasında devrilmişti."
+  },
+  {
+    "word": "falling",
+    "meaning": "düşme",
+    "sentence": "The falling star was a breathtaking sight.",
+    "turkish_translation": "Düşen yıldız nefes kesen bir manzaraydı."
+  },
+  {
+    "word": "falls",
+    "meaning": "şelaleler",
+    "sentence": "The region is known for its majestic waterfalls.",
+    "turkish_translation": "Bölge, görkemli şelaleleriyle tanınıyor."
+  },
+  {
+    "word": "false",
+    "meaning": "yanlış, sahte",
+    "sentence": "The rumor turned out to be completely false.",
+    "turkish_translation": "Söylenti tamamen yanlış çıktı."
+  },
+  {
+    "word": "fame",
+    "meaning": "şöhret",
+    "sentence": "He achieved fame through his remarkable performances.",
+    "turkish_translation": "Olağanüstü performanslarıyla ün kazandı."
+  },
+  {
+    "word": "familiar",
+    "meaning": "tanıdık, aşina",
+    "sentence": "The town's streets were familiar to him from childhood.",
+    "turkish_translation": "Kentin sokakları çocukluğundan tanıdıktı."
+  },
+  {
+    "word": "families",
+    "meaning": "aileler",
+    "sentence": "The event is open to all families in the community.",
+    "turkish_translation": "Etkinlik topluluktaki tüm ailelere açıktır."
+  },
+  {
+    "word": "family",
+    "meaning": "aile",
+    "sentence": "She spent quality time with her family over the weekend.",
+    "turkish_translation": "Hafta sonu ailesiyle kaliteli zaman geçirdi."
+  },
+  {
+    "word": "famous",
+    "meaning": "ünlü",
+    "sentence": "The city is famous for its historical landmarks.",
+    "turkish_translation": "Şehir tarihi simgeleriyle ünlüdür."
+  },
+  {
+    "word": "fan",
+    "meaning": "hayran, vantilatör",
+    "sentence": "She's a big fan of the band and has all their albums.",
+    "turkish_translation": "O, grubun büyük bir hayranı ve tüm albümlerine sahip."
+  },
+  {
+    "word": "fancy",
+    "meaning": "şık, süslü",
+    "sentence": "They went to a fancy restaurant for their anniversary.",
+    "turkish_translation": "Yıldönümlerinde şık bir restorana gittiler."
+  },
+  {
+    "word": "fans",
+    "meaning": "hayranlar",
+    "sentence": "The celebrity's fans waited outside the theater to catch a glimpse of him.",
+    "turkish_translation": "Ünlünün hayranları onu gözlerinden kaçırmamak için tiyatro önünde bekledi."
+  },
+  {
+    "word": "fantastic",
+    "meaning": "fantastik, harika",
+    "sentence": "The view from the mountaintop was absolutely fantastic.",
+    "turkish_translation": "Dağın zirvesinden görünen manzara kesinlikle harikaydı."
+  },
+  {
+    "word": "fantasy",
+    "meaning": "hayal, fantezi",
+    "sentence": "She enjoys reading fantasy novels in her free time.",
+    "turkish_translation": "Boş zamanlarında fantezi romanları okumaktan hoşlanır."
+  },
+  {
+    "word": "faq",
+    "meaning": "sıkça sorulan sorular",
+    "sentence": "The website's FAQ section provides answers to common queries.",
+    "turkish_translation": "Web sitesinin SSS bölümü yaygın sorulara cevaplar sunar."
+  },
+  {
+    "word": "faqs",
+    "meaning": "sıkça sorulan sorular",
+    "sentence": "The website's FAQs cover a wide range of topics.",
+    "turkish_translation": "Web sitesinin SSS bölümü geniş bir konu yelpazesini kapsar."
+  },
+  {
+    "word": "far",
+    "meaning": "uzak",
+    "sentence": "The nearest gas station is not too far from here.",
+    "turkish_translation": "En yakın benzin istasyonu buradan çok uzak değil."
+  },
+  {
+    "word": "fare",
+    "meaning": "bilet ücreti, yolculuk yapmak",
+    "sentence": "The fare for the bus ride was quite affordable.",
+    "turkish_translation": "Otobüs yolculuğunun bileti oldukça uygun fiyatlıydı."
+  },
+  {
+    "word": "fares",
+    "meaning": "bilet ücretleri",
+    "sentence": "The city's public transportation system offers various fare options.",
+    "turkish_translation": "Şehrin toplu taşıma sistemi çeşitli bilet ücreti seçenekleri sunar."
+  },
+  {
+    "word": "farm",
+    "meaning": "çiftlik",
+    "sentence": "They visited a dairy farm and learned about milk production.",
+    "turkish_translation": "Bir süt çiftliğini ziyaret ettiler ve süt üretimi hakkında bilgi edindiler."
+  },
+  {
+    "word": "farmer",
+    "meaning": "çiftçi",
+    "sentence": "The farmer planted a variety of crops on his land.",
+    "turkish_translation": "Çiftçi arazisine çeşitli ürünler ekti."
+  },
+  {
+    "word": "farmers",
+    "meaning": "çiftçiler",
+    "sentence": "The farmers are working hard to harvest their crops before the rain.",
+    "turkish_translation": "Çiftçiler yağmurdan önce ürünlerini hasat etmek için çalışıyorlar."
+  },
+  {
+    "word": "farming",
+    "meaning": "çiftçilik, tarım",
+    "sentence": "She has a deep appreciation for sustainable farming practices.",
+    "turkish_translation": "Sürdürülebilir tarım uygulamalarına derin bir saygısı var."
+  },
+  {
+    "word": "farms",
+    "meaning": "çiftlikler",
+    "sentence": "The region is known for its picturesque farms and countryside.",
+    "turkish_translation": "Bölge, resim gibi çiftlikleri ve kırsal kesimiyle tanınıyor."
+  },
+  {
+    "word": "fascinating",
+    "meaning": "büyüleyici",
+    "sentence": "The documentary presented a fascinating look into ancient civilizations.",
+    "turkish_translation": "Belgesel, eski medeniyetlere büyüleyici bir bakış sunuyordu."
+  },
+  {
+    "word": "fashion",
+    "meaning": "moda",
+    "sentence": "She has a keen interest in the latest fashion trends.",
+    "turkish_translation": "En son moda trendlerine ilgi duyuyor."
+  },
+  {
+    "word": "fast",
+    "meaning": "hızlı, oruç tutmak",
+    "sentence": "The car was moving at a fast speed on the highway.",
+    "turkish_translation": "Araba otoyolda hızlı bir hızla ilerliyordu."
+  },
+  {
+    "word": "faster",
+    "meaning": "daha hızlı",
+    "sentence": "He runs faster than anyone else on the track team.",
+    "turkish_translation": "Koşu takımındaki herkesten daha hızlı koşar."
+  },
+  {
+    "word": "fastest",
+    "meaning": "en hızlı",
+    "sentence": "The cheetah is the fastest land animal in the world.",
+    "turkish_translation": "Çita dünyanın en hızlı kara hayvanıdır."
+  },
+  {
+    "word": "fat",
+    "meaning": "şişman",
+    "sentence": "He struggled with weight gain and became fat over the years.",
+    "turkish_translation": "Yıllar içinde kilo almakla mücadele etti ve şişmanladı."
+  },
+  {
+    "word": "fatal",
+    "meaning": "ölümcül",
+    "sentence": "The accident had a fatal outcome, resulting in multiple casualties.",
+    "turkish_translation": "Kaza ölümcül bir sonuç doğurdu, çok sayıda can kaybına neden oldu."
+  },
+  {
+    "word": "fate",
+    "meaning": "kader",
+    "sentence": "They believed that their fate was determined by the choices they made.",
+    "turkish_translation": "Kaderlerinin yaptıkları seçimler tarafından belirlendiğine inanıyorlardı."
+  },
+  {
+    "word": "father",
+    "meaning": "baba",
+    "sentence": "Her father taught her how to ride a bike.",
+    "turkish_translation": "Babası ona nasıl bisiklet sürülacağını öğretti."
+  },
+  {
+    "word": "fathers",
+    "meaning": "babalar",
+    "sentence": "The event celebrates the contributions of fathers.",
+    "turkish_translation": "Etkinlik babaların katkılarını kutluyor."
+  },
+  {
+    "word": "fatty",
+    "meaning": "yağlı",
+    "sentence": "She avoids eating too much fatty food for the sake of her health.",
+    "turkish_translation": "Sağlığı için fazla yağlı yiyecekleri yemekten kaçınıyor."
+  },
+  {
+    "word": "fault",
+    "meaning": "kusur, hata",
+    "sentence": "The mechanic identified a fault in the car's engine.",
+    "turkish_translation": "Mekanik arabanın motorunda bir kusur tespit etti."
+  },
+  {
+    "word": "favor",
+    "meaning": "iyilik, lütuf",
+    "sentence": "He did me a favor by helping me move to a new apartment.",
+    "turkish_translation": "Yeni bir apartmana taşınmama yardım ederek bana iyilik etti."
+  },
+  {
+    "word": "favorite",
+    "meaning": "favori, en sevilen",
+    "sentence": "Her favorite book is a classic novel from the 19th century.",
+    "turkish_translation": "En sevdiği kitap 19. yüzyıldan bir klasik romandır."
+  },
+  {
+    "word": "favorites",
+    "meaning": "favoriler",
+    "sentence": "The restaurant's menu includes a list of customer favorites.",
+    "turkish_translation": "Restoranın menüsü müşteri favorileri listesini içeriyor."
+  },
+  {
+    "word": "favors",
+    "meaning": "iyilikler, lütuflar",
+    "sentence": "He often does favors for his neighbors without expecting anything in return.",
+    "turkish_translation": "Genellikle komşuları için karşılık beklemeden iyilikler yapar."
+  },
+  {
+    "word": "favour",
+    "meaning": "iyilik, lütuf",
+    "sentence": "She asked for a small favour, and he was happy to help.",
+    "turkish_translation": "Küçük bir iyilik istedi ve yardım etmekten mutluluk duydu."
+  },
+  {
+    "word": "favourite",
+    "meaning": "favori, en sevilen",
+    "sentence": "Ice cream is her favourite treat during the summer.",
+    "turkish_translation": "Dondurma, yazın en sevdiği ikramdır."
+  },
+  {
+    "word": "favourites",
+    "meaning": "favoriler",
+    "sentence": "The playlist includes a collection of her favourite songs.",
+    "turkish_translation": "Çalma listesi en sevdiği şarkıların bir koleksiyonunu içeriyor."
+  },
+  {
+    "word": "fax",
+    "meaning": "faks",
+    "sentence": "Please send me the document via fax as soon as possible.",
+    "turkish_translation": "Lütfen belgeyi mümkün olan en kısa sürede faks ile gönderin."
+  },
+  {
+    "word": "fbi",
+    "meaning": "Federal Bureau of Investigation (FBI)",
+    "sentence": "The FBI is responsible for investigating federal crimes.",
+    "turkish_translation": "FBI federal suçları soruşturmakla görevlidir."
+  },
+  {
+    "word": "fc",
+    "meaning": "football club (futbol kulübü)",
+    "sentence": "The local FC team won the championship last year.",
+    "turkish_translation": "Yerel FC takımı geçen yıl şampiyon oldu."
+  },
+  {
+    "word": "fcc",
+    "meaning": "Federal Communications Commission (Federal İletişim Komisyonu)",
+    "sentence": "The FCC regulates communication networks and services.",
+    "turkish_translation": "FCC iletişim ağlarını ve hizmetlerini düzenler."
+  },
+  {
+    "word": "fd",
+    "meaning": "food (yemek)",
+    "sentence": "She ordered her favorite food for dinner.",
+    "turkish_translation": "Akşam yemeği için en sevdiği yemeği sipariş etti."
+  },
+  {
+    "word": "fda",
+    "meaning": "Food and Drug Administration (Gıda ve İlaç İdaresi)",
+    "sentence": "The FDA ensures the safety of food and drugs in the market.",
+    "turkish_translation": "FDA pazardaki gıda ve ilaçların güvenliğini sağlar."
+  },
+  {
+    "word": "fe",
+    "meaning": "iron (demir elementi)",
+    "sentence": "The chemical symbol for iron is Fe.",
+    "turkish_translation": "Demirin kimyasal sembolü Fe'dir."
+  },
+  {
+    "word": "fear",
+    "meaning": "korku",
+    "sentence": "Her fear of heights made it challenging to climb the mountain.",
+    "turkish_translation": "Yükseklik korkusu dağa tırmanmayı zorlaştırdı."
+  },
+  {
+    "word": "fears",
+    "meaning": "korkular",
+    "sentence": "He has various fears, including a fear of public speaking.",
+    "turkish_translation": "Halk önünde konuşma korkusu dahil çeşitli korkuları var."
+  },
+  {
+    "word": "feat",
+    "meaning": "başarı, başarı öyküsü",
+    "sentence": "Climbing Mount Everest is a remarkable feat.",
+    "turkish_translation": "Everest Dağı'na tırmanmak dikkat çekici bir başarıdır."
+  },
+  {
+    "word": "feature",
+    "meaning": "özellik, nitelik",
+    "sentence": "The new smartphone has a dual-camera feature.",
+    "turkish_translation": "Yeni akıllı telefonun çift kamera özelliği var."
+  },
+  {
+    "word": "featured",
+    "meaning": "öne çıkan, özellikle yer alan",
+    "sentence": "The magazine's cover featured a famous actor.",
+    "turkish_translation": "Derginin kapağı ünlü bir aktörü öne çıkardı."
+  },
+  {
+    "word": "features",
+    "meaning": "özellikler, nitelikler",
+    "sentence": "The car's advanced features make driving comfortable.",
+    "turkish_translation": "Aracın gelişmiş özellikleri sürüşü konforlu hale getiriyor."
+  },
+  {
+    "word": "featuring",
+    "meaning": "özellikleriyle",
+    "sentence": "The album featuring various artists was a big hit.",
+    "turkish_translation": "Çeşitli sanatçıları içeren albüm büyük bir hit oldu."
+  },
+  {
+    "word": "feb",
+    "meaning": "February (şubat)",
+    "sentence": "Her birthday is in February.",
+    "turkish_translation": "Doğum günü şubatta."
+  },
+  {
+    "word": "february",
+    "meaning": "şubat",
+    "sentence": "February is the shortest month of the year.",
+    "turkish_translation": "Şubat yılın en kısa ayıdır."
+  },
+  {
+    "word": "fed",
+    "meaning": "beslenmiş, Federal Reserve System (Amerika Birleşik Devletleri Merkez Bankası Sistemi)",
+    "sentence": "The Fed plays a crucial role in the country's monetary policy.",
+    "turkish_translation": "Fed ülkenin para politikasında kritik bir rol oynar."
+  },
+  {
+    "word": "federal",
+    "meaning": "federal",
+    "sentence": "The federal government is responsible for national policies.",
+    "turkish_translation": "Federal hükümet ulusal politikalarından sorumludur."
+  },
+  {
+    "word": "federation",
+    "meaning": "federasyon",
+    "sentence": "The sports federation oversees various athletic events.",
+    "turkish_translation": "Spor federasyonu çeşitli spor etkinliklerini denetler."
+  },
+  {
+    "word": "fee",
+    "meaning": "ücret",
+    "sentence": "The membership fee is due at the beginning of each year.",
+    "turkish_translation": "Üyelik ücreti her yılın başında ödenir."
+  },
+  {
+    "word": "feed",
+    "meaning": "beslemek, yem",
+    "sentence": "She feeds her pet dog twice a day.",
+    "turkish_translation": "Evdeki köpeğini günde iki kez besler."
+  },
+  {
+    "word": "feedback",
+    "meaning": "geri bildirim",
+    "sentence": "Customer feedback helps improve the quality of products.",
+    "turkish_translation": "Müşteri geri bildirimi ürün kalitesini iyileştirmeye yardımcı olur."
+  },
+  {
+    "word": "feeding",
+    "meaning": "besleme",
+    "sentence": "The feeding of the animals takes place in the morning.",
+    "turkish_translation": "Hayvanların beslenmesi sabah yapılmaktadır."
+  },
+  {
+    "word": "feeds",
+    "meaning": "beslemeler, yemler",
+    "sentence": "The news website provides feeds on various topics.",
+    "turkish_translation": "Haber sitesi çeşitli konularda beslemeler sunar."
+  },
+  {
+    "word": "feel",
+    "meaning": "hissetmek",
+    "sentence": "I feel happy when I spend time with my friends.",
+    "turkish_translation": "Arkadaşlarımla zaman geçirdiğimde mutlu hissediyorum."
+  },
+  {
+    "word": "feeling",
+    "meaning": "hiss, duygu",
+    "sentence": "A feeling of nostalgia washed over her as she revisited her childhood home.",
+    "turkish_translation": "Çocukluk evini tekrar ziyaret ettiğinde nostalji hissi onun üzerine geldi."
+  },
+  {
+    "word": "feelings",
+    "meaning": "duygular",
+    "sentence": "His poems are a reflection of his innermost feelings.",
+    "turkish_translation": "Şiirleri içsel duygularının bir yansımasıdır."
+  },
+  {
+    "word": "feels",
+    "meaning": "hissediyor",
+    "sentence": "He feels a sense of accomplishment after completing the project.",
+    "turkish_translation": "Proje tamamlandıktan sonra bir başarı hissi yaşıyor."
+  },
+  {
+    "word": "fees",
+    "meaning": "ücretler",
+    "sentence": "The university fees have increased this year.",
+    "turkish_translation": "Üniversite ücretleri bu yıl arttı."
+  },
+  {
+    "word": "feet",
+    "meaning": "ayaklar",
+    "sentence": "He stood on his feet for hours during the concert.",
+    "turkish_translation": "Konsert boyunca saatlerce ayakta durdu."
+  },
+  {
+    "word": "fell",
+    "meaning": "düştü",
+    "sentence": "The tree branch fell during the storm.",
+    "turkish_translation": "Fırtına sırasında ağaç dalı düştü."
+  },
+  {
+    "word": "fellow",
+    "meaning": "arkadaş, dost",
+    "sentence": "He's a fellow musician and they often collaborate on projects.",
+    "turkish_translation": "O, bir arkadaş müzisyen ve genellikle projelerde işbirliği yaparlar."
+  },
+  {
+    "word": "fellowship",
+    "meaning": "topluluk, arkadaşlık",
+    "sentence": "She joined a research fellowship to work on cutting-edge projects.",
+    "turkish_translation": "Yenilikçi projeler üzerinde çalışmak için bir araştırma topluluğuna katıldı."
+  },
+  {
+    "word": "felt",
+    "meaning": "hissetti",
+    "sentence": "She felt a sense of relief after submitting her final exam.",
+    "turkish_translation": "Son sınavını teslim ettikten sonra bir rahatlama hissetti."
+  },
+  {
+    "word": "female",
+    "meaning": "dişi, kadın",
+    "sentence": "The female eagle built a nest for her eggs.",
+    "turkish_translation": "Dişi kartal yumurtaları için bir yuva inşa etti."
+  },
+  {
+    "word": "females",
+    "meaning": "dişiler, kadınlar",
+    "sentence": "The study focused on the behavior of female chimpanzees.",
+    "turkish_translation": "Çalışma, dişi şempanzelerin davranışına odaklandı."
+  },
+  {
+    "word": "fence",
+    "meaning": "çit, parmaklık",
+    "sentence": "They installed a new fence around their backyard.",
+    "turkish_translation": "Arka bahçelerine yeni bir çit kurdular."
+  },
+  {
+    "word": "feof",
+    "meaning": "File End Of Flag (Dosya Sonu Bayrağı)",
+    "sentence": "The Feof function is used to detect the end of a file in programming.",
+    "turkish_translation": "Feof işlevi, programlamada bir dosyanın sonunu tespit etmek için kullanılır."
+  },
+  {
+    "word": "ferrari",
+    "meaning": "Ferrari (bir otomobil markası)",
+    "sentence": "He dreamt of owning a Ferrari since he was a child.",
+    "turkish_translation": "Çocukluğundan beri bir Ferrari sahibi olmayı hayal etti."
+  },
+  {
+    "word": "ferry",
+    "meaning": "feribot",
+    "sentence": "They took a ferry to the nearby island for a day trip.",
+    "turkish_translation": "Yakındaki adaya günübirlik gezi için feribota bindiler."
+  },
+  {
+    "word": "festival",
+    "meaning": "festival",
+    "sentence": "The city hosts an annual music festival.",
+    "turkish_translation": "Şehir yıllık bir müzik festivaline ev sahipliği yapıyor."
+  },
+  {
+    "word": "festivals",
+    "meaning": "festivaller",
+    "sentence": "Summer is a season full of outdoor festivals.",
+    "turkish_translation": "Yaz, açık hava festivalleriyle dolu bir mevsimdir."
+  },
+  {
+    "word": "fetish",
+    "meaning": "fetiş",
+    "sentence": "Different people have different fetishes and preferences.",
+    "turkish_translation": "Farklı insanların farklı fetişleri ve tercihleri vardır."
+  },
+  {
+    "word": "fever",
+    "meaning": "ateş, ateşlenme",
+    "sentence": "She had a high fever and needed to rest.",
+    "turkish_translation": "Yüksek ateşi vardı ve dinlenmeye ihtiyacı vardı."
+  },
+  {
+    "word": "few",
+    "meaning": "birkaç, az",
+    "sentence": "There are only a few apples left in the basket.",
+    "turkish_translation": "Sepette sadece birkaç elma kaldı."
+  },
+  {
+    "word": "fewer",
+    "meaning": "daha az",
+    "sentence": "There are fewer people attending the event this year.",
+    "turkish_translation": "Bu yıl etkinliğe daha az kişi katılıyor."
+  },
+  {
+    "word": "ff",
+    "meaning": "following, following (takiben)",
+    "sentence": "Please refer to the guidelines in section FF for further information.",
+    "turkish_translation": "Daha fazla bilgi için lütfen FF bölümündeki kurallara bakınız."
+  },
+  {
+    "word": "fg",
+    "meaning": "Field Goal (Amerikan futbolu ve basketbolda saha golü)",
+    "sentence": "The team scored a FG in the final seconds of the game.",
+    "turkish_translation": "Takım, oyunun son saniyelerinde saha golü attı."
+  },
+  {
+    "word": "fi",
+    "meaning": "Finnish (Fince dilinden gelen kısaltma)",
+    "sentence": "The airline's website is available in multiple languages, including FI.",
+    "turkish_translation": "Havayolu şirketinin web sitesi FI dahil olmak üzere çeşitli dillerde mevcuttur."
+  },
+  {
+    "word": "fiber",
+    "meaning": "fiber",
+    "sentence": "A diet rich in fiber is good for digestive health.",
+    "turkish_translation": "Lif bakımından zengin bir diyet sindirim sağlığı için iyidir."
+  },
+  {
+    "word": "fibre",
+    "meaning": "fiber",
+    "sentence": "Dietary fibre can help regulate bowel movements.",
+    "turkish_translation": "Diyet lifi bağırsak hareketlerini düzenlemeye yardımcı olabilir."
+  },
+  {
+    "word": "fiction",
+    "meaning": "kurgu, roman",
+    "sentence": "She enjoys reading science fiction novels.",
+    "turkish_translation": "Bilim kurgu romanları okumaktan hoşlanıyor."
+  },
+  {
+    "word": "field",
+    "meaning": "alan, saha",
+    "sentence": "The soccer match took place on a large field.",
+    "turkish_translation": "Futbol maçı geniş bir sahada gerçekleşti."
+  },
+  {
+    "word": "fields",
+    "meaning": "alanlar, sahalar",
+    "sentence": "The farmer planted different crops in various fields.",
+    "turkish_translation": "Çiftçi farklı ürünleri çeşitli alanlara ekmişti."
+  },
+  {
+    "word": "fifteen",
+    "meaning": "on beş",
+    "sentence": "She turned fifteen years old last week.",
+    "turkish_translation": "Geçen hafta on beş yaşına girdi."
+  },
+  {
+    "word": "fifth",
+    "meaning": "beşinci",
+    "sentence": "The fifth chapter of the book is particularly interesting.",
+    "turkish_translation": "Kitabın beşinci bölümü özellikle ilginç."
+  },
+  {
+    "word": "fifty",
+    "meaning": "elli",
+    "sentence": "He celebrated his fiftieth birthday with a big party.",
+    "turkish_translation": "Elli yaşını büyük bir partiyle kutladı."
+  },
+  {
+    "word": "fig",
+    "meaning": "incir",
+    "sentence": "The fig tree in their garden produces delicious fruits.",
+    "turkish_translation": "Bahçelerindeki incir ağacı lezzetli meyveler üretiyor."
+  },
+  {
+    "word": "fight",
+    "meaning": "kavga etmek, savaşmak",
+    "sentence": "They had a fight over a misunderstanding.",
+    "turkish_translation": "Bir yanlış anlama nedeniyle kavga ettiler."
+  },
+  {
+    "word": "fighter",
+    "meaning": "dövüşçü, savaşçı",
+    "sentence": "He's a skilled fighter with years of training.",
+    "turkish_translation": "Yılların eğitimiyle yetenekli bir dövüşçüdür."
+  },
+  {
+    "word": "fighters",
+    "meaning": "dövüşçüler, savaşçılar",
+    "sentence": "The tournament featured some of the best fighters in the world.",
+    "turkish_translation": "Turnuva dünyanın en iyi dövüşçülerini içeriyordu."
+  },
+  {
+    "word": "fighting",
+    "meaning": "kavga etme, savaşma",
+    "sentence": "The soldiers were engaged in fierce fighting on the battlefield.",
+    "turkish_translation": "Askerler savaş alanında şiddetli çatışmalara girdiler."
+  },
+  {
+    "word": "figure",
+    "meaning": "şekil, rakam, figür",
+    "sentence": "She drew a detailed figure of a bird in her art class.",
+    "turkish_translation": "Sanat dersinde kuşun detaylı bir şeklini çizdi."
+  },
+  {
+    "word": "figured",
+    "meaning": "hesaplandı, düşünüldü",
+    "sentence": "He figured out a solution to the complex problem.",
+    "turkish_translation": "Karmaşık problemin bir çözümünü hesapladı."
+  },
+  {
+    "word": "figures",
+    "meaning": "şekiller, rakamlar, figürler",
+    "sentence": "The report included various charts and figures.",
+    "turkish_translation": "Rapor çeşitli grafikler ve rakamlar içeriyordu."
+  },
+  {
+    "word": "fiji",
+    "meaning": "Fiji (bir ada ülkesi)",
+    "sentence": "They went on a vacation to Fiji to enjoy the beaches.",
+    "turkish_translation": "Plajların tadını çıkarmak için Fij'e tatile gittiler."
+  },
+  {
+    "word": "file",
+    "meaning": "dosya",
+    "sentence": "Please save the document as a PDF file.",
+    "turkish_translation": "Lütfen belgeyi PDF dosyası olarak kaydedin."
+  },
+  {
+    "word": "filed",
+    "meaning": "sunulmuş, dosyalanmış",
+    "sentence": "The lawsuit was filed in the local court.",
+    "turkish_translation": "Dava yerel mahkemeye sunuldu."
+  },
+  {
+    "word": "filename",
+    "meaning": "dosya adı",
+    "sentence": "Make sure to choose a meaningful filename for your project.",
+    "turkish_translation": "Projeniz için anlamlı bir dosya adı seçtiğinizden emin olun."
+  },
+  {
+    "word": "files",
+    "meaning": "dosyalar",
+    "sentence": "The files are organized in folders for easy access.",
+    "turkish_translation": "Dosyalar kolay erişim için klasörlerde düzenlenmiştir."
+  },
+  {
+    "word": "filing",
+    "meaning": "dosyalama",
+    "sentence": "She spent the afternoon doing paperwork and filing documents.",
+    "turkish_translation": "Öğleden sonra evrak işleriyle uğraşıp belgeleri dosyaladı."
+  },
+  {
+    "word": "fill",
+    "meaning": "doldurmak",
+    "sentence": "Please fill out the form with your personal information.",
+    "turkish_translation": "Lütfen formu kişisel bilgilerinizle doldurun."
+  },
+  {
+    "word": "filled",
+    "meaning": "dolu, dolu",
+    "sentence": "The stadium was filled with excited fans.",
+    "turkish_translation": "Stadyum heyecanlı hayranlarla doluydu."
+  },
+  {
+    "word": "filling",
+    "meaning": "dolgu",
+    "sentence": "The cake had a delicious cream filling.",
+    "turkish_translation": "Kekin lezzetli bir krema dolgusu vardı."
+  },
+  {
+    "word": "film",
+    "meaning": "film",
+    "sentence": "They went to the cinema to watch the latest film.",
+    "turkish_translation": "En yeni filmi izlemek için sinemaya gittiler."
+  },
+  {
+    "word": "filme",
+    "meaning": "Filme (Brezilya kent adı)",
+    "sentence": "She traveled to Filme to visit her relatives.",
+    "turkish_translation": "Akrabalarını ziyaret etmek için Filme'ye seyahat etti."
+  },
+  {
+    "word": "films",
+    "meaning": "filmler",
+    "sentence": "The film festival showcased a variety of international films.",
+    "turkish_translation": "Film festivali çeşitli uluslararası filmleri sergiledi."
+  },
+  {
+    "word": "filter",
+    "meaning": "filtrelemek",
+    "sentence": "You can use a filter to enhance the colors in your photos.",
+    "turkish_translation": "Fotoğraflarınızdaki renkleri artırmak için bir filtre kullanabilirsiniz."
+  },
+  {
+    "word": "filtering",
+    "meaning": "filtreleme",
+    "sentence": "The software allows for advanced filtering of search results.",
+    "turkish_translation": "Yazılım, arama sonuçlarının gelişmiş filtrelemesine olanak tanır."
+  },
+  {
+    "word": "filters",
+    "meaning": "filtreler",
+    "sentence": "The camera app offers a range of creative filters.",
+    "turkish_translation": "Kamera uygulaması çeşitli yaratıcı filtreler sunar."
+  },
+  {
+    "word": "fin",
+    "meaning": "yüzgeç",
+    "sentence": "The dolphin gracefully moved its fin through the water.",
+    "turkish_translation": "Yunus zarifçe yüzgecini suya salladı."
+  },
+  {
+    "word": "final",
+    "meaning": "son, nihai",
+    "sentence": "This is the final version of the project.",
+    "turkish_translation": "Bu proje, son versiyonudur."
+  },
+  {
+    "word": "finally",
+    "meaning": "sonunda, nihayetinde",
+    "sentence": "After hours of hard work, they finally completed the puzzle.",
+    "turkish_translation": "Saatlerce süren zorlu çalışmanın ardından nihayet bulmacayı tamamladılar."
+  },
+  {
+    "word": "finals",
+    "meaning": "final sınavları",
+    "sentence": "She's studying hard for her upcoming finals.",
+    "turkish_translation": "Yaklaşan final sınavları için sıkı çalışıyor."
+  },
+  {
+    "word": "finance",
+    "meaning": "finans, maliye",
+    "sentence": "He works in the field of finance, managing investments.",
+    "turkish_translation": "Yatırımları yöneten finans alanında çalışıyor."
+  },
+  {
+    "word": "finances",
+    "meaning": "finans, mali durum",
+    "sentence": "They are carefully managing their personal finances.",
+    "turkish_translation": "Kişisel finanslarını dikkatli bir şekilde yönetiyorlar."
+  },
+  {
+    "word": "financial",
+    "meaning": "finansal, mali",
+    "sentence": "The company released its financial report for the last quarter.",
+    "turkish_translation": "Şirket geçen çeyrek için finansal raporunu yayınladı."
+  },
+  {
+    "word": "financing",
+    "meaning": "finansman",
+    "sentence": "They secured financing for their new business venture.",
+    "turkish_translation": "Yeni iş girişimleri için finansman sağladılar."
+  },
+  {
+    "word": "find",
+    "meaning": "bulmak",
+    "sentence": "She managed to find her lost keys.",
+    "turkish_translation": "Kaybettiği anahtarlarını bulmayı başardı."
+  },
+  {
+    "word": "findarticles",
+    "meaning": "makaleleri bulmak",
+    "sentence": "The online platform helps users find articles on various topics.",
+    "turkish_translation": "Çevrimiçi platform, kullanıcıların çeşitli konularda makaleler bulmalarına yardımcı olur."
+  },
+  {
+    "word": "finder",
+    "meaning": "bulucu, arayıcı",
+    "sentence": "The metal detector is a useful finder for hidden treasures.",
+    "turkish_translation": "Metal dedektörü, gizli hazineleri bulmak için kullanışlı bir arayıcıdır."
+  },
+  {
+    "word": "finding",
+    "meaning": "bulgu, sonuç",
+    "sentence": "The scientist was excited about the new finding in their research.",
+    "turkish_translation": "Bilim adamı, araştırmalarındaki yeni bulgudan heyecanlıydı."
+  },
+  {
+    "word": "findings",
+    "meaning": "bulgular, sonuçlar",
+    "sentence": "The study's findings were published in a scientific journal.",
+    "turkish_translation": "Çalışmanın bulguları bir bilimsel dergide yayımlandı."
+  },
+  {
+    "word": "findlaw",
+    "meaning": "hukuki bilgileri bulmak",
+    "sentence": "The website is a useful tool for people looking to findlaw information.",
+    "turkish_translation": "Web sitesi, hukuki bilgi arayanlar için kullanışlı bir araçtır."
+  },
+  {
+    "word": "finds",
+    "meaning": "bulur",
+    "sentence": "She often finds interesting books at the local bookstore.",
+    "turkish_translation": "Genellikle yerel kitapçıda ilginç kitaplar bulur."
+  },
+  {
+    "word": "fine",
+    "meaning": "iyi, güzel, para cezası",
+    "sentence": "The weather is fine today, perfect for a picnic.",
+    "turkish_translation": "Hava bugün güzel, piknik için mükemmel."
+  },
+  {
+    "word": "finest",
+    "meaning": "en iyi, en kaliteli",
+    "sentence": "They serve some of the finest cuisine in the city.",
+    "turkish_translation": "Şehirde en kaliteli yemekleri sunuyorlar."
+  },
+  {
+    "word": "finger",
+    "meaning": "parmak",
+    "sentence": "She accidentally cut her finger while chopping vegetables.",
+    "turkish_translation": "Sebzeleri doğrarken kazara parmağını kesti."
+  },
+  {
+    "word": "fingering",
+    "meaning": "parmakla çalma",
+    "sentence": "He's learning the technique of fingering on the piano.",
+    "turkish_translation": "Piyano üzerinde parmakla çalma tekniğini öğreniyor."
+  },
+  {
+    "word": "fingers",
+    "meaning": "parmaklar",
+    "sentence": "She counted on her fingers to solve the math problem.",
+    "turkish_translation": "Matematik problemi çözmek için parmaklarıyla saydı."
+  },
+  {
+    "word": "finish",
+    "meaning": "bitirmek, sonlandırmak",
+    "sentence": "He plans to finish his novel by the end of the month.",
+    "turkish_translation": "Romanını ay sonuna kadar bitirmeyi planlıyor."
+  },
+  {
+    "word": "finished",
+    "meaning": "bitmiş, tamamlanmış",
+    "sentence": "The construction project is finally finished.",
+    "turkish_translation": "İnşaat projesi nihayet tamamlandı."
+  },
+  {
+    "word": "finishing",
+    "meaning": "bitirme, tamamlama",
+    "sentence": "The finishing touches were added to the artwork.",
+    "turkish_translation": "Sanat eserine son dokunuşlar yapıldı."
+  },
+  {
+    "word": "finite",
+    "meaning": "sonlu",
+    "sentence": "The universe is vast, but it's not infinite; it's finite.",
+    "turkish_translation": "Evren geniş, ancak sonsuz değil; sonlu."
+  },
+  {
+    "word": "finland",
+    "meaning": "Finlandiya (bir ülke adı)",
+    "sentence": "She traveled to Finland to experience the northern lights.",
+    "turkish_translation": "Kuzey ışıklarını deneyimlemek için Finlandiya'ya seyahat etti."
+  },
+  {
+    "word": "finnish",
+    "meaning": "Fince (dilinden gelen ad)",
+    "sentence": "He's learning to speak Finnish before his trip to Finland.",
+    "turkish_translation": "Finlandiya seyahati öncesinde Fince konuşmayı öğreniyor."
+  },
+  {
+    "word": "fioricet",
+    "meaning": "Fioricet (bir ilaç adı)",
+    "sentence": "She took Fioricet to relieve her migraine headache.",
+    "turkish_translation": "Migren ağrısını hafifletmek için Fioricet aldı."
+  },
+  {
+    "word": "fire",
+    "meaning": "ateş, yangın",
+    "sentence": "The campfire provided warmth on the chilly night.",
+    "turkish_translation": "Kamp ateşi soğuk gecede sıcaklık sağladı."
+  },
+  {
+    "word": "fired",
+    "meaning": "işten çıkarılmış",
+    "sentence": "He was fired from his job due to budget cuts.",
+    "turkish_translation": "Bütçe kesintileri nedeniyle işten çıkarıldı."
+  },
+  {
+    "word": "firefox",
+    "meaning": "Firefox (bir web tarayıcısı adı)",
+    "sentence": "Many users prefer using Firefox as their web browser.",
+    "turkish_translation": "Birçok kullanıcı web tarayıcıları olarak Firefox'u tercih ediyor."
+  },
+  {
+    "word": "fireplace",
+    "meaning": "şömine",
+    "sentence": "They gathered around the fireplace to stay warm.",
+    "turkish_translation": "Isınmak için şöminenin etrafında toplandılar."
+  },
+  {
+    "word": "fires",
+    "meaning": "yangınlar",
+    "sentence": "The firefighters worked tirelessly to control the raging fires.",
+    "turkish_translation": "İtfaiyeciler alev alan yangınları kontrol altına almak için çaba gösterdiler."
+  },
+  {
+    "word": "firewall",
+    "meaning": "güvenlik duvarı",
+    "sentence": "A firewall helps protect your computer from online threats.",
+    "turkish_translation": "Bir güvenlik duvarı, bilgisayarınızı çevrimiçi tehditlere karşı korumaya yardımcı olur."
+  },
+  {
+    "word": "firewire",
+    "meaning": "FireWire (bir veri transfer teknolojisi adı)",
+    "sentence": "FireWire is commonly used to connect devices like cameras to computers.",
+    "turkish_translation": "FireWire genellikle kameraları bilgisayarlara bağlamak için kullanılır."
+  },
+  {
+    "word": "firm",
+    "meaning": "firma, sıkı",
+    "sentence": "She works for a law firm in the city.",
+    "turkish_translation": "Şehirde bir hukuk firmasında çalışıyor."
+  },
+  {
+    "word": "firms",
+    "meaning": "firmalar, şirketler",
+    "sentence": "There are many technology firms in Silicon Valley.",
+    "turkish_translation": "Silikon Vadisi'nde birçok teknoloji firması bulunmaktadır."
+  },
+  {
+    "word": "firmware",
+    "meaning": "yazılım",
+    "sentence": "Make sure to update your device's firmware regularly.",
+    "turkish_translation": "Cihazınızın yazılımını düzenli olarak güncellediğinizden emin olun."
+  },
+  {
+    "word": "first",
+    "meaning": "ilk",
+    "sentence": "This is the first time they've visited this city.",
+    "turkish_translation": "Bu şehri ziyaret ettikleri ilk kez."
+  },
+  {
+    "word": "fiscal",
+    "meaning": "mali, maliye",
+    "sentence": "The company is reviewing its fiscal year-end financial statements.",
+    "turkish_translation": "Şirket mali yıl sonu finansal tablolarını gözden geçiriyor."
+  },
+  {
+    "word": "fish",
+    "meaning": "balık",
+    "sentence": "He enjoys fishing by the lake on weekends.",
+    "turkish_translation": "Hafta sonları gölde balık tutmaktan hoşlanır."
+  },
+  {
+    "word": "fisher",
+    "meaning": "balıkçı",
+    "sentence": "The fisher set out early in the morning to catch fresh fish.",
+    "turkish_translation": "Balıkçı sabahın erken saatlerinde taze balık yakalamak için yola çıktı."
+  },
+  {
+    "word": "fisheries",
+    "meaning": "balıkçılık, su ürünleri",
+    "sentence": "The region is known for its thriving fisheries industry.",
+    "turkish_translation": "Bölge, canlı balıkçılık endüstrisiyle tanınır."
+  },
+  {
+    "word": "fishing",
+    "meaning": "balık tutma, avcılık",
+    "sentence": "They spent the afternoon fishing on the riverbank.",
+    "turkish_translation": "Öğleden sonra nehir kenarında balık tutarak geçirdiler."
+  },
+  {
+    "word": "fist",
+    "meaning": "yumruk",
+    "sentence": "He clenched his fist in frustration.",
+    "turkish_translation": "Frustrasyonla yumruğunu sıktı."
+  },
+  {
+    "word": "fisting",
+    "meaning": "fisting (cinsel içerikli terim)",
+    "sentence": "Please note that 'fisting' is a term that may be explicit in nature.",
+    "turkish_translation": "'Fisting' teriminin açıklayıcı bir içeriği olabileceğini lütfen unutmayın."
+  },
+  {
+    "word": "fit",
+    "meaning": "uygun, formda olmak",
+    "sentence": "The dress is a perfect fit for her.",
+    "turkish_translation": "Elbise ona mükemmel uyuyor."
+  },
+  {
+    "word": "fitness",
+    "meaning": "form, fitness",
+    "sentence": "He goes to the gym regularly to improve his fitness.",
+    "turkish_translation": "Formunu iyileştirmek için düzenli olarak spor salonuna gider."
+  },
+  {
+    "word": "fits",
+    "meaning": "uyar, uymak",
+    "sentence": "The puzzle piece fits perfectly into the empty space.",
+    "turkish_translation": "Bulmaca parçası boşluğa mükemmel bir şekilde uyar."
+  },
+  {
+    "word": "fitted",
+    "meaning": "uygun, oturtulmuş",
+    "sentence": "The tailor fitted the suit to his measurements.",
+    "turkish_translation": "Terzi takımı ölçülerine göre oturttu."
+  },
+  {
+    "word": "fitting",
+    "meaning": "uygun, oturan, montaj",
+    "sentence": "The new curtains are a fitting addition to the room.",
+    "turkish_translation": "Yeni perdeler odada uygun bir ek."
+  },
+  {
+    "word": "five",
+    "meaning": "beş",
+    "sentence": "She has five siblings in her family.",
+    "turkish_translation": "Ailesinde beş kardeşi var."
+  },
+  {
+    "word": "fix",
+    "meaning": "tamir etmek, düzeltmek",
+    "sentence": "He will fix the broken chair in the workshop.",
+    "turkish_translation": "Kırık sandalyeyi atölyede tamir edecek."
+  },
+  {
+    "word": "fixed",
+    "meaning": "sabit, belirli",
+    "sentence": "The schedule is fixed and cannot be changed.",
+    "turkish_translation": "Program sabit ve değiştirilemez."
+  },
+  {
+    "word": "fixes",
+    "meaning": "tamir eder, düzeltir",
+    "sentence": "The software developer regularly releases updates that fix bugs.",
+    "turkish_translation": "Yazılım geliştiricisi düzenli olarak hataları düzelten güncellemeler yayınlıyor."
+  },
+  {
+    "word": "fixtures",
+    "meaning": "armatürler, tesisat",
+    "sentence": "The bathroom fixtures were all modern and stylish.",
+    "turkish_translation": "Banyo armatürleri hepsi modern ve şıktı."
+  },
+  {
+    "word": "fl",
+    "meaning": "Florida (eyalet kısaltması)",
+    "sentence": "They're planning a trip to FL to enjoy the sunny beaches.",
+    "turkish_translation": "Güneşli plajların tadını çıkarmak için FL'a bir gezi planlıyorlar."
+  },
+  {
+    "word": "fla",
+    "meaning": "Flash Animation (Flash animasyonu)",
+    "sentence": "He's skilled at creating interactive content using FLA files.",
+    "turkish_translation": "FLA dosyalarını kullanarak etkileşimli içerik oluşturmak konusunda yeteneklidir."
+  },
+  {
+    "word": "flag",
+    "meaning": "bayrak",
+    "sentence": "They raised the national flag during the ceremony.",
+    "turkish_translation": "Tören sırasında ulusal bayrağı çektiler."
+  },
+  {
+    "word": "flags",
+    "meaning": "bayraklar, işaretler",
+    "sentence": "The parade featured flags from various countries.",
+    "turkish_translation": "Geçit töreni çeşitli ülkelerin bayraklarını içeriyordu."
+  },
+  {
+    "word": "flame",
+    "meaning": "alev",
+    "sentence": "The flame of the candle flickered in the breeze.",
+    "turkish_translation": "Mumun alevi rüzgarda titredi."
+  },
+  {
+    "word": "flash",
+    "meaning": "parlamak, flaş",
+    "sentence": "The lightning flashed across the dark sky.",
+    "turkish_translation": "Şimşek karanlık gökyüzünde parladı."
+  },
+  {
+    "word": "flashers",
+    "meaning": "uyarı lambaları",
+    "sentence": "The hazard flashers were activated on the roadside.",
+    "turkish_translation": "Tehlike uyarı lambaları yol kenarında aktif edildi."
+  },
+  {
+    "word": "flashing",
+    "meaning": "parlama, flaş",
+    "sentence": "The flashing lights indicated an emergency situation.",
+    "turkish_translation": "Parlayan ışıklar acil bir durumu işaret ediyordu."
+  },
+  {
+    "word": "flat",
+    "meaning": "düz, daire",
+    "sentence": "They live in a cozy flat in the heart of the city.",
+    "turkish_translation": "Şehrin merkezinde hoş bir dairede yaşıyorlar."
+  },
+  {
+    "word": "flavor",
+    "meaning": "tat, lezzet",
+    "sentence": "The ice cream comes in a variety of flavors.",
+    "turkish_translation": "Dondurma çeşitli tatlarla geliyor."
+  },
+  {
+    "word": "fleece",
+    "meaning": "külot kumaşı, yün",
+    "sentence": "He wore a soft fleece jacket to stay warm.",
+    "turkish_translation": "Isınmak için yumuşak bir polar ceket giydi."
+  },
+  {
+    "word": "fleet",
+    "meaning": "filo, donanma",
+    "sentence": "The shipping company has a large fleet of trucks.",
+    "turkish_translation": "Nakliye şirketinin büyük bir kamyon filosu var."
+  },
+  {
+    "word": "flesh",
+    "meaning": "et, et kısmı",
+    "sentence": "The meat was tender and juicy, with a rich flavor.",
+    "turkish_translation": "Et yumuşak ve sulu, zengin bir tada sahipti."
+  },
+  {
+    "word": "flex",
+    "meaning": "esneklik, esnetmek",
+    "sentence": "The yoga instructor emphasized the importance of flexibility.",
+    "turkish_translation": "Yoga eğitmeni esnekliğin önemine vurgu yaptı."
+  },
+  {
+    "word": "flexibility",
+    "meaning": "esneklik",
+    "sentence": "Regular stretching exercises can improve flexibility.",
+    "turkish_translation": "Düzenli esneme egzersizleri esnekliği artırabilir."
+  },
+  {
+    "word": "flexible",
+    "meaning": "esnek",
+    "sentence": "The material is flexible and can be easily molded.",
+    "turkish_translation": "Malzeme esnek ve kolayca şekil verilebilir."
+  },
+  {
+    "word": "flickr",
+    "meaning": "Flickr (bir fotoğraf paylaşım platformu adı)",
+    "sentence": "She often shares her travel photos on Flickr.",
+    "turkish_translation": "Seyahat fotoğraflarını sıkça Flickr'da paylaşıyor."
+  },
+  {
+    "word": "flight",
+    "meaning": "uçuş",
+    "sentence": "Their flight to Paris was delayed due to bad weather.",
+    "turkish_translation": "Paris'e olan uçuşları kötü hava nedeniyle gecikti."
+  },
+  {
+    "word": "flights",
+    "meaning": "uçuşlar",
+    "sentence": "There are multiple daily flights to New York from this airport.",
+    "turkish_translation": "Bu havalimanından New York'a günlük çok sayıda uçuş var."
+  },
+  {
+    "word": "flip",
+    "meaning": "ters çevirmek, atlamak",
+    "sentence": "She used a spatula to flip the pancakes in the pan.",
+    "turkish_translation": "Tavada pancakeleri çevirmek için spatula kullandı."
+  },
+  {
+    "word": "float",
+    "meaning": "yüzmek, batmadan durmak",
+    "sentence": "The boat began to float on the calm water.",
+    "turkish_translation": "Tekne sakin suda yüzmeye başladı."
+  },
+  {
+    "word": "floating",
+    "meaning": "yüzen",
+    "sentence": "They built a floating platform on the lake for sunbathing.",
+    "turkish_translation": "Güneşlenmek için göle yüzen bir platform inşa ettiler."
+  },
+  {
+    "word": "flood",
+    "meaning": "sel, su baskını",
+    "sentence": "The heavy rain caused a flood in the low-lying areas.",
+    "turkish_translation": "Yoğun yağmur alçak bölgelerde sel baskınına neden oldu."
+  },
+  {
+    "word": "floor",
+    "meaning": "zemin, kat",
+    "sentence": "The living room is on the first floor of the house.",
+    "turkish_translation": "Oturma odası evin birinci katındadır."
+  },
+  {
+    "word": "flooring",
+    "meaning": "zemin kaplaması",
+    "sentence": "They installed hardwood flooring in the entire house.",
+    "turkish_translation": "Tüm evin zeminine sert ahşap döşeme yerleştirdiler."
+  },
+  {
+    "word": "floors",
+    "meaning": "katlar, zeminler",
+    "sentence": "The office building has multiple floors with different businesses.",
+    "turkish_translation": "Ofis binasında farklı işletmelere sahip birden fazla kat bulunmaktadır."
+  },
+  {
+    "word": "floppy",
+    "meaning": "flopi disk, esnek disk",
+    "sentence": "Floppy disks were widely used for data storage in the past.",
+    "turkish_translation": "Flopi diskler geçmişte veri depolamak için yaygın olarak kullanıldı."
+  },
+  {
+    "word": "floral",
+    "meaning": "çiçek desenli",
+    "sentence": "She wore a beautiful floral dress to the garden party.",
+    "turkish_translation": "Bahçe partisine güzel bir çiçek desenli elbise giydi."
+  },
+  {
+    "word": "florence",
+    "meaning": "Floransa (bir şehir adı)",
+    "sentence": "They spent their vacation exploring the historic streets of Florence.",
+    "turkish_translation": "Tatillerini Floransa'nın tarihi sokaklarını keşfederek geçirdiler."
+  },
+  {
+    "word": "florida",
+    "meaning": "Florida (bir eyalet adı)",
+    "sentence": "They visited Florida to enjoy the sunny beaches and warm climate.",
+    "turkish_translation": "Sıcak plajların ve sıcak iklimin tadını çıkarmak için Florida'yı ziyaret ettiler."
+  },
+  {
+    "word": "florist",
+    "meaning": "çiçekçi",
+    "sentence": "She bought a bouquet of roses from the local florist.",
+    "turkish_translation": "Yerel çiçekçiden gül buketi satın aldı."
+  },
+  {
+    "word": "florists",
+    "meaning": "çiçekçiler",
+    "sentence": "The street was lined with colorful flower shops and florists.",
+    "turkish_translation": "Sokak renkli çiçek dükkanları ve çiçekçilerle doluydu."
+  },
+  {
+    "word": "flour",
+    "meaning": "un",
+    "sentence": "She used flour to make the dough for the bread.",
+    "turkish_translation": "Ekmeğin hamurunu yapmak için un kullandı."
+  },
+  {
+    "word": "flow",
+    "meaning": "akış, akmak",
+    "sentence": "The river's flow was calm and gentle.",
+    "turkish_translation": "Nehir akışı sakin ve nazikti."
+  },
+  {
+    "word": "flower",
+    "meaning": "çiçek",
+    "sentence": "She received a bouquet of beautiful flowers for her birthday.",
+    "turkish_translation": "Doğum günü için güzel çiçek buketi aldı."
+  },
+  {
+    "word": "flowers",
+    "meaning": "çiçekler",
+    "sentence": "The garden is filled with colorful flowers of all kinds.",
+    "turkish_translation": "Bahçe çeşitli türlerde renkli çiçeklerle dolu."
+  },
+  {
+    "word": "flows",
+    "meaning": "akar, akış",
+    "sentence": "The river flows gently through the valley.",
+    "turkish_translation": "Nehir vadiden nazikçe akar."
+  },
+  {
+    "word": "floyd",
+    "meaning": "Floyd (bir isim)",
+    "sentence": "His name is Floyd and he's an accomplished musician.",
+    "turkish_translation": "Adı Floyd ve başarılı bir müzisyen."
+  },
+  {
+    "word": "flu",
+    "meaning": "grip",
+    "sentence": "She caught the flu and had to stay in bed for a few days.",
+    "turkish_translation": "Gribi kapdı ve birkaç gün boyunca yatakta kalmak zorunda kaldı."
+  },
+  {
+    "word": "fluid",
+    "meaning": "akışkan, sıvı",
+    "sentence": "The fluid in the bottle was clear and odorless.",
+    "turkish_translation": "Şişedeki sıvı berrak ve kokusuzdu."
+  },
+  {
+    "word": "flush",
+    "meaning": "sifon, yüz vermek",
+    "sentence": "She pulled the flush to clean the toilet.",
+    "turkish_translation": "Tuvaleti temizlemek için sifonu çekti."
+  },
+  {
+    "word": "flux",
+    "meaning": "akış, değişim",
+    "sentence": "The flux of information is constant in the digital age.",
+    "turkish_translation": "Bilgi akışı dijital çağda sürekli olarak devam ediyor."
+  },
+  {
+    "word": "fly",
+    "meaning": "uçmak, sinek",
+    "sentence": "The birds fly high in the sky.",
+    "turkish_translation": "Kuşlar gökyüzünde yüksekte uçarlar."
+  },
+  {
+    "word": "flyer",
+    "meaning": "el ilanı, uçak",
+    "sentence": "She designed a flyer to promote the upcoming event.",
+    "turkish_translation": "Yaklaşan etkinliği tanıtmak için bir el ilanı tasarladı."
+  },
+  {
+    "word": "flying",
+    "meaning": "uçan, uçma",
+    "sentence": "He has a fear of flying on airplanes.",
+    "turkish_translation": "Uçaklarda uçmaktan korkuyor."
+  },
+  {
+    "word": "fm",
+    "meaning": "Frequency Modulation (frekans modülasyonu)",
+    "sentence": "FM radio stations offer a wide range of music.",
+    "turkish_translation": "FM radyo istasyonları geniş bir müzik yelpazesi sunar."
+  },
+  {
+    "word": "fo",
+    "meaning": "Faroe Islands (Faroe Adaları)",
+    "sentence": "They visited the Fo to experience its unique culture.",
+    "turkish_translation": "Benzersiz kültürünü deneyimlemek için Faroe Adaları'nı ziyaret ettiler."
+  },
+  {
+    "word": "foam",
+    "meaning": "köpük",
+    "sentence": "The waves crashed against the rocks, creating foam.",
+    "turkish_translation": "Dalgalar kayalara çarparak köpük oluşturdu."
+  },
+  {
+    "word": "focal",
+    "meaning": "odak, merkez",
+    "sentence": "The focal point of the painting is the woman's eyes.",
+    "turkish_translation": "Tablonun odak noktası kadının gözleri."
+  },
+  {
+    "word": "focus",
+    "meaning": "odaklanmak, odak",
+    "sentence": "She needs to focus on her studies for the upcoming exam.",
+    "turkish_translation": "Yaklaşan sınav için çalışmalarına odaklanması gerekiyor."
+  },
+  {
+    "word": "focused",
+    "meaning": "odaklanmış",
+    "sentence": "He was focused and determined to finish the project on time.",
+    "turkish_translation": "Projeyi zamanında bitirmek için odaklanmış ve kararlıydı."
+  },
+  {
+    "word": "focuses",
+    "meaning": "odaklanır, odaklar",
+    "sentence": "The presentation focuses on the key aspects of the topic.",
+    "turkish_translation": "Sunum, konunun temel yönlerine odaklanıyor."
+  },
+  {
+    "word": "focusing",
+    "meaning": "odaklanma",
+    "sentence": "She's practicing focusing her attention during meditation.",
+    "turkish_translation": "Meditasyon sırasında dikkatini odaklamayı çalışıyor."
+  },
+  {
+    "word": "fog",
+    "meaning": "sis",
+    "sentence": "The fog reduced visibility on the road.",
+    "turkish_translation": "Sis yol görüşünü azalttı."
+  },
+  {
+    "word": "fold",
+    "meaning": "katlamak, kıvrım",
+    "sentence": "She taught him how to fold origami paper into animals.",
+    "turkish_translation": "Ona origami kağıdını hayvanlara katlamayı öğretti."
+  },
+  {
+    "word": "folder",
+    "meaning": "klasör, dosya",
+    "sentence": "She organized her documents in a neat folder on her computer.",
+    "turkish_translation": "Belgelerini bilgisayarındaki düzenli bir klasöre yerleştirdi."
+  },
+  {
+    "word": "folders",
+    "meaning": "klasörler, dosyalar",
+    "sentence": "The important files are stored in separate folders.",
+    "turkish_translation": "Önemli dosyalar ayrı klasörlerde saklanıyor."
+  },
+  {
+    "word": "folding",
+    "meaning": "katlama",
+    "sentence": "The folding table can be easily stored when not in use.",
+    "turkish_translation": "Katlanabilir masa kullanılmadığında kolayca saklanabilir."
+  },
+  {
+    "word": "folk",
+    "meaning": "halk, halk müziği",
+    "sentence": "The festival celebrates the rich folk traditions of the region.",
+    "turkish_translation": "Festival, bölgenin zengin halk geleneklerini kutluyor."
+  },
+  {
+    "word": "folks",
+    "meaning": "insanlar, aile",
+    "sentence": "He's going to visit his folks in the countryside.",
+    "turkish_translation": "Kırsal alanda ailesini ziyaret edecek."
+  },
+  {
+    "word": "follow",
+    "meaning": "takip etmek, izlemek",
+    "sentence": "She likes to follow the latest fashion trends.",
+    "turkish_translation": "En son moda trendlerini takip etmeyi sever."
+  },
+  {
+    "word": "followed",
+    "meaning": "takip edilen",
+    "sentence": "The instructions were followed carefully to avoid mistakes.",
+    "turkish_translation": "Hatalardan kaçınmak için talimatlara dikkatlice uyuldu."
+  },
+  {
+    "word": "following",
+    "meaning": "takip eden",
+    "sentence": "In the following chapters, we will explore more advanced topics.",
+    "turkish_translation": "Sonraki bölümlerde daha ileri konuları keşfedeceğiz."
+  },
+  {
+    "word": "follows",
+    "meaning": "takip eder, izler",
+    "sentence": "The film follows the journey of a young adventurer.",
+    "turkish_translation": "Film, genç bir maceracının yolculuğunu izler."
+  },
+  {
+    "word": "font",
+    "meaning": "yazı karakteri, font",
+    "sentence": "She chose a stylish font for the invitations.",
+    "turkish_translation": "Davetiyeler için şık bir yazı karakteri seçti."
+  },
+  {
+    "word": "fonts",
+    "meaning": "yazı karakterleri, fontlar",
+    "sentence": "Graphic designers have access to a wide variety of fonts.",
+    "turkish_translation": "Grafik tasarımcılar geniş bir yazı karakteri çeşitliliğine erişebilir."
+  },
+  {
+    "word": "foo",
+    "meaning": "foo (genellikle örnek amaçlı kullanılan terim)",
+    "sentence": "In programming, 'foo' is often used as a placeholder.",
+    "turkish_translation": "Programlamada 'foo', genellikle yer tutucu olarak kullanılır."
+  },
+  {
+    "word": "food",
+    "meaning": "yiyecek, gıda",
+    "sentence": "He enjoys trying different types of international food.",
+    "turkish_translation": "Farklı türde uluslararası yiyecekleri denemekten hoşlanır."
+  },
+  {
+    "word": "foods",
+    "meaning": "yiyecekler, gıdalar",
+    "sentence": "The market offers a wide variety of fresh foods.",
+    "turkish_translation": "Pazar, geniş bir çeşit taze gıda sunar."
+  },
+  {
+    "word": "fool",
+    "meaning": "aptal, kandırmak",
+    "sentence": "He felt like a fool for falling for the prank.",
+    "turkish_translation": "Şaka için düştüğü için aptal gibi hissetti."
+  },
+  {
+    "word": "foot",
+    "meaning": "ayak",
+    "sentence": "She injured her foot while hiking in the mountains.",
+    "turkish_translation": "Dağda yürüyüş yaparken ayağını incitti."
+  },
+  {
+    "word": "footage",
+    "meaning": "görüntü malzemesi, çekim",
+    "sentence": "The documentary includes rare footage of wildlife in its natural habitat.",
+    "turkish_translation": "Belgesel, doğal yaşam alanındaki nadir görüntüler içeriyor."
+  },
+  {
+    "word": "football",
+    "meaning": "futbol, Amerikan futbolu",
+    "sentence": "They play football every Sunday at the park.",
+    "turkish_translation": "Her pazar parkta futbol oynarlar."
+  },
+  {
+    "word": "footwear",
+    "meaning": "ayakkabı, ayakkabılar",
+    "sentence": "The store offers a wide selection of stylish footwear.",
+    "turkish_translation": "Mağaza, şık ayakkabıların geniş bir seçimini sunar."
+  },
+  {
+    "word": "for",
+    "meaning": "için, -dığı için",
+    "sentence": "She bought a gift for her friend's birthday.",
+    "turkish_translation": "Arkadaşının doğum günü için bir hediye aldı."
+  },
+  {
+    "word": "forbes",
+    "meaning": "Forbes (bir iş dergisi adı)",
+    "sentence": "He was featured in Forbes magazine for his successful business ventures.",
+    "turkish_translation": "Başarılı iş girişimleri nedeniyle Forbes dergisinde yer aldı."
+  },
+  {
+    "word": "forbidden",
+    "meaning": "yasak, yasaklanmış",
+    "sentence": "Entry to the construction site is forbidden without proper authorization.",
+    "turkish_translation": "Yapı alanına uygun izin olmadan giriş yasaktır."
+  },
+  {
+    "word": "force",
+    "meaning": "zorlamak, güç",
+    "sentence": "They used force to open the stuck door.",
+    "turkish_translation": "Sıkışmış kapıyı açmak için güç kullandılar."
+  },
+  {
+    "word": "forced",
+    "meaning": "zorlanmış, zorla",
+    "sentence": "She felt forced to apologize for her behavior.",
+    "turkish_translation": "Davranışı için özür dilemek zorunda hissetti."
+  },
+  {
+    "word": "forces",
+    "meaning": "güçler, kuvvetler",
+    "sentence": "The opposing forces clashed in a fierce battle.",
+    "turkish_translation": "Zıt güçler şiddetli bir savaşta çarpıştı."
+  },
+  {
+    "word": "ford",
+    "meaning": "geçmek, vadiden geçmek",
+    "sentence": "They had to ford the river to continue their journey.",
+    "turkish_translation": "Yolculuklarına devam etmek için nehri vadiden geçmeleri gerekiyordu."
+  },
+  {
+    "word": "forecast",
+    "meaning": "tahmin etmek, hava durumu",
+    "sentence": "Meteorologists forecast rain for the weekend.",
+    "turkish_translation": "Meteorologlar hafta sonu için yağmur tahmini yapıyor."
+  },
+  {
+    "word": "forecasts",
+    "meaning": "tahminler, hava tahminleri",
+    "sentence": "The weather forecasts were accurate for the past week.",
+    "turkish_translation": "Hava tahminleri geçen hafta için doğruydu."
+  },
+  {
+    "word": "foreign",
+    "meaning": "yabancı, dış",
+    "sentence": "She's learning a foreign language to improve her career prospects.",
+    "turkish_translation": "Kariyer olanaklarını geliştirmek için yabancı dil öğreniyor."
+  },
+  {
+    "word": "forest",
+    "meaning": "orman",
+    "sentence": "They went camping in the deep forest for a weekend getaway.",
+    "turkish_translation": "Hafta sonu kaçamağı için derin ormanda kamp yaptılar."
+  },
+  {
+    "word": "forestry",
+    "meaning": "ormancılık",
+    "sentence": "He studied forestry to learn how to manage and protect forests.",
+    "turkish_translation": "Ormanları nasıl yöneteceğini ve koruyacağını öğrenmek için ormancılık okudu."
+  },
+  {
+    "word": "forests",
+    "meaning": "ormanlar",
+    "sentence": "The national parks are home to diverse wildlife and lush forests.",
+    "turkish_translation": "Milli parklar çeşitli vahşi yaşam ve yeşil ormanlara ev sahipliği yapar."
+  },
+  {
+    "word": "forever",
+    "meaning": "sonsuz, daima",
+    "sentence": "Their love for each other will last forever.",
+    "turkish_translation": "Birbirlerine olan aşkları sonsuza kadar sürecek."
+  },
+  {
+    "word": "forge",
+    "meaning": "kovmak, demir dövmek",
+    "sentence": "The blacksmith used the hammer to forge the metal into a blade.",
+    "turkish_translation": "Demiri bıçak haline getirmek için demirci çekiç kullandı."
+  },
+  {
+    "word": "forget",
+    "meaning": "unutmak",
+    "sentence": "Don't forget to turn off the lights before you leave.",
+    "turkish_translation": "Ayrılmadan önce ışıkları kapatmayı unutma."
+  },
+  {
+    "word": "forgot",
+    "meaning": "unuttu",
+    "sentence": "She forgot to bring her umbrella and got caught in the rain.",
+    "turkish_translation": "Şemsiyesini getirmeyi unuttu ve yağmur altında kaldı."
+  },
+  {
+    "word": "forgotten",
+    "meaning": "unutulan",
+    "sentence": "The old town holds the forgotten stories of generations past.",
+    "turkish_translation": "Eski kasaba geçmiş nesillerin unutulmuş hikayelerini barındırıyor."
+  },
+  {
+    "word": "fork",
+    "meaning": "çatal",
+    "sentence": "She used a fork to eat the pasta.",
+    "turkish_translation": "Makarnayı yemek için bir çatal kullandı."
+  },
+  {
+    "word": "form",
+    "meaning": "oluşturmak, form",
+    "sentence": "Please fill out the registration form to sign up for the event.",
+    "turkish_translation": "Etkinliğe kaydolmak için lütfen kayıt formunu doldurun."
+  },
+  {
+    "word": "formal",
+    "meaning": "resmi, ciddi",
+    "sentence": "He wore a formal suit to the business meeting.",
+    "turkish_translation": "İş toplantısına resmi bir takım elbise giydi."
+  },
+  {
+    "word": "format",
+    "meaning": "biçimlendirmek, format",
+    "sentence": "You need to format the document before printing it.",
+    "turkish_translation": "Belgeyi yazdırmadan önce biçimlendirmeniz gerekiyor."
+  },
+  {
+    "word": "formation",
+    "meaning": "oluşum, formasyon",
+    "sentence": "The team's formation on the field was well-organized.",
+    "turkish_translation": "Takımın sahadaki formasyonu düzenliydi."
+  },
+  {
+    "word": "formats",
+    "meaning": "biçimler, formatlar",
+    "sentence": "The software supports various file formats.",
+    "turkish_translation": "Yazılım çeşitli dosya formatlarını destekliyor."
+  },
+  {
+    "word": "formatting",
+    "meaning": "biçimlendirme",
+    "sentence": "She spent hours formatting the report to make it look professional.",
+    "turkish_translation": "Raporu profesyonel görünmesi için biçimlendirmek için saatler harcadı."
+  },
+  {
+    "word": "formed",
+    "meaning": "oluşmuş",
+    "sentence": "The committee was formed to address the issues in the community.",
+    "turkish_translation": "Topluluktaki sorunları ele almak için komite oluşturuldu."
+  },
+  {
+    "word": "former",
+    "meaning": "eski, önceki",
+    "sentence": "She's a former champion in the sport.",
+    "turkish_translation": "Spor dalında eski bir şampiyon."
+  },
+  {
+    "word": "formerly",
+    "meaning": "eskiden, önceden",
+    "sentence": "The building was formerly used as a school.",
+    "turkish_translation": "Bina eskiden bir okul olarak kullanılıyordu."
+  },
+  {
+    "word": "forming",
+    "meaning": "oluşturma, formasyon",
+    "sentence": "The team is forming a strategy for the upcoming match.",
+    "turkish_translation": "Takım, yaklaşan maç için bir strateji oluşturuyor."
+  },
+  {
+    "word": "forms",
+    "meaning": "formlar, formlar",
+    "sentence": "Please fill out the necessary forms to complete your registration.",
+    "turkish_translation": "Kaydınızı tamamlamak için gerekli formları doldurun."
+  },
+  {
+    "word": "formula",
+    "meaning": "formül, reçete",
+    "sentence": "The scientist developed a new formula for the experiment.",
+    "turkish_translation": "Bilim adamı deney için yeni bir formül geliştirdi."
+  },
+  {
+    "word": "fort",
+    "meaning": "kale, hisar",
+    "sentence": "The old fort has a rich history of battles.",
+    "turkish_translation": "Eski kale savaşlarla dolu zengin bir geçmişe sahip."
+  },
+  {
+    "word": "forth",
+    "meaning": "ileri, ileriye",
+    "sentence": "He stepped forth to address the audience.",
+    "turkish_translation": "İzleyiciye hitap etmek için ileri adım attı."
+  },
+  {
+    "word": "fortune",
+    "meaning": "servet, talih",
+    "sentence": "She inherited a large fortune from her grandfather.",
+    "turkish_translation": "Büyük bir serveti dedesinden miras aldı."
+  },
+  {
+    "word": "forty",
+    "meaning": "kırk",
+    "sentence": "She turned forty and celebrated with a big party.",
+    "turkish_translation": "Kırk yaşına girdi ve büyük bir partiyle kutladı."
+  },
+  {
+    "word": "forum",
+    "meaning": "forum, platform",
+    "sentence": "The online forum is a place for people to discuss various topics.",
+    "turkish_translation": "Çevrimiçi forum, insanların çeşitli konuları tartıştığı bir yerdir."
+  },
+  {
+    "word": "forums",
+    "meaning": "forumlar, platformlar",
+    "sentence": "There are active forums for gamers to exchange tips and strategies.",
+    "turkish_translation": "Oyuncular için ipuçları ve stratejileri paylaşmak için aktif forumlar var."
+  },
+  {
+    "word": "forward",
+    "meaning": "ileri, ileriye",
+    "sentence": "Please move the project forward by completing the next tasks.",
+    "turkish_translation": "Lütfen bir sonraki görevleri tamamlayarak projeyi ileri taşıyın."
+  },
+  {
+    "word": "forwarding",
+    "meaning": "iletme, yönlendirme",
+    "sentence": "The email forwarding feature sends messages to another address.",
+    "turkish_translation": "E-posta yönlendirme özelliği mesajları başka bir adrese gönderir."
+  },
+  {
+    "word": "fossil",
+    "meaning": "fosil",
+    "sentence": "The museum displays a collection of ancient fossils.",
+    "turkish_translation": "Müze, eski fosillerin bir koleksiyonunu sergiliyor."
+  },
+  {
+    "word": "foster",
+    "meaning": "koruyup büyütmek, teşvik etmek",
+    "sentence": "The organization works to foster a sense of community among its members.",
+    "turkish_translation": "Örgüt, üyeleri arasında topluluk duygusu oluşturmayı teşvik etmek için çalışıyor."
+  },
+  {
+    "word": "foto",
+    "meaning": "fotoğraf (kısaltma)",
+    "sentence": "He took a great foto of the sunset at the beach.",
+    "turkish_translation": "Plajdaki günbatımının harika bir fotoğrafını çekti."
+  },
+  {
+    "word": "fotos",
+    "meaning": "fotoğraflar (kısaltma)",
+    "sentence": "She shared some beautiful fotos from her vacation.",
+    "turkish_translation": "Tatilinden güzel fotoğraflar paylaştı."
+  },
+  {
+    "word": "fought",
+    "meaning": "savaştı, mücadele etti",
+    "sentence": "They fought against injustice and discrimination.",
+    "turkish_translation": "Haksızlığa ve ayrımcılığa karşı savaştılar."
+  },
+  {
+    "word": "foul",
+    "meaning": "kusurlu, faul",
+    "sentence": "The referee called a foul for the aggressive play.",
+    "turkish_translation": "Hakem, agresif oyun için faul çaldı."
+  },
+  {
+    "word": "found",
+    "meaning": "bulmak, kurmak",
+    "sentence": "She found her lost keys under the couch.",
+    "turkish_translation": "Kaybolan anahtarlarını kanepe altında buldu."
+  },
+  {
+    "word": "foundation",
+    "meaning": "vakıf, temel",
+    "sentence": "The foundation supports various charitable projects.",
+    "turkish_translation": "Vakıf çeşitli hayırsever projeleri destekliyor."
+  },
+  {
+    "word": "foundations",
+    "meaning": "vakıflar, temeller",
+    "sentence": "The city has several historic foundations preserving its heritage.",
+    "turkish_translation": "Şehirde tarihi mirasını koruyan birkaç vakıf var."
+  },
+  {
+    "word": "founded",
+    "meaning": "kurulmuş",
+    "sentence": "The university was founded in the 19th century.",
+    "turkish_translation": "Üniversite 19. yüzyılda kuruldu."
+  },
+  {
+    "word": "founder",
+    "meaning": "kurucu",
+    "sentence": "The company's founder had a vision for innovation.",
+    "turkish_translation": "Şirketin kurucusunun yenilik için bir vizyonu vardı."
+  },
+  {
+    "word": "fountain",
+    "meaning": "çeşme",
+    "sentence": "The fountain in the square is a popular meeting spot.",
+    "turkish_translation": "Meydandaki çeşme popüler bir buluşma noktasıdır."
+  },
+  {
+    "word": "four",
+    "meaning": "dört",
+    "sentence": "There are four seasons in a year.",
+    "turkish_translation": "Bir yılda dört mevsim vardır."
+  },
+  {
+    "word": "fourth",
+    "meaning": "dördüncü",
+    "sentence": "She finished fourth in the marathon race.",
+    "turkish_translation": "Maraton yarışında dördüncü oldu."
+  },
+  {
+    "word": "fox",
+    "meaning": "tilki",
+    "sentence": "A fox often visits our backyard at night.",
+    "turkish_translation": "Bir tilki sık sık geceleyin arka bahçemizi ziyaret eder."
+  },
+  {
+    "word": "fp",
+    "meaning": "Floating Point (kayan nokta)",
+    "sentence": "Floating point numbers are used to represent decimal values in computing.",
+    "turkish_translation": "Kayan nokta sayıları, ondalık değerleri hesaplama işlemlerinde temsil etmek için kullanılır."
+  },
+  {
+    "word": "fr",
+    "meaning": "France (Fransa)",
+    "sentence": "He traveled to several cities in fr during his vacation.",
+    "turkish_translation": "Tatili sırasında Fransa'da birkaç şehre seyahat etti."
+  },
+  {
+    "word": "fraction",
+    "meaning": "kesir",
+    "sentence": "She solved the math problem involving fractions.",
+    "turkish_translation": "Kesirlerle ilgili matematik problemini çözdü."
+  },
+  {
+    "word": "fragrance",
+    "meaning": "koku, parfüm",
+    "sentence": "The fragrance of flowers filled the garden.",
+    "turkish_translation": "Çiçeklerin kokusu bahçeyi doldurdu."
+  },
+  {
+    "word": "fragrances",
+    "meaning": "kokular, parfümler",
+    "sentence": "The store offers a wide range of luxury fragrances.",
+    "turkish_translation": "Mağaza, lüks parfümlerin geniş bir yelpazesini sunuyor."
+  },
+  {
+    "word": "frame",
+    "meaning": "çerçevelemek, çerçeve",
+    "sentence": "She decided to frame the artwork and hang it on the wall.",
+    "turkish_translation": "Sanat eserini çerçevelemeye ve duvara asmaya karar verdi."
+  },
+  {
+    "word": "framed",
+    "meaning": "çerçevelenmiş",
+    "sentence": "The photograph was beautifully framed and displayed in the gallery.",
+    "turkish_translation": "Fotoğraf güzel bir şekilde çerçevelendi ve galeride sergilendi."
+  },
+  {
+    "word": "frames",
+    "meaning": "çerçeveler",
+    "sentence": "The eyeglass store offers a variety of frames to choose from.",
+    "turkish_translation": "Gözlük mağazası seçim yapabileceğiniz çeşitli çerçeveler sunar."
+  },
+  {
+    "word": "framework",
+    "meaning": "çerçeve, yapı",
+    "sentence": "The software was built on a flexible framework.",
+    "turkish_translation": "Yazılım esnek bir çerçeve üzerine inşa edildi."
+  },
+  {
+    "word": "framing",
+    "meaning": "çerçeveleme",
+    "sentence": "The framing of the painting enhanced its visual appeal.",
+    "turkish_translation": "Tablonun çerçevelenmesi görsel çekiciliğini artırdı."
+  },
+  {
+    "word": "france",
+    "meaning": "Fransa",
+    "sentence": "She traveled to France to explore its rich history and culture.",
+    "turkish_translation": "Zengin tarihini ve kültürünü keşfetmek için Fransa'ya seyahat etti."
+  },
+  {
+    "word": "franchise",
+    "meaning": "franchise, işletme hakkı",
+    "sentence": "He owns a fast-food franchise in the city center.",
+    "turkish_translation": "Şehir merkezinde bir fast food franchise işletiyor."
+  },
+  {
+    "word": "francis",
+    "meaning": "Francis (bir isim)",
+    "sentence": "Francis is known for his contributions to medical research.",
+    "turkish_translation": "Francis, tıp araştırmalarına yaptığı katkılarla tanınır."
+  },
+  {
+    "word": "francisco",
+    "meaning": "Francisco (bir isim)",
+    "sentence": "She visited San Francisco during her cross-country trip.",
+    "turkish_translation": "Amerika turu sırasında San Francisco'yu ziyaret etti."
+  },
+  {
+    "word": "frank",
+    "meaning": "açık sözlü, dürüst",
+    "sentence": "He gave a frank assessment of the situation.",
+    "turkish_translation": "Durumun açık bir değerlendirmesini yaptı."
+  },
+  {
+    "word": "frankfurt",
+    "meaning": "Frankfurt (bir şehir adı)",
+    "sentence": "She attended a business conference in Frankfurt.",
+    "turkish_translation": "Frankfurt'ta bir iş konferansına katıldı."
+  },
+  {
+    "word": "franklin",
+    "meaning": "Franklin (bir isim)",
+    "sentence": "Benjamin Franklin was a polymath and a Founding Father of the United States.",
+    "turkish_translation": "Benjamin Franklin, bir çok alanı kapsayan bir deha ve Amerika Birleşik Devletleri'nin Kurucu Babalarından biriydi."
+  },
+  {
+    "word": "fraser",
+    "meaning": "Fraser (bir isim)",
+    "sentence": "Fraser is a common surname in some English-speaking countries.",
+    "turkish_translation": "Fraser, bazı İngilizce konuşulan ülkelerde yaygın bir soyadıdır."
+  },
+  {
+    "word": "fraud",
+    "meaning": "sahtekarlık, dolandırıcılık",
+    "sentence": "The company uncovered a fraud scheme within its financial records.",
+    "turkish_translation": "Şirket, finansal kayıtlarında bir dolandırıcılık planını ortaya çıkardı."
+  },
+  {
+    "word": "fred",
+    "meaning": "Fred (bir isim)",
+    "sentence": "She introduced her friend Fred to the rest of the group.",
+    "turkish_translation": "Arkadaşı Fred'i gruptaki diğer insanlara tanıttı."
+  },
+  {
+    "word": "frederick",
+    "meaning": "Frederick (bir isim)",
+    "sentence": "Frederick is a historical city known for its architecture.",
+    "turkish_translation": "Frederick, mimarisiyle tanınan tarihi bir şehirdir."
+  },
+  {
+    "word": "free",
+    "meaning": "ücretsiz, özgür",
+    "sentence": "The event offers free admission to all visitors.",
+    "turkish_translation": "Etkinlik tüm ziyaretçilere ücretsiz giriş sağlar."
+  },
+  {
+    "word": "freebsd",
+    "meaning": "FreeBSD (bir işletim sistemi adı)",
+    "sentence": "FreeBSD is known for its robustness and advanced networking features.",
+    "turkish_translation": "FreeBSD, sağlamlığı ve gelişmiş ağ özellikleriyle tanınır."
+  },
+  {
+    "word": "freedom",
+    "meaning": "özgürlük, hürriyet",
+    "sentence": "Freedom of speech is a fundamental human right.",
+    "turkish_translation": "Konuşma özgürlüğü temel bir insan hakkıdır."
+  },
+  {
+    "word": "freelance",
+    "meaning": "serbest çalışan, serbest meslek",
+    "sentence": "She works as a freelance writer and takes on various projects.",
+    "turkish_translation": "Serbest yazar olarak çalışıyor ve çeşitli projeler üstleniyor."
+  },
+  {
+    "word": "freely",
+    "meaning": "serbestçe",
+    "sentence": "You're free to express your opinions in this discussion.",
+    "turkish_translation": "Bu tartışmada görüşlerinizi serbestçe ifade edebilirsiniz."
+  },
+  {
+    "word": "freeware",
+    "meaning": "ücretsiz yazılım",
+    "sentence": "The software company offers a range of useful freeware applications.",
+    "turkish_translation": "Yazılım şirketi, kullanışlı ücretsiz yazılım uygulamaları sunuyor."
+  },
+  {
+    "word": "freeze",
+    "meaning": "donmak, dondurmak",
+    "sentence": "The temperature outside is so low that water will freeze quickly.",
+    "turkish_translation": "Dışarının sıcaklığı o kadar düşük ki su hızla donacak."
+  },
+  {
+    "word": "freight",
+    "meaning": "yük, kargo",
+    "sentence": "The freight company specializes in shipping large items.",
+    "turkish_translation": "Yük şirketi büyük eşyaların taşınmasında uzmandır."
+  },
+  {
+    "word": "french",
+    "meaning": "Fransız, Fransızca",
+    "sentence": "She learned to speak French fluently during her time in France.",
+    "turkish_translation": "Fransa'daki zamanı boyunca akıcı bir şekilde Fransızca konuşmayı öğrendi."
+  },
+  {
+    "word": "frequencies",
+    "meaning": "frekanslar",
+    "sentence": "The radio can tune in to various frequencies to listen to different stations.",
+    "turkish_translation": "Radyo, farklı istasyonları dinlemek için çeşitli frekanslara ayarlanabilir."
+  },
+  {
+    "word": "frequency",
+    "meaning": "frekans, sıklık",
+    "sentence": "The frequency of earthquakes in the region is relatively high.",
+    "turkish_translation": "Bölgedeki depremlerin frekansı nispeten yüksektir."
+  },
+  {
+    "word": "frequent",
+    "meaning": "sık, sık sık uğramak",
+    "sentence": "She's a frequent visitor to the local museum.",
+    "turkish_translation": "Yerel müzeye sık sık ziyaretçi olur."
+  },
+  {
+    "word": "frequently",
+    "meaning": "sık sık, sıkça",
+    "sentence": "He travels frequently for business meetings.",
+    "turkish_translation": "İş toplantıları için sık sık seyahat eder."
+  },
+  {
+    "word": "fresh",
+    "meaning": "taze, yeni",
+    "sentence": "They serve fresh vegetables from their garden.",
+    "turkish_translation": "Bahçelerinden taze sebzeler servis ediyorlar."
+  },
+  {
+    "word": "fri",
+    "meaning": "Cuma (kısaltma)",
+    "sentence": "We're planning a get-together on Fri evening.",
+    "turkish_translation": "Cuma akşamı bir araya gelmeyi planlıyoruz."
+  },
+  {
+    "word": "friday",
+    "meaning": "Cuma",
+    "sentence": "They have a tradition of going out for dinner every Friday.",
+    "turkish_translation": "Her Cuma akşamı dışarıda yemek yeme geleneği vardır."
+  },
+  {
+    "word": "fridge",
+    "meaning": "buzdolabı",
+    "sentence": "The milk is in the fridge.",
+    "turkish_translation": "Süt buzdolabında."
+  },
+  {
+    "word": "friend",
+    "meaning": "arkadaş",
+    "sentence": "She's been my best friend since childhood.",
+    "turkish_translation": "Çocukluktan beri en iyi arkadaşım."
+  },
+  {
+    "word": "friendly",
+    "meaning": "dostça, arkadaşça",
+    "sentence": "The neighbors are very friendly and always willing to help.",
+    "turkish_translation": "Komşular çok samimi ve her zaman yardım etmeye isteklidir."
+  },
+  {
+    "word": "friends",
+    "meaning": "arkadaşlar",
+    "sentence": "She invited a few friends over for a barbecue.",
+    "turkish_translation": "Birkaç arkadaşını mangal için davet etti."
+  },
+  {
+    "word": "friendship",
+    "meaning": "arkadaşlık",
+    "sentence": "Their friendship has lasted for decades.",
+    "turkish_translation": "Arkadaşlıkları onlarca yıl boyunca devam etti."
+  },
+  {
+    "word": "frog",
+    "meaning": "kurbağa",
+    "sentence": "We saw a frog by the pond.",
+    "turkish_translation": "Gölette bir kurbağa gördük."
+  },
+  {
+    "word": "from",
+    "meaning": "den, dan, -den, -dan, -dan",
+    "sentence": "He's from Canada.",
+    "turkish_translation": "Kanada'dan."
+  },
+  {
+    "word": "front",
+    "meaning": "ön, cephe",
+    "sentence": "The store's entrance is at the front of the building.",
+    "turkish_translation": "Mağazanın girişi binanın ön tarafındadır."
+  },
+  {
+    "word": "frontier",
+    "meaning": "sınır, hudut",
+    "sentence": "Exploring the frontier was a risky but exciting endeavor.",
+    "turkish_translation": "Sınırı keşfetmek riskli ama heyecan verici bir girişimdi."
+  },
+  {
+    "word": "frontpage",
+    "meaning": "ön sayfa",
+    "sentence": "The breaking news was featured on the frontpage of the newspaper.",
+    "turkish_translation": "Kırılma haberleri gazetenin ön sayfasında yer aldı."
+  },
+  {
+    "word": "frost",
+    "meaning": "buzlanma, don",
+    "sentence": "The cold weather brought a layer of frost to the windows.",
+    "turkish_translation": "Soğuk hava pencerelere bir tabaka don getirdi."
+  },
+  {
+    "word": "frozen",
+    "meaning": "donmuş",
+    "sentence": "The lake is frozen solid in the winter.",
+    "turkish_translation": "Kışın göl tamamen donmuş durumda."
+  },
+  {
+    "word": "fruit",
+    "meaning": "meyve",
+    "sentence": "She loves eating fresh fruit for breakfast.",
+    "turkish_translation": "Kahvaltıda taze meyve yemeyi sever."
+  },
+  {
+    "word": "fruits",
+    "meaning": "meyveler",
+    "sentence": "The market has a wide variety of tropical fruits.",
+    "turkish_translation": "Pazarda geniş bir tropikal meyve çeşitliliği var."
+  },
+  {
+    "word": "fs",
+    "meaning": "File System (Dosya Sistemi)",
+    "sentence": "The fs manages how files are stored and retrieved on the computer.",
+    "turkish_translation": "Dosya sistemi, bilgisayarda dosyaların nasıl depolandığını ve alındığını yönetir."
+  },
+  {
+    "word": "ft",
+    "meaning": "feet (fit, ayak)",
+    "sentence": "The tree is over 20 ft tall.",
+    "turkish_translation": "Ağaç 20 fitten daha yüksektir."
+  },
+  {
+    "word": "ftp",
+    "meaning": "File Transfer Protocol (Dosya Transfer Protokolü)",
+    "sentence": "FTP is commonly used to upload and download files from a server.",
+    "turkish_translation": "FTP, genellikle bir sunucudan dosya yüklemek ve indirmek için kullanılır."
+  },
+  {
+    "word": "fu",
+    "meaning": "Fuck You (küfür, argo)",
+    "sentence": "He got angry and yelled 'fu' at the driver who cut him off.",
+    "turkish_translation": "Kızdı ve kendisine yol kesen sürücüye 'fu' diye bağırdı."
+  },
+  {
+    "word": "fuck",
+    "meaning": "sikmek (küfür, argo)",
+    "sentence": "Using offensive language like 'fuck' is disrespectful.",
+    "turkish_translation": "Küfürlü ifadeler kullanmak gibi ifadeler saygısızlıktır."
+  },
+  {
+    "word": "fucked",
+    "meaning": "siktirilmiş (küfür, argo)",
+    "sentence": "The computer crashed and now it's completely fucked.",
+    "turkish_translation": "Bilgisayar çöktü ve şimdi tamamen siktirilmiş durumda."
+  },
+  {
+    "word": "fucking",
+    "meaning": "lanet, lanet olası (küfür, argo)",
+    "sentence": "He was really upset and kept muttering 'fucking' under his breath.",
+    "turkish_translation": "Gerçekten üzgündü ve içinden 'lanet olası' diyerek mırıldandı."
+  },
+  {
+    "word": "fuel",
+    "meaning": "yakıt",
+    "sentence": "The car needs more fuel to complete the long journey.",
+    "turkish_translation": "Arabanın uzun yolculuğu tamamlamak için daha fazla yakıta ihtiyacı var."
+  },
+  {
+    "word": "fuji",
+    "meaning": "Fuji (bir isim, aynı zamanda Japonya'daki Fuji Dağı)",
+    "sentence": "She took a breathtaking photo of Mount Fuji.",
+    "turkish_translation": "Fuji Dağı'nın nefes kesen bir fotoğrafını çekti."
+  },
+  {
+    "word": "fujitsu",
+    "meaning": "Fujitsu (bir şirket adı)",
+    "sentence": "Fujitsu is known for its innovative technology products.",
+    "turkish_translation": "Fujitsu, yenilikçi teknoloji ürünleriyle tanınır."
+  },
+  {
+    "word": "full",
+    "meaning": "tam, dolu",
+    "sentence": "The theater was full for the opening night of the play.",
+    "turkish_translation": "Tiyatro oyununun açılış gecesi tamamen doluydu."
+  },
+  {
+    "word": "fully",
+    "meaning": "tamamen",
+    "sentence": "He's fully prepared for the exam.",
+    "turkish_translation": "Sınav için tamamen hazırlıklı."
+  },
+  {
+    "word": "fun",
+    "meaning": "eğlence",
+    "sentence": "They had a lot of fun at the amusement park.",
+    "turkish_translation": "Eğlence parkında çok eğlendiler."
+  },
+  {
+    "word": "function",
+    "meaning": "fonksiyon, işlev",
+    "sentence": "The function of the heart is to pump blood throughout the body.",
+    "turkish_translation": "Kalbin işlevi, kanı vücut boyunca pompalamaktır."
+  },
+  {
+    "word": "functional",
+    "meaning": "işlevsel",
+    "sentence": "The new smartphone has a sleek design and many functional features.",
+    "turkish_translation": "Yeni akıllı telefon şık bir tasarıma sahip ve birçok işlevsel özelliğe sahip."
+  },
+  {
+    "word": "functionality",
+    "meaning": "işlevsellik, fonksiyonellik",
+    "sentence": "The software update improved the functionality of the application.",
+    "turkish_translation": "Yazılım güncellemesi uygulamanın işlevselliğini iyileştirdi."
+  },
+  {
+    "word": "functioning",
+    "meaning": "işleyiş, çalışma",
+    "sentence": "The car's functioning has been affected by the mechanical issue.",
+    "turkish_translation": "Arabanın işleyişi mekanik sorun nedeniyle etkilendi."
+  },
+  {
+    "word": "functions",
+    "meaning": "fonksiyonlar, işlevler",
+    "sentence": "The calculator has various functions for different mathematical operations.",
+    "turkish_translation": "Hesap makinesi farklı matematiksel işlemler için çeşitli fonksiyonlara sahiptir."
+  },
+  {
+    "word": "fund",
+    "meaning": "fon, kaynak",
+    "sentence": "The organization established a fund to support education in underprivileged areas.",
+    "turkish_translation": "Örgüt, dezavantajlı bölgelerde eğitimi desteklemek için bir fon kurdu."
+  },
+  {
+    "word": "fundamental",
+    "meaning": "temel, esas",
+    "sentence": "Learning math is fundamental to understanding many scientific concepts.",
+    "turkish_translation": "Matematik öğrenmek birçok bilimsel kavramı anlamak için temel bir unsurdur."
+  },
+  {
+    "word": "fundamentals",
+    "meaning": "temeller, esaslar",
+    "sentence": "The course covers the fundamentals of computer programming.",
+    "turkish_translation": "Kurs, bilgisayar programlamasının temellerini kapsar."
+  },
+  {
+    "word": "funded",
+    "meaning": "finanse edilmiş",
+    "sentence": "The research project was generously funded by a private foundation.",
+    "turkish_translation": "Araştırma projesi özel bir vakıf tarafından cömertçe finanse edildi."
+  },
+  {
+    "word": "funding",
+    "meaning": "finansman, fonlama",
+    "sentence": "The government allocated funding for environmental conservation projects.",
+    "turkish_translation": "Hükümet, çevre koruma projeleri için finansman ayırdı."
+  },
+  {
+    "word": "fundraising",
+    "meaning": "fon toplama, bağış toplama",
+    "sentence": "The school organized a fundraising event to support extracurricular activities.",
+    "turkish_translation": "Okul, okul dışı etkinlikleri desteklemek için bir bağış toplama etkinliği düzenledi."
+  },
+  {
+    "word": "funds",
+    "meaning": "fonlar, kaynaklar",
+    "sentence": "The company secured additional funds for its expansion plans.",
+    "turkish_translation": "Şirket, genişleme planları için ek fonlar sağladı."
+  },
+  {
+    "word": "funeral",
+    "meaning": "cenaze",
+    "sentence": "They attended the funeral of their beloved grandmother.",
+    "turkish_translation": "Sevgili büyükannelerinin cenazesine katıldılar."
+  },
+  {
+    "word": "funk",
+    "meaning": "funk, kötü ruh hali",
+    "sentence": "I've been feeling a bit of a funk lately.",
+    "turkish_translation": "Son zamanlarda biraz kötü bir ruh hali içindeyim."
+  },
+  {
+    "word": "funky",
+    "meaning": "funk tarzında, değişik",
+    "sentence": "She wore a funky outfit to the party.",
+    "turkish_translation": "Partiye farklı bir tarzda kıyafet giydi."
+  },
+  {
+    "word": "funny",
+    "meaning": "komik",
+    "sentence": "The comedian's jokes were really funny.",
+    "turkish_translation": "Komedyenin şakaları gerçekten komikti."
+  },
+  {
+    "word": "fur",
+    "meaning": "kürk",
+    "sentence": "She has a coat made of faux fur.",
+    "turkish_translation": "Sahte kürkten yapılmış bir paltoyu var."
+  },
+  {
+    "word": "furnished",
+    "meaning": "mobilyalı",
+    "sentence": "The apartment comes fully furnished.",
+    "turkish_translation": "Daire tamamen mobilyalı olarak geliyor."
+  },
+  {
+    "word": "furnishings",
+    "meaning": "mobilyalar, dekorasyon",
+    "sentence": "The store offers a wide selection of home furnishings.",
+    "turkish_translation": "Mağaza, geniş bir ev dekorasyonu seçeneği sunuyor."
+  },
+  {
+    "word": "furniture",
+    "meaning": "mobilya",
+    "sentence": "They bought new furniture for their living room.",
+    "turkish_translation": "Oturma odası için yeni mobilyalar satın aldılar."
+  },
+  {
+    "word": "further",
+    "meaning": "daha fazla",
+    "sentence": "If you need further assistance, please don't hesitate to contact us.",
+    "turkish_translation": "Daha fazla yardıma ihtiyacınız varsa, lütfen bize ulaşmaktan çekinmeyin."
+  },
+  {
+    "word": "furthermore",
+    "meaning": "dahası, üstelik",
+    "sentence": "The study found that exercise has numerous benefits. Furthermore, it improves mental health.",
+    "turkish_translation": "Araştırma, egzersizin birçok faydası olduğunu buldu. Üstelik zihinsel sağlığı iyileştirir."
+  },
+  {
+    "word": "fusion",
+    "meaning": "füzyon, birleşme",
+    "sentence": "The restaurant offers a unique fusion of Asian and European cuisines.",
+    "turkish_translation": "Restoran, Asya ve Avrupa mutfağının benzersiz bir füzyonunu sunuyor."
+  },
+  {
+    "word": "future",
+    "meaning": "gelecek",
+    "sentence": "She's excited about what the future holds.",
+    "turkish_translation": "Geleceğin ne getireceğinden heyecan duyuyor."
+  },
+  {
+    "word": "futures",
+    "meaning": "gelecek, vadeli işlemler",
+    "sentence": "He invests in futures to take advantage of potential price changes.",
+    "turkish_translation": "Fiyat değişikliklerinden faydalanmak için vadeli işlemlere yatırım yapar."
+  },
+  {
+    "word": "fuzzy",
+    "meaning": "bulanık, belirsiz",
+    "sentence": "The image on the old TV was quite fuzzy.",
+    "turkish_translation": "Eski televizyondaki görüntü oldukça bulanıktı."
+  },
+  {
+    "word": "fw",
+    "meaning": "Firmware (Yazılım)",
+    "sentence": "The fw update improved the performance of the device.",
+    "turkish_translation": "Yazılım güncellemesi cihazın performansını iyileştirdi."
+  },
+  {
+    "word": "fwd",
+    "meaning": "Forward (ileri)",
+    "sentence": "Please fwd the email to the appropriate team.",
+    "turkish_translation": "Lütfen e-postayı ilgili ekibe iletin."
+  },
+  {
+    "word": "fx",
+    "meaning": "Effects (Efektler)",
+    "sentence": "The video editing software offers a variety of fx options.",
+    "turkish_translation": "Video düzenleme yazılımı çeşitli efekt seçenekleri sunar."
+  },
+  {
+    "word": "fy",
+    "meaning": "Fiscal Year (Mali Yıl)",
+    "sentence": "The company's fiscal year ends on December 31st.",
+    "turkish_translation": "Şirketin mali yılı 31 Aralık'ta sona erer."
+  }
+]

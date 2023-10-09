@@ -11,23 +11,43 @@ void addWordsToFirestore(String letter, List<Map<String, dynamic>> words) async 
   // Firestore'a veriyi ekleyin
   await letterDocument.set(
     {
-      'words': FieldValue.arrayUnion(words),
+      'words': FieldValue.arrayUnion(
+        words.where((wordData) {
+          // JSON verilerinin "word" veya "meaning" alanları büyük harf içermiyorsa,
+          // "word" veya "meaning" alanları "x" ile başlamıyorsa
+          // ve dört sessiz harfin yan yana gelmediği durumları kontrol eder
+          final word = wordData['word'].toString();
+          final meaning = wordData['meaning'].toString();
+          final wordContainsUpperCase = word.contains(RegExp(r'[A-Z]'));
+          final meaningContainsUpperCase = meaning.contains(RegExp(r'[A-Z]'));
+          final wordContainsFourConsecutiveConsonants = RegExp(r'[bcdfghjklmnpqrstvwxyz]{4}').hasMatch(word);
+
+          return !wordContainsUpperCase &&
+              !meaningContainsUpperCase &&
+              !word.startsWith('x') &&
+              !meaning.startsWith('x') &&
+              !wordContainsFourConsecutiveConsonants;
+        }).toList(),
+      ),
     },
   );
 }
+
+
+
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
 
   // Her harf için ayrı JSON dosyasını yükleme ve Firestore'a eklemeyi tekrarlayın
-  for (var letterCode = 'j'.codeUnitAt(0); letterCode <= 'z'.codeUnitAt(0); letterCode++) {
+  for (var letterCode = 'a'.codeUnitAt(0); letterCode <= 'z'.codeUnitAt(0); letterCode++) {
     final letter = String.fromCharCode(letterCode);
     final jsonFilePath = 'lib/dictionary/$letter.json';
     final jsonSample = await rootBundle.loadString(jsonFilePath);
     final jsonData = List<Map<String, dynamic>>.from(json.decode(jsonSample));
 
-     addWordsToFirestore(letter, jsonData);
+    addWordsToFirestore(letter, jsonData);
   }
 
   runApp(MyApp());
@@ -49,3 +69,5 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+

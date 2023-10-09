@@ -362,7 +362,7 @@ class _WordleGamePageState extends State<WordleGamePage> {
                     onPressed: () {
                       _showLoseDialog();
                     },
-                    child: Text('Bilemedim Köylüyüm', style: widgets.text_style()),
+                    child: Text('Bilemedim / Yeni Kelime', style: widgets.text_style()),
                   ),
                 ],
               ),
@@ -370,50 +370,7 @@ class _WordleGamePageState extends State<WordleGamePage> {
           ),
         ),
       ),
-        Positioned(
-
-          child: CircularMenu(
-            alignment: Alignment.bottomRight,
-            radius: 60, // Yarıçapı ayarlayabilirsiniz
-            toggleButtonColor: Colors.black,
-            items: [
-              CircularMenuItem(
-                icon: Icons.favorite,
-                onTap: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (context) => FavoritesPage(),
-                    ),
-                  );
-                },
-              ),
-              CircularMenuItem(
-                icon: Icons.search,
-                onTap: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (context) => SearchWords(),
-                    ),
-                  );
-                },
-              ),
-              CircularMenuItem(
-                icon: Icons.my_library_books_sharp,
-                onTap: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (context) => RandomWordScreen(),
-                    ),
-                  );
-                },
-              ),
-
-            ],
-          ),
-        ),
+        widgets.buttonShortCut(context),
 
       ]
     );

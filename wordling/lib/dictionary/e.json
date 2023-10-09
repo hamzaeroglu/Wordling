@@ -1,0 +1,1583 @@
+[
+  {"word": "each", "meaning": "her biri",
+    "sentence": "Each student must submit their assignment by Friday.",
+    "turkish_translation": "Her öğrenci ödevini Cuma'ya kadar teslim etmelidir."},
+
+  {"word": "eagle", "meaning": "kartal",
+    "sentence": "The majestic eagle soared through the sky.",
+    "turkish_translation": "Muhteşem kartal gökyüzünde süzüldü."},
+
+  {"word": "eagles", "meaning": "kartallar",
+    "sentence": "The eagles nested high up in the cliffs.",
+    "turkish_translation": "Kartallar kayalıkların yükseklerine yuva yaptı."},
+
+  {"word": "ear", "meaning": "kulak",
+    "sentence": "He whispered something in her ear.",
+    "turkish_translation": "Onun kulağına bir şeyler fısıldadı."},
+
+  {"word": "earl", "meaning": "soylu, kont",
+    "sentence": "The earl held a grand banquet at his estate.",
+    "turkish_translation": "Kont, malikanesinde büyük bir ziyafet düzenledi."},
+
+  {"word": "earlier", "meaning": "daha erken",
+    "sentence": "She arrived earlier than expected.",
+    "turkish_translation": "Beklenenden daha erken geldi."},
+
+  {"word": "earliest", "meaning": "en erken",
+    "sentence": "The earliest memories of childhood are often the most vivid.",
+    "turkish_translation": "Çocuklukla ilgili en erken anılar genellikle en canlı olanlardır."},
+
+  {"word": "early", "meaning": "erken",
+    "sentence": "I wake up early in the morning to exercise.",
+    "turkish_translation": "Sabahları erken kalkıp egzersiz yaparım."},
+
+  {"word": "earn", "meaning": "kazanmak (para, itibar vb.)",
+    "sentence": "He worked hard to earn a promotion at his job.",
+    "turkish_translation": "İşinde terfi kazanmak için çok çalıştı."},
+
+  {"word": "earned", "meaning": "kazanılmış",
+    "sentence": "She enjoyed her well-earned vacation after a busy year.",
+    "turkish_translation": "Yoğun bir yılın ardından hak ettiği tatilin tadını çıkardı."},
+
+  {"word": "earning", "meaning": "kazanç",
+    "sentence": "His freelance work is his primary source of earning.",
+    "turkish_translation": "Serbest çalışması onun başlıca kazanç kaynağıdır."},
+
+  {"word": "earnings", "meaning": "kazançlar",
+    "sentence": "The company reported higher earnings this quarter.",
+    "turkish_translation": "Şirket bu çeyrekte daha yüksek kazançlar açıkladı."},
+
+  {"word": "earrings", "meaning": "kulak küpesi",
+    "sentence": "She received a pair of beautiful earrings for her birthday.",
+    "turkish_translation": "Doğum günü için güzel bir çift küpe aldı."},
+
+  {"word": "ears", "meaning": "kulaklar",
+    "sentence": "His ears turned red when he realized he was being praised.",
+    "turkish_translation": "Övüldüğünü fark edince kulakları kızardı."},
+
+  {"word": "earth", "meaning": "dünya, toprak",
+    "sentence": "The earth rotates on its axis.",
+    "turkish_translation": "Dünya, kendi ekseni etrafında döner."},
+
+  {"word": "earthquake", "meaning": "deprem",
+    "sentence": "The earthquake shook the entire city, causing widespread panic.",
+    "turkish_translation": "Deprem tüm şehri sarsarak geniş çapta panik yarattı."},
+
+  {"word": "ease", "meaning": "rahatlık, kolaylık",
+    "sentence": "Yoga can bring a sense of ease and relaxation.",
+    "turkish_translation": "Yoga, rahatlık ve gevşeme hissi getirebilir."},
+
+  {"word": "easier", "meaning": "daha kolay",
+    "sentence": "With practice, playing the piano becomes easier.",
+    "turkish_translation": "Pratik yaparak piyano çalmak daha kolay hale gelir."},
+
+  {"word": "easily", "meaning": "kolayca",
+    "sentence": "He can solve complex problems easily.",
+    "turkish_translation": "Karmaşık problemleri kolayca çözebilir."},
+
+  {"word": "east", "meaning": "doğu",
+    "sentence": "The sun rises in the east.",
+    "turkish_translation": "Güneş doğuda doğar."},
+
+  {"word": "easter", "meaning": "paskalya",
+    "sentence": "Families often gather for a festive meal on Easter Sunday.",
+    "turkish_translation": "Aileler genellikle Paskalya Pazar günü için şenlikli bir yemekte bir araya gelirler."},
+
+  {"word": "eastern", "meaning": "doğuyla ilgili",
+    "sentence": "The country has a rich Eastern culture.",
+    "turkish_translation": "Ülkenin zengin bir Doğu kültürü var."},
+
+  {"word": "easy", "meaning": "kolay",
+    "sentence": "Cooking this recipe is quite easy.",
+    "turkish_translation": "Bu tarifi pişirmek oldukça kolay."},
+
+  {"word": "eat", "meaning": "yemek yemek",
+    "sentence": "I like to eat fresh fruits in the morning.",
+    "turkish_translation": "Sabahları taze meyve yemeyi severim."},
+
+  {"word": "eating", "meaning": "yemek yeme",
+    "sentence": "She was caught eating cookies before dinner.",
+    "turkish_translation": "Akşam yemeğinden önce kurabiye yediği yakalandı."},
+
+  {"word": "eau", "meaning": "su (Fransızca)",
+    "sentence": "The perfume was named 'Eau de Parfum', which means 'Water of Perfume' in French.",
+    "turkish_translation": "Parfüm 'Eau de Parfum' adını taşıyordu, bu Fransızca'da 'Parfümün Suyu' anlamına gelir."},
+
+  {"word": "ebay", "meaning": "eBay (çevrimiçi alışveriş platformu)",
+    "sentence": "She found a rare collectible on eBay.",
+    "turkish_translation": "Nadir bir koleksiyon eşyası eBay'de buldu."},
+
+  {"word": "ebony", "meaning": "ebony ağacı, siyah renk",
+    "sentence": "The piano's keys were made of ebony wood.",
+    "turkish_translation": "Piyano tuşları ebano ağacından yapılmıştı."},
+
+  {"word": "ebook", "meaning": "e-kitap",
+    "sentence": "I prefer reading ebooks over traditional paper books.",
+    "turkish_translation": "Geleneksel kağıt kitaplara göre e-kitap okumayı tercih ederim."},
+
+  {"word": "ebooks", "meaning": "e-kitaplar",
+    "sentence": "The library offers a wide selection of ebooks for borrowing.",
+    "turkish_translation": "Kütüphane ödünç alınabilecek geniş bir e-kitap seçeneği sunuyor."},
+
+  {"word": "ec", "meaning": "elektrokardiyografi",
+    "sentence": "The doctor reviewed the patient's EC results.",
+    "turkish_translation": "Doktor hastanın EKG sonuçlarını inceledi."},
+
+  {"word": "echo", "meaning": "yankı, yankılanmak",
+    "sentence": "Her voice echoed through the empty hallway.",
+    "turkish_translation": "Onun sesi boş koridordan yankılandı."},
+
+  {"word": "eclipse", "meaning": "güneş veya ay tutulması",
+    "sentence": "People gathered to watch the solar eclipse.",
+    "turkish_translation": "İnsanlar güneş tutulmasını izlemek için toplandı."},
+
+  {"word": "eco", "meaning": "eko, ekoloji",
+    "sentence": "The company is committed to eco-friendly practices.",
+    "turkish_translation": "Şirket çevre dostu uygulamalara bağlıdır."},
+
+  {"word": "ecological", "meaning": "ekolojik",
+    "sentence": "The park is home to a diverse range of ecological systems.",
+    "turkish_translation": "Park, çeşitli ekolojik sistemlere ev sahipliği yapmaktadır."},
+
+  {"word": "ecology", "meaning": "ekoloji",
+    "sentence": "Studying ecology helps us understand the relationships between living organisms and their environment.",
+    "turkish_translation": "Ekolojiyi çalışmak, yaşayan organizmalar ile çevreleri arasındaki ilişkileri anlamamıza yardımcı olur."},
+
+  {"word": "ecommerce", "meaning": "e-ticaret",
+    "sentence": "Ecommerce has transformed the way we shop.",
+    "turkish_translation": "E-ticaret alışveriş yapma şeklimizi dönüştürdü."},
+
+  {"word": "economic", "meaning": "ekonomik",
+    "sentence": "The economic situation of the country improved this year.",
+    "turkish_translation": "Ülkenin ekonomik durumu bu yıl iyileşti."},
+
+  {"word": "economics", "meaning": "ekonomi (bilim)",
+    "sentence": "She studied economics in university to understand market trends.",
+    "turkish_translation": "Piyasa trendlerini anlamak için üniversitede ekonomi okudu."},
+
+  {"word": "economies", "meaning": "ekonomiler",
+    "sentence": "Global economies are interconnected in today's world.",
+    "turkish_translation": "Küresel ekonomiler günümüzde birbirine bağlıdır."},
+
+  {"word": "economy", "meaning": "ekonomi",
+    "sentence": "The government is taking measures to boost the economy.",
+    "turkish_translation": "Hükümet, ekonomiyi canlandırmak için önlemler alıyor."},
+
+  {"word": "ecuador", "meaning": "Ekvador (ülke adı)",
+    "sentence": "Ecuador is known for its diverse wildlife and stunning landscapes.",
+    "turkish_translation": "Ekvador, çeşitli yaban yaşamı ve etkileyici manzaralarıyla tanınır."},
+
+  {"word": "ed", "meaning": "Ed (kısaltma olarak kullanılan isim)",
+    "sentence": "Ed is a popular name in many English-speaking countries.",
+    "turkish_translation": "Ed, birçok İngilizce konuşulan ülkede popüler bir isimdir."},
+
+  {"word": "eddie", "meaning": "Eddie (isim)",
+    "sentence": "Eddie has been working on his novel for months.",
+    "turkish_translation": "Eddie, romanı üzerinde aylardır çalışıyor."},
+
+  {"word": "eden", "meaning": "cennet",
+    "sentence": "The garden was like a little piece of Eden.",
+    "turkish_translation": "Bahçe, küçük bir Cennet parçası gibiydi."},
+
+  {"word": "edgar", "meaning": "Edgar (isim)",
+    "sentence": "Edgar is known for his artistic talents.",
+    "turkish_translation": "Edgar, sanatsal yetenekleriyle tanınır."},
+
+  {"word": "edge", "meaning": "kenar",
+    "sentence": "The cat balanced on the edge of the table.",
+    "turkish_translation": "Kedi masa kenarında dengeledi."},
+
+  {"word": "edges", "meaning": "kenarlar",
+    "sentence": "The book's pages were frayed at the edges.",
+    "turkish_translation": "Kitabın sayfaları kenarlardan yıpranmıştı."},
+
+  {"word": "edinburgh", "meaning": "Edinburgh (şehir adı)",
+    "sentence": "Edinburgh is the capital city of Scotland.",
+    "turkish_translation": "Edinburgh, İskoçya'nın başkentidir."},
+
+  {"word": "edit", "meaning": "düzenlemek",
+    "sentence": "She needs to edit her essay before submitting it.",
+    "turkish_translation": "Makalesini teslim etmeden önce düzenlemesi gerekiyor."},
+
+  {"word": "edited", "meaning": "düzenlenmiş",
+    "sentence": "The document was thoroughly edited for errors.",
+    "turkish_translation": "Belge hatalar için titizlikle düzenlendi."},
+
+  {"word": "editing", "meaning": "düzenleme",
+    "sentence": "Editing is an important step in the writing process.",
+    "turkish_translation": "Düzenleme, yazma sürecinde önemli bir adımdır."},
+
+  {"word": "edition", "meaning": "baskı, basım",
+    "sentence": "The new edition of the book includes additional chapters.",
+    "turkish_translation": "Kitabın yeni baskısı ekstra bölümler içeriyor."},
+
+  {"word": "editions", "meaning": "baskılar, basımlar",
+    "sentence": "The newspaper is available in both print and digital editions.",
+    "turkish_translation": "Gazete hem basılı hem de dijital baskılar halinde bulunabilir."},
+
+  {"word": "editor", "meaning": "editör",
+    "sentence": "The editor reviewed the manuscript for grammatical errors.",
+    "turkish_translation": "Editör, yazım hataları için el yazmasını inceledi."},
+
+  {"word": "editorial", "meaning": "editoryal, görüş",
+    "sentence": "The newspaper published an editorial about climate change.",
+    "turkish_translation": "Gazete, iklim değişikliği hakkında bir editoryal yayımladı."},
+
+  {"word": "editorials", "meaning": "editoryaller, görüşler",
+    "sentence": "The magazine features a variety of editorials on current issues.",
+    "turkish_translation": "Dergi, güncel konularla ilgili çeşitli editoryaller sunuyor."},
+
+  {"word": "editors", "meaning": "editörler",
+    "sentence": "The team of editors worked together to finalize the manuscript.",
+    "turkish_translation": "Editör ekibi, el yazmasını sonlandırmak için birlikte çalıştı."},
+
+  {"word": "edmonton", "meaning": "Edmonton (şehir adı)",
+    "sentence": "Edmonton is the capital city of the Canadian province of Alberta.",
+    "turkish_translation": "Edmonton, Kanada'nın Alberta eyaletinin başkentidir."},
+
+  {"word": "eds", "meaning": "kısaltma olarak kullanılan isim",
+    "sentence": "Eds often collaborate on research projects.",
+    "turkish_translation": "Eds, genellikle araştırma projelerinde işbirliği yapar."},
+
+  {"word": "edt", "meaning": "Doğu Gündönümü Zamanı (Eastern Daylight Time) kısaltması",
+    "sentence": "The webinar will start at 2:00 PM EDT.",
+    "turkish_translation": "Web semineri, 2:00 PM EDT'de başlayacak."},
+
+  {"word": "educated", "meaning": "eğitimli",
+    "sentence": "She comes from an educated family and values learning.",
+    "turkish_translation": "Eğitimli bir aileden geliyor ve öğrenmeye değer veriyor."},
+
+  {"word": "education", "meaning": "eğitim",
+    "sentence": "Access to quality education is essential for personal growth.",
+    "turkish_translation": "Kaliteli eğitime erişim, kişisel gelişim için önemlidir."},
+
+  {"word": "educational", "meaning": "eğitimsel",
+    "sentence": "The museum offers a variety of educational programs for children.",
+    "turkish_translation": "Müze, çocuklar için çeşitli eğitimsel programlar sunuyor."},
+
+  {"word": "educators", "meaning": "eğitmenler, öğretmenler",
+    "sentence": "Educators play a crucial role in shaping young minds.",
+    "turkish_translation": "Eğitmenler, genç zihinleri şekillendirmede kritik bir rol oynar."},
+
+  {"word": "edward", "meaning": "Edward (isim)",
+    "sentence": "Edward is known for his dedication to community service.",
+    "turkish_translation": "Edward, topluluk hizmetine olan bağlılığıyla tanınır."},
+
+  {"word": "edwards", "meaning": "Edwards (soyadı)",
+    "sentence": "The Edwards family has been living in this town for generations.",
+    "turkish_translation": "Edwards ailesi, bu kasabada nesillerdir yaşıyor."},
+
+  {"word": "ee", "meaning": "endüstri mühendisliği (Electrical Engineering) kısaltması",
+    "sentence": "She majored in EE and works for a technology company.",
+    "turkish_translation": "O, endüstri mühendisliği alanında uzmanlaştı ve bir teknoloji şirketinde çalışıyor."},
+
+  {"word": "ef", "meaning": "Hollandalı futbolcu (Edwin van der Sar) kısaltması",
+    "sentence": "EF was a renowned goalkeeper in his prime.",
+    "turkish_translation": "EF, zirvesinde tanınmış bir kaleciydi."},
+
+  {"word": "effect", "meaning": "etki",
+    "sentence": "The new policy had a positive effect on employee morale.",
+    "turkish_translation": "Yeni politika, çalışan moraline olumlu bir etki yaptı."},
+
+  {"word": "effective", "meaning": "etkili",
+    "sentence": "Regular exercise is effective in maintaining good health.",
+    "turkish_translation": "Düzenli egzersiz, iyi sağlığı korumak için etkilidir."},
+
+  {"word": "effectively", "meaning": "etkili bir şekilde",
+    "sentence": "The team communicated effectively to solve the problem.",
+    "turkish_translation": "Ekip, sorunu etkili bir şekilde çözmek için iletişim kurdu."},
+
+  {"word": "effectiveness", "meaning": "etkililik",
+    "sentence": "The effectiveness of the treatment was evident in the patient's recovery.",
+    "turkish_translation": "Tedavinin etkililiği, hastanın iyileşmesinde açıkça görüldü."},
+
+  {"word": "effects", "meaning": "etkiler",
+    "sentence": "The film's special effects were impressive.",
+    "turkish_translation": "Filmin özel efektleri etkileyiciydi."},
+
+  {"word": "efficiency", "meaning": "verimlilik",
+    "sentence": "The new manufacturing process improved efficiency by reducing waste.",
+    "turkish_translation": "Yeni üretim süreci, atığı azaltarak verimliliği artırdı."},
+
+  {"word": "efficient", "meaning": "verimli",
+    "sentence": "The new machine is more efficient than the old one.",
+    "turkish_translation": "Yeni makine, eskiye göre daha verimlidir."},
+
+  {"word": "efficiently", "meaning": "verimli bir şekilde",
+    "sentence": "The team managed the project efficiently and met the deadline.",
+    "turkish_translation": "Ekip proje yönetimini verimli bir şekilde yönetti ve süresine yetişti."},
+
+  {"word": "effort", "meaning": "çaba",
+    "sentence": "Her effort to learn a new language paid off.",
+    "turkish_translation": "Yeni bir dil öğrenme çabası meyvesini verdi."},
+
+  {"word": "efforts", "meaning": "çabalılar",
+    "sentence": "The organization's efforts to reduce pollution are commendable.",
+    "turkish_translation": "Kirliliği azaltma çabaları, kuruluşun takdir edilesidir."},
+
+  {"word": "eg", "meaning": "örneğin (example given) kısaltması",
+    "sentence": "She excels in various subjects, e.g. math and science.",
+    "turkish_translation": "O, matematik ve fen gibi çeşitli konularda başarılıdır."},
+
+  {"word": "egg", "meaning": "yumurta",
+    "sentence": "She cracked an egg into the mixing bowl.",
+    "turkish_translation": "Karıştırma kabına bir yumurta kırdı."},
+
+  {"word": "eggs", "meaning": "yumurtalar",
+    "sentence": "He likes his eggs scrambled with cheese.",
+    "turkish_translation": "Yumurtalarını peynirle karıştırarak seviyor."},
+
+  {"word": "egypt", "meaning": "Mısır (ülke adı)",
+    "sentence": "Egypt is famous for its historical landmarks like the pyramids.",
+    "turkish_translation": "Mısır, piramitler gibi tarihi anıtlarıyla ünlüdür."},
+
+  {"word": "egyptian", "meaning": "Mısırlı",
+    "sentence": "The museum exhibits ancient Egyptian artifacts.",
+    "turkish_translation": "Müze, antik Mısır eserlerini sergiliyor."},
+
+  {"word": "eh", "meaning": "ifade etme şekli",
+    "sentence": "He shrugged and said, 'Eh, it's not a big deal.'",
+    "turkish_translation": "Omuz silkerek 'Eh, büyük bir mesele değil.' dedi."},
+
+  {"word": "eight", "meaning": "sekiz",
+    "sentence": "There are eight planets in our solar system.",
+    "turkish_translation": "Güneş sisteminde sekiz gezegen bulunur."},
+
+  {"word": "either", "meaning": "ya da",
+    "sentence": "You can choose either the blue shirt or the red one.",
+    "turkish_translation": "Mavi gömleği ya da kırmızı olanı seçebilirsiniz."},
+
+  {"word": "ejaculation", "meaning": "erken boşalma",
+    "sentence": "Premature ejaculation is a common concern for many men.",
+    "turkish_translation": "Erken boşalma, birçok erkek için yaygın bir endişedir."},
+
+  {"word": "el", "meaning": "dirsek",
+    "sentence": "She rested her elbow on the table.",
+    "turkish_translation": "Dirseğini masanın üstüne koydu."},
+
+  {"word": "elder", "meaning": "büyüğü",
+    "sentence": "The elder members of the family shared stories from their youth.",
+    "turkish_translation": "Ailenin yaşça büyük üyeleri gençliklerinden hikayeler paylaştı."},
+
+  {"word": "elderly", "meaning": "yaşlı",
+    "sentence": "The elderly woman enjoyed her daily walks in the park.",
+    "turkish_translation": "Yaşlı kadın, günlük yürüyüşlerinin tadını çıkarıyordu."},
+
+  {"word": "elect", "meaning": "seçmek, seçilmek",
+    "sentence": "The citizens will elect a new mayor next month.",
+    "turkish_translation": "Vatandaşlar gelecek ay yeni bir belediye başkanı seçecekler."},
+
+  {"word": "elected", "meaning": "seçilmiş",
+    "sentence": "She was elected as the student council president.",
+    "turkish_translation": "Öğrenci konseyi başkanı olarak seçildi."},
+
+  {"word": "election", "meaning": "seçim",
+    "sentence": "The election results will be announced tomorrow.",
+    "turkish_translation": "Seçim sonuçları yarın açıklanacak."},
+
+  {"word": "elections", "meaning": "seçimler",
+    "sentence": "The country holds national elections every four years.",
+    "turkish_translation": "Ülke, her dört yılda bir ulusal seçimler düzenler."},
+
+  {"word": "electoral", "meaning": "seçimle ilgili",
+    "sentence": "The electoral process involves voting for political candidates.",
+    "turkish_translation": "Seçim süreci, siyasi adaylara oy verme işini içerir."},
+
+  {"word": "electric", "meaning": "elektrikli",
+    "sentence": "She drives an electric car to reduce her carbon footprint.",
+    "turkish_translation": "Karbondioksit ayak izini azaltmak için elektrikli araba kullanıyor."},
+
+  {"word": "electrical", "meaning": "elektrikle ilgili",
+    "sentence": "The engineer specializes in electrical circuit design.",
+    "turkish_translation": "Mühendis, elektrik devre tasarımında uzmanlaşmıştır."},
+
+  {"word": "electricity", "meaning": "elektrik",
+    "sentence": "The power outage left the entire city without electricity.",
+    "turkish_translation": "Elektrik kesintisi, tüm şehri elektriksiz bıraktı."},
+
+  {"word": "electro", "meaning": "elektro",
+    "sentence": "Electro music is known for its electronic sound.",
+    "turkish_translation": "Elektro müzik, elektronik sesiyle tanınır."},
+
+  {"word": "electron", "meaning": "elektron",
+    "sentence": "An electron is a subatomic particle with a negative charge.",
+    "turkish_translation": "Bir elektron, negatif yüke sahip bir atom altı parçacıktır."},
+
+  {"word": "electronic", "meaning": "elektronik",
+    "sentence": "The store sells a wide range of electronic gadgets.",
+    "turkish_translation": "Mağaza geniş bir elektronik cihaz yelpazesi satıyor."},
+
+  {"word": "electronics", "meaning": "elektronik cihazlar",
+    "sentence": "He is fascinated by the latest advancements in electronics.",
+    "turkish_translation": "O, elektronikteki en son gelişmelere hayran."},
+
+  {"word": "elegant", "meaning": "zarif",
+    "sentence": "She wore an elegant gown to the formal event.",
+    "turkish_translation": "Resmi etkinliğe zarif bir elbise giydi."},
+
+  {"word": "element", "meaning": "element",
+    "sentence": "Oxygen is an essential element for human survival.",
+    "turkish_translation": "Oksijen, insan hayatta kalması için temel bir elementtir."},
+
+  {"word": "elementary", "meaning": "ilkokul düzeyinde",
+    "sentence": "The book is designed for elementary school students.",
+    "turkish_translation": "Kitap, ilkokul öğrencileri için tasarlanmıştır."},
+
+  {"word": "elements", "meaning": "elementler",
+    "sentence": "Chemists study the properties of different elements.",
+    "turkish_translation": "Kimyagerler, farklı elementlerin özelliklerini inceler."},
+
+  {"word": "elephant", "meaning": "fil",
+    "sentence": "Tourists enjoyed watching the elephants at the wildlife sanctuary.",
+    "turkish_translation": "Turistler, vahşi yaşam koruma alanındaki fillerin izlemesinden keyif aldı."},
+
+  {"word": "elevation", "meaning": "yükseklik, rakım",
+    "sentence": "The mountain's elevation is over 10,000 feet.",
+    "turkish_translation": "Dağın yüksekliği 10.000 fitin üzerindedir."},
+
+  {"word": "eleven", "meaning": "on bir",
+    "sentence": "She turned eleven years old last week.",
+    "turkish_translation": "Geçen hafta on bir yaşına girdi."},
+
+  {"word": "eligibility", "meaning": "uygunluk",
+    "sentence": "The eligibility criteria for the scholarship are strict.",
+    "turkish_translation": "Burs için uygunluk kriterleri katıdır."},
+
+  {"word": "eligible", "meaning": "uygun",
+    "sentence": "Students with high grades are eligible for the honor roll.",
+    "turkish_translation": "Yüksek notlara sahip öğrenciler onur listesi için uygun."},
+
+  {"word": "eliminate", "meaning": "elemek, ortadan kaldırmak",
+    "sentence": "The goal is to eliminate waste and promote recycling.",
+    "turkish_translation": "Hedef, atığı elemek ve geri dönüşümü teşvik etmektir."},
+
+  {"word": "elimination", "meaning": "elemek, yok etme",
+    "sentence": "The team celebrated their victory after the elimination of their opponents.",
+    "turkish_translation": "Ekip, rakiplerinin elemesi sonrası zaferlerini kutladı."},
+
+  {"word": "elite", "meaning": "seçkin, üstün",
+    "sentence": "The elite athletes competed at the international level.",
+    "turkish_translation": "Seçkin sporcular uluslararası düzeyde yarıştılar."},
+
+  {"word": "elizabeth", "meaning": "Elizabeth (isim)",
+    "sentence": "Queen Elizabeth II has been on the throne for decades.",
+    "turkish_translation": "Kraliçe Elizabeth II, tahtta on yıllardır."},
+
+  {"word": "ellen", "meaning": "Ellen (isim)",
+    "sentence": "Ellen is a popular television host known for her humor.",
+    "turkish_translation": "Ellen, mizahıyla tanınan popüler bir televizyon sunucusudur."},
+
+  {"word": "elliott", "meaning": "Elliott (isim)",
+    "sentence": "Elliott is a skilled musician and songwriter.",
+    "turkish_translation": "Elliott, yetenekli bir müzisyen ve şarkı yazarıdır."},
+
+  {"word": "ellis", "meaning": "Ellis (isim)",
+    "sentence": "Ellis is an expert in environmental conservation.",
+    "turkish_translation": "Ellis, çevre koruma konusunda bir uzmandır."},
+
+  {"word": "else", "meaning": "başka",
+    "sentence": "Is there anything else you would like to order?",
+    "turkish_translation": "Sipariş etmek istediğiniz başka bir şey var mı?"},
+  {"word": "eng", "meaning": "eng (kısaltma)",
+    "sentence": "The software's user manual is available in both Eng and Fr.",
+    "turkish_translation": "Yazılımın kullanım kılavuzu hem Eng hem de Fr olarak mevcuttur."},
+
+  {"word": "engage", "meaning": "ilgilenmek, meşgul olmak",
+    "sentence": "He likes to engage in philosophical discussions.",
+    "turkish_translation": "Felsefi tartışmalara ilgilenmeyi sever."},
+
+  {"word": "engaged", "meaning": "meşgul, nişanlı",
+    "sentence": "The line is busy. The phone is currently engaged.",
+    "turkish_translation": "Hat meşgul. Telefon şu anda kullanılıyor."},
+
+  {"word": "engagement", "meaning": "nişan, taahhüt",
+    "sentence": "Their engagement was announced at a family gathering.",
+    "turkish_translation": "Nişanları, aile toplantısında duyuruldu."},
+
+  {"word": "engaging", "meaning": "çekici, ilgi çekici",
+    "sentence": "The speaker gave an engaging presentation on wildlife conservation.",
+    "turkish_translation": "Konuşmacı, vahşi yaşam koruma konusunda ilgi çekici bir sunum yaptı."},
+
+  {"word": "engine", "meaning": "motor, makine",
+    "sentence": "The car's engine started making a strange noise.",
+    "turkish_translation": "Arabanın motoru tuhaf bir ses çıkarmaya başladı."},
+
+  {"word": "engineer", "meaning": "mühendis",
+    "sentence": "She works as a software engineer at a tech company.",
+    "turkish_translation": "Bir teknoloji şirketinde yazılım mühendisi olarak çalışıyor."},
+
+  {"word": "engineering", "meaning": "mühendislik",
+    "sentence": "He studied electrical engineering in college.",
+    "turkish_translation": "Üniversitede elektrik mühendisliği okudu."},
+
+  {"word": "engineers", "meaning": "mühendisler",
+    "sentence": "Engineers design and build innovative solutions.",
+    "turkish_translation": "Mühendisler, yenilikçi çözümler tasarlar ve inşa ederler."},
+
+  {"word": "engines", "meaning": "motorlar, makineler",
+    "sentence": "These engines are designed for fuel efficiency.",
+    "turkish_translation": "Bu motorlar yakıt verimliliği için tasarlanmıştır."},
+
+  {"word": "england", "meaning": "İngiltere",
+    "sentence": "Ireland is located to the west of England.",
+    "turkish_translation": "İrlanda, İngiltere'nin batısında yer almaktadır."},
+
+  {"word": "english", "meaning": "İngilizce",
+    "sentence": "She speaks English fluently.",
+    "turkish_translation": "O, İngilizceyi akıcı bir şekilde konuşur."},
+
+  {"word": "enhance", "meaning": "artırmak, geliştirmek",
+    "sentence": "They used special effects to enhance the movie's visuals.",
+    "turkish_translation": "Film görsellerini geliştirmek için özel efektler kullanıldı."},
+
+  {"word": "enhanced", "meaning": "geliştirilmiş",
+    "sentence": "The new version of the software comes with enhanced features.",
+    "turkish_translation": "Yazılımın yeni sürümü geliştirilmiş özelliklerle geliyor."},
+
+  {"word": "enhancement", "meaning": "geliştirme, artırma",
+    "sentence": "The company invested in the enhancement of its customer service.",
+    "turkish_translation": "Şirket, müşteri hizmetlerini geliştirmeye yatırım yaptı."},
+
+  {"word": "enhancements", "meaning": "geliştirmeler, artırmalar",
+    "sentence": "The software received several enhancements in the latest update.",
+    "turkish_translation": "Yazılım, en son güncellemede birkaç geliştirme aldı."},
+
+  {"word": "enhancing", "meaning": "geliştirme, artırma",
+    "sentence": "Regular exercise is key to enhancing overall health.",
+    "turkish_translation": "Düzenli egzersiz, genel sağlığı artırmak için önemlidir."},
+
+  {"word": "enjoy", "meaning": "keyif almak",
+    "sentence": "They enjoyed their vacation by the beach.",
+    "turkish_translation": "Tatillerini sahil kenarında keyif alarak geçirdiler."},
+
+  {"word": "enjoyed", "meaning": "keyif alınmış",
+    "sentence": "She enjoyed reading the novel from start to finish.",
+    "turkish_translation": "Romanı baştan sona keyifle okudu."},
+
+  {"word": "enjoying", "meaning": "keyif alınan",
+    "sentence": "They are currently enjoying a picnic in the park.",
+    "turkish_translation": "Şu anda parkta piknik keyfi yaşıyorlar."},
+
+  {"word": "enlarge", "meaning": "büyütmek",
+    "sentence": "Click on the image to enlarge it.",
+    "turkish_translation": "Resmi büyütmek için üzerine tıklayın."},
+
+  {"word": "enlargement", "meaning": "büyütme",
+    "sentence": "The enlargement of the photo revealed hidden details.",
+    "turkish_translation": "Fotoğrafın büyütülmesi gizli detayları ortaya çıkardı."},
+
+  {"word": "enormous", "meaning": "muazzam, büyük",
+    "sentence": "The company made an enormous profit last year.",
+    "turkish_translation": "Şirket, geçen yıl muazzam bir kar elde etti."},
+
+  {"word": "enough", "meaning": "yeterli",
+    "sentence": "There is enough food for everyone.",
+    "turkish_translation": "Herkes için yeterli yiyecek var."},
+
+  {"word": "enquiries", "meaning": "sorgular, soruşturmalar",
+    "sentence": "The customer service department handles inquiries from customers.",
+    "turkish_translation": "Müşteri hizmetleri departmanı, müşterilerden gelen soruları yönetir."},
+
+  {"word": "enquiry", "meaning": "sorgu, soruşturma",
+    "sentence": "The police launched an enquiry into the incident.",
+    "turkish_translation": "Polis, olayla ilgili bir soruşturma başlattı."},
+
+  {"word": "enrolled", "meaning": "kayıtlı",
+    "sentence": "She is enrolled in a photography course.",
+    "turkish_translation": "Bir fotoğrafçılık kursuna kayıtlı."},
+
+  {"word": "enrollment", "meaning": "kayıt, katılım",
+    "sentence": "The university saw a significant increase in enrollment this year.",
+    "turkish_translation": "Üniversite bu yıl kayıtlarda önemli bir artış gördü."},
+
+  {"word": "ensemble", "meaning": "grup, topluluk",
+    "sentence": "The musical ensemble performed a beautiful concert.",
+    "turkish_translation": "Müzik topluluğu güzel bir konser verdi."},
+
+  {"word": "ensure", "meaning": "emin olmak, sağlamak",
+    "sentence": "Please ensure that all doors are locked before leaving.",
+    "turkish_translation": "Lütfen çıkarken tüm kapıların kilitli olduğundan emin olun."},
+
+  {"word": "ensures", "meaning": "emin olur, sağlar",
+    "sentence": "Regular maintenance ensures the longevity of the equipment.",
+    "turkish_translation": "Düzenli bakım, ekipmanın uzun ömürlülüğünü sağlar."},
+
+  {"word": "ensuring", "meaning": "emin olma, sağlama",
+    "sentence": "He is responsible for ensuring the quality of the products.",
+    "turkish_translation": "Ürünlerin kalitesini sağlamaktan sorumludur."},
+
+  {"word": "ent", "meaning": "ent (tıbbi terim)",
+    "sentence": "The doctor noted 'ENT' in the patient's medical record.",
+    "turkish_translation": "Doktor, hastanın tıbbi kaydına 'ENT' not etti."},
+
+  {"word": "enter", "meaning": "girmek, katılmak",
+    "sentence": "Please enter your password to access the account.",
+    "turkish_translation": "Hesaba erişmek için lütfen şifrenizi girin."},
+
+  {"word": "entered", "meaning": "girilmiş, katılım gösterilmiş",
+    "sentence": "She entered the competition and won first place.",
+    "turkish_translation": "Yarışmaya katıldı ve birinci oldu."},
+
+  {"word": "entering", "meaning": "girmek, katılmak",
+    "sentence": "They are entering the building for a business meeting.",
+    "turkish_translation": "İş toplantısı için binaya giriyorlar."},
+
+  {"word": "enterprise", "meaning": "işletme, girişim",
+    "sentence": "Starting a new enterprise requires careful planning.",
+    "turkish_translation": "Yeni bir işletme başlatmak dikkatli planlama gerektirir."},
+
+  {"word": "enterprises", "meaning": "işletmeler, girişimler",
+    "sentence": "Large enterprises often have a global presence.",
+    "turkish_translation": "Büyük işletmeler genellikle küresel bir varlığa sahiptir."},
+
+  {"word": "enters", "meaning": "girer, katılır",
+    "sentence": "She enters the office with a smile every morning.",
+    "turkish_translation": "Her sabah gülümseyerek ofise girer."},
+
+  {"word": "entertaining", "meaning": "eğlenceli, keyifli",
+    "sentence": "The book is an entertaining read with a lot of humor.",
+    "turkish_translation": "Kitap, çok sayıda mizahla dolu eğlenceli bir okuma."},
+
+  {"word": "entertainment", "meaning": "eğlence",
+    "sentence": "The theme park offers a variety of entertainment options.",
+    "turkish_translation": "Tema parkı çeşitli eğlence seçenekleri sunar."},
+
+  {"word": "entire", "meaning": "tamamı, tüm",
+    "sentence": "The entire city celebrated the victory.",
+    "turkish_translation": "Tüm şehir zaferi kutladı."},
+
+  {"word": "entirely", "meaning": "tamamen",
+    "sentence": "Her opinion is entirely different from mine.",
+    "turkish_translation": "Onun görüşü benimkinden tamamen farklı."},
+
+  {"word": "entities", "meaning": "varlıklar, kuruluşlar",
+    "sentence": "The project involves cooperation between multiple entities.",
+    "turkish_translation": "Proje, birden fazla kuruluş arasındaki işbirliğini içerir."},
+
+  {"word": "entitled", "meaning": "hak sahibi",
+    "sentence": "The author is entitled to royalties for each book sold.",
+    "turkish_translation": "Yazar, satılan her kitap için telif hakkına sahiptir."},
+
+  {"word": "entity", "meaning": "varlık, kuruluş",
+    "sentence": "The company is considered a separate legal entity.",
+    "turkish_translation": "Şirket ayrı bir yasal varlık olarak kabul edilir."},
+
+  {"word": "entrance", "meaning": "giriş",
+    "sentence": "The main entrance to the museum is on the left.",
+    "turkish_translation": "Müzenin ana girişi soldadır."},
+
+  {"word": "entrepreneur", "meaning": "girişimci",
+    "sentence": "He started his own business and became a successful entrepreneur.",
+    "turkish_translation": "Kendi işini kurdu ve başarılı bir girişimci oldu."},
+
+  {"word": "entrepreneurs", "meaning": "girişimciler",
+    "sentence": "Entrepreneurs play a crucial role in driving innovation.",
+    "turkish_translation": "Girişimciler, yeniliği teşvik etmede kritik bir rol oynarlar."},
+
+  {"word": "entries", "meaning": "girdiler, kayıtlar",
+    "sentence": "Please submit your entries for the photography contest by the deadline.",
+    "turkish_translation": "Fotoğraf yarışması için girdilerinizi son teslim tarihine kadar gönderin."},
+
+  {"word": "entry", "meaning": "giriş, kayıt",
+    "sentence": "The diary provides a daily entry of her thoughts.",
+    "turkish_translation": "Günlük, düşüncelerinin günlük bir kaydını sağlar."},
+
+  {"word": "envelope", "meaning": "zarf",
+    "sentence": "The letter was sealed inside a plain envelope.",
+    "turkish_translation": "Mektup düz bir zarfın içine mühürlenmişti."},
+
+  {"word": "environment", "meaning": "çevre, ortam",
+    "sentence": "We must take care of the environment for future generations.",
+    "turkish_translation": "Gelecek nesiller için çevreyi korumalıyız."},
+
+  {"word": "environmental", "meaning": "çevresel, çevreyle ilgili",
+    "sentence": "The company is committed to implementing environmental initiatives.",
+    "turkish_translation": "Şirket, çevresel girişimleri uygulamaya kararlıdır."},
+
+  {"word": "environments", "meaning": "ortamlar, çevreler",
+    "sentence": "Different programming languages are suited for different environments.",
+    "turkish_translation": "Farklı programlama dilleri farklı ortamlar için uygundur."},
+
+  {"word": "enzyme", "meaning": "enzim",
+    "sentence": "Enzymes play a vital role in chemical reactions in the body.",
+    "turkish_translation": "Enzimler, vücuttaki kimyasal reaksiyonlarda hayati bir rol oynar."},
+
+  {"word": "eos", "meaning": "eos (fotoğraf makinesi markası)",
+    "sentence": "Her new camera is an EOS model.",
+    "turkish_translation": "Yeni fotoğraf makinesi bir EOS modeli."},
+
+  {"word": "ep", "meaning": "ep (kısaltma)",
+    "sentence": "He released a new EP featuring five songs.",
+    "turkish_translation": "Beş şarkının yer aldığı yeni bir EP yayınladı."},
+
+  {"word": "epa", "meaning": "EPA (Çevre Koruma Ajansı) kısaltması",
+    "sentence": "The EPA monitors and regulates environmental issues.",
+    "turkish_translation": "EPA, çevresel konuları izler ve düzenler."},
+
+  {"word": "epic", "meaning": "epik, destansı",
+    "sentence": "The movie tells the epic tale of a hero's journey.",
+    "turkish_translation": "Film, bir kahramanın yolculuğunun epik hikayesini anlatıyor."},
+
+  {"word": "epinions", "meaning": "Epinions (eski bir online inceleme platformu)",
+    "sentence": "He wrote a review on Epinions about the product.",
+    "turkish_translation": "Ürün hakkında Epinions'da bir inceleme yazdı."},
+  {"word": "epinionscom", "meaning": "Epinions.com (online inceleme platformu)",
+    "sentence": "She found helpful reviews on Epinions.com before making a purchase.",
+    "turkish_translation": "Satın almadan önce Epinions.com'da yardımcı incelemeler buldu."},
+
+  {"word": "episode", "meaning": "bölüm, olay",
+    "sentence": "The latest episode of the TV show was full of suspense.",
+    "turkish_translation": "Televizyon programının en son bölümü dolu dolu gerilimliydi."},
+
+  {"word": "episodes", "meaning": "bölümler, olaylar",
+    "sentence": "The series has multiple episodes exploring different storylines.",
+    "turkish_translation": "Dizi, farklı hikayeleri keşfeden çok sayıda bölüme sahiptir."},
+
+  {"word": "epson", "meaning": "Epson (bir teknoloji şirketi)",
+    "sentence": "He uses an Epson printer for high-quality prints.",
+    "turkish_translation": "Yüksek kaliteli baskılar için Epson yazıcı kullanıyor."},
+
+  {"word": "eq", "meaning": "eq (kısaltma)",
+    "sentence": "Adjust the audio settings using the bass and treble EQ.",
+    "turkish_translation": "Ses ayarlarını bas ve tiz EQ'sunu kullanarak ayarlayın."},
+
+  {"word": "equal", "meaning": "eşit",
+    "sentence": "All team members should be treated with equal respect.",
+    "turkish_translation": "Tüm takım üyelerine eşit saygı gösterilmelidir."},
+
+  {"word": "equality", "meaning": "eşitlik",
+    "sentence": "The organization promotes gender equality in the workplace.",
+    "turkish_translation": "Organizasyon, iş yerinde cinsiyet eşitliğini destekliyor."},
+
+  {"word": "equally", "meaning": "eşit derecede",
+    "sentence": "Both options are equally appealing to me.",
+    "turkish_translation": "Her iki seçenek de benim için eşit derecede çekici."},
+
+  {"word": "equation", "meaning": "denklem",
+    "sentence": "Solving this equation requires advanced mathematical knowledge.",
+    "turkish_translation": "Bu denklemi çözmek için ileri matematik bilgisi gereklidir."},
+
+  {"word": "equations", "meaning": "denklemler",
+    "sentence": "The physics textbook covers various complex equations.",
+    "turkish_translation": "Fizik ders kitabı çeşitli karmaşık denklemleri kapsar."},
+
+  {"word": "equilibrium", "meaning": "denge",
+    "sentence": "The ecosystem relies on a delicate balance of equilibrium.",
+    "turkish_translation": "Ekosistem, hassas bir denge dengesine dayanır."},
+
+  {"word": "equipment", "meaning": "ekipman",
+    "sentence": "The laboratory is equipped with state-of-the-art equipment.",
+    "turkish_translation": "Laboratuvar, son teknoloji ekipmanlarla donatılmıştır."},
+
+  {"word": "equipped", "meaning": "donatılmış",
+    "sentence": "The car is equipped with advanced safety features.",
+    "turkish_translation": "Araba, ileri güvenlik özellikleriyle donatılmıştır."},
+
+  {"word": "equity", "meaning": "özsermaye, adalet",
+    "sentence": "The company aims to achieve gender pay equity.",
+    "turkish_translation": "Şirket, cinsiyet maaşı adaletini sağlamayı amaçlıyor."},
+
+  {"word": "equivalent", "meaning": "eşdeğer",
+    "sentence": "The metric system has an equivalent measurement for ounces.",
+    "turkish_translation": "Metrik sistem, ons için eşdeğer bir ölçümü içerir."},
+
+  {"word": "er", "meaning": "er (tıbbi terim)",
+    "sentence": "The doctor's note mentioned 'ER' for emergency care.",
+    "turkish_translation": "Doktorun notunda acil bakım için 'ER' belirtildi."},
+
+  {"word": "era", "meaning": "çağ, dönem",
+    "sentence": "The Renaissance was a significant era in art history.",
+    "turkish_translation": "Rönesans, sanat tarihinde önemli bir dönemdi."},
+
+  {"word": "eric", "meaning": "Eric (bir isim)",
+    "sentence": "Eric is known for his exceptional problem-solving skills.",
+    "turkish_translation": "Eric, olağanüstü problem çözme becerileriyle tanınır."},
+
+  {"word": "ericsson", "meaning": "Ericsson (bir teknoloji şirketi)",
+    "sentence": "Ericsson specializes in telecommunications equipment.",
+    "turkish_translation": "Ericsson, telekomünikasyon ekipmanlarında uzmanlaşmıştır."},
+
+  {"word": "erik", "meaning": "Erik (bir isim)",
+    "sentence": "Erik enjoys spending time outdoors and hiking.",
+    "turkish_translation": "Erik, açık havada vakit geçirmekten ve yürüyüş yapmaktan hoşlanır."},
+
+  {"word": "erotic", "meaning": "erotik",
+    "sentence": "The novel contains explicit erotic scenes.",
+    "turkish_translation": "Roman açıklayıcı erotik sahneler içeriyor."},
+
+  {"word": "erotica", "meaning": "erotizm, erotik içerik",
+    "sentence": "She writes stories that explore themes of sensuality and erotica.",
+    "turkish_translation": "Duygusallık ve erotik konuları keşfeden hikayeler yazıyor."},
+
+  {"word": "erp", "meaning": "ERP (Kurumsal Kaynak Planlaması) kısaltması",
+    "sentence": "The company implemented an ERP system to streamline operations.",
+    "turkish_translation": "Şirket, işlemleri hızlandırmak için bir ERP sistemi uyguladı."},
+
+  {"word": "error", "meaning": "hata",
+    "sentence": "There was an error in the calculation of the final score.",
+    "turkish_translation": "Son puanın hesaplamasında bir hata vardı."},
+
+  {"word": "errors", "meaning": "hatalar",
+    "sentence": "The software update fixed several errors and glitches.",
+    "turkish_translation": "Yazılım güncellemesi birkaç hatayı ve hata düzeltmelerini düzeltti."},
+
+  {"word": "es", "meaning": "es (kısaltma)",
+    "sentence": "The title of the book is 'The Adventures of Huckleberry Finn,' often referred to as 'Huck Finn.'",
+    "turkish_translation": "Kitabın başlığı 'Huckleberry Finn'in Maceraları' dır, genellikle 'Huck Finn' olarak adlandırılır."},
+
+  {"word": "escape", "meaning": "kaçmak",
+    "sentence": "The prisoner managed to escape from the jail.",
+    "turkish_translation": "Mahkum hapishaneden kaçmayı başardı."},
+
+  {"word": "escort", "meaning": "refakat etmek, eskort",
+    "sentence": "The security guard will escort you to the entrance.",
+    "turkish_translation": "Güvenlik görevlisi sizi girişe refakat edecek."},
+
+  {"word": "escorts", "meaning": "refakatçiler, eskortlar",
+    "sentence": "The VIP guests were accompanied by personal escorts.",
+    "turkish_translation": "VIP konuklar kişisel refakatçiler eşliğindeydi."},
+
+  {"word": "especially", "meaning": "özellikle",
+    "sentence": "I love spending time in nature, especially by the sea.",
+    "turkish_translation": "Doğada vakit geçirmeyi özellikle deniz kenarında severim."},
+
+  {"word": "espn", "meaning": "ESPN (spor medya şirketi)",
+    "sentence": "He watches ESPN to keep up with the latest sports news.",
+    "turkish_translation": "En son spor haberlerini takip etmek için ESPN izler."},
+
+  {"word": "essay", "meaning": "deneme, makale",
+    "sentence": "She wrote an insightful essay on the effects of climate change.",
+    "turkish_translation": "İklim değişikliğinin etkileri üzerine içgörülü bir deneme yazdı."},
+
+  {"word": "essays", "meaning": "denemeler, makaleler",
+    "sentence": "The book is a collection of essays by various authors.",
+    "turkish_translation": "Kitap, çeşitli yazarların denemelerini içeren bir derlemedir."},
+
+  {"word": "essence", "meaning": "esans, öz",
+    "sentence": "The essence of her argument was that education is the key to progress.",
+    "turkish_translation": "Argümanının özü, ilerlemenin anahtarı olan eğitimdir."},
+
+  {"word": "essential", "meaning": "önemli, gerekli",
+    "sentence": "Regular exercise is essential for maintaining good health.",
+    "turkish_translation": "Düzenli egzersiz, iyi sağlığı sürdürmek için önemlidir."},
+
+  {"word": "essentially", "meaning": "esasen, aslında",
+    "sentence": "He is essentially the leader of the research team.",
+    "turkish_translation": "O, aslında araştırma ekibinin lideridir."},
+
+  {"word": "essentials", "meaning": "temel ihtiyaçlar",
+    "sentence": "Make sure to pack your travel essentials before the trip.",
+    "turkish_translation": "Yolculuktan önce seyahat için temel ihtiyaçlarınızı yanınıza aldığınızdan emin olun."},
+
+  {"word": "essex", "meaning": "Essex (bir bölge adı)",
+    "sentence": "He grew up in the county of Essex, England.",
+    "turkish_translation": "İngiltere'nin Essex ilinde büyüdü."},
+
+  {"word": "est", "meaning": "est (kısaltma)",
+    "sentence": "The event is scheduled for August 15th, est.",
+    "turkish_translation": "Etkinlik 15 Ağustos'ta planlandı, tahmini olarak."},
+
+  {"word": "establish", "meaning": "kurmak, oluşturmak",
+    "sentence": "He worked hard to establish his own business.",
+    "turkish_translation": "Kendi işini kurmak için çok çalıştı."},
+
+  {"word": "established", "meaning": "kurulmuş, oluşturulmuş",
+    "sentence": "The company is an established player in the tech industry.",
+    "turkish_translation": "Şirket, teknoloji sektöründe kurulmuş bir oyuncudur."},
+
+  {"word": "establishing", "meaning": "kurma, oluşturma",
+    "sentence": "The committee is responsible for establishing new guidelines.",
+    "turkish_translation": "Komite, yeni kurallar oluşturmaktan sorumludur."},
+
+  {"word": "establishment", "meaning": "kuruluş, tesis",
+    "sentence": "The establishment of the university dates back to the 19th century.",
+    "turkish_translation": "Üniversitenin kuruluşu 19. yüzyıla kadar uzanır."},
+
+  {"word": "estate", "meaning": "emlak, mülk",
+    "sentence": "He inherited a large estate from his grandparents.",
+    "turkish_translation": "Büyükannesi ve büyükbabasından büyük bir mülk miras aldı."},
+
+  {"word": "estates", "meaning": "mülkler, emlaklar",
+    "sentence": "The real estate company specializes in luxury estates.",
+    "turkish_translation": "Gayrimenkul şirketi lüks mülklerde uzmanlaşmıştır."},
+
+  {"word": "estimate", "meaning": "tahmin, tahmin etmek",
+    "sentence": "Can you provide an estimate for the project's completion date?",
+    "turkish_translation": "Projenin tamamlanma tarihi için bir tahmin verebilir misiniz?"},
+
+  {"word": "estimated", "meaning": "tahmini, yaklaşık",
+    "sentence": "The estimated cost of the renovation is $50,000.",
+    "turkish_translation": "Dönüşümün tahmini maliyeti 50,000 dolar."},
+
+  {"word": "estimates", "meaning": "tahminler",
+    "sentence": "According to experts' estimates, the population will reach 10 billion by 2050.",
+    "turkish_translation": "Uzman tahminlerine göre, nüfus 2050 yılına kadar 10 milyara ulaşacak."},
+
+  {"word": "estimation", "meaning": "tahmin, değerlendirme",
+    "sentence": "The engineer's estimation for the project duration was accurate.",
+    "turkish_translation": "Mühendisin proje süresi için tahmini doğruydu."},
+
+  {"word": "estonia", "meaning": "Estonya (bir ülke adı)",
+    "sentence": "She visited Estonia last summer and fell in love with its charm.",
+    "turkish_translation": "Geçen yaz Estonya'yı ziyaret etti ve cazibesine kapıldı."},
+
+  {"word": "et", "meaning": "ve (Latince kısaltma)",
+    "sentence": "The recipe requires flour, sugar, and butter, et cetera.",
+    "turkish_translation": "Tarif un, şeker ve tereyağı gibi şeyler gerektirir, ve saire."},
+
+  {"word": "eternal", "meaning": "ebedi, sonsuz",
+    "sentence": "Their love for each other felt eternal.",
+    "turkish_translation": "Birbirlerine olan aşkları sonsuz gibi hissediliyordu."},
+
+  {"word": "ethernet", "meaning": "Ethernet (bir ağ teknolojisi)",
+    "sentence": "Ethernet is a commonly used technology for wired network connections.",
+    "turkish_translation": "Ethernet, kablolu ağ bağlantıları için yaygın olarak kullanılan bir teknolojidir."},
+
+  {"word": "ethical", "meaning": "etik, ahlaki",
+    "sentence": "The company's ethical practices contribute to its positive reputation.",
+    "turkish_translation": "Şirketin etik uygulamaları olumlu itibarına katkı sağlar."},
+
+  {"word": "ethics", "meaning": "etik, ahlak",
+    "sentence": "The course covers various topics related to business ethics.",
+    "turkish_translation": "Kurs, iş etiği ile ilgili çeşitli konuları kapsar."},
+
+  {"word": "ethiopia", "meaning": "Etiyopya (bir ülke adı)",
+    "sentence": "She studied the history and culture of Ethiopia.",
+    "turkish_translation": "Etiyopya'nın tarihini ve kültürünü inceledi."},
+
+  {"word": "ethnic", "meaning": "etnik",
+    "sentence": "The city is known for its diverse ethnic communities.",
+    "turkish_translation": "Şehir, çeşitli etnik topluluklarıyla tanınır."},
+
+  {"word": "eu", "meaning": "EU (Avrupa Birliği) kısaltması",
+    "sentence": "Traveling within the EU is easier due to the Schengen Agreement.",
+    "turkish_translation": "Schengen Anlaşması nedeniyle AB içinde seyahat etmek daha kolaydır."},
+
+  {"word": "eugene", "meaning": "Eugene (bir isim)",
+    "sentence": "Eugene is a talented musician and songwriter.",
+    "turkish_translation": "Eugene, yetenekli bir müzisyen ve söz yazarıdır."},
+
+  {"word": "eur", "meaning": "EUR (Euro para birimi) kısaltması",
+    "sentence": "The cost of the item is 50 EUR.",
+    "turkish_translation": "Ürünün maliyeti 50 EUR."},
+  {"word": "euro", "meaning": "euro (para birimi)",
+    "sentence": "The price of the item is 25 euros.",
+    "turkish_translation": "Ürünün fiyatı 25 euro."},
+
+  {"word": "europe", "meaning": "Avrupa",
+    "sentence": "She traveled across Europe during her summer vacation.",
+    "turkish_translation": "Yaz tatili sırasında Avrupa'yı dolaştı."},
+
+  {"word": "european", "meaning": "Avrupalı",
+    "sentence": "The European Union consists of multiple member countries.",
+    "turkish_translation": "Avrupa Birliği, birden fazla üye ülkeden oluşur."},
+
+  {"word": "euros", "meaning": "euro (para birimi)",
+    "sentence": "The cost of the package is 150 euros.",
+    "turkish_translation": "Paketin maliyeti 150 euro."},
+
+  {"word": "ev", "meaning": "ev (kısaltma)",
+    "sentence": "He's hosting a party at his place.",
+    "turkish_translation": "Evde bir parti düzenliyor."},
+
+  {"word": "eva", "meaning": "Eva (bir isim)",
+    "sentence": "Eva is an accomplished artist known for her paintings.",
+    "turkish_translation": "Eva, tablolarıyla tanınan yetenekli bir sanatçıdır."},
+
+  {"word": "eval", "meaning": "eval (kısaltma, programlama terimi)",
+    "sentence": "The program uses eval to execute dynamic code.",
+    "turkish_translation": "Program, dinamik kodu çalıştırmak için eval kullanır."},
+
+  {"word": "evaluate", "meaning": "değerlendirmek",
+    "sentence": "The team will evaluate the performance of the new software.",
+    "turkish_translation": "Ekip, yeni yazılımın performansını değerlendirecek."},
+
+  {"word": "evaluated", "meaning": "değerlendirilmiş",
+    "sentence": "The project's success is evaluated based on various criteria.",
+    "turkish_translation": "Projenin başarısı çeşitli kriterlere göre değerlendirilir."},
+
+  {"word": "evaluating", "meaning": "değerlendirme",
+    "sentence": "The company is currently evaluating its marketing strategies.",
+    "turkish_translation": "Şirket, şu anda pazarlama stratejilerini değerlendiriyor."},
+
+  {"word": "evaluation", "meaning": "değerlendirme",
+    "sentence": "The teacher provided feedback as part of the evaluation process.",
+    "turkish_translation": "Öğretmen, değerlendirme sürecinin bir parçası olarak geribildirim sağladı."},
+
+  {"word": "evaluations", "meaning": "değerlendirmeler",
+    "sentence": "Customer evaluations help improve the quality of the product.",
+    "turkish_translation": "Müşteri değerlendirmeleri, ürünün kalitesini artırmada yardımcı olur."},
+
+  {"word": "evanescence", "meaning": "geçicilik, kaybolma",
+    "sentence": "The beauty of nature has an evanescence that captivates us.",
+    "turkish_translation": "Doğanın güzelliği, bizi büyüleyen bir geçiciliğe sahiptir."},
+
+  {"word": "evans", "meaning": "Evans (bir soyadı)",
+    "sentence": "The author of the book is Jane Evans.",
+    "turkish_translation": "Kitabın yazarı Jane Evans."},
+
+  {"word": "eve", "meaning": "akşam, gece öncesi",
+    "sentence": "They planned a special dinner for New Year's Eve.",
+    "turkish_translation": "Yılbaşı gecesi için özel bir akşam yemeği planladılar."},
+
+  {"word": "even", "meaning": "hatta, hatta daha, bile",
+    "sentence": "He studied hard to achieve success, even during challenging times.",
+    "turkish_translation": "Zorlu zamanlarda bile başarı elde etmek için sıkı çalıştı."},
+
+  {"word": "evening", "meaning": "akşam",
+    "sentence": "They went for a walk in the park during the evening.",
+    "turkish_translation": "Akşamleyin parkta yürüyüşe çıktılar."},
+
+  {"word": "event", "meaning": "etkinlik, olay",
+    "sentence": "The charity event raised funds for a local shelter.",
+    "turkish_translation": "Hayır etkinliği, yerel bir barınağa fon sağladı."},
+
+  {"word": "events", "meaning": "etkinlikler, olaylar",
+    "sentence": "The calendar is filled with exciting events throughout the year.",
+    "turkish_translation": "Takvim, yıl boyunca heyecan verici etkinliklerle doludur."},
+
+  {"word": "eventually", "meaning": "sonunda, nihayetinde",
+    "sentence": "After many attempts, he eventually succeeded.",
+    "turkish_translation": "Birçok denemenin ardından sonunda başarılı oldu."},
+
+  {"word": "ever", "meaning": "hiç, her zaman",
+    "sentence": "Have you ever traveled to a different continent?",
+    "turkish_translation": "Hiç farklı bir kıtaya seyahat ettiniz mi?"},
+
+  {"word": "every", "meaning": "her",
+    "sentence": "She visits her grandmother every Sunday.",
+    "turkish_translation": "Her Pazar büyükanneyi ziyaret eder."},
+
+  {"word": "everybody", "meaning": "herkes",
+    "sentence": "Everybody is excited about the upcoming party.",
+    "turkish_translation": "Herkes yaklaşan partiye heyecanlı."},
+
+  {"word": "everyday", "meaning": "her gün",
+    "sentence": "He wears casual clothes for his everyday activities.",
+    "turkish_translation": "Günlük aktiviteleri için rahat kıyafetler giyer."},
+
+  {"word": "everyone", "meaning": "herkes",
+    "sentence": "Everyone is invited to attend the meeting.",
+    "turkish_translation": "Herkes toplantıya katılmaya davet edildi."},
+
+  {"word": "everything", "meaning": "her şey",
+    "sentence": "She packed everything she needed for the trip.",
+    "turkish_translation": "Yolculuk için ihtiyaç duyduğu her şeyi paketledi."},
+
+  {"word": "everywhere", "meaning": "her yerde",
+    "sentence": "They searched for their lost dog everywhere.",
+    "turkish_translation": "Kaybolan köpeklerini her yerde aradılar."},
+
+  {"word": "evidence", "meaning": "kanıt",
+    "sentence": "There is strong evidence supporting the theory.",
+    "turkish_translation": "Teoriyi destekleyen güçlü kanıtlar var."},
+
+  {"word": "evident", "meaning": "açık, belirgin",
+    "sentence": "Her dedication to the project was evident in her work.",
+    "turkish_translation": "Proje için gösterdiği özveri, işinde belirgindi."},
+
+  {"word": "evil", "meaning": "kötü, şeytani",
+    "sentence": "The villain in the story is known for his evil deeds.",
+    "turkish_translation": "Hikayedeki kötü karakter, kötü işleriyle tanınır."},
+
+  {"word": "evolution", "meaning": "evrim",
+    "sentence": "The theory of evolution explains the diversity of life.",
+    "turkish_translation": "Evrim teorisi, yaşamın çeşitliliğini açıklar."},
+
+  {"word": "ex", "meaning": "eski, önceki",
+    "sentence": "He's my ex-boyfriend; we broke up last year.",
+    "turkish_translation": "O benim eski erkek arkadaşım; geçen yıl ayrıldık."},
+
+  {"word": "exact", "meaning": "tam, kesin",
+    "sentence": "She provided the exact location of the meeting.",
+    "turkish_translation": "Toplantının tam yerini verdi."},
+
+  {"word": "exactly", "meaning": "tam olarak",
+    "sentence": "The instructions should be followed exactly.",
+    "turkish_translation": "Talimatlar tam olarak takip edilmelidir."},
+
+  {"word": "exam", "meaning": "sınav",
+    "sentence": "He studied late into the night for his final exam.",
+    "turkish_translation": "Son sınavı için gece geç saatlere kadar çalıştı."},
+
+  {"word": "examination", "meaning": "muayene, inceleme",
+    "sentence": "The doctor performed a thorough examination of the patient.",
+    "turkish_translation": "Doktor, hastayı detaylı bir muayene yaptı."},
+
+  {"word": "examinations", "meaning": "sınavlar, muayeneler",
+    "sentence": "The schedule for the midterm examinations is posted on the website.",
+    "turkish_translation": "Ara sınavlarının programı web sitesine yayınlandı."},
+
+  {"word": "examine", "meaning": "incelemek, muayene etmek",
+    "sentence": "The detective will examine the crime scene for evidence.",
+    "turkish_translation": "Detektif, delil aramak için olay yerini inceleyecek."},
+
+  {"word": "examined", "meaning": "incelenmiş, muayene edilmiş",
+    "sentence": "The samples were examined under a microscope.",
+    "turkish_translation": "Örnekler mikroskop altında incelendi."},
+
+  {"word": "examines", "meaning": "inceleyen, muayene eden",
+    "sentence": "The researcher examines the behavior of certain animal species.",
+    "turkish_translation": "Araştırmacı, belirli hayvan türlerinin davranışlarını inceler."},
+
+  {"word": "examining", "meaning": "inceleme, muayene",
+    "sentence": "The scientists are currently examining the effects of the new drug.",
+    "turkish_translation": "Bilim insanları, yeni ilacın etkilerini şu anda inceliyor."},
+
+  {"word": "example", "meaning": "örnek",
+    "sentence": "She provided an example to illustrate the concept.",
+    "turkish_translation": "Kavramı açıklamak için bir örnek verdi."},
+
+  {"word": "examples", "meaning": "örnekler",
+    "sentence": "The textbook contains various examples to help students understand.",
+    "turkish_translation": "Ders kitabı, öğrencilerin anlamalarına yardımcı olmak için çeşitli örnekler içerir."},
+
+  {"word": "exams", "meaning": "sınavlar",
+    "sentence": "The final exams are scheduled for next week.",
+    "turkish_translation": "Son sınavlar önümüzdeki hafta için planlandı."},
+
+  {"word": "exceed", "meaning": "aşmak, üstün olmak",
+    "sentence": "The demand for the product exceeded their expectations.",
+    "turkish_translation": "Ürünün talebi beklentilerini aştı."},
+
+  {"word": "excel", "meaning": "üstün olmak, başarı göstermek",
+    "sentence": "She excels in both academics and sports.",
+    "turkish_translation": "O, hem akademik alanda hem de sporlarda başarılıdır."},
+
+  {"word": "excellence", "meaning": "üstünlük, mükemmellik",
+    "sentence": "The company's commitment to excellence is reflected in its products.",
+    "turkish_translation": "Şirketin mükemmelliğe olan bağlılığı ürünlerine yansır."},
+
+  {"word": "excellent", "meaning": "mükemmel, üstün",
+    "sentence": "The restaurant received excellent reviews for its cuisine.",
+    "turkish_translation": "Restoran, mutfağı için mükemmel yorumlar aldı."},
+
+  {"word": "except", "meaning": "hariç",
+    "sentence": "Everyone attended the meeting except for John.",
+    "turkish_translation": "John hariç herkes toplantıya katıldı."},
+
+  {"word": "exception", "meaning": "istisna",
+    "sentence": "The policy has no exceptions; it applies to all employees.",
+    "turkish_translation": "Politikanın istisnası yok; tüm çalışanlara uygulanır."},
+
+  {"word": "exceptional", "meaning": "olağanüstü, istisnai",
+    "sentence": "Her exceptional talent in art earned her numerous awards.",
+    "turkish_translation": "Sanatta gösterdiği olağanüstü yetenek, ona birçok ödül kazandırdı."},
+
+  {"word": "exceptions", "meaning": "istisnalar",
+    "sentence": "There are a few exceptions to the rule.",
+    "turkish_translation": "Kurala birkaç istisna vardır."},
+
+  {"word": "excerpt", "meaning": "alıntı, özet",
+    "sentence": "She read an excerpt from the book during the presentation.",
+    "turkish_translation": "Sunum sırasında kitaptan bir alıntı okudu."},
+
+  {"word": "excess", "meaning": "aşırı, fazla",
+    "sentence": "Consuming excess sugar can lead to health problems.",
+    "turkish_translation": "Aşırı şeker tüketimi sağlık sorunlarına yol açabilir."},
+
+  {"word": "excessive", "meaning": "aşırı, abartılı",
+    "sentence": "His excessive spending habits caused financial difficulties.",
+    "turkish_translation": "Aşırı harcama alışkanlıkları mali zorluklara neden oldu."},
+
+  {"word": "exchange", "meaning": "değiş tokuş etmek, takas",
+    "sentence": "They decided to exchange gifts for their birthdays.",
+    "turkish_translation": "Doğum günleri için hediye takası yapmaya karar verdiler."},
+  {"word": "excluded", "meaning": "hariç tutulmuş",
+    "sentence": "Some items are excluded from the sale.",
+    "turkish_translation": "Satıştan bazı ürünler hariç tutulmuştur."},
+
+  {"word": "excluding", "meaning": "hariç tutarak",
+    "sentence": "The final price is calculated excluding taxes.",
+    "turkish_translation": "Son fiyat, vergiler hariç hesaplanır."},
+
+  {"word": "exclusion", "meaning": "dışlama, hariç tutma",
+    "sentence": "The policy prohibits the exclusion of certain groups.",
+    "turkish_translation": "Politika, belirli grupların dışlanmasını yasaklar."},
+
+  {"word": "exclusive", "meaning": "özel, seçkin",
+    "sentence": "The club offers exclusive benefits to its members.",
+    "turkish_translation": "Kulüp, üyelerine özel avantajlar sunar."},
+
+  {"word": "exclusively", "meaning": "yalnızca, sadece",
+    "sentence": "This product is available exclusively online.",
+    "turkish_translation": "Bu ürün yalnızca çevrimiçi olarak mevcuttur."},
+
+  {"word": "excuse", "meaning": "bahane, mazeret",
+    "sentence": "He came up with a creative excuse for being late.",
+    "turkish_translation": "Geç kaldığı için yaratıcı bir mazeret buldu."},
+
+  {"word": "exec", "meaning": "yürütme (kısaltma)",
+    "sentence": "He's in charge of the company's exec team.",
+    "turkish_translation": "Şirketin yürütme ekibinin başındadır."},
+
+  {"word": "execute", "meaning": "gerçekleştirmek, icra etmek",
+    "sentence": "The team will execute the marketing plan next week.",
+    "turkish_translation": "Ekip, pazarlama planını önümüzdeki hafta icra edecek."},
+
+  {"word": "executed", "meaning": "gerçekleştirilmiş, icra edilmiş",
+    "sentence": "The project was executed flawlessly.",
+    "turkish_translation": "Proje kusursuz bir şekilde gerçekleştirildi."},
+
+  {"word": "execution", "meaning": "icra, gerçekleştirme",
+    "sentence": "The successful execution of the plan required careful planning.",
+    "turkish_translation": "Planın başarılı bir şekilde gerçekleştirilmesi dikkatli planlama gerektirdi."},
+
+  {"word": "executive", "meaning": "yönetici, yönetim",
+    "sentence": "She holds an executive position in the company.",
+    "turkish_translation": "Şirkette yönetici bir pozisyonda bulunuyor."},
+
+  {"word": "executives", "meaning": "yöneticiler, yönetim",
+    "sentence": "The company's executives are discussing the new strategy.",
+    "turkish_translation": "Şirketin yöneticileri yeni stratejiyi tartışıyor."},
+
+  {"word": "exempt", "meaning": "muaf, hariç",
+    "sentence": "Students are exempt from paying the entrance fee.",
+    "turkish_translation": "Öğrenciler giriş ücreti ödemekten muaf tutulurlar."},
+
+  {"word": "exemption", "meaning": "muafiyet, hariç tutma",
+    "sentence": "The tax exemption applies to certain income levels.",
+    "turkish_translation": "Vergi muafiyeti belirli gelir seviyelerine uygulanır."},
+
+  {"word": "exercise", "meaning": "egzersiz, çalıştırma",
+    "sentence": "Regular exercise is important for maintaining good health.",
+    "turkish_translation": "Düzenli egzersiz, iyi sağlığı korumak için önemlidir."},
+
+  {"word": "exercises", "meaning": "egzersizler, çalışmalar",
+    "sentence": "The textbook includes practice exercises for each chapter.",
+    "turkish_translation": "Ders kitabı, her bölüm için pratik egzersizler içerir."},
+
+  {"word": "exhaust", "meaning": "tüketmek, bitirmek, tükenmek",
+    "sentence": "The long hike exhausted him, but he enjoyed the experience.",
+    "turkish_translation": "Uzun yürüyüş onu tüketti, ama deneyimin tadını çıkardı."},
+
+  {"word": "exhibit", "meaning": "sergilemek, sergi",
+    "sentence": "The museum will exhibit rare artifacts next month.",
+    "turkish_translation": "Müze gelecek ay nadir eserleri sergileyecek."},
+
+  {"word": "exhibition", "meaning": "sergi",
+    "sentence": "The art exhibition showcases local talent.",
+    "turkish_translation": "Sanat sergisi yerel yeteneği sergiliyor."},
+
+  {"word": "exhibitions", "meaning": "sergiler",
+    "sentence": "The gallery hosts various art exhibitions throughout the year.",
+    "turkish_translation": "Galeri, yıl boyunca çeşitli sanat sergilerine ev sahipliği yapar."},
+
+  {"word": "exhibits", "meaning": "sergiler, eserler",
+    "sentence": "The science museum has interactive exhibits for visitors.",
+    "turkish_translation": "Bilim müzesi ziyaretçiler için etkileşimli sergiler sunar."},
+
+  {"word": "exist", "meaning": "var olmak",
+    "sentence": "Does extraterrestrial life exist in our universe?",
+    "turkish_translation": "Evrenimizde uzaylı yaşam var mı?"},
+
+  {"word": "existed", "meaning": "var olmuş",
+    "sentence": "The ancient civilization existed thousands of years ago.",
+    "turkish_translation": "Eski medeniyet binlerce yıl önce var olmuştu."},
+
+  {"word": "existence", "meaning": "varoluş",
+    "sentence": "Philosophers ponder the nature of existence.",
+    "turkish_translation": "Felsefeciler, varoluşun doğasını düşünürler."},
+
+  {"word": "existing", "meaning": "mevcut, var olan",
+    "sentence": "The company plans to improve its existing products.",
+    "turkish_translation": "Şirket, mevcut ürünlerini geliştirmeyi planlıyor."},
+
+  {"word": "exists", "meaning": "var, mevcut",
+    "sentence": "Evidence suggests that water exists on Mars.",
+    "turkish_translation": "Kanıtlar, Mars'ta suyun var olduğunu gösteriyor."},
+
+  {"word": "exit", "meaning": "çıkış",
+    "sentence": "Please use the emergency exit in case of fire.",
+    "turkish_translation": "Yangın durumunda lütfen acil çıkışı kullanın."},
+  {"word": "exotic", "meaning": "egzotik, yabancı",
+    "sentence": "She tried an exotic dish during her vacation.",
+    "turkish_translation": "Tatilde egzotik bir yemek denedi."},
+
+  {"word": "exp", "meaning": "maliyet, masraf (kısaltma)",
+    "sentence": "The project's exp exceeded the budget.",
+    "turkish_translation": "Projenin maliyeti bütçeyi aştı."},
+
+  {"word": "expand", "meaning": "genişlemek, büyümek",
+    "sentence": "The company plans to expand its operations to new markets.",
+    "turkish_translation": "Şirket, operasyonlarını yeni pazarlara genişletmeyi planlıyor."},
+
+  {"word": "expanded", "meaning": "genişletilmiş, büyütülmüş",
+    "sentence": "The business successfully expanded its product line.",
+    "turkish_translation": "İşletme ürün yelpazesini başarılı bir şekilde genişletti."},
+
+  {"word": "expanding", "meaning": "genişleyen, büyüyen",
+    "sentence": "The city's population is rapidly expanding.",
+    "turkish_translation": "Şehrin nüfusu hızla artıyor."},
+
+  {"word": "expansion", "meaning": "genişleme, büyüme",
+    "sentence": "The company's expansion strategy focuses on global markets.",
+    "turkish_translation": "Şirketin genişleme stratejisi küresel pazarlara odaklanıyor."},
+
+  {"word": "expansys", "meaning": "Expansys (bir marka)",
+    "sentence": "Expansys offers a wide range of tech products.",
+    "turkish_translation": "Expansys, geniş bir teknoloji ürünleri yelpazesi sunar."},
+
+  {"word": "expect", "meaning": "beklemek, ummak",
+    "sentence": "We expect to receive the shipment by next week.",
+    "turkish_translation": "Sevkiyatı önümüzdeki haftaya kadar almayı bekliyoruz."},
+
+  {"word": "expectations", "meaning": "beklentiler",
+    "sentence": "The product met our expectations in terms of quality.",
+    "turkish_translation": "Ürün, kalite açısından beklentilerimizi karşıladı."},
+
+  {"word": "expected", "meaning": "beklenen",
+    "sentence": "The expected outcome of the experiment was achieved.",
+    "turkish_translation": "Deneyin beklenen sonucu elde edildi."},
+
+  {"word": "expects", "meaning": "bekler, umar",
+    "sentence": "She expects to receive a promotion soon.",
+    "turkish_translation": "Yakında terfi almayı bekliyor."},
+
+  {"word": "expedia", "meaning": "Expedia (bir şirket adı)",
+    "sentence": "Expedia is a popular online travel agency.",
+    "turkish_translation": "Expedia, popüler bir çevrimiçi seyahat acentasıdır."},
+
+  {"word": "expenditure", "meaning": "harcama, masraf",
+    "sentence": "The company closely monitors its expenditure to control costs.",
+    "turkish_translation": "Şirket, maliyetleri kontrol etmek için harcamalarını yakından takip eder."},
+
+  {"word": "expenditures", "meaning": "harcamalar, masraflar",
+    "sentence": "The budget report includes a breakdown of all expenditures.",
+    "turkish_translation": "Bütçe raporu, tüm harcamaların ayrıntılı bir listesini içerir."},
+
+  {"word": "expense", "meaning": "masraf, gider",
+    "sentence": "Traveling for work is considered a business expense.",
+    "turkish_translation": "İş için seyahat etmek, iş gideri olarak kabul edilir."},
+
+  {"word": "expenses", "meaning": "masraflar, giderler",
+    "sentence": "He keeps track of his monthly expenses.",
+    "turkish_translation": "Aylık masraflarını takip eder."},
+
+  {"word": "expensive", "meaning": "pahalı",
+    "sentence": "The designer handbag is quite expensive.",
+    "turkish_translation": "Tasarımcı el çantası oldukça pahalı."},
+
+  {"word": "experience", "meaning": "deneyim, tecrübe",
+    "sentence": "Her experience as a teacher shaped her approach to education.",
+    "turkish_translation": "Öğretmen olarak edindiği deneyim, eğitim yaklaşımını şekillendirdi."},
+
+  {"word": "experienced", "meaning": "deneyimli",
+    "sentence": "They hired an experienced chef for the new restaurant.",
+    "turkish_translation": "Yeni restoran için deneyimli bir şef işe aldılar."},
+
+  {"word": "experiences", "meaning": "deneyimler, tecrübeler",
+    "sentence": "Traveling to different countries provides unique cultural experiences.",
+    "turkish_translation": "Farklı ülkelere seyahat etmek, benzersiz kültürel deneyimler sunar."},
+
+  {"word": "experiencing", "meaning": "deneyimleyen, yaşayan",
+    "sentence": "The region is currently experiencing a heatwave.",
+    "turkish_translation": "Bölge şu anda sıcak hava dalgası yaşıyor."},
+
+  {"word": "experiment", "meaning": "deney, deney yapmak",
+    "sentence": "The scientists conducted an experiment to test their hypothesis.",
+    "turkish_translation": "Bilim insanları, hipotezlerini test etmek için bir deney yaptılar."},
+
+  {"word": "experimental", "meaning": "deneyimsel, deneysel",
+    "sentence": "The drug is still in the experimental stage.",
+    "turkish_translation": "İlaç hala deneysel aşamada."},
+
+  {"word": "experiments", "meaning": "deneyler",
+    "sentence": "The lab is equipped for conducting various experiments.",
+    "turkish_translation": "Laboratuvar, çeşitli deneyler yapmak için donatılmıştır."},
+
+  {"word": "expert", "meaning": "uzman",
+    "sentence": "He's recognized as an expert in the field of astrophysics.",
+    "turkish_translation": "O, astrofizik alanında bir uzman olarak tanınıyor."},
+
+  {"word": "expertise", "meaning": "uzmanlık",
+    "sentence": "Her expertise in programming made her a sought-after developer.",
+    "turkish_translation": "Programlamadaki uzmanlığı, onu aranan bir geliştirici yaptı."},
+
+  {"word": "experts", "meaning": "uzmanlar",
+    "sentence": "The panel of experts discussed the environmental impact.",
+    "turkish_translation": "Uzmanlar paneli, çevresel etkiyi tartıştı."},
+
+  {"word": "expiration", "meaning": "sona erme, süresi dolma",
+    "sentence": "Check the expiration date before consuming any food product.",
+    "turkish_translation": "Herhangi bir gıda ürününü tüketmeden önce son kullanma tarihini kontrol edin."},
+
+  {"word": "expired", "meaning": "süresi dolmuş",
+    "sentence": "The driver's license has expired; she needs to renew it.",
+    "turkish_translation": "Sürücü ehliyeti süresi doldu; onu yenilemesi gerekiyor."},
+
+  {"word": "expires", "meaning": "süresi dolmak",
+    "sentence": "The coupon expires at the end of the month.",
+    "turkish_translation": "Kuponun süresi ayın sonunda doluyor."},
+
+  {"word": "explain", "meaning": "açıklamak",
+    "sentence": "Can you explain how this machine works?",
+    "turkish_translation": "Bu makinenin nasıl çalıştığını açıklayabilir misiniz?"},
+
+  {"word": "explained", "meaning": "açıklanmış",
+    "sentence": "The teacher explained the concept in simple terms.",
+    "turkish_translation": "Öğretmen, kavramı basit terimlerle açıkladı."},
+
+  {"word": "explaining", "meaning": "açıklama, anlatma",
+    "sentence": "She's good at explaining complex ideas to others.",
+    "turkish_translation": "Karmaşık fikirleri başkalarına anlatmada iyidir."},
+
+  {"word": "explains", "meaning": "açıklar",
+    "sentence": "The manual explains how to assemble the furniture.",
+    "turkish_translation": "Kılavuz, mobilyayı nasıl monte edeceğinizi açıklar."},
+  {"word": "explanation", "meaning": "açıklama",
+    "sentence": "He provided a clear explanation of the scientific concept.",
+    "turkish_translation": "Bilimsel kavramın açık bir açıklamasını sağladı."},
+
+  {"word": "explicit", "meaning": "açık, belirgin",
+    "sentence": "The instructions are explicit and easy to follow.",
+    "turkish_translation": "Talimatlar açık ve takip etmesi kolaydır."},
+
+  {"word": "explicitly", "meaning": "açık bir şekilde",
+    "sentence": "The terms of the contract are explicitly stated.",
+    "turkish_translation": "Sözleşmenin koşulları açıkça belirtilmiştir."},
+
+  {"word": "exploration", "meaning": "keşif, araştırma",
+    "sentence": "Space exploration has led to many scientific discoveries.",
+    "turkish_translation": "Uzay keşfi, birçok bilimsel keşfe yol açtı."},
+
+  {"word": "explore", "meaning": "keşfetmek, araştırmak",
+    "sentence": "They plan to explore the ancient ruins next summer.",
+    "turkish_translation": "Gelecek yaz antik kalıntıları keşfetmeyi planlıyorlar."},
+
+  {"word": "explorer", "meaning": "kaşif, araştırmacı",
+    "sentence": "The explorer ventured into the uncharted jungle.",
+    "turkish_translation": "Kaşif, haritalanmamış ormana cesaret etti."},
+
+  {"word": "exploring", "meaning": "keşif, araştırma",
+    "sentence": "They're currently exploring options for their next project.",
+    "turkish_translation": "Şu anda bir sonraki projeleri için seçenekleri araştırıyorlar."},
+
+  {"word": "explosion", "meaning": "patlama",
+    "sentence": "The explosion could be heard from miles away.",
+    "turkish_translation": "Patlama, mil uzaklıktan duyulabilir."},
+
+  {"word": "expo", "meaning": "sergi, fuar (kısaltma)",
+    "sentence": "The company showcased its latest products at the expo.",
+    "turkish_translation": "Şirket, en son ürünlerini fuarında sergiledi."},
+
+  {"word": "export", "meaning": "ihracat, ihraç etmek",
+    "sentence": "The country's main export is agricultural products.",
+    "turkish_translation": "Ülkenin başlıca ihracatı tarım ürünleridir."},
+
+  {"word": "exports", "meaning": "ihracat",
+    "sentence": "The exports contribute significantly to the economy.",
+    "turkish_translation": "İhracat, ekonomiye önemli ölçüde katkı sağlar."},
+
+  {"word": "exposed", "meaning": "maruz kalmış",
+    "sentence": "The sensitive information was accidentally exposed.",
+    "turkish_translation": "Hassas bilgi yanlışlıkla açığa çıktı."},
+
+  {"word": "exposure", "meaning": "maruz kalma",
+    "sentence": "Long exposure to the sun can lead to skin damage.",
+    "turkish_translation": "Güneşe uzun süre maruz kalma, cilt hasarına neden olabilir."},
+
+  {"word": "express", "meaning": "ifade etmek, hızlı",
+    "sentence": "She used art to express her emotions.",
+    "turkish_translation": "Duygularını ifade etmek için sanat kullandı."},
+
+  {"word": "expressed", "meaning": "ifade edilmiş",
+    "sentence": "He expressed his gratitude for the support.",
+    "turkish_translation": "Destek için minnettarlığını ifade etti."},
+
+  {"word": "expression", "meaning": "ifade, anlatım",
+    "sentence": "Her expression showed a mix of surprise and excitement.",
+    "turkish_translation": "İfadesi, şaşkınlık ve heyecan karışımını gösteriyordu."},
+
+  {"word": "expressions", "meaning": "ifadeler",
+    "sentence": "Different cultures have unique facial expressions.",
+    "turkish_translation": "Farklı kültürlerin benzersiz yüz ifadeleri vardır."},
+
+  {"word": "ext", "meaning": "uzantı (kısaltma)",
+    "sentence": "Save the document with the .pdf ext.",
+    "turkish_translation": "Belgeyi .pdf uzantısıyla kaydedin."},
+
+  {"word": "extend", "meaning": "uzatmak, genişletmek",
+    "sentence": "They decided to extend the deadline for submissions.",
+    "turkish_translation": "Gönderim süresini uzatmaya karar verdiler."},
+
+  {"word": "extended", "meaning": "uzatılmış, genişletilmiş",
+    "sentence": "The conference was extended by an additional day.",
+    "turkish_translation": "Konferans bir ek gün boyunca uzatıldı."},
+
+  {"word": "extending", "meaning": "uzatma, genişletme",
+    "sentence": "They're considering extending their vacation by a week.",
+    "turkish_translation": "Tatillerini bir hafta uzatmayı düşünüyorlar."},
+
+  {"word": "extends", "meaning": "uzar, genişler",
+    "sentence": "The road extends all the way to the mountain peak.",
+    "turkish_translation": "Yol dağın zirvesine kadar uzanır."},
+
+  {"word": "extension", "meaning": "uzantı, genişletme",
+    "sentence": "The company plans to build an extension to its office building.",
+    "turkish_translation": "Şirket, ofis binasına bir uzantı inşa etmeyi planlıyor."},
+
+  {"word": "extensions", "meaning": "uzantılar, genişlemeler",
+    "sentence": "The browser has various extensions for added functionality.",
+    "turkish_translation": "Tarayıcı, ek işlevsellik için çeşitli uzantılara sahiptir."},
+
+  {"word": "extensive", "meaning": "kapsamlı, geniş",
+    "sentence": "The research required an extensive literature review.",
+    "turkish_translation": "Araştırma, kapsamlı bir literatür taraması gerektirdi."},
+
+  {"word": "extent", "meaning": "ölçü, derece",
+    "sentence": "The extent of the damage was worse than expected.",
+    "turkish_translation": "Zararın derecesi, beklenenden daha kötüydü."},
+
+  {"word": "exterior", "meaning": "dış, dış yüz",
+    "sentence": "The exterior of the building was beautifully designed.",
+    "turkish_translation": "Bina dış yüzü güzel bir şekilde tasarlandı."},
+
+  {"word": "external", "meaning": "harici, dışsal",
+    "sentence": "The external factors influenced the company's decision.",
+    "turkish_translation": "Harici faktörler, şirketin kararını etkiledi."},
+
+  {"word": "extra", "meaning": "ekstra, fazladan",
+    "sentence": "She ordered an extra-large pizza for the party.",
+    "turkish_translation": "Parti için ekstra büyük bir pizza sipariş etti."},
+
+  {"word": "extract", "meaning": "çıkarmak, öz",
+    "sentence": "They extract natural oils from plants for their products.",
+    "turkish_translation": "Ürünleri için bitkilerden doğal yağlar çıkarıyorlar."},
+
+  {"word": "extraction", "meaning": "çıkarma",
+    "sentence": "The extraction process requires specialized equipment.",
+    "turkish_translation": "Çıkarma işlemi özel ekipman gerektirir."},
+
+  {"word": "extraordinary", "meaning": "olağanüstü",
+    "sentence": "Her talent for painting is truly extraordinary.",
+    "turkish_translation": "Resim yapma yeteneği gerçekten olağanüstü."},
+
+  {"word": "extras", "meaning": "ekstralar",
+    "sentence": "The DVD includes behind-the-scenes extras.",
+    "turkish_translation": "DVD, sahne arkası ekstralarını içerir."},
+
+  {"word": "extreme", "meaning": "aşırı, aşırılık",
+    "sentence": "The weather conditions are extremely cold.",
+    "turkish_translation": "Hava koşulları son derece soğuktur."},
+
+  {"word": "extremely", "meaning": "son derece",
+    "sentence": "She's extremely talented in playing the piano.",
+    "turkish_translation": "Piyano çalmada son derece yeteneklidir."},
+
+  {"word": "eye", "meaning": "göz",
+    "sentence": "She has blue eyes and brown hair.",
+    "turkish_translation": "Mavi gözlü ve kahverengi saçlı."},
+
+  {"word": "eyed", "meaning": "gözü olan",
+    "sentence": "The cat eyed the mouse cautiously.",
+    "turkish_translation": "Kedi, fareyi dikkatlice gözledi."},
+
+  {"word": "eyes", "meaning": "gözler",
+    "sentence": "His eyes lit up when he saw the surprise.",
+    "turkish_translation": "Sürprizi gördüğünde gözleri parladı."},
+
+  {"word": "ez", "meaning": "kolay",
+    "sentence": "This software makes editing photos ez.",
+    "turkish_translation": "Bu yazılım fotoğraf düzenlemeyi kolaylaştırıyor."}
+]

@@ -1,0 +1,3344 @@
+[
+  {
+    "word": "dad",
+    "meaning": "baba",
+    "sentence": "Her dad taught her how to ride a bike.",
+    "turkish_translation": "Babası ona nasıl bisiklet sürülacağını öğretti."
+  },
+  {
+    "word": "daddy",
+    "meaning": "baba",
+    "sentence": "Daddy, can we go to the park?",
+    "turkish_translation": "Baba, parka gidebilir miyiz?"
+  },
+  {
+    "word": "daily",
+    "meaning": "günlük",
+    "sentence": "She writes in her diary daily.",
+    "turkish_translation": "Günlük olarak günlüğüne yazar."
+  },
+  {
+    "word": "dairy",
+    "meaning": "süt ürünleri",
+    "sentence": "I'm avoiding dairy because of lactose intolerance.",
+    "turkish_translation": "Laktoz intoleransı nedeniyle süt ürünlerinden kaçınıyorum."
+  },
+  {
+    "word": "daisy",
+    "meaning": "papatya",
+    "sentence": "She picked a daisy from the field.",
+    "turkish_translation": "Tarladan bir papatya topladı."
+  },
+  {
+    "word": "dakota",
+    "meaning": "Dakota",
+    "sentence": "He is originally from South Dakota.",
+    "turkish_translation": "Orijinal olarak Güney Dakota'dan geliyor."
+  },
+  {
+    "word": "dale",
+    "meaning": "vadi",
+    "sentence": "The cottage was nestled in a beautiful dale.",
+    "turkish_translation": "Kır evi güzel bir vadide yer alıyordu."
+  },
+  {
+    "word": "dallas",
+    "meaning": "Dallas",
+    "sentence": "I visited Dallas last summer.",
+    "turkish_translation": "Geçen yaz Dallas'ı ziyaret ettim."
+  },
+  {
+    "word": "dam",
+    "meaning": "baraj",
+    "sentence": "The water level behind the dam was high.",
+    "turkish_translation": "Barajın arkasındaki su seviyesi yüksekti."
+  },
+  {
+    "word": "damage",
+    "meaning": "zarar vermek, zarar",
+    "sentence": "The storm caused significant damage to the buildings.",
+    "turkish_translation": "Fırtına binalara büyük zarar verdi."
+  },
+  {
+    "word": "damaged",
+    "meaning": "zarar görmüş",
+    "sentence": "The car was severely damaged in the accident.",
+    "turkish_translation": "Araba kaza sonucu ciddi şekilde zarar gördü."
+  },
+  {
+    "word": "damages",
+    "meaning": "zararlar",
+    "sentence": "The company had to pay for the damages caused by their negligence.",
+    "turkish_translation": "Şirket ihmalleri nedeniyle meydana gelen zararları ödemek zorunda kaldı."
+  },
+  {
+    "word": "dame",
+    "meaning": "kadın",
+    "sentence": "She was recognized as a dame for her contributions to the arts.",
+    "turkish_translation": "Sanata katkılarından dolayı bir kadın olarak tanındı."
+  },
+  {
+    "word": "damn",
+    "meaning": "lanetlemek, lanet",
+    "sentence": "He cursed under his breath, damn the luck.",
+    "turkish_translation": "Fısıltıyla küfür etti, lanet olsun şu şansa."
+  },
+  {
+    "word": "dan",
+    "meaning": "dan",
+    "sentence": "She learned a beautiful dance from the people of the island of Bali.",
+    "turkish_translation": "Bali adasının halkından güzel bir dans öğrendi."
+  },
+  {
+    "word": "dana",
+    "meaning": "dana eti",
+    "sentence": "They had a delicious dish made from prime dana meat.",
+    "turkish_translation": "En iyi dana etinden yapılmış lezzetli bir yemekleri vardı."
+  },
+  {
+    "word": "dance",
+    "meaning": "dans etmek, dans",
+    "sentence": "They danced all night at the party.",
+    "turkish_translation": "Partide tüm gece dans ettiler."
+  },
+  {
+    "word": "dancing",
+    "meaning": "dans etme",
+    "sentence": "Her dancing was mesmerizing to watch.",
+    "turkish_translation": "Onun dans etmesi izlemesi büyüleyiciydi."
+  },
+  {
+    "word": "danger",
+    "meaning": "tehlike",
+    "sentence": "Entering the abandoned building is fraught with danger.",
+    "turkish_translation": "Terkedilmiş binaya girmek tehlike dolu."
+  },
+  {
+    "word": "dangerous",
+    "meaning": "tehlikeli",
+    "sentence": "Swimming in that fast-flowing river can be very dangerous.",
+    "turkish_translation": "O hızlı akan nehirde yüzmek çok tehlikeli olabilir."
+  },
+  {
+    "word": "daniel",
+    "meaning": "Daniel",
+    "sentence": "Daniel is a popular name in many cultures.",
+    "turkish_translation": "Daniel birçok kültürde popüler bir isimdir."
+  },
+  {
+    "word": "danish",
+    "meaning": "Danimarkalı",
+    "sentence": "She tried a delicious danish pastry for the first time.",
+    "turkish_translation": "İlk kez lezzetli bir Danimarkalı hamur işi denedi."
+  },
+  {
+    "word": "danny",
+    "meaning": "Danny",
+    "sentence": "Danny is coming over to help us with the move.",
+    "turkish_translation": "Danny taşınmamızda bize yardım etmek için geliyor."
+  },
+  {
+    "word": "dans",
+    "meaning": "dans",
+    "sentence": "They participated in a traditional folk dans.",
+    "turkish_translation": "Geleneksel bir halk dansına katıldılar."
+  },
+  {
+    "word": "dare",
+    "meaning": "cesaret etmek, cesaret",
+    "sentence": "I dare you to jump off that cliff into the water.",
+    "turkish_translation": "O kayalıktan suya atlamayı cesaret ediyorum sana."
+  },
+  {
+    "word": "dark",
+    "meaning": "karanlık",
+    "sentence": "It's too dark to see anything without a flashlight.",
+    "turkish_translation": "El feneri olmadan hiçbir şey görmek için çok karanlık."
+  },
+  {
+    "word": "darkness",
+    "meaning": "karanlık",
+    "sentence": "The darkness of the forest at night can be unsettling.",
+    "turkish_translation": "Gece ormanın karanlığı huzursuz edici olabilir."
+  },
+  {
+    "word": "darwin",
+    "meaning": "Darwin",
+    "sentence": "Charles Darwin is known for his theory of evolution.",
+    "turkish_translation": "Charles Darwin evrim teorisi ile tanınır."
+  },
+  {
+    "word": "das",
+    "meaning": "das",
+    "sentence": "Das Auto is parked in the driveway.",
+    "turkish_translation": "Das Auto araba garaj yolunda park edilmiş."
+  },
+  {
+    "word": "dash",
+    "meaning": "çoşku, çizgi",
+    "sentence": "She added a dash of pepper to the soup.",
+    "turkish_translation": "Çorbaya biraz karabiber kattı."
+  },
+  {
+    "word": "dat",
+    "meaning": "dat",
+    "sentence": "I'll have dat pizza for lunch.",
+    "turkish_translation": "Öğle yemeği için o pizzayı yiyeceğim."
+  },
+  {
+    "word": "data",
+    "meaning": "veri",
+    "sentence": "The data collected from the sensors is being analyzed.",
+    "turkish_translation": "Sensörlerden toplanan veriler analiz ediliyor."
+  },
+  {
+    "word": "database",
+    "meaning": "veritabanı",
+    "sentence": "The company manages its customer information in a database.",
+    "turkish_translation": "Şirket müşteri bilgilerini bir veritabanında yönetiyor."
+  },
+  {
+    "word": "databases",
+    "meaning": "veritabanları",
+    "sentence": "Our IT department maintains multiple databases for different projects.",
+    "turkish_translation": "Bilgi teknolojileri departmanımız farklı projeler için birden fazla veritabanını yönetir."
+  },
+  {
+    "word": "date",
+    "meaning": "tarih, buluşma",
+    "sentence": "What's the date today?",
+    "turkish_translation": "Bugünün tarihi nedir?"
+  },
+  {
+    "word": "dated",
+    "meaning": "eskimiş, tarihli",
+    "sentence": "The information in the book is quite dated.",
+    "turkish_translation": "Kitaptaki bilgiler oldukça eskimiş."
+  },
+  {
+    "word": "dates",
+    "meaning": "tarihler, hurma",
+    "sentence": "She marked the important dates on the calendar.",
+    "turkish_translation": "Önemli tarihleri takvime işaretledi."
+  },
+  {
+    "word": "dating",
+    "meaning": "buluşma, flört etme",
+    "sentence": "They met through an online dating app.",
+    "turkish_translation": "İnternet üzerinden bir flört uygulamasıyla tanıştılar."
+  },
+  {
+    "word": "daughter",
+    "meaning": "kız evlat",
+    "sentence": "His daughter is studying abroad.",
+    "turkish_translation": "Kız evladı yurtdışında okuyor."
+  },
+  {
+    "word": "daughters",
+    "meaning": "kız evlatlar",
+    "sentence": "He has two daughters, both of whom are doctors.",
+    "turkish_translation": "İki kız evladı var, ikisi de doktor."
+  },
+  {
+    "word": "dave",
+    "meaning": "Dave",
+    "sentence": "Dave is throwing a party this weekend.",
+    "turkish_translation": "Dave bu hafta sonu bir parti düzenliyor."
+  },
+  {
+    "word": "david",
+    "meaning": "David",
+    "sentence": "David is known for his artistic talent.",
+    "turkish_translation": "David sanatsal yeteneği ile tanınır."
+  },
+  {
+    "word": "davidson",
+    "meaning": "Davidson",
+    "sentence": "The Davidsons are our new neighbors.",
+    "turkish_translation": "Davidsonlar yeni komşularımız."
+  },
+  {
+    "word": "davis",
+    "meaning": "Davis",
+    "sentence": "The office is located on Davis Street.",
+    "turkish_translation": "Ofis Davis Caddesi'nde bulunuyor."
+  },
+  {
+    "word": "dawn",
+    "meaning": "şafak",
+    "sentence": "The birds start singing at dawn.",
+    "turkish_translation": "Kuşlar şafağın başlamasıyla şarkı söylemeye başlarlar."
+  },
+  {
+    "word": "day",
+    "meaning": "gün",
+    "sentence": "Today is a beautiful day.",
+    "turkish_translation": "Bugün güzel bir gün."
+  },
+  {
+    "word": "days",
+    "meaning": "günler",
+    "sentence": "The conference will last for three days.",
+    "turkish_translation": "Konferans üç gün boyunca sürecek."
+  },
+  {
+    "word": "dayton",
+    "meaning": "Dayton",
+    "sentence": "I used to live in Dayton, Ohio.",
+    "turkish_translation": "Ohio, Dayton'da yaşardım."
+  },
+  {
+    "word": "db",
+    "meaning": "db",
+    "sentence": "The sound level was measured in decibels (dB).",
+    "turkish_translation": "Ses seviyesi desibel (dB) cinsinden ölçüldü."
+  },
+  {
+    "word": "dc",
+    "meaning": "dc",
+    "sentence": "The device runs on DC power.",
+    "turkish_translation": "Cihaz DC gücüyle çalışır."
+  },
+  {
+    "word": "dd",
+    "meaning": "dd",
+    "sentence": "The file was saved with the filename 'document.dd'.",
+    "turkish_translation": "Dosya 'belge.dd' dosya adıyla kaydedildi."
+  },
+  {
+    "word": "ddr",
+    "meaning": "ddr",
+    "sentence": "The computer has DDR4 RAM.",
+    "turkish_translation": "Bilgisayar DDR4 RAM'e sahip."
+  },
+  {
+    "word": "de",
+    "meaning": "de",
+    "sentence": "I'll have a cup of tea, decaf please.",
+    "turkish_translation": "Bir fincan çay alacağım, lütfen kafeinsiz."
+  },
+  {
+    "word": "dead",
+    "meaning": "ölü",
+    "sentence": "The plant looks dead, but it might recover.",
+    "turkish_translation": "Bitki ölü görünüyor, ama kurtulabilir."
+  },
+  {
+    "word": "deadline",
+    "meaning": "teslim tarihi",
+    "sentence": "The deadline for submitting the report is tomorrow.",
+    "turkish_translation": "Raporun teslim tarihi yarın."
+  },
+  {
+    "word": "deadly",
+    "meaning": "ölümcül",
+    "sentence": "The snake's bite can be deadly.",
+    "turkish_translation": "Yılanın ısırığı ölümcül olabilir."
+  },
+  {
+    "word": "deaf",
+    "meaning": "sağır",
+    "sentence": "She communicates using sign language because she's deaf.",
+    "turkish_translation": "Sağır olduğu için işaret diliyle iletişim kuruyor."
+  },
+  {
+    "word": "deal",
+    "meaning": "anlaşma, iş",
+    "sentence": "They struck a deal to share the profits.",
+    "turkish_translation": "Karları paylaşmak için bir anlaşma yaptılar."
+  },
+  {
+    "word": "dealer",
+    "meaning": "satıcı",
+    "sentence": "The car dealer offered a good price for the used car.",
+    "turkish_translation": "Araba satıcısı ikinci el araba için iyi bir fiyat teklif etti."
+  },
+  {
+    "word": "dealers",
+    "meaning": "satıcılar",
+    "sentence": "The conference attracted many automotive dealers.",
+    "turkish_translation": "Konferans birçok otomotiv satıcısını çekti."
+  },
+  {
+    "word": "dealing",
+    "meaning": "ilgilenme, uğraşma",
+    "sentence": "She's been dealing with customer complaints all morning.",
+    "turkish_translation": "Tüm sabah boyunca müşteri şikayetleri ile uğraşıyor."
+  },
+  {
+    "word": "deals",
+    "meaning": "anlaşmalar, fırsatlar",
+    "sentence": "The store has some great deals on electronics.",
+    "turkish_translation": "Mağazada elektronik ürünlerde harika fırsatlar var."
+  },
+  {
+    "word": "dealt",
+    "meaning": "uğraşılmış, anlaşılmış",
+    "sentence": "He has already dealt with that issue.",
+    "turkish_translation": "O konuyla zaten ilgilenildi."
+  },
+  {
+    "word": "dealtime",
+    "meaning": "işlem zamanı",
+    "sentence": "The dealtime for the auction is 3:00 PM.",
+    "turkish_translation": "Müzayede için işlem zamanı 15:00."
+  },
+  {
+    "word": "dean",
+    "meaning": "dekan",
+    "sentence": "The dean of the college announced new scholarship opportunities.",
+    "turkish_translation": "Kolejin dekanı yeni burs fırsatlarını duyurdu."
+  },
+  {
+    "word": "dear",
+    "meaning": "sevgili, değerli",
+    "sentence": "She wrote a letter to her dear friend.",
+    "turkish_translation": "Değerli arkadaşına bir mektup yazdı."
+  },
+  {
+    "word": "death",
+    "meaning": "ölüm",
+    "sentence": "The news of his death was shocking.",
+    "turkish_translation": "Ölüm haberleri şok ediciydi."
+  },
+  {
+    "word": "deaths",
+    "meaning": "ölümler",
+    "sentence": "The pandemic resulted in a high number of deaths.",
+    "turkish_translation": "Pandemi yüksek sayıda ölüme neden oldu."
+  },
+  {
+    "word": "debate",
+    "meaning": "tartışma",
+    "sentence": "There was a heated debate about the new policy.",
+    "turkish_translation": "Yeni politika hakkında hararetli bir tartışma vardı."
+  },
+  {
+    "word": "debian",
+    "meaning": "Debian",
+    "sentence": "He prefers using Debian as his operating system.",
+    "turkish_translation": "İşletim sistemi olarak Debian kullanmayı tercih ediyor."
+  },
+  {
+    "word": "deborah",
+    "meaning": "Deborah",
+    "sentence": "Deborah is known for her leadership skills.",
+    "turkish_translation": "Deborah liderlik yetenekleri ile tanınır."
+  },
+  {
+    "word": "debt",
+    "meaning": "borç",
+    "sentence": "They struggled to pay off their debt.",
+    "turkish_translation": "Borçlarını ödemekte zorlandılar."
+  },
+  {
+    "word": "debug",
+    "meaning": "hata ayıklama",
+    "sentence": "The programmers spent hours debugging the code.",
+    "turkish_translation": "Programcılar saatlerce kodu hata ayıklamak için harcadı."
+  },
+  {
+    "word": "debut",
+    "meaning": "ilk gösteri",
+    "sentence": "The artist's debut exhibition received rave reviews.",
+    "turkish_translation": "Sanatçının ilk sergisi övgü dolu eleştiriler aldı."
+  },
+  {
+    "word": "dec",
+    "meaning": "aralık",
+    "sentence": "My birthday is in Dec.",
+    "turkish_translation": "Doğum günüm Aralık ayında."
+  },
+  {
+    "word": "decade",
+    "meaning": "on yıl",
+    "sentence": "They've been friends for over a decade.",
+    "turkish_translation": "Daha on yıldan fazla süredir arkadaşlar."
+  },
+  {
+    "word": "decades",
+    "meaning": "on yıllar",
+    "sentence": "The building has stood for decades.",
+    "turkish_translation": "Bina on yıllardır ayakta duruyor."
+  },
+  {
+    "word": "december",
+    "meaning": "Aralık",
+    "sentence": "December is usually a festive month.",
+    "turkish_translation": "Aralık genellikle neşeli bir aydır."
+  },
+  {
+    "word": "decent",
+    "meaning": "saygın, iyi",
+    "sentence": "He made a decent living as a freelance writer.",
+    "turkish_translation": "Serbest yazar olarak saygın bir yaşam sürdü."
+  },
+  {
+    "word": "decide",
+    "meaning": "karar vermek",
+    "sentence": "She needs to decide which university to attend.",
+    "turkish_translation": "Hangi üniversiteye katılacağına karar vermesi gerekiyor."
+  },
+  {
+    "word": "decided",
+    "meaning": "karar verildi",
+    "sentence": "They have already decided on the venue for the wedding.",
+    "turkish_translation": "Düğün mekanı zaten kararlaştırıldı."
+  },
+  {
+    "word": "decimal",
+    "meaning": "ondalık",
+    "sentence": "The number can be represented as a decimal fraction.",
+    "turkish_translation": "Sayı ondalık kesir olarak temsil edilebilir."
+  },
+  {
+    "word": "decision",
+    "meaning": "karar",
+    "sentence": "Making a decision can be tough sometimes.",
+    "turkish_translation": "Bazen bir karar vermek zor olabilir."
+  },
+  {
+    "word": "decisions",
+    "meaning": "kararlar",
+    "sentence": "Important decisions should be made after careful consideration.",
+    "turkish_translation": "Önemli kararlar dikkatli düşünmeden sonra alınmalıdır."
+  },
+  {
+    "word": "deck",
+    "meaning": "güverte",
+    "sentence": "They spent the afternoon on the deck of the ship.",
+    "turkish_translation": "Gemi güvertesinde öğleden sonra geçirdiler."
+  },
+  {
+    "word": "declaration",
+    "meaning": "bildiri",
+    "sentence": "The government issued a declaration about the new tax policy.",
+    "turkish_translation": "Hükümet yeni vergi politikası hakkında bir bildiri yayınladı."
+  },
+  {
+    "word": "declare",
+    "meaning": "ilan etmek",
+    "sentence": "He plans to declare his candidacy for mayor.",
+    "turkish_translation": "Belediye başkanlığı için adaylığını ilan etmeyi planlıyor."
+  },
+  {
+    "word": "declared",
+    "meaning": "ilan edildi",
+    "sentence": "The winner of the competition was declared yesterday.",
+    "turkish_translation": "Yarışmanın kazananı dün ilan edildi."
+  },
+  {
+    "word": "decline",
+    "meaning": "azalmak, reddetmek",
+    "sentence": "The population of that species is in decline.",
+    "turkish_translation": "O türün nüfusu azalıyor."
+  },
+  {
+    "word": "declined",
+    "meaning": "reddedildi",
+    "sentence": "His offer was declined by the company.",
+    "turkish_translation": "Teklifi şirket tarafından reddedildi."
+  },
+  {
+    "word": "decor",
+    "meaning": "dekorasyon",
+    "sentence": "The decor of the restaurant was elegant and modern.",
+    "turkish_translation": "Restoranın dekoru şık ve moderndi."
+  },
+  {
+    "word": "decorating",
+    "meaning": "süsleme",
+    "sentence": "They spent the weekend decorating the house for the holidays.",
+    "turkish_translation": "Hafta sonunu tatil için evi süsleyerek geçirdiler."
+  },
+  {
+    "word": "decorative",
+    "meaning": "süs",
+    "sentence": "The vase was purely decorative and had no practical use.",
+    "turkish_translation": "Vazo tamamen süs amaçlıydı ve pratik bir kullanımı yoktu."
+  },
+  {
+    "word": "decrease",
+    "meaning": "azalmak",
+    "sentence": "The temperature tends to decrease in the winter.",
+    "turkish_translation": "Sıcaklık kışın azalma eğilimindedir."
+  },
+  {
+    "word": "decreased",
+    "meaning": "azalmış",
+    "sentence": "The company's profits decreased significantly last year.",
+    "turkish_translation": "Şirketin karı geçen yıl önemli ölçüde azaldı."
+  },
+  {
+    "word": "dedicated",
+    "meaning": "özverili",
+    "sentence": "She's a dedicated teacher who always puts in extra effort.",
+    "turkish_translation": "Her zaman fazladan çaba harcayan özverili bir öğretmen."
+  },
+  {
+    "word": "dee",
+    "meaning": "dee",
+    "sentence": "The bird's song had a melodic dee-dee-dee.",
+    "turkish_translation": "Kuşun şarkısı melodik bir dee-dee-dee içeriyordu."
+  },
+  {
+    "word": "deemed",
+    "meaning": "sayılmış",
+    "sentence": "The project was deemed a success by the team.",
+    "turkish_translation": "Proje takım tarafından bir başarı olarak sayıldı."
+  },
+  {
+    "word": "deep",
+    "meaning": "derin",
+    "sentence": "The lake is very deep in the center.",
+    "turkish_translation": "Gölün ortasında çok derin."
+  },
+  {
+    "word": "deeper",
+    "meaning": "daha derin",
+    "sentence": "The problem goes deeper than it appears.",
+    "turkish_translation": "Sorun göründüğünden daha derin."
+  },
+  {
+    "word": "deeply",
+    "meaning": "derinlemesine",
+    "sentence": "He was deeply affected by the loss of his pet.",
+    "turkish_translation": "Evcil hayvanının kaybından derinlemesine etkilendi."
+  },
+  {
+    "word": "deer",
+    "meaning": "geyik",
+    "sentence": "They spotted a beautiful deer in the woods.",
+    "turkish_translation": "Ormanda güzel bir geyik gördüler."
+  },
+  {
+    "word": "def",
+    "meaning": "def",
+    "sentence": "The term 'def' is often used in urban slang.",
+    "turkish_translation": "Terim 'def', kentsel argoda sıkça kullanılır."
+  },
+  {
+    "word": "default",
+    "meaning": "varsayılan",
+    "sentence": "The program will use the default settings.",
+    "turkish_translation": "Program varsayılan ayarları kullanacak."
+  },
+  {
+    "word": "defeat",
+    "meaning": "yenilgi",
+    "sentence": "They suffered a defeat in the final match.",
+    "turkish_translation": "Final maçında bir yenilgi yaşadılar."
+  },
+  {
+    "word": "defects",
+    "meaning": "kusurlar",
+    "sentence": "The product was recalled due to defects in its design.",
+    "turkish_translation": "Ürün tasarımındaki kusurlar nedeniyle geri çağrıldı."
+  },
+  {
+    "word": "defence",
+    "meaning": "savunma",
+    "sentence": "The country invested heavily in its national defence.",
+    "turkish_translation": "Ülke ulusal savunmasına ağırlık verdi."
+  },
+  {
+    "word": "defend",
+    "meaning": "savunmak",
+    "sentence": "He will defend his thesis next week.",
+    "turkish_translation": "Gelecek hafta tezini savunacak."
+  },
+  {
+    "word": "defendant",
+    "meaning": "davalı",
+    "sentence": "The defendant pleaded not guilty in the court.",
+    "turkish_translation": "Davalı mahkemede suçsuz olduğunu iddia etti."
+  },
+  {
+    "word": "defense",
+    "meaning": "savunma",
+    "sentence": "The team's defense strategy was strong.",
+    "turkish_translation": "Takımın savunma stratejisi güçlüydü."
+  },
+  {
+    "word": "defensive",
+    "meaning": "savunma",
+    "sentence": "The army adopted a defensive stance.",
+    "turkish_translation": "Ordu savunma pozisyonu aldı."
+  },
+  {
+    "word": "deferred",
+    "meaning": "ertelenmiş",
+    "sentence": "His admission to the university was deferred to the following year.",
+    "turkish_translation": "Üniversiteye kabulü bir sonraki yıla ertelendi."
+  },
+  {
+    "word": "deficit",
+    "meaning": "açık, eksiklik",
+    "sentence": "The country's budget deficit is a major concern.",
+    "turkish_translation": "Ülkenin bütçe açığı ciddi bir endişe kaynağı."
+  },
+  {
+    "word": "define",
+    "meaning": "tanımlamak",
+    "sentence": "The term is difficult to define precisely.",
+    "turkish_translation": "Terimi kesin olarak tanımlamak zor."
+  },
+  {
+    "word": "defined",
+    "meaning": "tanımlanmış",
+    "sentence": "The roles and responsibilities are clearly defined.",
+    "turkish_translation": "Roller ve sorumluluklar açıkça tanımlanmış."
+  },
+  {
+    "word": "defines",
+    "meaning": "tanımlar",
+    "sentence": "The dictionary defines this word as...",
+    "turkish_translation": "Sözlük bu kelimeyi şöyle tanımlar:..."
+  },
+  {
+    "word": "defining",
+    "meaning": "tanımlayan",
+    "sentence": "It's a defining moment in his career.",
+    "turkish_translation": "Bu, kariyerinde bir dönüm noktasıdır."
+  },
+  {
+    "word": "definitely",
+    "meaning": "kesinlikle",
+    "sentence": "I will definitely attend the meeting.",
+    "turkish_translation": "Kesinlikle toplantıya katılacağım."
+  },
+  {
+    "word": "definition",
+    "meaning": "tanım",
+    "sentence": "The dictionary provides a clear definition of the word.",
+    "turkish_translation": "Sözlük kelimenin net bir tanımını sunar."
+  },
+  {
+    "word": "definitions",
+    "meaning": "tanımlar",
+    "sentence": "These are some common definitions of the term.",
+    "turkish_translation": "Bu, terimin yaygın tanımlarından bazılarıdır."
+  },
+  {
+    "word": "degree",
+    "meaning": "derece, lisans",
+    "sentence": "He earned a degree in computer science.",
+    "turkish_translation": "Bilgisayar bilimi alanında derece kazandı."
+  },
+  {
+    "word": "degrees",
+    "meaning": "dereceler",
+    "sentence": "The temperature dropped a few degrees.",
+    "turkish_translation": "Sıcaklık birkaç derece düştü."
+  },
+  {
+    "word": "del",
+    "meaning": "sil",
+    "sentence": "You can del that file using the command line.",
+    "turkish_translation": "O dosyayı komut satırını kullanarak silebilirsiniz."
+  },
+  {
+    "word": "delaware",
+    "meaning": "Delaware",
+    "sentence": "Delaware is one of the smallest states in the U.S.",
+    "turkish_translation": "Delaware, ABD'nin en küçük eyaletlerinden biridir."
+  },
+  {
+    "word": "delay",
+    "meaning": "gecikme",
+    "sentence": "There was a delay in the train schedule.",
+    "turkish_translation": "Tren seferinde bir gecikme yaşandı."
+  },
+  {
+    "word": "delayed",
+    "meaning": "gecikmiş",
+    "sentence": "The flight was delayed due to bad weather.",
+    "turkish_translation": "Uçuş kötü hava koşulları nedeniyle gecikti."
+  },
+  {
+    "word": "delays",
+    "meaning": "gecikmeler",
+    "sentence": "The construction project faced multiple delays.",
+    "turkish_translation": "İnşaat projesi birden fazla gecikmeyle karşılaştı."
+  },
+  {
+    "word": "delegation",
+    "meaning": "temsilcilik",
+    "sentence": "The delegation attended the international conference.",
+    "turkish_translation": "Temsilcilik uluslararası konferansa katıldı."
+  },
+  {
+    "word": "delete",
+    "meaning": "silmek",
+    "sentence": "You can delete unwanted files to free up space.",
+    "turkish_translation": "Boş alan yaratmak için istenmeyen dosyaları silebilirsiniz."
+  },
+  {
+    "word": "deleted",
+    "meaning": "silinmiş",
+    "sentence": "The data was accidentally deleted.",
+    "turkish_translation": "Veriler yanlışlıkla silindi."
+  },
+  {
+    "word": "delhi",
+    "meaning": "Delhi",
+    "sentence": "Delhi is the capital of India.",
+    "turkish_translation": "Delhi, Hindistan'ın başkentidir."
+  },
+  {
+    "word": "delicious",
+    "meaning": "leziz",
+    "sentence": "The food at that restaurant is always delicious.",
+    "turkish_translation": "O restorandaki yemekler her zaman lezizdir."
+  },
+  {
+    "word": "delight",
+    "meaning": "zevk, memnuniyet",
+    "sentence": "The children's laughter was a delight to hear.",
+    "turkish_translation": "Çocukların kahkahalarını duymak büyük bir zevkti."
+  },
+  {
+    "word": "deliver",
+    "meaning": "teslim etmek",
+    "sentence": "The courier will deliver the package tomorrow.",
+    "turkish_translation": "Kurye yarın paketi teslim edecek."
+  },
+  {
+    "word": "delivered",
+    "meaning": "teslim edilmiş",
+    "sentence": "The goods were delivered to the customer's address.",
+    "turkish_translation": "Malzemeler müşterinin adresine teslim edildi."
+  },
+  {
+    "word": "delivering",
+    "meaning": "teslimat",
+    "sentence": "She is responsible for delivering orders on time.",
+    "turkish_translation": "Siparişleri zamanında teslim etmek onun sorumluluğundadır."
+  },
+  {
+    "word": "delivers",
+    "meaning": "teslim eder",
+    "sentence": "The company delivers products nationwide.",
+    "turkish_translation": "Şirket ürünleri ülke genelinde teslim eder."
+  },
+  {
+    "word": "delivery",
+    "meaning": "teslimat",
+    "sentence": "The delivery of the furniture will take place next week.",
+    "turkish_translation": "Mobilyaların teslimatı gelecek hafta gerçekleşecek."
+  },
+  {
+    "word": "dell",
+    "meaning": "dell",
+    "sentence": "He owns a Dell laptop for his work.",
+    "turkish_translation": "İş için bir Dell dizüstü bilgisayarı var."
+  },
+  {
+    "word": "delta",
+    "meaning": "delta",
+    "sentence": "The river forms a delta before flowing into the sea.",
+    "turkish_translation": "Nehir denize dökülmeden önce bir delta oluşturur."
+  },
+  {
+    "word": "deluxe",
+    "meaning": "lüks",
+    "sentence": "The hotel offers deluxe suites with ocean views.",
+    "turkish_translation": "Otel, okyanus manzaralı lüks süitler sunar."
+  },
+  {
+    "word": "dem",
+    "meaning": "dem",
+    "sentence": "He sang the song with a smooth jazz dem.",
+    "turkish_translation": "Şarkıyı yumuşak bir caz dem'iyle söyledi."
+  },
+  {
+    "word": "demand",
+    "meaning": "talep etmek",
+    "sentence": "Customers demand high-quality products.",
+    "turkish_translation": "Müşteriler yüksek kaliteli ürünler talep ediyor."
+  },
+  {
+    "word": "demanding",
+    "meaning": "talepkar",
+    "sentence": "The job can be quite demanding.",
+    "turkish_translation": "İş oldukça talepkar olabilir."
+  },
+  {
+    "word": "demands",
+    "meaning": "talepler",
+    "sentence": "The workers presented their demands to the management.",
+    "turkish_translation": "İşçiler taleplerini yönetimlere sundular."
+  },
+  {
+    "word": "demo",
+    "meaning": "demo, örnek",
+    "sentence": "The company released a demo version of the software.",
+    "turkish_translation": "Şirket yazılımın bir demo sürümünü yayınladı."
+  },
+  {
+    "word": "democracy",
+    "meaning": "demokrasi",
+    "sentence": "Freedom of speech is a key aspect of democracy.",
+    "turkish_translation": "Konuşma özgürlüğü demokrasinin önemli bir yönüdür."
+  },
+  {
+    "word": "democrat",
+    "meaning": "demokrat",
+    "sentence": "She is a registered Democrat and actively supports the party.",
+    "turkish_translation": "Kayıtlı bir demokrat ve partiyi aktif olarak destekliyor."
+  },
+  {
+    "word": "democratic",
+    "meaning": "demokratik",
+    "sentence": "The country transitioned to a democratic government.",
+    "turkish_translation": "Ülke demokratik bir hükümete geçiş yaptı."
+  },
+  {
+    "word": "democrats",
+    "meaning": "demokratlar",
+    "sentence": "The Democrats won the majority in the last election.",
+    "turkish_translation": "Demokratlar son seçimde çoğunluğu kazandı."
+  },
+  {
+    "word": "demographic",
+    "meaning": "demografik",
+    "sentence": "The company conducted a demographic study of its customers.",
+    "turkish_translation": "Şirket müşterilerinin demografik bir çalışmasını yaptı."
+  },
+  {
+    "word": "demonstrate",
+    "meaning": "göstermek, kanıtlamak",
+    "sentence": "He will demonstrate the new software features tomorrow.",
+    "turkish_translation": "Yarın yeni yazılım özelliklerini gösterecek."
+  },
+  {
+    "word": "demonstrated",
+    "meaning": "gösterilmiş",
+    "sentence": "The experiment's success was demonstrated through various tests.",
+    "turkish_translation": "Deneyin başarısı çeşitli testlerle gösterildi."
+  },
+  {
+    "word": "demonstrates",
+    "meaning": "gösterir",
+    "sentence": "The graph clearly demonstrates the trend over time.",
+    "turkish_translation": "Grafik zaman içindeki eğilimi açıkça gösterir."
+  },
+  {
+    "word": "demonstration",
+    "meaning": "gösteri",
+    "sentence": "A large crowd gathered for the protest demonstration.",
+    "turkish_translation": "Büyük bir kalabalık protesto gösterisi için toplandı."
+  },
+  {
+    "word": "den",
+    "meaning": "yuva, mağara",
+    "sentence": "The bear made its den in a cave.",
+    "turkish_translation": "Ayı, yuvasını bir mağarada yaptı."
+  },
+  {
+    "word": "denial",
+    "meaning": "inkar",
+    "sentence": "The politician issued a denial of the allegations.",
+    "turkish_translation": "Politikacı iddiaları inkar etti."
+  },
+  {
+    "word": "denied",
+    "meaning": "reddedildi",
+    "sentence": "His request for a loan was denied by the bank.",
+    "turkish_translation": "Banka tarafından kredi talebi reddedildi."
+  },
+  {
+    "word": "denmark",
+    "meaning": "Danimarka",
+    "sentence": "Denmark is known for its high quality of life.",
+    "turkish_translation": "Danimarka, yüksek yaşam kalitesiyle tanınır."
+  },
+  {
+    "word": "dennis",
+    "meaning": "Dennis",
+    "sentence": "Dennis is my cousin's name.",
+    "turkish_translation": "Dennis kuzenimin adıdır."
+  },
+  {
+    "word": "dense",
+    "meaning": "yoğun",
+    "sentence": "The forest was so dense that sunlight hardly reached the ground.",
+    "turkish_translation": "Orman o kadar yoğundu ki güneş ışığı zorlukla yere ulaştı."
+  },
+  {
+    "word": "density",
+    "meaning": "yoğunluk",
+    "sentence": "The city has a high population density.",
+    "turkish_translation": "Şehir yüksek bir nüfus yoğunluğuna sahip."
+  },
+  {
+    "word": "dental",
+    "meaning": "diş",
+    "sentence": "She had a dental check-up at the dentist's office.",
+    "turkish_translation": "Diş hekiminin muayenehanesinde diş kontrolü yaptırdı."
+  },
+  {
+    "word": "dentists",
+    "meaning": "diş hekimleri",
+    "sentence": "There are several dentists in the local area.",
+    "turkish_translation": "Yerel bölgede birkaç diş hekimi bulunmaktadır."
+  },
+  {
+    "word": "denver",
+    "meaning": "Denver",
+    "sentence": "Denver is the capital of Colorado.",
+    "turkish_translation": "Denver, Colorado'nun başkentidir."
+  },
+  {
+    "word": "deny",
+    "meaning": "inkar etmek, reddetmek",
+    "sentence": "He will deny any involvement in the scandal.",
+    "turkish_translation": "Skandalın içinde olduğunu inkar edecek."
+  },
+  {
+    "word": "department",
+    "meaning": "departman",
+    "sentence": "She works in the marketing department.",
+    "turkish_translation": "Pazarlama departmanında çalışıyor."
+  },
+  {
+    "word": "departmental",
+    "meaning": "departman",
+    "sentence": "The company is undergoing a departmental reorganization.",
+    "turkish_translation": "Şirket departman bazlı bir yeniden yapılanmaya gidiyor."
+  },
+  {
+    "word": "departments",
+    "meaning": "departmanlar",
+    "sentence": "The store has different departments for various products.",
+    "turkish_translation": "Mağazanın çeşitli ürünler için farklı departmanları var."
+  },
+  {
+    "word": "departure",
+    "meaning": "ayrılış, kalkış",
+    "sentence": "The departure of the flight was delayed by an hour.",
+    "turkish_translation": "Uçuşun kalkışı bir saat gecikti."
+  },
+  {
+    "word": "depend",
+    "meaning": "bağlı olmak",
+    "sentence": "The success of the project depends on careful planning.",
+    "turkish_translation": "Projenin başarısı dikkatli planlamaya bağlıdır."
+  },
+  {
+    "word": "dependence",
+    "meaning": "bağımlılık",
+    "sentence": "His dependence on technology is quite strong.",
+    "turkish_translation": "Teknolojiye olan bağımlılığı oldukça güçlü."
+  },
+  {
+    "word": "dependent",
+    "meaning": "bağımlı",
+    "sentence": "She is still financially dependent on her parents.",
+    "turkish_translation": "Hala maddi olarak ebeveynlerine bağımlı."
+  },
+  {
+    "word": "depending",
+    "meaning": "bağlı olarak",
+    "sentence": "The availability of the product varies depending on the location.",
+    "turkish_translation": "Ürünün bulunabilirliği konuma bağlı olarak değişiyor."
+  },
+  {
+    "word": "depends",
+    "meaning": "bağlıdır",
+    "sentence": "Whether we go hiking depends on the weather.",
+    "turkish_translation": "Yürüyüşe gitmek hava durumuna bağlıdır."
+  },
+  {
+    "word": "deployment",
+    "meaning": "dağıtım",
+    "sentence": "The software deployment was successful.",
+    "turkish_translation": "Yazılımın dağıtımı başarılıydı."
+  },
+  {
+    "word": "deposit",
+    "meaning": "depozito, yatırmak",
+    "sentence": "He made a deposit for the rental car.",
+    "turkish_translation": "Araç kiralama için bir depozito yaptı."
+  },
+  {
+    "word": "deposits",
+    "meaning": "depozitolar",
+    "sentence": "The bank offers various types of savings deposits.",
+    "turkish_translation": "Banka çeşitli türde tasarruf depozitoları sunar."
+  },
+  {
+    "word": "depot",
+    "meaning": "depot",
+    "sentence": "The train will depart from platform 5 at the depot.",
+    "turkish_translation": "Tren depodan 5 numaralı perondan kalkacak."
+  },
+  {
+    "word": "depression",
+    "meaning": "depresyon",
+    "sentence": "He struggled with depression for several years.",
+    "turkish_translation": "Birkaç yıl boyunca depresyonla mücadele etti."
+  },
+  {
+    "word": "dept",
+    "meaning": "departman",
+    "sentence": "I work in the IT dept of the company.",
+    "turkish_translation": "Şirketin IT departmanında çalışıyorum."
+  },
+  {
+    "word": "depth",
+    "meaning": "derinlik",
+    "sentence": "The ocean's depth is still a mystery in many areas.",
+    "turkish_translation": "Denizin derinliği hala birçok bölgede bir sır olarak kalmaktadır."
+  },
+  {
+    "word": "deputy",
+    "meaning": "yardımcı, vekil",
+    "sentence": "She was appointed as the deputy manager of the department.",
+    "turkish_translation": "O, departmanın yardımcı yöneticisi olarak atandı."
+  },
+  {
+    "word": "der",
+    "meaning": "der",
+    "sentence": "She sang the song with a soulful der.",
+    "turkish_translation": "Şarkıyı ruhani bir der ile söyledi."
+  },
+  {
+    "word": "derby",
+    "meaning": "yarış",
+    "sentence": "The horse race is known as the Kentucky Derby.",
+    "turkish_translation": "At yarışı Kentucky Derby olarak bilinir."
+  },
+  {
+    "word": "derek",
+    "meaning": "derek",
+    "sentence": "Derek is my neighbor's name.",
+    "turkish_translation": "Derek, komşumun adıdır."
+  },
+  {
+    "word": "derived",
+    "meaning": "elde edilmiş",
+    "sentence": "The word 'alphabet' is derived from the Greek letters 'alpha' and 'beta'.",
+    "turkish_translation": "'Alfabe' kelimesi, Yunanca harf 'alfa' ve 'beta'dan elde edilmiştir."
+  },
+  {
+    "word": "des",
+    "meaning": "des",
+    "sentence": "The song's chorus has a catchy des.",
+    "turkish_translation": "Şarkının nakaratı akılda kalıcı bir des'e sahiptir."
+  },
+  {
+    "word": "descending",
+    "meaning": "azalan, aşağı inen",
+    "sentence": "The hiking trail follows a descending path.",
+    "turkish_translation": "Yürüyüş parkuru azalan bir yolu takip ediyor."
+  },
+  {
+    "word": "describe",
+    "meaning": "tanımlamak",
+    "sentence": "Can you describe your ideal vacation?",
+    "turkish_translation": "İdeal tatilinizi tanımlayabilir misiniz?"
+  },
+  {
+    "word": "described",
+    "meaning": "tanımlanmış",
+    "sentence": "The movie was described as a thrilling adventure.",
+    "turkish_translation": "Film, heyecan verici bir macera olarak tanımlandı."
+  },
+  {
+    "word": "describes",
+    "meaning": "tanımlar",
+    "sentence": "The book describes the life of a famous explorer.",
+    "turkish_translation": "Kitap, ünlü bir kaşifin yaşamını tanımlar."
+  },
+  {
+    "word": "describing",
+    "meaning": "tanımlayan",
+    "sentence": "She is currently describing the process to the students.",
+    "turkish_translation": "Şu anda öğrencilere süreci tanımlıyor."
+  },
+  {
+    "word": "description",
+    "meaning": "açıklama, tanım",
+    "sentence": "The job description outlines the responsibilities of the position.",
+    "turkish_translation": "İş tanımı, pozisyonun sorumluluklarını belirtir."
+  },
+  {
+    "word": "descriptions",
+    "meaning": "açıklamalar, tanımlar",
+    "sentence": "The product descriptions help customers make informed choices.",
+    "turkish_translation": "Ürün açıklamaları müşterilerin bilinçli seçimler yapmasına yardımcı olur."
+  },
+  {
+    "word": "desert",
+    "meaning": "çöl, terk etmek",
+    "sentence": "The Sahara Desert is known for its vast sand dunes.",
+    "turkish_translation": "Sahra Çölü geniş kum tepeleriyle tanınır."
+  },
+  {
+    "word": "deserve",
+    "meaning": "hak etmek",
+    "sentence": "He deserves recognition for his hard work.",
+    "turkish_translation": "Zorlu çalışması için tanınmayı hak ediyor."
+  },
+  {
+    "word": "design",
+    "meaning": "tasarlamak, tasarım",
+    "sentence": "She plans to design a new logo for the company.",
+    "turkish_translation": "Şirket için yeni bir logo tasarlamayı planlıyor."
+  },
+  {
+    "word": "designated",
+    "meaning": "atanmış, belirlenmiş",
+    "sentence": "The area is designated for recreational activities.",
+    "turkish_translation": "Alan rekreasyonel faaliyetler için belirlenmiştir."
+  },
+  {
+    "word": "designation",
+    "meaning": "atama, belirleme",
+    "sentence": "His job designation is 'senior manager'.",
+    "turkish_translation": "İş ataması 'kıdemli yönetici' olarak belirlenmiştir."
+  },
+  {
+    "word": "designed",
+    "meaning": "tasarlanmış",
+    "sentence": "The building was designed by a renowned architect.",
+    "turkish_translation": "Bina ünlü bir mimar tarafından tasarlandı."
+  },
+  {
+    "word": "designer",
+    "meaning": "tasarımcı",
+    "sentence": "She works as a fashion designer in Paris.",
+    "turkish_translation": "Paris'te bir moda tasarımcısı olarak çalışıyor."
+  },
+  {
+    "word": "designers",
+    "meaning": "tasarımcılar",
+    "sentence": "The company hired a team of designers for the new project.",
+    "turkish_translation": "Şirket yeni proje için bir tasarımcı ekibi işe aldı."
+  },
+  {
+    "word": "designing",
+    "meaning": "tasarım yapma",
+    "sentence": "He has a knack for designing user-friendly interfaces.",
+    "turkish_translation": "Kullanıcı dostu arayüzler tasarlama konusunda yeteneği var."
+  },
+  {
+    "word": "designs",
+    "meaning": "tasarımlar",
+    "sentence": "The company produces innovative designs for its products.",
+    "turkish_translation": "Şirket ürünleri için yenilikçi tasarımlar üretiyor."
+  },
+  {
+    "word": "desirable",
+    "meaning": "arzu edilen",
+    "sentence": "Good communication skills are desirable in many professions.",
+    "turkish_translation": "İyi iletişim becerileri birçok meslekte arzu edilir."
+  },
+  {
+    "word": "desire",
+    "meaning": "arzu etmek",
+    "sentence": "She has a strong desire to travel the world.",
+    "turkish_translation": "Dünyayı gezmek için güçlü bir arzusu var."
+  },
+  {
+    "word": "desired",
+    "meaning": "arzu edilen",
+    "sentence": "Please provide the specifications of the desired product.",
+    "turkish_translation": "Lütfen arzu edilen ürünün özelliklerini belirtin."
+  },
+  {
+    "word": "desk",
+    "meaning": "masa",
+    "sentence": "Her desk is always organized and tidy.",
+    "turkish_translation": "Onun masası her zaman düzenli ve temiz."
+  },
+  {
+    "word": "desktop",
+    "meaning": "masaüstü",
+    "sentence": "He prefers using a desktop computer for gaming.",
+    "turkish_translation": "Oyun oynamak için masaüstü bilgisayar kullanmayı tercih ediyor."
+  },
+  {
+    "word": "desktops",
+    "meaning": "masaüstü bilgisayarlar",
+    "sentence": "The company offers a variety of desktops for different needs.",
+    "turkish_translation": "Şirket, farklı ihtiyaçlar için çeşitli masaüstü bilgisayarlar sunar."
+  },
+  {
+    "word": "desperate",
+    "meaning": "umutsuz",
+    "sentence": "They were in a desperate situation and needed immediate help.",
+    "turkish_translation": "Umutsuz bir durumdaydılar ve acil yardıma ihtiyaçları vardı."
+  },
+  {
+    "word": "despite",
+    "meaning": "rağmen",
+    "sentence": "Despite the challenges, they managed to complete the project.",
+    "turkish_translation": "Zorluklara rağmen proje tamamlamayı başardılar."
+  },
+  {
+    "word": "destination",
+    "meaning": "varış noktası",
+    "sentence": "Their next vacation destination is a tropical island.",
+    "turkish_translation": "Bir sonraki tatil varış noktaları tropikal bir ada."
+  },
+  {
+    "word": "destinations",
+    "meaning": "varış noktaları",
+    "sentence": "The airline offers flights to various international destinations.",
+    "turkish_translation": "Havayolu çeşitli uluslararası varış noktalarına uçuşlar sunar."
+  },
+  {
+    "word": "destiny",
+    "meaning": "kader",
+    "sentence": "He believes that his destiny is in his own hands.",
+    "turkish_translation": "Kaderinin kendi elinde olduğuna inanıyor."
+  },
+  {
+    "word": "destroy",
+    "meaning": "yok etmek",
+    "sentence": "The fire threatened to destroy the entire building.",
+    "turkish_translation": "Yangın bütün binayı yok etme tehdidinde bulundu."
+  },
+  {
+    "word": "destroyed",
+    "meaning": "yok edilmiş",
+    "sentence": "The ancient city was destroyed by a volcanic eruption.",
+    "turkish_translation": "Eski şehir volkanik bir patlama ile yok edildi."
+  },
+  {
+    "word": "destruction",
+    "meaning": "yok etme",
+    "sentence": "The war brought widespread destruction to the region.",
+    "turkish_translation": "Savaş bölgeye yaygın bir yok etme getirdi."
+  },
+  {
+    "word": "detail",
+    "meaning": "detay, ayrıntı",
+    "sentence": "She explained every detail of the plan.",
+    "turkish_translation": "Planın her ayrıntısını açıkladı."
+  },
+  {
+    "word": "detailed",
+    "meaning": "detaylı",
+    "sentence": "The report provides a detailed analysis of the market trends.",
+    "turkish_translation": "Rapor, pazar trendlerinin detaylı bir analizini sağlar."
+  },
+  {
+    "word": "details",
+    "meaning": "detaylar",
+    "sentence": "Please provide more details about the incident.",
+    "turkish_translation": "Lütfen olay hakkında daha fazla detay verin."
+  },
+  {
+    "word": "detect",
+    "meaning": "tespit etmek",
+    "sentence": "The security system can detect any unauthorized access.",
+    "turkish_translation": "Güvenlik sistemi herhangi bir yetkisiz erişimi tespit edebilir."
+  },
+  {
+    "word": "detected",
+    "meaning": "tespit edilmiş",
+    "sentence": "A virus was detected in the computer's files.",
+    "turkish_translation": "Bir virüs bilgisayar dosyalarında tespit edildi."
+  },
+  {
+    "word": "detection",
+    "meaning": "tespit",
+    "sentence": "Early detection of diseases can save lives.",
+    "turkish_translation": "Hastalıkların erken tespiti hayatları kurtarabilir."
+  },
+  {
+    "word": "detective",
+    "meaning": "dedektif",
+    "sentence": "The detective is investigating the mysterious case.",
+    "turkish_translation": "Dedektif gizemli olayı araştırıyor."
+  },
+  {
+    "word": "detector",
+    "meaning": "dedektör",
+    "sentence": "The smoke detector alerted them to the fire.",
+    "turkish_translation": "Duman dedektörü onları yangına uyardı."
+  },
+  {
+    "word": "determination",
+    "meaning": "kararlılık",
+    "sentence": "His determination helped him overcome many challenges.",
+    "turkish_translation": "Kararlılığı onun birçok zorluğun üstesinden gelmesine yardımcı oldu."
+  },
+  {
+    "word": "determine",
+    "meaning": "belirlemek",
+    "sentence": "They need to determine the cause of the problem.",
+    "turkish_translation": "Sorunun nedenini belirlemeleri gerekiyor."
+  },
+  {
+    "word": "determined",
+    "meaning": "kararlı",
+    "sentence": "She is determined to achieve her goals.",
+    "turkish_translation": "Hedeflerine ulaşmaya kararlı."
+  },
+  {
+    "word": "determines",
+    "meaning": "belirler",
+    "sentence": "Your attitude determines your success.",
+    "turkish_translation": "Tutumunuz başarınızı belirler."
+  },
+  {
+    "word": "determining",
+    "meaning": "belirleme",
+    "sentence": "The process of determining the best solution took time.",
+    "turkish_translation": "En iyi çözümü belirleme süreci zaman aldı."
+  },
+  {
+    "word": "detroit",
+    "meaning": "Detroit",
+    "sentence": "Detroit is known for its contributions to the automotive industry.",
+    "turkish_translation": "Detroit, otomotiv endüstrisine katkılarıyla tanınır."
+  },
+  {
+    "word": "deutsch",
+    "meaning": "Almanca",
+    "sentence": "She is learning to speak deutsch.",
+    "turkish_translation": "Almanca konuşmayı öğreniyor."
+  },
+  {
+    "word": "deutsche",
+    "meaning": "Alman",
+    "sentence": "The deutsche culture is rich and diverse.",
+    "turkish_translation": "Alman kültürü zengin ve çeşitlidir."
+  },
+  {
+    "word": "deutschland",
+    "meaning": "Almanya",
+    "sentence": "I visited deutschland last summer.",
+    "turkish_translation": "Geçen yaz Almanya'yı ziyaret ettim."
+  },
+  {
+    "word": "dev",
+    "meaning": "geliştirici",
+    "sentence": "He works as a dev at a software company.",
+    "turkish_translation": "Bir yazılım şirketinde geliştirici olarak çalışıyor."
+  },
+  {
+    "word": "devel",
+    "meaning": "geliştirme",
+    "sentence": "The project is still in the devel stage.",
+    "turkish_translation": "Proje hala geliştirme aşamasında."
+  },
+  {
+    "word": "develop",
+    "meaning": "geliştirmek",
+    "sentence": "The team plans to develop new features for the app.",
+    "turkish_translation": "Ekip, uygulama için yeni özellikler geliştirmeyi planlıyor."
+  },
+  {
+    "word": "developed",
+    "meaning": "geliştirilmiş",
+    "sentence": "The company released the developed version of the software.",
+    "turkish_translation": "Şirket, yazılımın geliştirilmiş sürümünü yayınladı."
+  },
+  {
+    "word": "developer",
+    "meaning": "geliştirici",
+    "sentence": "She is a skilled software developer.",
+    "turkish_translation": "O, yetenekli bir yazılım geliştiricisi."
+  },
+  {
+    "word": "developers",
+    "meaning": "geliştiriciler",
+    "sentence": "The conference brought together developers from around the world.",
+    "turkish_translation": "Konferans dünyanın dört bir yanından geliştiricileri bir araya getirdi."
+  },
+  {
+    "word": "developing",
+    "meaning": "gelişmekte olan",
+    "sentence": "The country is undergoing developing projects to improve its infrastructure.",
+    "turkish_translation": "Ülke, altyapısını iyileştirmek için gelişmekte olan projeleri hayata geçiriyor."
+  },
+  {
+    "word": "development",
+    "meaning": "gelişim",
+    "sentence": "The development of new technology has transformed many industries.",
+    "turkish_translation": "Yeni teknolojinin gelişimi birçok endüstriyi dönüştürdü."
+  },
+  {
+    "word": "developmental",
+    "meaning": "gelişimsel",
+    "sentence": "Childhood is a crucial developmental phase.",
+    "turkish_translation": "Çocukluk dönemi önemli bir gelişimsel aşamadır."
+  },
+  {
+    "word": "developments",
+    "meaning": "gelişmeler",
+    "sentence": "Recent developments in medicine have led to breakthrough treatments.",
+    "turkish_translation": "Tıp alanındaki son gelişmeler çığır açan tedavilere yol açtı."
+  },
+  {
+    "word": "develops",
+    "meaning": "geliştirir",
+    "sentence": "The company constantly develops new software solutions.",
+    "turkish_translation": "Şirket sürekli yeni yazılım çözümleri geliştirir."
+  },
+  {
+    "word": "deviant",
+    "meaning": "sapkın",
+    "sentence": "His deviant behavior raised concerns among his peers.",
+    "turkish_translation": "Sapkın davranışları akranları arasında endişeye neden oldu."
+  },
+  {
+    "word": "deviation",
+    "meaning": "sapma",
+    "sentence": "The data showed a deviation from the expected results.",
+    "turkish_translation": "Veriler beklenen sonuçlardan bir sapma gösterdi."
+  },
+  {
+    "word": "device",
+    "meaning": "cihaz",
+    "sentence": "The new device offers advanced features for users.",
+    "turkish_translation": "Yeni cihaz kullanıcılar için gelişmiş özellikler sunuyor."
+  },
+  {
+    "word": "devices",
+    "meaning": "cihazlar",
+    "sentence": "Smartphones, tablets, and laptops are common electronic devices.",
+    "turkish_translation": "Akıllı telefonlar, tabletler ve dizüstü bilgisayarlar yaygın elektronik cihazlardır."
+  },
+  {
+    "word": "devil",
+    "meaning": "şeytan",
+    "sentence": "The devil is often depicted as a horned creature in mythology.",
+    "turkish_translation": "Şeytan genellikle mitolojide boynuzlu bir yaratık olarak tasvir edilir."
+  },
+  {
+    "word": "devon",
+    "meaning": "Devon",
+    "sentence": "She spent her summer vacation in Devon, enjoying the coastal views.",
+    "turkish_translation": "Yaz tatilini sahil manzaralarının tadını çıkararak Devon'da geçirdi."
+  },
+  {
+    "word": "devoted",
+    "meaning": "adanan, sadık",
+    "sentence": "He is devoted to his family and always puts them first.",
+    "turkish_translation": "Ailesine adanmış ve her zaman onları ön planda tutan biridir."
+  },
+  {
+    "word": "df",
+    "meaning": "df",
+    "sentence": "The df command is used to display disk space usage.",
+    "turkish_translation": "df komutu disk alanı kullanımını görüntülemek için kullanılır."
+  },
+  {
+    "word": "dg",
+    "meaning": "dg",
+    "sentence": "I'm not familiar with the term 'dg'.",
+    "turkish_translation": "'Dg' terimiyle tanıdık değilim."
+  },
+  {
+    "word": "dh",
+    "meaning": "dh",
+    "sentence": "Could you please provide more context for 'dh'?",
+    "turkish_translation": "'Dh' için daha fazla bağlam sağlayabilir misiniz?"
+  },
+  {
+    "word": "di",
+    "meaning": "di",
+    "sentence": "The word 'di' is often used as a pronoun in some languages.",
+    "turkish_translation": "'Di' kelimesi bazı dillerde bir zamir olarak sıkça kullanılır."
+  },
+  {
+    "word": "diabetes",
+    "meaning": "şeker hastalığı",
+    "sentence": "Regular exercise and a healthy diet are important for managing diabetes.",
+    "turkish_translation": "Düzenli egzersiz ve sağlıklı beslenme, şeker hastalığını yönetmek için önemlidir."
+  },
+  {
+    "word": "diagnosis",
+    "meaning": "teşhis",
+    "sentence": "The doctor's diagnosis revealed a bacterial infection.",
+    "turkish_translation": "Doktorun teşhisi bakteriyel bir enfeksiyonu ortaya çıkardı."
+  },
+  {
+    "word": "diagnostic",
+    "meaning": "teşhis edici",
+    "sentence": "The lab tests provide important diagnostic information.",
+    "turkish_translation": "Laboratuvar testleri önemli teşhis edici bilgiler sağlar."
+  },
+  {
+    "word": "diagram",
+    "meaning": "şema, diyagram",
+    "sentence": "He drew a diagram to explain the process visually.",
+    "turkish_translation": "Süreci görsel olarak açıklamak için bir şema çizdi."
+  },
+  {
+    "word": "dial",
+    "meaning": "çevirmek, kadran",
+    "sentence": "She picked up the phone and started to dial the number.",
+    "turkish_translation": "Telefonu kaldırdı ve numarayı çevirmeye başladı."
+  },
+  {
+    "word": "dialog",
+    "meaning": "diyalog",
+    "sentence": "The dialog between the characters was filled with tension.",
+    "turkish_translation": "Karakterler arasındaki diyalog gerilimle doluydu."
+  },
+  {
+    "word": "dialogue",
+    "meaning": "diyalog",
+    "sentence": "The dialogue in the movie was witty and engaging.",
+    "turkish_translation": "Filmin diyalogları esprili ve ilgi çekiciydi."
+  },
+  {
+    "word": "diameter",
+    "meaning": "çap",
+    "sentence": "The diameter of the circle is a crucial measurement.",
+    "turkish_translation": "Dairenin çapı önemli bir ölçüdür."
+  },
+  {
+    "word": "diamond",
+    "meaning": "elmas",
+    "sentence": "She received a stunning diamond necklace as a gift.",
+    "turkish_translation": "Hediy olarak etkileyici bir elmas kolye aldı."
+  },
+  {
+    "word": "diamonds",
+    "meaning": "elmaslar",
+    "sentence": "The jewelry store has a wide selection of diamonds.",
+    "turkish_translation": "Mücevher dükkanı geniş bir elmas seçeneğine sahip."
+  },
+  {
+    "word": "diana",
+    "meaning": "Diana",
+    "sentence": "Diana was known for her philanthropic work and grace.",
+    "turkish_translation": "Diana, hayır işleri ve zarafetiyle tanınıyordu."
+  },
+  {
+    "word": "diane",
+    "meaning": "Diane",
+    "sentence": "Her name is Diane, and she's a talented artist.",
+    "turkish_translation": "Adı Diane ve yetenekli bir sanatçı."
+  },
+  {
+    "word": "diary",
+    "meaning": "günlük",
+    "sentence": "She wrote her thoughts and experiences in her diary.",
+    "turkish_translation": "Düşüncelerini ve deneyimlerini günlüğüne yazdı."
+  },
+  {
+    "word": "dice",
+    "meaning": "zar",
+    "sentence": "They rolled the dice to determine the outcome of the game.",
+    "turkish_translation": "Oyunun sonucunu belirlemek için zar attılar."
+  },
+  {
+    "word": "dick",
+    "meaning": "penis",
+    "sentence": "Using inappropriate language, such as referring to genitals, is disrespectful.",
+    "turkish_translation": "Genital organları işaret ederek uygun olmayan dil kullanmak saygısızlıktır."
+  },
+  {
+    "word": "dicke",
+    "meaning": "Dick",
+    "sentence": "His nickname is Dicke, short for Richard.",
+    "turkish_translation": "Lakabı Dicke, Richard için kısaltma."
+  },
+  {
+    "word": "dicks",
+    "meaning": "penisler",
+    "sentence": "The bathroom graffiti was filled with crude drawings of dicks.",
+    "turkish_translation": "Banyo grafitisi, çirkin penis çizimleriyle doluydu."
+  },
+  {
+    "word": "dictionaries",
+    "meaning": "sözlükler",
+    "sentence": "Online dictionaries provide quick access to definitions.",
+    "turkish_translation": "Çevrimiçi sözlükler tanımlara hızlı erişim sağlar."
+  },
+  {
+    "word": "dictionary",
+    "meaning": "sözlük",
+    "sentence": "He always keeps a dictionary on his desk for reference.",
+    "turkish_translation": "Her zaman referans için masasında bir sözlük bulundurur."
+  },
+  {
+    "word": "did",
+    "meaning": "yaptı",
+    "sentence": "She did her best to complete the project on time.",
+    "turkish_translation": "Projeyi zamanında tamamlamak için elinden geleni yaptı."
+  },
+  {
+    "word": "die",
+    "meaning": "ölüm",
+    "sentence": "The news of his sudden die shocked everyone.",
+    "turkish_translation": "Ani ölüm haberi herkesi şok etti."
+  },
+  {
+    "word": "died",
+    "meaning": "öldü",
+    "sentence": "He died peacefully in his sleep.",
+    "turkish_translation": "Uykusunda huzurlu bir şekilde öldü."
+  },
+  {
+    "word": "diego",
+    "meaning": "Diego",
+    "sentence": "Diego is an enthusiastic traveler who explores new places.",
+    "turkish_translation": "Diego, yeni yerleri keşfeden hevesli bir gezgindir."
+  },
+  {
+    "word": "dies",
+    "meaning": "öLür",
+    "sentence": "Everything that lives eventually dies.",
+    "turkish_translation": "Yaşayan her şey sonunda öLür."
+  },
+  {
+    "word": "diesel",
+    "meaning": "dizel",
+    "sentence": "Many trucks and buses use diesel engines for power.",
+    "turkish_translation": "Birçok kamyon ve otobüs güç için dizel motorlar kullanır."
+  },
+  {
+    "word": "diet",
+    "meaning": "diyet",
+    "sentence": "She decided to go on a healthy diet to improve her well-being.",
+    "turkish_translation": "Sağlığını iyileştirmek için sağlıklı bir diyet yapmaya karar verdi."
+  },
+  {
+    "word": "dietary",
+    "meaning": "beslenme",
+    "sentence": "The dietary preferences of individuals vary widely.",
+    "turkish_translation": "Bireylerin beslenme tercihleri geniş çapta farklılık gösterir."
+  },
+  {
+    "word": "diff",
+    "meaning": "diff",
+    "sentence": "You can use the 'diff' command to compare two files.",
+    "turkish_translation": "'Diff' komutunu iki dosyayı karşılaştırmak için kullanabilirsiniz."
+  },
+  {
+    "word": "differ",
+    "meaning": "farklılık göstermek",
+    "sentence": "Their opinions differ on the best approach to the problem.",
+    "turkish_translation": "Görüşleri, soruna en iyi yaklaşım konusunda farklılık gösterir."
+  },
+  {
+    "word": "difference",
+    "meaning": "fark",
+    "sentence": "There is a noticeable difference between the two products.",
+    "turkish_translation": "İki ürün arasında fark edilir bir fark var."
+  },
+  {
+    "word": "differences",
+    "meaning": "farklılıklar",
+    "sentence": "Cultural differences can lead to misunderstandings.",
+    "turkish_translation": "Kültürel farklılıklar yanlış anlamalara neden olabilir."
+  },
+  {
+    "word": "different",
+    "meaning": "farklı",
+    "sentence": "Each person has different preferences and tastes.",
+    "turkish_translation": "Her kişinin farklı tercihleri ve zevkleri vardır."
+  },
+  {
+    "word": "differential",
+    "meaning": "diferansiyel",
+    "sentence": "The car's differential allows the wheels to rotate at different speeds.",
+    "turkish_translation": "Arabanın diferansiyeli tekerleklerin farklı hızlarda dönmesine olanak tanır."
+  },
+  {
+    "word": "differently",
+    "meaning": "farklı şekilde",
+    "sentence": "They approached the problem differently, but both solutions worked.",
+    "turkish_translation": "Soruna farklı yaklaştılar, ancak her iki çözüm de işe yaradı."
+  },
+  {
+    "word": "difficult",
+    "meaning": "zor",
+    "sentence": "Learning a new language can be difficult, but it's rewarding.",
+    "turkish_translation": "Yeni bir dil öğrenmek zor olabilir, ancak ödüllendiricidir."
+  },
+  {
+    "word": "difficulties",
+    "meaning": "zorluklar",
+    "sentence": "They faced many difficulties during the construction project.",
+    "turkish_translation": "İnşaat projesi sırasında birçok zorlukla karşılaştılar."
+  },
+  {
+    "word": "difficulty",
+    "meaning": "zorluk",
+    "sentence": "She overcame the difficulty and completed the task.",
+    "turkish_translation": "Zorluğun üstesinden geldi ve görevi tamamladı."
+  },
+  {
+    "word": "diffs",
+    "meaning": "diffs",
+    "sentence": "The software provides a clear view of code changes using 'diffs'.",
+    "turkish_translation": "Yazılım, kod değişikliklerini 'diffs' kullanarak net bir şekilde gösterir."
+  },
+  {
+    "word": "dig",
+    "meaning": "kazmak",
+    "sentence": "They need to dig a hole to plant the tree.",
+    "turkish_translation": "Ağacı dikmek için bir çukur kazmaları gerekiyor."
+  },
+  {
+    "word": "digest",
+    "meaning": " sindirmek, özetlemek",
+    "sentence": "She likes to read books that are easy to digest.",
+    "turkish_translation": "Sindirmesi kolay kitapları okumayı sever."
+  },
+  {
+    "word": "digit",
+    "meaning": "basamak, rakam",
+    "sentence": "The number 245 has three digits.",
+    "turkish_translation": "245 sayısının üç basamağı vardır."
+  },
+  {
+    "word": "digital",
+    "meaning": "dijital",
+    "sentence": "Digital technology has revolutionized the way we communicate.",
+    "turkish_translation": "Dijital teknoloji, iletişim şeklimizi devrimleştirdi."
+  },
+  {
+    "word": "dildo",
+    "meaning": "dildo",
+    "sentence": "She blushed when she saw the inappropriate joke about a dildo.",
+    "turkish_translation": "Dildo ile ilgili uygunsuz şakayı gördüğünde kızardı."
+  },
+  {
+    "word": "dim",
+    "meaning": "loş, karartmak",
+    "sentence": "The lights were dim in the cozy restaurant.",
+    "turkish_translation": "Restorandaki ışıklar loştu."
+  },
+  {
+    "word": "dimension",
+    "meaning": "boyut",
+    "sentence": "The artist added depth to the painting by using perspective and dimension.",
+    "turkish_translation": "Sanatçı, perspektif ve boyut kullanarak tabloya derinlik kattı."
+  },
+  {
+    "word": "dimensional",
+    "meaning": "boyutlu",
+    "sentence": "The puzzle is a three-dimensional object that challenges your spatial reasoning.",
+    "turkish_translation": "Bu bulmaca, uzamsal düşünce yeteneğinizi sınayan üç boyutlu bir nesnedir."
+  },
+  {
+    "word": "dimensions",
+    "meaning": "boyutlar",
+    "sentence": "The box's dimensions are 10 inches by 8 inches by 6 inches.",
+    "turkish_translation": "Kutunun boyutları 10 inç x 8 inç x 6 inç."
+  },
+  {
+    "word": "dining",
+    "meaning": "yemek yeme",
+    "sentence": "The dining room is where we gather to have meals together.",
+    "turkish_translation": "Yemek odası, birlikte yemek yediğimiz yerdir."
+  },
+  {
+    "word": "dinner",
+    "meaning": "akşam yemeği",
+    "sentence": "They enjoyed a delicious dinner at their favorite restaurant.",
+    "turkish_translation": "Favori restoranlarında lezzetli bir akşam yemeği geçirdiler."
+  },
+  {
+    "word": "dip",
+    "meaning": "daldırmak, dalmak",
+    "sentence": "He decided to dip his feet in the cool water to refresh himself.",
+    "turkish_translation": "Kendini tazelemek için serin suya ayaklarını daldırmaya karar verdi."
+  },
+  {
+    "word": "diploma",
+    "meaning": "diploma",
+    "sentence": "She proudly displayed her diploma on the wall.",
+    "turkish_translation": "Gururla diplomasını duvarda sergiledi."
+  },
+  {
+    "word": "dir",
+    "meaning": "dir",
+    "sentence": "I'm not sure what you mean by 'dir'.",
+    "turkish_translation": "'Dir' terimini ne anlatmak istediğinizi anlamadım."
+  },
+  {
+    "word": "direct",
+    "meaning": "doğrudan",
+    "sentence": "You can reach the destination by taking a direct route.",
+    "turkish_translation": "Doğrudan bir rota izleyerek varış noktasına ulaşabilirsiniz."
+  },
+  {
+    "word": "directed",
+    "meaning": "yönlendirilmiş",
+    "sentence": "The movie was directed by a well-known filmmaker.",
+    "turkish_translation": "Film tanınmış bir film yapımcısı tarafından yönlendirildi."
+  },
+  {
+    "word": "direction",
+    "meaning": "yön",
+    "sentence": "Can you give me directions to the nearest gas station?",
+    "turkish_translation": "En yakın benzin istasyonuna nasıl gideceğimi söyleyebilir misiniz?"
+  },
+  {
+    "word": "directions",
+    "meaning": "yönler",
+    "sentence": "The directions on the map were easy to follow.",
+    "turkish_translation": "Haritadaki yönler kolayca takip edildi."
+  },
+  {
+    "word": "directive",
+    "meaning": "talimat",
+    "sentence": "The manager issued a directive to improve employee morale.",
+    "turkish_translation": "Yönetici, çalışan moraleini artırmak için bir talimat yayımladı."
+  },
+  {
+    "word": "directly",
+    "meaning": "doğrudan",
+    "sentence": "You can contact me directly if you have any questions.",
+    "turkish_translation": "Herhangi bir sorunuz varsa doğrudan bana ulaşabilirsiniz."
+  },
+  {
+    "word": "director",
+    "meaning": "yönetmen, direktör",
+    "sentence": "The director of the company is responsible for strategic decisions.",
+    "turkish_translation": "Şirketin yönetmeni stratejik kararlardan sorumludur."
+  },
+  {
+    "word": "directories",
+    "meaning": "dizinler",
+    "sentence": "The program can scan directories and files for specific content.",
+    "turkish_translation": "Program belirli içerikler için dizinleri ve dosyaları tarayabilir."
+  },
+  {
+    "word": "directors",
+    "meaning": "yönetmenler",
+    "sentence": "The film festival featured movies from various directors.",
+    "turkish_translation": "Film festivali çeşitli yönetmenlerin filmlerine ev sahipliği yaptı."
+  },
+  {
+    "word": "directory",
+    "meaning": "dizin",
+    "sentence": "You can find the file in the 'Documents' directory.",
+    "turkish_translation": "'Belgeler' dizininde dosyayı bulabilirsiniz."
+  },
+  {
+    "word": "dirt",
+    "meaning": "kir, toprak",
+    "sentence": "His clothes were covered in dirt after playing outside.",
+    "turkish_translation": "Dışarıda oynamanın ardından kıyafetleri toprakla kaplandı."
+  },
+  {
+    "word": "dirty",
+    "meaning": "kirli",
+    "sentence": "She decided to clean the dirty dishes in the sink.",
+    "turkish_translation": "Lavabodaki kirli tabakları temizlemeye karar verdi."
+  },
+  {
+    "word": "dis",
+    "meaning": "dis",
+    "sentence": "I don't understand the meaning of 'dis'.",
+    "turkish_translation": "'Dis' kelimesinin anlamını anlamıyorum."
+  },
+  {
+    "word": "disabilities",
+    "meaning": "engellilikler",
+    "sentence": "The organization provides support for people with disabilities.",
+    "turkish_translation": "Bu kuruluş, engellilikleri olan insanlara destek sağlar."
+  },
+  {
+    "word": "disability",
+    "meaning": "engellilik",
+    "sentence": "Her positive attitude helps her overcome the challenges of her disability.",
+    "turkish_translation": "Olumlu tutumu, engelliliğin zorluklarını aşmasına yardımcı olur."
+  },
+  {
+    "word": "disable",
+    "meaning": "devre dışı bırakmak",
+    "sentence": "He had to disable the security system to access the building.",
+    "turkish_translation": "Binaya erişim sağlamak için güvenlik sistemini devre dışı bırakmak zorunda kaldı."
+  },
+  {
+    "word": "disabled",
+    "meaning": "engelli",
+    "sentence": "The parking space is reserved for disabled individuals.",
+    "turkish_translation": "Otopark alanı engelli bireyler için ayrılmıştır."
+  },
+  {
+    "word": "disagree",
+    "meaning": "katılmamak, uyuşmamak",
+    "sentence": "They tend to disagree on matters of politics.",
+    "turkish_translation": "Politika konularında genellikle uyuşmazlık yaşarlar."
+  },
+  {
+    "word": "disappointed",
+    "meaning": "hayal kırıklığına uğramış",
+    "sentence": "She was disappointed when her favorite team lost the game.",
+    "turkish_translation": "En sevdiği takımın maçı kaybettiğinde hayal kırıklığına uğradı."
+  },
+  {
+    "word": "disaster",
+    "meaning": "felaket",
+    "sentence": "The earthquake was a major disaster that caused widespread damage.",
+    "turkish_translation": "Deprem, geniş çaplı zarara yol açan büyük bir felaketti."
+  },
+  {
+    "word": "disc",
+    "meaning": "disk",
+    "sentence": "He inserted the disc into the computer's CD drive.",
+    "turkish_translation": "Diski bilgisayarın CD sürücüsüne yerleştirdi."
+  },
+  {
+    "word": "discharge",
+    "meaning": "tahliye etmek, taburcu etmek",
+    "sentence": "The patient was discharged from the hospital after recovering.",
+    "turkish_translation": "Hasta iyileştikten sonra hastaneden taburcu edildi."
+  },
+  {
+    "word": "disciplinary",
+    "meaning": "disiplin",
+    "sentence": "The company has a clear disciplinary policy for employees.",
+    "turkish_translation": "Şirketin çalışanlar için net bir disiplin politikası vardır."
+  },
+  {
+    "word": "discipline",
+    "meaning": "disiplin",
+    "sentence": "She has a strong sense of discipline when it comes to her studies.",
+    "turkish_translation": "Çalışmaları söz konusu olduğunda disiplin konusunda güçlü bir duyguya sahiptir."
+  },
+  {
+    "word": "disciplines",
+    "meaning": "disiplinler",
+    "sentence": "The conference covered a wide range of academic disciplines.",
+    "turkish_translation": "Konferans geniş bir akademik disiplin yelpazesi kapsadı."
+  },
+  {
+    "word": "disclaimer",
+    "meaning": "feragatname",
+    "sentence": "The website includes a disclaimer about the accuracy of information.",
+    "turkish_translation": "Web sitesi, bilgilerin doğruluğuyla ilgili bir feragatname içerir."
+  },
+  {
+    "word": "disclaimers",
+    "meaning": "feragatnameler",
+    "sentence": "Legal documents often contain disclaimers to limit liability.",
+    "turkish_translation": "Hukuki belgeler genellikle sorumluluğu sınırlamak için feragatnameler içerir."
+  },
+  {
+    "word": "disclose",
+    "meaning": "açıklamak, ifşa etmek",
+    "sentence": "She chose to disclose her financial situation to her family.",
+    "turkish_translation": "Aile üyelerine mali durumunu açıklamayı seçti."
+  },
+  {
+    "word": "disclosure",
+    "meaning": "ifşa",
+    "sentence": "The company made a public disclosure about its new product.",
+    "turkish_translation": "Şirket yeni ürünüyle ilgili kamuya bir ifşa yaptı."
+  },
+  {
+    "word": "disco",
+    "meaning": "disko",
+    "sentence": "They danced the night away at the local disco.",
+    "turkish_translation": "Yerel diskoda geceyi dans ederek geçirdiler."
+  },
+  {
+    "word": "discount",
+    "meaning": "indirim",
+    "sentence": "The store offered a 20% discount on all items.",
+    "turkish_translation": "Mağaza tüm ürünlerde %20 indirim sundu."
+  },
+  {
+    "word": "discounted",
+    "meaning": "indirimli",
+    "sentence": "The discounted price made the product more appealing to customers.",
+    "turkish_translation": "İndirimli fiyat ürünü müşterilere daha çekici hale getirdi."
+  },
+  {
+    "word": "discounts",
+    "meaning": "indirimler",
+    "sentence": "The end-of-season sale includes significant discounts on clothing.",
+    "turkish_translation": "Sezon sonu indirimi, giyim ürünlerinde önemli indirimler içerir."
+  },
+  {
+    "word": "discover",
+    "meaning": "keşfetmek",
+    "sentence": "She set out to discover new places and cultures.",
+    "turkish_translation": "Yeni yerler ve kültürler keşfetmek için yola çıktı."
+  },
+  {
+    "word": "discovered",
+    "meaning": "keşfedilmiş",
+    "sentence": "The ancient ruins were discovered during an archaeological dig.",
+    "turkish_translation": "Antik kalıntılar arkeolojik kazı sırasında keşfedildi."
+  },
+  {
+    "word": "discovery",
+    "meaning": "keşif",
+    "sentence": "The scientist's discovery led to groundbreaking advancements.",
+    "turkish_translation": "Bilim insanının keşfi çığır açan gelişmelere yol açtı."
+  },
+  {
+    "word": "discrete",
+    "meaning": "ayrık, ayrı",
+    "sentence": "The data is divided into discrete categories for analysis.",
+    "turkish_translation": "Veri analizi için veri ayrık kategorilere ayrılmıştır."
+  },
+  {
+    "word": "discretion",
+    "meaning": "takdir yetkisi",
+    "sentence": "She used her discretion to handle the sensitive matter carefully.",
+    "turkish_translation": "Hassas konuyu dikkatli bir şekilde ele almak için takdir yetkisini kullandı."
+  },
+  {
+    "word": "discrimination",
+    "meaning": "ayrımcılık, ayrımcılık yapma",
+    "sentence": "The company is committed to preventing discrimination in the workplace.",
+    "turkish_translation": "Şirket, işyerinde ayrımcılığı önlemeyi taahhüt ediyor."
+  },
+  {
+    "word": "discs",
+    "meaning": "diskler",
+    "sentence": "The computer's hard drive had multiple discs for storing data.",
+    "turkish_translation": "Bilgisayarın sabit diski, verileri depolamak için çoklu disk içeriyordu."
+  },
+  {
+    "word": "discuss",
+    "meaning": "tartışmak",
+    "sentence": "They decided to discuss the issue during the meeting.",
+    "turkish_translation": "Meseleyi toplantı sırasında tartışmaya karar verdiler."
+  },
+  {
+    "word": "discussed",
+    "meaning": "tartışılan",
+    "sentence": "The matter was discussed thoroughly by the team.",
+    "turkish_translation": "Mesele ekip tarafından ayrıntılı bir şekilde tartışıldı."
+  },
+  {
+    "word": "discusses",
+    "meaning": "tartışan",
+    "sentence": "The book discusses various theories about the origin of the universe.",
+    "turkish_translation": "Kitap, evrenin kökeni hakkında çeşitli teorileri tartışıyor."
+  },
+  {
+    "word": "discussing",
+    "meaning": "tartışılan",
+    "sentence": "The panel is currently discussing the implications of climate change.",
+    "turkish_translation": "Panel, şu anda iklim değişikliğinin olası sonuçlarını tartışıyor."
+  },
+  {
+    "word": "discussion",
+    "meaning": "tartışma",
+    "sentence": "The discussion centered around the challenges of modern technology.",
+    "turkish_translation": "Tartışma, modern teknolojinin zorlukları etrafında döndü."
+  },
+  {
+    "word": "discussions",
+    "meaning": "tartışmalar",
+    "sentence": "The negotiations led to productive discussions between the parties.",
+    "turkish_translation": "Müzakereler, taraflar arasında verimli tartışmalara yol açtı."
+  },
+  {
+    "word": "disease",
+    "meaning": "hastalık",
+    "sentence": "The doctor diagnosed her with a rare autoimmune disease.",
+    "turkish_translation": "Doktor, onun nadir bir otoimmün hastalığa sahip olduğunu teşhis etti."
+  },
+  {
+    "word": "diseases",
+    "meaning": "hastalıklar",
+    "sentence": "The hospital specializes in treating various infectious diseases.",
+    "turkish_translation": "Hastane, çeşitli bulaşıcı hastalıkları tedavi etme konusunda uzmanlaşmıştır."
+  },
+  {
+    "word": "dish",
+    "meaning": "tabak, yemek",
+    "sentence": "She prepared a delicious Italian dish for dinner.",
+    "turkish_translation": "Akşam yemeği için lezzetli bir İtalyan yemeği hazırladı."
+  },
+  {
+    "word": "dishes",
+    "meaning": "tabaklar, yemekler",
+    "sentence": "They used a variety of spices in their traditional dishes.",
+    "turkish_translation": "Geleneksel yemeklerinde çeşitli baharatlar kullandılar."
+  },
+  {
+    "word": "disk",
+    "meaning": "disk",
+    "sentence": "He saved the important files on an external disk.",
+    "turkish_translation": "Önemli dosyaları harici bir diske kaydetti."
+  },
+  {
+    "word": "disks",
+    "meaning": "diskler",
+    "sentence": "The computer's hard drive contains multiple disks for data storage.",
+    "turkish_translation": "Bilgisayarın sabit diski, veri depolama için çoklu disk içeriyor."
+  },
+  {
+    "word": "disney",
+    "meaning": "disney",
+    "sentence": "They are planning a trip to Disney World next summer.",
+    "turkish_translation": "Gelecek yaz Disney Dünyası'na bir gezi planlıyorlar."
+  },
+  {
+    "word": "disorder",
+    "meaning": "bozukluk, düzensizlik",
+    "sentence": "He was diagnosed with a sleep disorder that affected his rest.",
+    "turkish_translation": "Uykusunu etkileyen bir uyku bozukluğu teşhisi kondu."
+  },
+  {
+    "word": "disorders",
+    "meaning": "bozukluklar, rahatsızlıklar",
+    "sentence": "The clinic specializes in treating various mental health disorders.",
+    "turkish_translation": "Klinik, çeşitli ruh sağlığı bozukluklarını tedavi etme konusunda uzmanlaşmıştır."
+  },
+  {
+    "word": "dispatch",
+    "meaning": "göndermek, gönderme",
+    "sentence": "They will dispatch the package as soon as possible.",
+    "turkish_translation": "Paketi mümkün olan en kısa sürede gönderecekler."
+  },
+  {
+    "word": "dispatched",
+    "meaning": "gönderilen",
+    "sentence": "The ordered items were dispatched from the warehouse yesterday.",
+    "turkish_translation": "Sipariş edilen ürünler dün depodan gönderildi."
+  },
+  {
+    "word": "display",
+    "meaning": "göstermek, sergilemek",
+    "sentence": "The store window displays the latest fashion trends.",
+    "turkish_translation": "Mağaza vitrini en son moda trendlerini sergiliyor."
+  },
+  {
+    "word": "displayed",
+    "meaning": "gösterilen, sergilenen",
+    "sentence": "The artwork was displayed at the art gallery for a month.",
+    "turkish_translation": "Sanat eseri bir ay boyunca sanat galerisinde sergilendi."
+  },
+  {
+    "word": "displaying",
+    "meaning": "gösterilen, sergilenen",
+    "sentence": "The screen is currently displaying important information.",
+    "turkish_translation": "Ekran şu anda önemli bilgileri gösteriyor."
+  },
+  {
+    "word": "displays",
+    "meaning": "görüntüler, sergiler",
+    "sentence": "The exhibition features interactive displays for visitors.",
+    "turkish_translation": "Sergi, ziyaretçiler için etkileşimli görüntüler sunuyor."
+  },
+  {
+    "word": "disposal",
+    "meaning": "imha, kullanım",
+    "sentence": "The waste materials were sent to a disposal facility.",
+    "turkish_translation": "Atık malzemeler imha tesisine gönderildi."
+  },
+  {
+    "word": "disposition",
+    "meaning": "mizaç, eğilim",
+    "sentence": "Her cheerful disposition brightened up the room.",
+    "turkish_translation": "Neşeli mizaç, odanın havasını aydınlattı."
+  },
+  {
+    "word": "dispute",
+    "meaning": "tartışma, anlaşmazlık",
+    "sentence": "They resolved the dispute through mediation.",
+    "turkish_translation": "Anlaşmazlığı arabuluculuk yoluyla çözdüler."
+  },
+  {
+    "word": "disputes",
+    "meaning": "tartışmalar, anlaşmazlıklar",
+    "sentence": "The contract included a clause for resolving disputes.",
+    "turkish_translation": "Sözleşme, anlaşmazlıkları çözmek için bir madde içeriyordu."
+  },
+  {
+    "word": "dist",
+    "meaning": "kısa mesafe",
+    "sentence": "He went to the store and back in a dist.",
+    "turkish_translation": "Mağazaya gitti ve kısa mesafede geri döndü."
+  },
+  {
+    "word": "distance",
+    "meaning": "mesafe",
+    "sentence": "The distance between the two cities is approximately 150 miles.",
+    "turkish_translation": "İki şehir arasındaki mesafe yaklaşık 150 mil."
+  },
+  {
+    "word": "distances",
+    "meaning": "mesafeler",
+    "sentence": "The marathon runners covered long distances during the race.",
+    "turkish_translation": "Maraton koşucuları yarış sırasında uzun mesafeleri kat etti."
+  },
+  {
+    "word": "distant",
+    "meaning": "uzak",
+    "sentence": "The mountain range looked distant against the horizon.",
+    "turkish_translation": "Dağ sırası ufuk hattına karşı uzak görünüyordu."
+  },
+  {
+    "word": "distinct",
+    "meaning": "farklı, belirgin",
+    "sentence": "Each culture has its own distinct customs and traditions.",
+    "turkish_translation": "Her kültürün kendine özgü farklı adetleri ve gelenekleri vardır."
+  },
+  {
+    "word": "distinction",
+    "meaning": "ayrım, fark",
+    "sentence": "He received a distinction for his outstanding academic performance.",
+    "turkish_translation": "Olağanüstü akademik performansı nedeniyle ayrım aldı."
+  },
+  {
+    "word": "distinguished",
+    "meaning": "seçkin, tanınmış",
+    "sentence": "The professor is a distinguished expert in his field.",
+    "turkish_translation": "Profesör, alanında seçkin bir uzmandır."
+  },
+  {
+    "word": "distribute",
+    "meaning": "dağıtmak",
+    "sentence": "The company plans to distribute the new product worldwide.",
+    "turkish_translation": "Şirket, yeni ürünü dünya çapında dağıtmayı planlıyor."
+  },
+  {
+    "word": "distributed",
+    "meaning": "dağıtılan",
+    "sentence": "The pamphlets were distributed to promote the upcoming event.",
+    "turkish_translation": "Broşürler, yaklaşan etkinliği tanıtmak için dağıtıldı."
+  },
+  {
+    "word": "distribution",
+    "meaning": "dağıtım",
+    "sentence": "The distribution of food and supplies was well-organized.",
+    "turkish_translation": "Yiyecek ve malzeme dağıtımı iyi bir şekilde organize edildi."
+  },
+  {
+    "word": "distributions",
+    "meaning": "dağıtımlar",
+    "sentence": "The company has multiple distribution centers across the country.",
+    "turkish_translation": "Şirketin ülke genelinde birden fazla dağıtım merkezi bulunmaktadır."
+  },
+  {
+    "word": "distributor",
+    "meaning": "distribütör",
+    "sentence": "The distributor is responsible for delivering products to retailers.",
+    "turkish_translation": "Distribütör, ürünleri perakendecilere teslim etmekten sorumludur."
+  },
+  {
+    "word": "distributors",
+    "meaning": "distribütörler",
+    "sentence": "The company has a network of distributors in various regions.",
+    "turkish_translation": "Şirketin çeşitli bölgelerde bir distribütör ağı bulunmaktadır."
+  },
+  {
+    "word": "district",
+    "meaning": "bölge, semt",
+    "sentence": "She works in the downtown district of the city.",
+    "turkish_translation": "Şehir merkezinin semtinde çalışıyor."
+  },
+  {
+    "word": "districts",
+    "meaning": "bölgeler, semtler",
+    "sentence": "The city is divided into several districts, each with its own charm.",
+    "turkish_translation": "Şehir, her biri kendi cazibesine sahip birkaç bölgeye ayrılmıştır."
+  },
+  {
+    "word": "disturbed",
+    "meaning": "rahatsız edilen",
+    "sentence": "His sleep was disturbed by loud noises outside.",
+    "turkish_translation": "Uykusu dışarıdaki yüksek seslerle rahatsız edildi."
+  },
+  {
+    "word": "div",
+    "meaning": "bölme",
+    "sentence": "The website layout uses multiple div elements for organization.",
+    "turkish_translation": "Web sitesi düzeni, düzenlemeler için birden çok div öğesi kullanır."
+  },
+  {
+    "word": "dive",
+    "meaning": "dalış yapmak",
+    "sentence": "He loves to dive into the clear blue waters of the ocean.",
+    "turkish_translation": "Okyanusun berrak mavi sularına dalış yapmaktan hoşlanır."
+  },
+  {
+    "word": "diverse",
+    "meaning": "çeşitli, farklı",
+    "sentence": "The team consists of diverse members from various backgrounds.",
+    "turkish_translation": "Ekip, çeşitli arka planlardan farklı üyelerden oluşur."
+  },
+  {
+    "word": "diversity",
+    "meaning": "çeşitlilik",
+    "sentence": "The university promotes diversity and inclusion on campus.",
+    "turkish_translation": "Üniversite, kampüste çeşitliliği ve dahil etmeyi destekler."
+  },
+  {
+    "word": "divide",
+    "meaning": "bölmek, ayırmak",
+    "sentence": "The wall divides the room into two separate spaces.",
+    "turkish_translation": "Duvar, odanın iki ayrı alanına böler."
+  },
+  {
+    "word": "divided",
+    "meaning": "bölünmüş, ayrılmış",
+    "sentence": "The opinions on the matter were divided among the team members.",
+    "turkish_translation": "Mesele üzerindeki görüşler ekip üyeleri arasında bölünmüştü."
+  },
+  {
+    "word": "dividend",
+    "meaning": "kar payı, temettü",
+    "sentence": "Investors receive a dividend from their shares in the company.",
+    "turkish_translation": "Yatırımcılar, şirketteki hisselerinden kar payı alırlar."
+  },
+  {
+    "word": "divine",
+    "meaning": "ilahi, kutsal",
+    "sentence": "The ancient temple was believed to be a place of divine worship.",
+    "turkish_translation": "Eski tapınak, ilahi ibadetin yapıldığı bir yer olarak kabul ediliyordu."
+  },
+  {
+    "word": "diving",
+    "meaning": "dalış yapma",
+    "sentence": "Diving into the underwater cave was an exhilarating experience.",
+    "turkish_translation": "Sualtı mağarasına dalış yapmak heyecan verici bir deneyimdi."
+  },
+  {
+    "word": "division",
+    "meaning": "bölüm, ayrım",
+    "sentence": "The company's sales division handles customer inquiries.",
+    "turkish_translation": "Şirketin satış bölümü müşteri sorularını yönetir."
+  },
+  {
+    "word": "divisions",
+    "meaning": "bölümler, ayrımlar",
+    "sentence": "The country is divided into administrative divisions for governance.",
+    "turkish_translation": "Ülke, yönetim için idari bölümlere ayrılmıştır."
+  },
+  {
+    "word": "divorce",
+    "meaning": "boşanma",
+    "sentence": "They decided to file for divorce after years of conflict.",
+    "turkish_translation": "Yıllarca süren çatışmanın ardından boşanma davası açmaya karar verdiler."
+  },
+  {
+    "word": "divx",
+    "meaning": "DivX (video sıkıştırma formatı)",
+    "sentence": "The movie is available for download in DivX format.",
+    "turkish_translation": "Film, DivX formatında indirilebilir durumda."
+  },
+  {
+    "word": "diy",
+    "meaning": "kendin yap",
+    "sentence": "She loves DIY projects and often creates her own home decor.",
+    "turkish_translation": "Kendin yap projelerini sever ve genellikle kendi ev dekorasyonunu oluşturur."
+  },
+  {
+    "word": "dj",
+    "meaning": "DJ, disk jokey",
+    "sentence": "The DJ played a mix of popular songs at the party.",
+    "turkish_translation": "DJ, partide popüler şarkıların karışımını çaldı."
+  },
+  {
+    "word": "dk",
+    "meaning": "dakika",
+    "sentence": "I'll be there in 5 minutes, just give me a few more dks.",
+    "turkish_translation": "5 dakika içinde orada olacağım, sadece bana birkaç dk daha verin."
+  },
+  {
+    "word": "dl",
+    "meaning": "download, indir",
+    "sentence": "You can dl the software from the official website.",
+    "turkish_translation": "Yazılımı resmi web sitesinden indirebilirsiniz."
+  },
+  {
+    "word": "dm",
+    "meaning": "direct message, özel mesaj",
+    "sentence": "She sent him a dm to ask about the upcoming event.",
+    "turkish_translation": "Yaklaşan etkinlik hakkında sormak için ona özel bir mesaj gönderdi."
+  },
+  {
+    "word": "dna",
+    "meaning": "DNA, deoksiribonükleik asit",
+    "sentence": "DNA carries genetic information in living organisms.",
+    "turkish_translation": "DNA, canlı organizmalardaki genetik bilgiyi taşır."
+  },
+  {
+    "word": "dns",
+    "meaning": "domain name system, alan adı sistemi",
+    "sentence": "The DNS translates domain names into IP addresses.",
+    "turkish_translation": "DNS, alan adlarını IP adreslerine çevirir."
+  },
+  {
+    "word": "do",
+    "meaning": "yapmak",
+    "sentence": "She needs to do her homework before going out.",
+    "turkish_translation": "Dışarı çıkmadan önce ödevini yapması gerekiyor."
+  },
+  {
+    "word": "doc",
+    "meaning": "belge, doküman",
+    "sentence": "The document contains important instructions for the project.",
+    "turkish_translation": "Belge, projeye yönelik önemli talimatları içerir."
+  },
+  {
+    "word": "dock",
+    "meaning": "rıhtım, iskele",
+    "sentence": "The ship was anchored at the dock for loading and unloading.",
+    "turkish_translation": "Gemi, yük boşaltma ve yükleme için rıhtıma demirledi."
+  },
+  {
+    "word": "docs",
+    "meaning": "belgeler, dokümanlar",
+    "sentence": "The folder contains various important docs for the project.",
+    "turkish_translation": "Klasör, projeye yönelik çeşitli önemli belgeleri içerir."
+  },
+  {
+    "word": "doctor",
+    "meaning": "doktor",
+    "sentence": "She visited the doctor for her regular check-up.",
+    "turkish_translation": "Düzenli kontrolü için doktora gitti."
+  },
+  {
+    "word": "doctors",
+    "meaning": "doktorlar",
+    "sentence": "The hospital has a team of skilled doctors in various specialties.",
+    "turkish_translation": "Hastanenin çeşitli uzmanlıklarda yetenekli doktor ekibi bulunmaktadır."
+  },
+  {
+    "word": "doctrine",
+    "meaning": "öğreti, doktrin",
+    "sentence": "The political party follows a strict doctrine in its policies.",
+    "turkish_translation": "Politik parti, politikalarında katı bir doktrini takip ediyor."
+  },
+  {
+    "word": "document",
+    "meaning": "belge, doküman",
+    "sentence": "Please submit your identification document for verification.",
+    "turkish_translation": "Lütfen doğrulama için kimlik belgenizi sunun."
+  },
+  {
+    "word": "documentary",
+    "meaning": "belgesel",
+    "sentence": "The documentary explores the history of ancient civilizations.",
+    "turkish_translation": "Belgesel, antik medeniyetlerin tarihini araştırıyor."
+  },
+  {
+    "word": "documentation",
+    "meaning": "belgelendirme, dokümantasyon",
+    "sentence": "The project requires thorough documentation of the process.",
+    "turkish_translation": "Proje, sürecin detaylı bir şekilde belgelenmesini gerektiriyor."
+  },
+  {
+    "word": "documentcreatetextnode",
+    "meaning": "HTML DOM metin düğümü oluşturma",
+    "sentence": "You can use the documentcreatetextnode method to create text nodes in JavaScript.",
+    "turkish_translation": "JavaScript'te metin düğümleri oluşturmak için documentcreatetextnode yöntemini kullanabilirsiniz."
+  },
+  {
+    "word": "documented",
+    "meaning": "belgelenmiş",
+    "sentence": "The process was thoroughly documented for future reference.",
+    "turkish_translation": "Süreç, gelecekteki referanslar için detaylı bir şekilde belgelendi."
+  },
+  {
+    "word": "documents",
+    "meaning": "belgeler, dokümanlar",
+    "sentence": "The folder contains important documents related to the project.",
+    "turkish_translation": "Klasör, projeye ilişkin önemli belgeleri içerir."
+  },
+  {
+    "word": "dod",
+    "meaning": "Department of Defense, Savunma Bakanlığı",
+    "sentence": "The DOD is responsible for national security and military operations.",
+    "turkish_translation": "DOD, ulusal güvenlik ve askeri operasyonlardan sorumludur."
+  },
+  {
+    "word": "dodge",
+    "meaning": "kaçmak, sıyrılmak",
+    "sentence": "He tried to dodge the question by changing the topic.",
+    "turkish_translation": "Soruyu konuyu değiştirerek kaçmaya çalıştı."
+  },
+  {
+    "word": "doe",
+    "meaning": "dişi geyik",
+    "sentence": "The doe and her fawn grazed peacefully in the meadow.",
+    "turkish_translation": "Dişi geyik ve yavrusu çimenlikte huzurlu bir şekilde otlatılıyordu."
+  },
+  {
+    "word": "does",
+    "meaning": "yapar",
+    "sentence": "She does her best to succeed in everything she takes on.",
+    "turkish_translation": "Her şeyi başarmak için elinden geleni yapar."
+  },
+  {
+    "word": "dog",
+    "meaning": "köpek",
+    "sentence": "The dog wagged its tail and barked happily.",
+    "turkish_translation": "Köpek kuyruğunu sallayarak ve mutlu bir şekilde havladı."
+  },
+  {
+    "word": "dogs",
+    "meaning": "köpekler",
+    "sentence": "The park is a popular spot for dog owners to walk their dogs.",
+    "turkish_translation": "Park, köpek sahiplerinin köpeklerini gezdirmek için popüler bir noktadır."
+  },
+  {
+    "word": "doing",
+    "meaning": "yapma, iş yapma",
+    "sentence": "She is always busy doing various tasks around the house.",
+    "turkish_translation": "Evde çeşitli işler yaparak her zaman meşgul."
+  },
+  {
+    "word": "doll",
+    "meaning": "oyuncak bebek",
+    "sentence": "She played with her favorite doll for hours.",
+    "turkish_translation": "Saatlerce en sevdiği oyuncak bebeğiyle oynadı."
+  },
+  {
+    "word": "dollar",
+    "meaning": "dolar",
+    "sentence": "The cost of the item is fifty dollars.",
+    "turkish_translation": "Ürünün maliyeti elli dolar."
+  },
+  {
+    "word": "dollars",
+    "meaning": "dolarlar",
+    "sentence": "He exchanged his euros for US dollars at the currency exchange.",
+    "turkish_translation": "Avro'larını döviz bürosunda ABD dolarıyla değiştirdi."
+  },
+  {
+    "word": "dolls",
+    "meaning": "oyuncak bebekler",
+    "sentence": "Her room is filled with a collection of dolls from around the world.",
+    "turkish_translation": "Odası, dünyanın dört bir yanından topladığı oyuncak bebeklerle dolu."
+  },
+  {
+    "word": "dom",
+    "meaning": "domain",
+    "sentence": "The website's dom is easy to remember and type.",
+    "turkish_translation": "Web sitesinin alan adı kolayca akılda kalabilir ve yazılabilir."
+  },
+  {
+    "word": "domain",
+    "meaning": "alan adı, etki alanı",
+    "sentence": "They registered a new domain for their online store.",
+    "turkish_translation": "Çevrimiçi mağazaları için yeni bir alan adı kaydettirdiler."
+  },
+  {
+    "word": "domains",
+    "meaning": "alan adları, etki alanları",
+    "sentence": "The company manages multiple domains for its various services.",
+    "turkish_translation": "Şirket, çeşitli hizmetleri için birden çok alan adını yönetiyor."
+  },
+  {
+    "word": "dome",
+    "meaning": "kubbe",
+    "sentence": "The building's dome is a prominent feature of the architecture.",
+    "turkish_translation": "Binasının kubbesi, mimarinin belirgin bir özelliğidir."
+  },
+  {
+    "word": "domestic",
+    "meaning": "yerli, iç",
+    "sentence": "They support domestic manufacturers by buying local products.",
+    "turkish_translation": "Yerel ürünleri satın alarak yerli üreticileri destekliyorlar."
+  },
+  {
+    "word": "dominant",
+    "meaning": "baskın, üstün",
+    "sentence": "Her dominant personality made her a natural leader.",
+    "turkish_translation": "Baskın kişiliği onu doğal bir lider haline getirdi."
+  },
+  {
+    "word": "dominican",
+    "meaning": "Dominikli",
+    "sentence": "He spent his vacation on a beautiful Dominican beach.",
+    "turkish_translation": "Tatilini güzel bir Dominik plajında geçirdi."
+  },
+  {
+    "word": "don",
+    "meaning": "giymek",
+    "sentence": "He decided to don his favorite jacket for the evening.",
+    "turkish_translation": "Akşam için favori ceketini giymeye karar verdi."
+  },
+  {
+    "word": "donald",
+    "meaning": "erkek adı",
+    "sentence": "Donald is a popular name in many English-speaking countries.",
+    "turkish_translation": "Donald, birçok İngilizce konuşulan ülkede popüler bir isimdir."
+  },
+  {
+    "word": "donate",
+    "meaning": "bağış yapmak",
+    "sentence": "They decided to donate a portion of their earnings to charity.",
+    "turkish_translation": "Kazançlarının bir kısmını hayır kurumuna bağışlamaya karar verdiler."
+  },
+  {
+    "word": "donated",
+    "meaning": "bağışlanan",
+    "sentence": "The donated funds will be used for building a new community center.",
+    "turkish_translation": "Bağışlanan fonlar yeni bir topluluk merkezi inşa etmek için kullanılacak."
+  },
+  {
+    "word": "donation",
+    "meaning": "bağış",
+    "sentence": "Her generous donation helped support the local animal shelter.",
+    "turkish_translation": "Cömert bağışı, yerel hayvan barınağını desteklemeye yardımcı oldu."
+  },
+  {
+    "word": "donations",
+    "meaning": "bağışlar",
+    "sentence": "The charity received many donations to aid disaster relief efforts.",
+    "turkish_translation": "Hayır kurumu, afet yardım çabalarına destek için birçok bağış aldı."
+  },
+  {
+    "word": "done",
+    "meaning": "tamamlanan, yapılan",
+    "sentence": "The project is finally done after months of hard work.",
+    "turkish_translation": "Proje, yoğun çalışmanın ardından nihayet tamamlandı."
+  },
+  {
+    "word": "donna",
+    "meaning": "kadın adı",
+    "sentence": "Donna has a talent for playing the piano.",
+    "turkish_translation": "Donna, piyano çalmak konusunda yetenekli."
+  },
+  {
+    "word": "donor",
+    "meaning": "bağışçı",
+    "sentence": "The generous donor contributed to various charitable causes.",
+    "turkish_translation": "Cömert bağışçı, çeşitli yardım amaçlarına katkıda bulundu."
+  },
+  {
+    "word": "donors",
+    "meaning": "bağışçılar",
+    "sentence": "The organization relies on the support of donors to fund their projects.",
+    "turkish_translation": "Kuruluş, projelerini finanse etmek için bağışçıların desteğine güveniyor."
+  },
+  {
+    "word": "dont",
+    "meaning": "yapma, yapmayın",
+    "sentence": "Don't forget to turn off the lights when you leave.",
+    "turkish_translation": "Ayrılırken ışıkları kapatmayı unutma."
+  },
+  {
+    "word": "doom",
+    "meaning": "kötü kader, felaket",
+    "sentence": "The prophecy foretold the kingdom's doom.",
+    "turkish_translation": "Kehanet, krallığın felaketini önceden haber verdi."
+  },
+  {
+    "word": "door",
+    "meaning": "kapı",
+    "sentence": "She opened the door and welcomed her guests inside.",
+    "turkish_translation": "Kapıyı açtı ve misafirlerini içeri davet etti."
+  },
+  {
+    "word": "doors",
+    "meaning": "kapılar",
+    "sentence": "The mansion had grand double doors at the entrance.",
+    "turkish_translation": "Köşkün girişinde görkemli çift kanatlı kapılar bulunuyordu."
+  },
+  {
+    "word": "dos",
+    "meaning": "disk operating system, disk işletim sistemi",
+    "sentence": "DOS was widely used in the early days of personal computers.",
+    "turkish_translation": "DOS, kişisel bilgisayarların ilk günlerinde yaygın olarak kullanıldı."
+  },
+  {
+    "word": "dosage",
+    "meaning": "dozaj, kullanım miktarı",
+    "sentence": "The doctor prescribed the correct dosage of medication.",
+    "turkish_translation": "Doktor doğru ilaç dozajını reçete etti."
+  },
+  {
+    "word": "dose",
+    "meaning": "doz, miktar",
+    "sentence": "Take one dose of the medicine every morning.",
+    "turkish_translation": "Her sabah ilacın bir dozunu alın."
+  },
+  {
+    "word": "dot",
+    "meaning": "nokta",
+    "sentence": "She placed a dot at the end of the sentence.",
+    "turkish_translation": "Cümlenin sonuna bir nokta koydu."
+  },
+  {
+    "word": "double",
+    "meaning": "çift, iki katı",
+    "sentence": "The recipe calls for double the amount of sugar.",
+    "turkish_translation": "Tarif, şeker miktarını iki katına çıkarmanızı istiyor."
+  },
+  {
+    "word": "doubt",
+    "meaning": "kuşku, şüphe",
+    "sentence": "She had a nagging doubt about the accuracy of the information.",
+    "turkish_translation": "Bilginin doğruluğu konusunda rahatsız edici bir şüphesi vardı."
+  },
+  {
+    "word": "doug",
+    "meaning": "erkek adı (Douglas kısaltması)",
+    "sentence": "Doug is known for his sense of humor and kindness.",
+    "turkish_translation": "Doug, mizah anlayışı ve nezaketiyle tanınıyor."
+  },
+  {
+    "word": "douglas",
+    "meaning": "erkek adı",
+    "sentence": "Douglas is planning a hiking trip in the mountains.",
+    "turkish_translation": "Douglas, dağlarda bir yürüyüş gezisi planlıyor."
+  },
+  {
+    "word": "dover",
+    "meaning": "Dover (şehir adı)",
+    "sentence": "Dover is a historic port city in England.",
+    "turkish_translation": "Dover, İngiltere'de tarihi bir liman şehridir."
+  },
+  {
+    "word": "dow",
+    "meaning": "Dow Jones Industrial Average (endeks)",
+    "sentence": "The Dow closed at a new record high today.",
+    "turkish_translation": "Dow endeksi bugün yeni bir rekor seviyede kapandı."
+  },
+  {
+    "word": "down",
+    "meaning": "aşağı, aşağıya",
+    "sentence": "The elevator is going down to the ground floor.",
+    "turkish_translation": "Asansör zemin kata iniyor."
+  },
+  {
+    "word": "download",
+    "meaning": "indirmek",
+    "sentence": "You can download the software from the official website.",
+    "turkish_translation": "Yazılımı resmi web sitesinden indirebilirsiniz."
+  },
+  {
+    "word": "downloadable",
+    "meaning": "indirilebilir",
+    "sentence": "The e-book is available as a downloadable PDF file.",
+    "turkish_translation": "E-kitap, indirilebilir bir PDF dosyası olarak mevcuttur."
+  },
+  {
+    "word": "downloadcom",
+    "meaning": "download.com (web sitesi)",
+    "sentence": "You can find various software on download.com.",
+    "turkish_translation": "Download.com'da çeşitli yazılımlar bulabilirsiniz."
+  },
+  {
+    "word": "downloaded",
+    "meaning": "indirilen",
+    "sentence": "She downloaded the movie to watch it offline.",
+    "turkish_translation": "Filmi çevrimdışı izlemek için indirdi."
+  },
+  {
+    "word": "downloading",
+    "meaning": "indirme",
+    "sentence": "The download speed depends on your internet connection.",
+    "turkish_translation": "İndirme hızı, internet bağlantınıza bağlıdır."
+  },
+  {
+    "word": "downloads",
+    "meaning": "indirmeler",
+    "sentence": "The website offers a variety of free software downloads.",
+    "turkish_translation": "Web sitesi, çeşitli ücretsiz yazılım indirmeleri sunar."
+  },
+  {
+    "word": "downtown",
+    "meaning": "şehir merkezi",
+    "sentence": "They went shopping and dining in downtown.",
+    "turkish_translation": "Şehir merkezinde alışverişe çıktılar ve yemek yediler."
+  },
+  {
+    "word": "dozen",
+    "meaning": "düzine",
+    "sentence": "She bought a dozen fresh eggs from the farmer's market.",
+    "turkish_translation": "Çiftçi pazarından bir düzine taze yumurta aldı."
+  },
+  {
+    "word": "dozens",
+    "meaning": "düzine, onlarca",
+    "sentence": "The bakery produces dozens of delicious pastries every day.",
+    "turkish_translation": "Fırın her gün onlarca lezzetli pastane ürünü üretiyor."
+  },
+  {
+    "word": "dp",
+    "meaning": "display picture, profil fotoğrafı",
+    "sentence": "She updated her dp on social media with a new selfie.",
+    "turkish_translation": "Sosyal medyadaki profil fotoğrafını yeni bir özçekimle güncelledi."
+  },
+  {
+    "word": "dpi",
+    "meaning": "dots per inch, inç başına nokta",
+    "sentence": "Higher DPI settings result in clearer and sharper prints.",
+    "turkish_translation": "Daha yüksek DPI ayarları, daha net ve keskin baskılar sağlar."
+  },
+  {
+    "word": "dr",
+    "meaning": "doctor, doktor",
+    "sentence": "Dr. Smith is a renowned heart surgeon.",
+    "turkish_translation": "Dr. Smith ünlü bir kalp cerrahıdır."
+  },
+  {
+    "word": "draft",
+    "meaning": "taslak",
+    "sentence": "She's currently working on the first draft of her novel.",
+    "turkish_translation": "Şu anda romanının ilk taslağında çalışıyor."
+  },
+  {
+    "word": "drag",
+    "meaning": "sürüklemek",
+    "sentence": "You can drag and drop files to rearrange them.",
+    "turkish_translation": "Dosyaları sürükleyip bırakarak yeniden düzenleyebilirsiniz."
+  },
+  {
+    "word": "dragon",
+    "meaning": "ejderha",
+    "sentence": "Legends tell of a fearsome dragon guarding the treasure.",
+    "turkish_translation": "Efsaneler, hazineyi koruyan korkunç bir ejderhadan bahseder."
+  },
+  {
+    "word": "drain",
+    "meaning": "akıtmak, dökmek",
+    "sentence": "She carefully drained the water from the pasta after cooking.",
+    "turkish_translation": "Yemeği pişirdikten sonra makarnadaki suyu dikkatlice döktü."
+  },
+  {
+    "word": "drainage",
+    "meaning": "drenaj, su tahliyesi",
+    "sentence": "The new drainage system prevents flooding during heavy rain.",
+    "turkish_translation": "Yeni drenaj sistemi, yoğun yağmur sırasında su baskınlarını önler."
+  },
+  {
+    "word": "drama",
+    "meaning": "dram, tiyatro",
+    "sentence": "She enjoys watching both comedy and drama movies.",
+    "turkish_translation": "Hem komedi hem de dram filmlerini izlemekten hoşlanır."
+  },
+  {
+    "word": "dramatic",
+    "meaning": "dramatik, etkileyici",
+    "sentence": "The movie had a dramatic ending that left the audience in awe.",
+    "turkish_translation": "Film, izleyicileri hayrete düşüren dramatik bir sona sahipti."
+  },
+  {
+    "word": "dramatically",
+    "meaning": "önemli ölçüde, büyük ölçüde",
+    "sentence": "The new regulations have dramatically changed the way business is conducted.",
+    "turkish_translation": "Yeni düzenlemeler iş yapma şeklini büyük ölçüde değiştirdi."
+  },
+  {
+    "word": "draw",
+    "meaning": "çizmek, çekmek",
+    "sentence": "She likes to draw portraits of people and animals.",
+    "turkish_translation": "İnsan ve hayvan portreleri çizmeyi sever."
+  },
+  {
+    "word": "drawing",
+    "meaning": "çizim, resim",
+    "sentence": "Her drawing of the landscape captured the beauty of nature.",
+    "turkish_translation": "Manzarayı çizimi, doğanın güzelliğini yakaladı."
+  },
+  {
+    "word": "drawings",
+    "meaning": "çizimler, resimler",
+    "sentence": "The art gallery displayed a collection of intricate drawings.",
+    "turkish_translation": "Sanat galerisi, karmaşık çizimlerden oluşan bir koleksiyon sergiledi."
+  },
+  {
+    "word": "drawn",
+    "meaning": "çizilmiş, çekilmiş",
+    "sentence": "He was drawn to the mysterious book on the shelf.",
+    "turkish_translation": "Rafın üzerindeki gizemli kitaba çekildi."
+  },
+  {
+    "word": "draws",
+    "meaning": "çizer, çeker",
+    "sentence": "He draws cartoons that always make people laugh.",
+    "turkish_translation": "Her zaman insanları güldüren karikatürler çizer."
+  },
+  {
+    "word": "dream",
+    "meaning": "rüya, hayal",
+    "sentence": "She had a vivid dream about flying over the ocean.",
+    "turkish_translation": "Denizin üzerinde uçmakla ilgili canlı bir rüya gördü."
+  },
+  {
+    "word": "dreams",
+    "meaning": "rüyalar, hayaller",
+    "sentence": "Everyone has their own hopes and dreams for the future.",
+    "turkish_translation": "Herkesin gelecek için kendi umutları ve hayalleri vardır."
+  },
+  {
+    "word": "dress",
+    "meaning": "elbise, giyinmek",
+    "sentence": "She wore a beautiful dress to the formal event.",
+    "turkish_translation": "Resmi etkinliğe güzel bir elbise giydi."
+  },
+  {
+    "word": "dressed",
+    "meaning": "giyinmiş",
+    "sentence": "He was dressed in a sharp suit for the business meeting.",
+    "turkish_translation": "İş toplantısı için şık bir takım elbise giyinmişti."
+  },
+  {
+    "word": "dresses",
+    "meaning": "elbiseler, giysiler",
+    "sentence": "The boutique offers a variety of stylish dresses.",
+    "turkish_translation": "Butik, çeşitli şık elbiseler sunuyor."
+  },
+  {
+    "word": "dressing",
+    "meaning": "giyinme, sos",
+    "sentence": "Her sense of dressing is always trendy and fashionable.",
+    "turkish_translation": "Giysilerine olan yaklaşımı her zaman trend ve modaya uygun."
+  },
+  {
+    "word": "drew",
+    "meaning": "çizdi, çekti",
+    "sentence": "She drew a picture of her family at the beach.",
+    "turkish_translation": "Plajda ailesinin resmini çizdi."
+  },
+  {
+    "word": "dried",
+    "meaning": "kurutulmuş",
+    "sentence": "She used dried herbs to add flavor to the dish.",
+    "turkish_translation": "Yemeğe lezzet katmak için kurutulmuş otlar kullandı."
+  },
+  {
+    "word": "drill",
+    "meaning": "matkap, delmek",
+    "sentence": "He used a drill to create holes in the wooden board.",
+    "turkish_translation": "Tahta levhada delikler açmak için matkap kullandı."
+  },
+  {
+    "word": "drilling",
+    "meaning": "delme, sondaj",
+    "sentence": "The drilling process requires precision and careful planning.",
+    "turkish_translation": "Delme işlemi hassasiyet ve dikkatli planlama gerektirir."
+  },
+  {
+    "word": "drink",
+    "meaning": "içmek",
+    "sentence": "She likes to drink herbal tea before bedtime.",
+    "turkish_translation": "Yatmadan önce bitki çayı içmeyi sever."
+  },
+  {
+    "word": "drinking",
+    "meaning": "içme",
+    "sentence": "Drinking water is essential for staying hydrated.",
+    "turkish_translation": "Su içmek, vücutun su dengesini korumak için önemlidir."
+  },
+  {
+    "word": "drinks",
+    "meaning": "içecekler",
+    "sentence": "The menu offers a variety of alcoholic and non-alcoholic drinks.",
+    "turkish_translation": "Menü, çeşitli alkollü ve alkolsüz içecekler sunuyor."
+  },
+  {
+    "word": "drive",
+    "meaning": "sürmek, sürücü",
+    "sentence": "She learned to drive when she was sixteen years old.",
+    "turkish_translation": "On altı yaşındayken arabayı sürmeyi öğrendi."
+  },
+  {
+    "word": "driven",
+    "meaning": "sürülmüş",
+    "sentence": "The road was driven by many cars during rush hour.",
+    "turkish_translation": "Yol, yoğun saatlerde birçok araç tarafından sürüldü."
+  },
+  {
+    "word": "driver",
+    "meaning": "sürücü",
+    "sentence": "The taxi driver took the passengers to the airport.",
+    "turkish_translation": "Taksi sürücüsü yolcuları havaalanına götürdü."
+  },
+  {
+    "word": "drivers",
+    "meaning": "sürücüler",
+    "sentence": "There are many drivers on the road during rush hour.",
+    "turkish_translation": "Yoğun saatlerde yolda birçok sürücü bulunur."
+  },
+  {
+    "word": "drives",
+    "meaning": "sürer, hareket ettirir",
+    "sentence": "She drives a manual transmission car.",
+    "turkish_translation": "Manuel vitesli bir araba kullanır."
+  },
+  {
+    "word": "driving",
+    "meaning": "sürme, sürüş",
+    "sentence": "Driving in heavy traffic can be stressful.",
+    "turkish_translation": "Yoğun trafikte araba kullanmak stresli olabilir."
+  },
+  {
+    "word": "drop",
+    "meaning": "düşmek, damlamak",
+    "sentence": "A tear drop fell from her eye.",
+    "turkish_translation": "Gözünden bir damla yaş düştü."
+  },
+  {
+    "word": "dropped",
+    "meaning": "düşmüş, bırakılmış",
+    "sentence": "He accidentally dropped his phone and cracked the screen.",
+    "turkish_translation": "Kazara telefonunu düşürdü ve ekranı çatladı."
+  },
+  {
+    "word": "drops",
+    "meaning": "damlalar, düşüşler",
+    "sentence": "The rain drops were gently tapping on the window.",
+    "turkish_translation": "Yağmur damlaları pencereye nazikçe vuruyordu."
+  },
+  {
+    "word": "drove",
+    "meaning": "sürdü, sürdüler",
+    "sentence": "She drove her friends to the concert last night.",
+    "turkish_translation": "Dün gece arkadaşlarını konsere götürdü."
+  },
+  {
+    "word": "drug",
+    "meaning": "ilaç, uyuşturucu madde",
+    "sentence": "The doctor prescribed a new drug to alleviate her symptoms.",
+    "turkish_translation": "Doktor, semptomlarını hafifletmek için yeni bir ilaç reçete etti."
+  },
+  {
+    "word": "drugs",
+    "meaning": "ilaçlar, uyuşturucular",
+    "sentence": "The pharmacy provides a wide range of prescription drugs.",
+    "turkish_translation": "Eczane, geniş bir reçete ilaç yelpazesi sunar."
+  },
+  {
+    "word": "drum",
+    "meaning": "davul",
+    "sentence": "He played the drum in the school band.",
+    "turkish_translation": "Okul bandosunda davul çaldı."
+  },
+  {
+    "word": "drums",
+    "meaning": "davullar",
+    "sentence": "The rhythmic beats of the drums set the tone for the performance.",
+    "turkish_translation": "Davulların ritmik vuruşları, performansın tonunu belirledi."
+  },
+  {
+    "word": "drunk",
+    "meaning": "sarhoş",
+    "sentence": "He had a little too much to drink at the party.",
+    "turkish_translation": "Partide biraz fazla içki içti."
+  },
+  {
+    "word": "dry",
+    "meaning": "kuru",
+    "sentence": "The desert is known for its hot and dry climate.",
+    "turkish_translation": "Çöl, sıcak ve kuru iklimiyle tanınıyor."
+  },
+  {
+    "word": "dryer",
+    "meaning": "kurutucu",
+    "sentence": "She used the dryer to quickly dry her clothes.",
+    "turkish_translation": "Kurutucuyu kullanarak hızlıca kıyafetlerini kuruttu."
+  },
+  {
+    "word": "ds",
+    "meaning": "dual screen, çift ekran",
+    "sentence": "The laptop has a DS feature that allows for multitasking.",
+    "turkish_translation": "Dizüstü bilgisayar, çoklu görev yapmayı sağlayan bir çift ekran özelliğine sahip."
+  },
+  {
+    "word": "dsc",
+    "meaning": "digital still camera, dijital fotoğraf makinesi",
+    "sentence": "She captured the breathtaking view with her DSC.",
+    "turkish_translation": "Muhteşem manzarayı dijital fotoğraf makinesiyle yakaladı."
+  },
+  {
+    "word": "dsl",
+    "meaning": "digital subscriber line, dijital abone hattı",
+    "sentence": "DSL provides high-speed internet access through telephone lines.",
+    "turkish_translation": "DSL, telefon hatları aracılığıyla yüksek hızlı internet erişimi sağlar."
+  },
+  {
+    "word": "dt",
+    "meaning": "date, tarih",
+    "sentence": "Please confirm your availability for the meeting on that dt.",
+    "turkish_translation": "Lütfen o tarihteki toplantı için uygunluğunuzu onaylayın."
+  },
+  {
+    "word": "dts",
+    "meaning": "digital theater systems, dijital tiyatro sistemleri",
+    "sentence": "The movie theater features DTS for a superior audio experience.",
+    "turkish_translation": "Sinema salonu üstün ses deneyimi için DTS özelliğine sahip."
+  },
+  {
+    "word": "du",
+    "meaning": "you, sen/siz",
+    "sentence": "Du have any plans for the weekend?",
+    "turkish_translation": "Hafta sonu için herhangi bir planın var mı?"
+  },
+  {
+    "word": "dual",
+    "meaning": "çift, ikili",
+    "sentence": "The smartphone has a dual-camera setup for better photography.",
+    "turkish_translation": "Akıllı telefon, daha iyi fotoğrafçılık için çift kamera kurulumuna sahip."
+  },
+  {
+    "word": "dubai",
+    "meaning": "Dubai (şehir adı)",
+    "sentence": "She visited Dubai last summer and was amazed by its architecture.",
+    "turkish_translation": "Geçen yaz Dubai'yi ziyaret etti ve mimarisinden etkilendi."
+  },
+  {
+    "word": "dublin",
+    "meaning": "Dublin (şehir adı)",
+    "sentence": "Dublin is the capital city of Ireland.",
+    "turkish_translation": "Dublin, İrlanda'nın başkentidir."
+  },
+  {
+    "word": "duck",
+    "meaning": "ördek",
+    "sentence": "She saw a family of ducks swimming in the pond.",
+    "turkish_translation": "Gölde yüzen bir ördek ailesi gördü."
+  },
+  {
+    "word": "dude",
+    "meaning": "arkadaş, adam",
+    "sentence": "Hey dude, how's it going?",
+    "turkish_translation": "Selam adam, nasıl gidiyor?"
+  },
+  {
+    "word": "due",
+    "meaning": "nedeniyle, vadesi dolmuş",
+    "sentence": "The report is due tomorrow, so I need to finish it tonight.",
+    "turkish_translation": "Rapor yarın teslim edilmeli, bu yüzden bu gece bitirmem gerekiyor."
+  },
+  {
+    "word": "dui",
+    "meaning": "driving under the influence, alkollü araç kullanma",
+    "sentence": "Driving under the influence is a serious offense.",
+    "turkish_translation": "Alkollü araç kullanmak ciddi bir suçtur."
+  },
+  {
+    "word": "duke",
+    "meaning": "dük",
+    "sentence": "The Duke of Cambridge is a member of the British royal family.",
+    "turkish_translation": "Cambridge Dükü, İngiliz kraliyet ailesinin bir üyesidir."
+  },
+  {
+    "word": "dumb",
+    "meaning": "aptal, dilsiz",
+    "sentence": "She felt dumb after forgetting her lines during the play.",
+    "turkish_translation": "Oyun sırasında repliklerini unutunca aptal hissetti."
+  },
+  {
+    "word": "dump",
+    "meaning": "dökülmek, çöp yığını",
+    "sentence": "They decided to dump the old furniture and buy new ones.",
+    "turkish_translation": "Eski mobilyaları atma kararı aldılar ve yeni olanları aldılar."
+  },
+  {
+    "word": "duncan",
+    "meaning": "Duncan (isim)",
+    "sentence": "Duncan is a friendly and outgoing person.",
+    "turkish_translation": "Duncan, arkadaş canlısı ve dışa dönük bir kişidir."
+  },
+  {
+    "word": "duo",
+    "meaning": "ikili, çift",
+    "sentence": "The musical duo performed a beautiful duet on stage.",
+    "turkish_translation": "Müzikal ikili, sahnede güzel bir düet seslendirdi."
+  },
+  {
+    "word": "duplicate",
+    "meaning": "kopyalamak, kopya",
+    "sentence": "She made a duplicate of the important document.",
+    "turkish_translation": "Önemli belgenin bir kopyasını çıkardı."
+  },
+  {
+    "word": "durable",
+    "meaning": "dayanıklı",
+    "sentence": "This brand is known for producing durable and long-lasting products.",
+    "turkish_translation": "Bu marka, dayanıklı ve uzun ömürlü ürünler üretmekle tanınır."
+  },
+  {
+    "word": "duration",
+    "meaning": "süre, devam süresi",
+    "sentence": "The duration of the movie is approximately two hours.",
+    "turkish_translation": "Filmin süresi yaklaşık olarak iki saattir."
+  },
+  {
+    "word": "durham",
+    "meaning": "Durham (şehir adı)",
+    "sentence": "Durham is a historic city in North Carolina.",
+    "turkish_translation": "Durham, Kuzey Karolina'da tarihi bir şehirdir."
+  },
+  {
+    "word": "during",
+    "meaning": "sırasında",
+    "sentence": "She studied diligently during her final exams.",
+    "turkish_translation": "Son sınavları sırasında özenle çalıştı."
+  },
+  {
+    "word": "dust",
+    "meaning": "toz",
+    "sentence": "She wiped the dust off the bookshelf.",
+    "turkish_translation": "Kitaplığın üzerindeki tozu sildi."
+  },
+  {
+    "word": "dutch",
+    "meaning": "Hollandalı, Hollandaca",
+    "sentence": "She learned to speak Dutch during her trip to the Netherlands.",
+    "turkish_translation": "Hollanda seyahati sırasında Hollandaca konuşmayı öğrendi."
+  },
+  {
+    "word": "duties",
+    "meaning": "görevler, sorumluluklar",
+    "sentence": "Her duties as a manager include overseeing the team's projects.",
+    "turkish_translation": "Yönetici olarak görevleri, takımın projelerini denetlemeyi içerir."
+  },
+  {
+    "word": "duty",
+    "meaning": "görev, sorumluluk",
+    "sentence": "It's his duty to take care of his younger siblings.",
+    "turkish_translation": "Küçük kardeşlerine bakmak onun görevidir."
+  },
+  {
+    "word": "dv",
+    "meaning": "digital video, dijital video",
+    "sentence": "The camera can record high-quality DV footage.",
+    "turkish_translation": "Kamera yüksek kaliteli dijital video görüntüsü kaydedebilir."
+  },
+  {
+    "word": "dvd",
+    "meaning": "digital versatile disc, dijital çok yönlü disk",
+    "sentence": "She bought the movie on DVD to watch it at home.",
+    "turkish_translation": "Filmi evde izlemek için DVD olarak satın aldı."
+  },
+  {
+    "word": "dvds",
+    "meaning": "DVD'ler",
+    "sentence": "The store offers a wide selection of DVDs for movie enthusiasts.",
+    "turkish_translation": "Mağaza, film tutkunları için geniş bir DVD seçkisi sunar."
+  },
+  {
+    "word": "dx",
+    "meaning": "diagnosis, tanı",
+    "sentence": "The doctor provided a clear DX after examining the patient.",
+    "turkish_translation": "Doktor, hastayı muayene ettikten sonra net bir tanı sağladı."
+  },
+  {
+    "word": "dying",
+    "meaning": "ölüm, ölüm hastalığı",
+    "sentence": "The dying patient's family gathered around his bedside.",
+    "turkish_translation": "Ölüm hastası olan hasta ailesi yatağının etrafında toplandı."
+  },
+  {
+    "word": "dylan",
+    "meaning": "Dylan (isim)",
+    "sentence": "Dylan is a popular name for boys in many English-speaking countries.",
+    "turkish_translation": "Dylan, birçok İngilizce konuşulan ülkede erkekler için popüler bir isimdir."
+  },
+  {
+    "word": "dynamic",
+    "meaning": "dinamik",
+    "sentence": "The team has a dynamic approach to problem-solving.",
+    "turkish_translation": "Ekip, sorun çözme konusunda dinamik bir yaklaşıma sahiptir."
+  },
+  {
+    "word": "dynamics",
+    "meaning": "dinamikler, hareket",
+    "sentence": "The dynamics of the market are constantly changing.",
+    "turkish_translation": "Piyasanın dinamikleri sürekli olarak değişmektedir."
+  }
+]

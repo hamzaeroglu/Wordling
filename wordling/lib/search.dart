@@ -156,6 +156,8 @@ class _SearchWordsState extends State<SearchWords> {
             toggleButtonColor: Colors.black,
             items: [
               CircularMenuItem(
+                color: Color(0XFFDB56AD),
+
                 icon: Icons.my_library_books_sharp,
                 onTap: () {
                   Navigator.push(
@@ -167,6 +169,8 @@ class _SearchWordsState extends State<SearchWords> {
                 },
               ),
               CircularMenuItem(
+                color: Color(0XFFDB56AD),
+
                 icon: Icons.favorite,
                 onTap: () {
                   Navigator.push(
@@ -178,6 +182,8 @@ class _SearchWordsState extends State<SearchWords> {
                 },
               ),
               CircularMenuItem(
+                color: Color(0XFFDB56AD),
+
                 icon: Icons.videogame_asset_rounded,
                 onTap: () {
                   Navigator.push(

@@ -1,0 +1,427 @@
+[{"word": "ka", "meaning": "ka", "sentence": "The word 'ka' has various meanings in different languages.", "turkish_translation": "'Ka' kelimesinin farklı dillerde çeşitli anlamları vardır."},
+{"word": "kai", "meaning": "Kai", "sentence": "Kai is a popular name in many cultures.", "turkish_translation": "Kai, birçok kültürde popüler bir isimdir."},
+{"word": "kansas", "meaning": "Kansas", "sentence": "Kansas is known for its vast plains.", "turkish_translation": "Kansas, geniş ovalarıyla tanınır."},
+{"word": "karaoke", "meaning": "karaoke", "sentence": "They love to sing karaoke at the local pub.", "turkish_translation": "Yerel barda karaoke yapmayı çok seviyorlar."},
+{"word": "karen", "meaning": "Karen", "sentence": "Karen is a skilled programmer.", "turkish_translation": "Karen, yetenekli bir programcıdır."},
+{"word": "karl", "meaning": "Karl", "sentence": "Karl is a knowledgeable historian.", "turkish_translation": "Karl, bilgili bir tarihçidir."},
+{"word": "karma", "meaning": "karma", "sentence": "The concept of karma is prevalent in Eastern philosophy.", "turkish_translation": "Karma kavramı Doğu felsefesinde yaygındır."},
+{"word": "kate", "meaning": "Kate", "sentence": "Kate is a dedicated teacher.", "turkish_translation": "Kate, özverili bir öğretmendir."},
+{"word": "kathy", "meaning": "Kathy", "sentence": "Kathy is a compassionate nurse.", "turkish_translation": "Kathy, şefkatli bir hemşiredir."},
+{"word": "katie", "meaning": "Katie", "sentence": "Katie is a talented artist.", "turkish_translation": "Katie, yetenekli bir sanatçıdır."},
+{"word": "katrina", "meaning": "Katrina", "sentence": "Katrina is a strong and resilient individual.", "turkish_translation": "Katrina, güçlü ve dirençli bir bireydir."},
+{"word": "kay", "meaning": "Kay", "sentence": "Kay is known for her kindness and generosity.", "turkish_translation": "Kay, nezaketi ve cömertliğiyle tanınır."},
+{"word": "kazakhstan", "meaning": "Kazakhstan", "sentence": "Kazakhstan is the world's largest landlocked country.", "turkish_translation": "Kazakistan, dünyanın en büyük karasal ülkesidir."},
+{"word": "kb", "meaning": "KB (kısaltma)", "sentence": "KB stands for kilobyte.", "turkish_translation": "KB, kilobaytın kısaltmasıdır."},
+{"word": "kde", "meaning": "KDE", "sentence": "KDE is a popular desktop environment in the Linux community.", "turkish_translation": "KDE, Linux topluluğunda popüler bir masaüstü ortamıdır."},
+{"word": "keen", "meaning": "hevesli, istekli", "sentence": "She's keen to learn new skills.", "turkish_translation": "Yeni beceriler öğrenmeye istekli."},
+{"word": "keep", "meaning": "saklamak, tutmak", "sentence": "Keep the documents in a safe place.", "turkish_translation": "Belgeleri güvenli bir yerde saklayın."},
+{"word": "keeping", "meaning": "saklama, tutma", "sentence": "The keeping of records is important for organization.", "turkish_translation": "Kayıtların tutulması, düzen için önemlidir."},
+{"word": "keeps", "meaning": "saklar, tutar", "sentence": "She keeps her valuables in a locked box.", "turkish_translation": "Değerli eşyalarını kilitli bir kutuda saklar."},
+{"word": "keith", "meaning": "Keith", "sentence": "Keith is a skilled mechanic.", "turkish_translation": "Keith, yetenekli bir tamircidir."},
+{"word": "kelkoo", "meaning": "Kelkoo", "sentence": "Kelkoo is a price comparison website.", "turkish_translation": "Kelkoo, bir fiyat karşılaştırma web sitesidir."},
+{"word": "kelly", "meaning": "Kelly", "sentence": "Kelly has a great sense of humor.", "turkish_translation": "Kelly'nin harika bir mizah anlayışı var."},
+{"word": "ken", "meaning": "Ken", "sentence": "Ken is an experienced pilot.", "turkish_translation": "Ken, deneyimli bir pilot."},
+
+  {
+    "word": "kenya",
+    "meaning": "Kenya",
+    "sentence": "Kenya is known for its diverse wildlife and landscapes.",
+    "turkish_translation": "Kenya, çeşitli vahşi yaşamı ve manzaralarıyla tanınır."
+  },
+  {
+    "word": "kept",
+    "meaning": "kept",
+    "sentence": "She kept the old letters in a special box.",
+    "turkish_translation": "Eski mektupları özel bir kutuda sakladı."
+  },
+  {
+    "word": "kernel",
+    "meaning": "çekirdek, kernel",
+    "sentence": "The kernel is the core component of an operating system.",
+    "turkish_translation": "Çekirdek, bir işletim sisteminin temel bileşenidir."
+  },
+  {
+    "word": "kerry",
+    "meaning": "Kerry",
+    "sentence": "Kerry is a beautiful county in Ireland.",
+    "turkish_translation": "Kerry, İrlanda'da güzel bir ilçedir."
+  },
+  {
+    "word": "kevin",
+    "meaning": "Kevin",
+    "sentence": "Kevin is a dedicated teacher who loves his job.",
+    "turkish_translation": "Kevin, işini seven özverili bir öğretmendir."
+  },
+  {
+    "word": "key",
+    "meaning": "anahtar, tuş",
+    "sentence": "She couldn't find her house key.",
+    "turkish_translation": "Ev anahtarını bulamadı."
+  },
+  {
+    "word": "keyboard",
+    "meaning": "klavye",
+    "sentence": "He typed the report using a keyboard.",
+    "turkish_translation": "Raporu klavye kullanarak yazdı."
+  },
+  {
+    "word": "keyboards",
+    "meaning": "klavyeler",
+    "sentence": "The office has several keyboards for different computers.",
+    "turkish_translation": "Ofiste farklı bilgisayarlar için birkaç klavye bulunuyor."
+  },
+  {
+    "word": "keys",
+    "meaning": "anahtarlar, tuşlar",
+    "sentence": "The keys to the car are on the kitchen counter.",
+    "turkish_translation": "Arabanın anahtarları mutfak tezgahının üstünde."
+  },
+  {
+    "word": "keyword",
+    "meaning": "anahtar kelime",
+    "sentence": "Using the right keyword is important for search engine optimization.",
+    "turkish_translation": "Doğru anahtar kelimenin kullanılması, arama motoru optimizasyonu için önemlidir."
+  },
+  {
+    "word": "keywords",
+    "meaning": "anahtar kelimeler",
+    "sentence": "The article is optimized with relevant keywords.",
+    "turkish_translation": "Makale, ilgili anahtar kelimelerle optimize edilmiştir."
+  },
+  {
+    "word": "kg",
+    "meaning": "kilogram",
+    "sentence": "The weight of the package is 5 kg.",
+    "turkish_translation": "Paketin ağırlığı 5 kg."
+  },
+  {
+    "word": "kick",
+    "meaning": "tekmelemek, vurmak",
+    "sentence": "He kicked the ball with all his strength.",
+    "turkish_translation": "Topa tüm gücüyle tekme attı."
+  },
+  {
+    "word": "kid",
+    "meaning": "çocuk",
+    "sentence": "The playground is full of kids playing.",
+    "turkish_translation": "Oyun alanı, oynayan çocuklarla dolu."
+  },
+  {
+    "word": "kidney",
+    "meaning": "böbrek",
+    "sentence": "He was diagnosed with a kidney infection.",
+    "turkish_translation": "Bir böbrek enfeksiyonu teşhisi kondu."
+  },
+  {
+    "word": "kids",
+    "meaning": "çocuklar",
+    "sentence": "The kids are excited about the upcoming field trip.",
+    "turkish_translation": "Çocuklar, yaklaşan geziden heyecanlılar."
+  },
+  {
+    "word": "kijiji",
+    "meaning": "Kijiji",
+    "sentence": "Kijiji is an online classifieds platform.",
+    "turkish_translation": "Kijiji, çevrimiçi bir seri ilan platformudur."
+  },
+  {
+    "word": "kill",
+    "meaning": "öldürmek",
+    "sentence": "Hunting animals for sport is illegal and unethical.",
+    "turkish_translation": "Spor amaçlı hayvan avlamak yasa dışı ve etik değildir."
+  },
+  {
+    "word": "killed",
+    "meaning": "öldürülen",
+    "sentence": "Many animals were killed in the forest fire.",
+    "turkish_translation": "Orman yangınında birçok hayvan öldü."
+  },
+  {
+    "word": "kingston",
+    "meaning": "Kingston",
+    "sentence": "Kingston is the capital city of Jamaica.",
+    "turkish_translation": "Kingston, Jamaika'nın başkentidir."
+  },
+  {
+    "word": "kirk",
+    "meaning": "Kirk",
+    "sentence": "Kirk is a common term for a church in Scotland.",
+    "turkish_translation": "Kirk, İskoçya'da bir kilise için yaygın bir terimdir."
+  },
+  {
+    "word": "kiss",
+    "meaning": "öpücük",
+    "sentence": "They shared a passionate kiss under the stars.",
+    "turkish_translation": "Yıldızların altında tutkulu bir öpücük paylaştılar."
+  },
+  {
+    "word": "kissing",
+    "meaning": "öpüşme",
+    "sentence": "Public displays of kissing may vary across cultures.",
+    "turkish_translation": "Açıkça öpüşme davranışları kültürlere göre farklılık gösterebilir."
+  },
+  {
+    "word": "kit",
+    "meaning": "kit, takım",
+    "sentence": "The DIY kit includes all the necessary materials.",
+    "turkish_translation": "Kendin yap kiti, gerekli tüm malzemeleri içerir."
+  },
+  {
+    "word": "kitchen",
+    "meaning": "mutfak",
+    "sentence": "She enjoys cooking new recipes in her spacious kitchen.",
+    "turkish_translation": "Geniş mutfağında yeni tarifler yapmaktan hoşlanıyor."
+  },
+  {
+    "word": "kits",
+    "meaning": "kitler, takımlar",
+    "sentence": "The camping store offers a variety of kits for outdoor adventures.",
+    "turkish_translation": "Kamp mağazası, açık hava maceraları için çeşitli kitler sunar."
+  },
+  {
+    "word": "kitty",
+    "meaning": "kedi",
+    "sentence": "Her little kitty loves to play with yarn.",
+    "turkish_translation": "Küçük kedisinin iplikle oynamayı çok seviyor."
+  },
+  {
+    "word": "klein",
+    "meaning": "Klein",
+    "sentence": "Klein is a German surname that means 'small' or 'little'.",
+    "turkish_translation": "Klein, Almanca bir soyadı olup 'küçük' veya 'az' anlamına gelir."
+  },
+  {
+    "word": "km",
+    "meaning": "kilometre",
+    "sentence": "The distance from their house to the beach is 5 km.",
+    "turkish_translation": "Evlerinden sahile olan mesafe 5 km."
+  },
+  {
+    "word": "knee",
+    "meaning": "diz",
+    "sentence": "He injured his knee while playing soccer.",
+    "turkish_translation": "Futbol oynarken dizi incitti."
+  },
+  {
+    "word": "knew",
+    "meaning": "biliyordu, biliyorduk",
+    "sentence": "I knew that she was planning a surprise party.",
+    "turkish_translation": "Onun sürpriz bir parti planladığını biliyordum."
+  },
+  {
+    "word": "knife",
+    "meaning": "bıçak",
+    "sentence": "He used a sharp knife to slice the bread.",
+    "turkish_translation": "Ekmekleri dilimlemek için keskin bir bıçak kullandı."
+  },
+  {
+    "word": "knight",
+    "meaning": "şövalye",
+    "sentence": "In medieval times, knights were skilled warriors who served their lords.",
+    "turkish_translation": "Ortaçağda şövalyeler, lordlarına hizmet eden yetenekli savaşçılardı."
+  },
+  {
+    "word": "knights",
+    "meaning": "şövalyeler",
+    "sentence": "The knights prepared for battle in their armor.",
+    "turkish_translation": "Şövalyeler zırhlarıyla savaşa hazırlandılar."
+  },
+  {
+    "word": "knit",
+    "meaning": "örme, örgü örmek",
+    "sentence": "She likes to knit sweaters during the winter months.",
+    "turkish_translation": "Kış aylarında kazak örmeyi sever."
+  },
+  {
+    "word": "knitting",
+    "meaning": "örgü örme",
+    "sentence": "Her grandmother taught her the art of knitting.",
+    "turkish_translation": "Büyükannesi ona örgü örmenin sanatını öğretti."
+  },
+  {
+    "word": "knives",
+    "meaning": "bıçaklar",
+    "sentence": "The chef's collection includes various types of knives.",
+    "turkish_translation": "Şefin koleksiyonunda çeşitli türde bıçaklar bulunuyor."
+  },
+  {
+    "word": "knock",
+    "meaning": "kapıyı çalmak",
+    "sentence": "Please knock on the door before entering.",
+    "turkish_translation": "Lütfen içeri girmeden önce kapıyı çalın."
+  },
+  {
+    "word": "know",
+    "meaning": "bilmek, tanımak",
+    "sentence": "I know how to play the piano.",
+    "turkish_translation": "Piyano çalmayı biliyorum."
+  },
+  {
+    "word": "knowing",
+    "meaning": "biliyor olmak",
+    "sentence": "Knowing the answer made her feel more confident.",
+    "turkish_translation": "Cevabı biliyor olmak ona daha fazla güven verdi."
+  },
+  {
+    "word": "knowledge",
+    "meaning": "bilgi",
+    "sentence": "Acquiring knowledge is a lifelong journey.",
+    "turkish_translation": "Bilgi edinmek bir ömür süren bir yolculuktur."
+  },
+  {
+    "word": "knowledgestorm",
+    "meaning": "Knowledgestorm",
+    "sentence": "Knowledgestorm is a platform for IT-related resources.",
+    "turkish_translation": "Knowledgestorm, IT ile ilgili kaynaklar için bir platformdur."
+  },
+  {
+    "word": "known",
+    "meaning": "bilinen",
+    "sentence": "The artist is known for his unique style.",
+    "turkish_translation": "Sanatçı, benzersiz tarzıyla bilinir."
+  },
+  {
+    "word": "knows",
+    "meaning": "biliyor",
+    "sentence": "She knows how to fix cars.",
+    "turkish_translation": "Araba tamir etmeyi biliyor."
+  },
+  {
+    "word": "ko",
+    "meaning": "KO, mağlup etmek",
+    "sentence": "The boxer delivered a powerful KO punch.",
+    "turkish_translation": "Boksör güçlü bir KO yumruğu attı."
+  },
+  {
+    "word": "kodak",
+    "meaning": "Kodak",
+    "sentence": "Kodak was a famous brand in the field of photography.",
+    "turkish_translation": "Kodak, fotoğrafçılık alanında ünlü bir markaydı."
+  },
+  {
+    "word": "kong",
+    "meaning": "Kong",
+    "sentence": "Kong is a term often used to refer to Hong Kong.",
+    "turkish_translation": "Kong terimi genellikle Hong Kong'a atıfta bulunmak için kullanılır."
+  },
+  {
+    "word": "korea",
+    "meaning": "Kore",
+    "sentence": "Korea is divided into North Korea and South Korea.",
+    "turkish_translation": "Kore, Kuzey Kore ve Güney Kore olarak bölünmüştür."
+  },
+  {
+    "word": "korean",
+    "meaning": "Koreli",
+    "sentence": "She enjoys cooking Korean dishes.",
+    "turkish_translation": "Kore yemekleri yapmaktan hoşlanıyor."
+  },
+  {
+    "word": "kruger",
+    "meaning": "Kruger",
+    "sentence": "Kruger National Park is a famous wildlife reserve in South Africa.",
+    "turkish_translation": "Kruger Ulusal Parkı, Güney Afrika'da ünlü bir vahşi yaşam rezervidir."
+  },
+  {
+    "word": "ks",
+    "meaning": "Kansas",
+    "sentence": "Kansas is a state in the United States.",
+    "turkish_translation": "Kansas, Amerika Birleşik Devletleri'nde bir eyalettir."
+  },
+  {
+    "word": "kurt",
+    "meaning": "kurt",
+    "sentence": "The wolf is a type of wild animal known as a 'kurt' in Turkish.",
+    "turkish_translation": "Kurt, Türkçede bilinen bir tür vahşi hayvandır."
+  },
+  {
+    "word": "kuwait",
+    "meaning": "Kuveyt",
+    "sentence": "Kuwait is a small country located in the Middle East.",
+    "turkish_translation": "Kuveyt, Orta Doğu'da bulunan küçük bir ülkedir."
+  },
+  {
+    "word": "kw",
+    "meaning": "Kwacha",
+    "sentence": "Kwacha is the currency of Zambia.",
+    "turkish_translation": "Kwacha, Zambiya'nın para birimidir."
+  },
+  {
+    "word": "ky",
+    "meaning": "Kentucky",
+    "sentence": "Kentucky is known for its horse racing events.",
+    "turkish_translation": "Kentucky, at yarışı etkinlikleriyle tanınır."
+  },
+  {
+    "word": "kyle",
+    "meaning": "Kyle",
+    "sentence": "Kyle is a popular given name for boys.",
+    "turkish_translation": "Kyle, erkek çocukları için popüler bir isimdir."
+  },
+  {
+    "word": "killer",
+    "meaning": "katil",
+    "sentence": "The police were searching for the serial killer.",
+    "turkish_translation": "Polis seri katili arıyordu."
+  },
+  {
+    "word": "killing",
+    "meaning": "öldürme, cinayet",
+    "sentence": "The killing of innocent people is a tragic event.",
+    "turkish_translation": "Masum insanların öldürülmesi trajik bir olaydır."
+  },
+  {
+    "word": "kills",
+    "meaning": "öldürür",
+    "sentence": "The venom of this snake kills its prey.",
+    "turkish_translation": "Bu yılanın zehiri avını öldürür."
+  },
+  {
+    "word": "kilometers",
+    "meaning": "kilometreler",
+    "sentence": "The distance between the two cities is 200 kilometers.",
+    "turkish_translation": "İki şehir arasındaki mesafe 200 kilometredir."
+  },
+  {
+    "word": "kim",
+    "meaning": "Kim",
+    "sentence": "Kim is a common given name in many cultures.",
+    "turkish_translation": "Kim, birçok kültürde yaygın bir isimdir."
+  },
+  {
+    "word": "kinase",
+    "meaning": "kinaz",
+    "sentence": "Kinase is an enzyme that plays a crucial role in cell signaling.",
+    "turkish_translation": "Kinaz, hücre sinyalleşmesinde önemli bir rol oynayan bir enzimdir."
+  },
+  {
+    "word": "kind",
+    "meaning": "tür, çeşit",
+    "sentence": "He showed a kind gesture by helping the elderly woman.",
+    "turkish_translation": "Yaşlı kadına yardım ederek nazik bir hareket gösterdi."
+  },
+  {
+    "word": "kinda",
+    "meaning": "bir bakıma",
+    "sentence": "I'm kinda tired after the long day.",
+    "turkish_translation": "Uzun bir günün ardından bir bakıma yorgunum."
+  },
+  {
+    "word": "kinds",
+    "meaning": "türler, çeşitler",
+    "sentence": "There are many different kinds of birds in this forest.",
+    "turkish_translation": "Bu ormanda birçok farklı türde kuş bulunuyor."
+  },
+  {
+    "word": "king",
+    "meaning": "kral",
+    "sentence": "The king ruled the kingdom with authority.",
+    "turkish_translation": "Kral, krallığı otoriteyle yönetti."
+  },
+  {
+    "word": "kingdom",
+    "meaning": "krallık",
+    "sentence": "The animal kingdom consists of a wide variety of species.",
+    "turkish_translation": "Hayvan krallığı geniş bir tür çeşitliliğinden oluşur."
+  }
+]

@@ -1,0 +1,1966 @@
+[
+  {"word": "a bad egg", "meaning": "sözünde durmayan, kendisine güvenilmeyen, itin teki",
+    "sentence": "He's a bad egg to work with, always promising but never delivering.",
+    "turkish_translation": "Vaadedip de sözünde durmayan birisiyle çalışmak zordur."},
+
+  {"word": "a bad lot", "meaning": "sağlam ayakkabı değil, sütü bozuk, it kopuk",
+    "sentence": "That used car is not reliable, it's like spoiled milk; always breaking down.",
+    "turkish_translation": "O kullanılmış araba sağlam bir ayakkabı değil; sürekli bozuluyor."},
+
+  {"word": "a bad mark", "meaning": "kırık not, kötü not",
+    "sentence": "Getting a bad mark on the exam was disappointing.",
+    "turkish_translation": "Sınavda kötü bir not almak hayal kırıklığına uğrattı."},
+
+  {"word": "a bad turn", "meaning": "kötülük",
+    "sentence": "Doing harm to someone only leads to problems.",
+    "turkish_translation": "Birine kötülük yapmak sadece sorunlara yol açar."},
+
+  {"word": "a bag of nerves", "meaning": "sinir küpü",
+    "sentence": "She was a bundle of nerves before the performance.",
+    "turkish_translation": "Performans öncesi sinir küpü gibiydi."},
+
+  {"word": "a bed of roses", "meaning": "güllük gülistanlık vaziyet",
+    "sentence": "Life is not always a bed of roses; there are challenges too.",
+    "turkish_translation": "Hayat her zaman güllük gülistanlık değildir; zorluklar da olur."},
+
+  {"word": "a bee in one's bonnet", "meaning": "fikrisabit, saplantı",
+    "sentence": "Lately, he seems to have a bee in his bonnet about environmental issues.",
+    "turkish_translation": "Son zamanlarda çevre konusunda bir saplantısı var gibi görünüyor."},
+
+  {"word": "a bird in a gilded cage", "meaning": "altın kafesteki kuş",
+    "sentence": "Despite being wealthy, he felt like a bird in a gilded cage.",
+    "turkish_translation": "Servet sahibi olmasına rağmen, altın kafesteki bir kuş gibi hissediyordu."},
+
+  {"word": "a bit", "meaning": "biraz, bir kırık, zerre kadar, bir damcı, bir kırtık, dıngılı",
+    "sentence": "Can you give me a bit of chocolate, please?",
+    "turkish_translation": "Biraz çikolata verebilir misiniz lütfen?"},
+
+  {"word": "a bitter pill", "meaning": "acı bir reçete, acı bir ilaç, çetinlikler bulunan çözüm yolu",
+    "sentence": "Admitting the mistake was a bitter pill to swallow.",
+    "turkish_translation": "Hatayı kabul etmek acı bir gerçekti."},
+
+  {"word": "a black eye", "meaning": "morarmış göz",
+    "sentence": "He had a black eye after a fight.",
+    "turkish_translation": "Bir kavga sonrası morarmış bir gözü oldu."},
+
+  {"word": "a bundle of nerves", "meaning": "sinir küpü",
+    "sentence": "She was a bundle of nerves before the big presentation.",
+    "turkish_translation": "Büyük sunum öncesi sinir küpü gibiydi."},
+
+  {"word": "a can of worms", "meaning": "içinden çıkılması güç vaziyet",
+    "sentence": "Bringing up that topic revealed a can of worms.",
+    "turkish_translation": "O konuyu gündeme getirmek, içinden çıkılması güç bir vaziyeti açığa çıkardı."},
+
+  {"word": "a change for the worse", "meaning": "kötü bir değişiklik",
+    "sentence": "The new management led to a change for the worse in the company's culture.",
+    "turkish_translation": "Yeni yönetim şirket kültüründe kötü bir değişikliğe neden oldu."},
+
+  {"word": "a chip off the old block", "meaning": "ata/anne yadigarı, benzerlik",
+    "sentence": "He's like a chip off the old block, inheriting traits from his father.",
+    "turkish_translation": "Babasının bir kopyası gibi, o da atadan gelen özelliklere sahip."},
+
+  {"word": "a close shave", "meaning": "kıl payı kaçış",
+    "sentence": "That car narrowly passed by me! What a close shave that was!",
+    "turkish_translation": "O araba benim yanımdan kıl payı geçti! Ne kadar da kıl payı kaçıştı!"},
+
+  {"word": "a cut above", "meaning": "daha üstün, daha yakışır",
+    "sentence": "His skills are a cut above the rest.",
+    "turkish_translation": "Onun yetenekleri geri kalanlardan daha üstündür."},
+
+  {"word": "a dark day", "meaning": "karanlık gün",
+    "sentence": "The funeral marked a dark day for the family.",
+    "turkish_translation": "Cenaze, ailenin için karanlık bir günü işaretledi."},
+
+  {"word": "a dark saying", "meaning": "kapalı söz",
+    "sentence": "His poem was full of metaphors and dark sayings.",
+    "turkish_translation": "O şiir dolu dolu metaforlar ve kapalı sözlerle doluydu."},
+
+  {"word": "a dime a dozen", "meaning": "harcıâlem, çok yaygın",
+    "sentence": "There are so many cafes in this area, they're a dime a dozen.",
+    "turkish_translation": "Bu bölgede kafe sayısı çok fazla, adeta harcıâlem."},
+
+  {"word": "a drop in the bucket", "meaning": "devede kulak, çok az",
+    "sentence": "Donating ten dollars to that charity is just a drop in the bucket.",
+    "turkish_translation": "O hayır kurumuna on dolar bağışlamak sadece devede kulak kadar."},
+
+  {"word": "a drop in the ocean", "meaning": "okyanusta damla, devede kulak, çok az",
+    "sentence": "The funding we received is just a drop in the ocean compared to what we need.",
+    "turkish_translation": "Aldığımız fon, ihtiyacımız olan miktarla karşılaştırıldığında sadece bir damla gibi."},
+
+  {"word": "a fat lot", "meaning": "hiç",
+    "sentence": "He didn't know a fat lot about computers.",
+    "turkish_translation": "Bilgisayarlar hakkında hiçbir şey bilmiyordu."},
+
+  {"word": "a few", "meaning": "birkaç, bazı",
+    "sentence": "I have a few friends who live in this city.",
+    "turkish_translation": "Bu şehirde yaşayan birkaç arkadaşım var."},
+
+  {"word": "a flash in the pan", "meaning": "kuru gürültü, boşa çıkan gayret",
+    "sentence": "His success was just a flash in the pan; he couldn't maintain it.",
+    "turkish_translation": "Başarısı sadece kısa süreli bir kuru gürültüydü; sürdüremedi."},
+
+  {"word": "a flourish of trumpets", "meaning": "merasim borusu",
+    "sentence": "The event began with a flourish of trumpets.",
+    "turkish_translation": "Etkinlik, bir merasim borusu eşliğinde başladı."},
+
+  {"word": "a gleam of hope", "meaning": "bir ümit ışığı",
+    "sentence": "Despite the difficult situation, there was still a gleam of hope.",
+    "turkish_translation": "Zorlu duruma rağmen, hala bir ümit ışığı vardı."},
+
+  {"word": "a good buy", "meaning": "kârlı bir alışveriş",
+    "sentence": "This laptop was a good buy; I got it on sale.",
+    "turkish_translation": "Bu dizüstü bilgisayar kârlı bir alışveriş oldu; indirimde aldım."},
+
+  {"word": "a good deal", "meaning": "oldukça çok, bir dünya",
+    "sentence": "She's been through a good deal in her life, but she remains strong.",
+    "turkish_translation": "Hayatında oldukça çok şey yaşadı ama hala güçlü duruyor."},
+
+  {"word": "a good turn", "meaning": "iyilik, yardım",
+    "sentence": "He did me a good turn by helping me move my furniture.",
+    "turkish_translation": "Mobilyalarımı taşımamda bana yardım ederek bana bir iyilik yaptı."},
+
+  {"word": "a great deal of", "meaning": "pek çok, çoklu miktarda",
+    "sentence": "He has a great deal of experience in this field.",
+    "turkish_translation": "Bu alanda pek çok deneyime sahip."},
+
+  {"word": "a great deal", "meaning": "çok",
+    "sentence": "She cares a great deal about environmental issues.",
+    "turkish_translation": "Çevre konuları hakkında çok fazla endişeleniyor."},
+
+  {"word": "a great number of", "meaning": "oldukça çok, çok sayıda",
+    "sentence": "A great number of people attended the concert.",
+    "turkish_translation": "Oldukça çok insan konseri izledi."},
+
+  {"word": "a green eye", "meaning": "kem göz",
+    "sentence": "She had a green eye when her friend got the promotion.",
+    "turkish_translation": "Arkadaşı terfi aldığında onun kem gözleri vardı."},
+
+  {"word": "a hairbreadth escape", "meaning": "kıl payı kurtulma",
+    "sentence": "Their hairbreadth escape from the burning building was nothing short of a miracle.",
+    "turkish_translation": "Yanmakta olan binadan kıl payı kurtulmaları tam anlamıyla bir mucizeydi."},
+
+  {"word": "a hard nut to crack", "meaning": "çetin ceviz",
+    "sentence": "Solving that mathematical problem was a hard nut to crack.",
+    "turkish_translation": "O matematik sorununu çözmek çetin bir cevizdi."},
+
+  {"word": "a hell of a lot", "meaning": "çok fazla",
+    "sentence": "She has a hell of a lot of energy; she never seems to get tired.",
+    "turkish_translation": "Çok fazla enerjisi var; asla yorulmuyor gibi görünüyor."},
+
+  {"word": "a horse of another color", "meaning": "tamamıyla farklı bir konu",
+    "sentence": "Talking about art is one thing, but politics is a horse of another color.",
+    "turkish_translation": "Sanattan bahsetmek bir şey, ama siyaset tamamıyla farklı bir konu."},
+
+  {"word": "a hundredfold", "meaning": "yüz kat, yüz misli",
+    "sentence": "The return on his investment was a hundredfold, making him incredibly wealthy.",
+    "turkish_translation": "Yatırımının getirisi yüz misliydi, onu inanılmaz zengin yaptı."},
+
+  {"word": "a kind of", "meaning": "bir çeşit",
+    "sentence": "That's a kind of fruit I've never tasted before.",
+    "turkish_translation": "Bu, daha önce tadına bakmadığım bir tür meyve."},
+
+  {"word": "a king's ransom", "meaning": "büyük para",
+    "sentence": "The antique vase was sold for a king's ransom at the auction.",
+    "turkish_translation": "Antika vazo müzayedede büyük bir para karşılığında satıldı."},
+
+  {"word": "a la carte", "meaning": "alakart, yemek listesine göre",
+    "sentence": "At the restaurant, you can order dishes a la carte.",
+    "turkish_translation": "Restoranda yemekleri alakart olarak sipariş edebilirsiniz."},
+
+  {"word": "a la mode", "meaning": "modaya uygun",
+    "sentence": "Her outfit is always a la mode; she follows the latest fashion trends.",
+    "turkish_translation": "Onun giyimi her zaman modaya uygun; en son moda trendlerini takip ediyor."},
+
+  {"word": "a little bit", "meaning": "azıcık, bir parça",
+    "sentence": "Could you pass me a little bit of salt, please?",
+    "turkish_translation": "Biraz tuz geçirebilir misin, lütfen?"},
+
+  {"word": "a little", "meaning": "biraz",
+    "sentence": "I only have a little money left in my wallet.",
+    "turkish_translation": "Cüzdanımda sadece biraz para kaldı."},
+
+  {"word": "a load of", "meaning": "bir sürü",
+    "sentence": "He gave me a load of excuses for being late.",
+    "turkish_translation": "Bana geç kalmak için bir sürü bahane verdi."},
+
+  {"word": "a lot of", "meaning": "birçok, niçe-niçe, bir dünya",
+    "sentence": "She has a lot of books on various topics.",
+    "turkish_translation": "Çeşitli konularda birçok kitabı var."},
+
+  {"word": "a lot", "meaning": "çok, bir yığın",
+    "sentence": "I learned a lot from that experience.",
+    "turkish_translation": "O deneyimden çok şey öğrendim."},
+
+  {"word": "a matter of course", "meaning": "kaçınılmaz son, beklenen son",
+    "sentence": "His promotion was a matter of course given his dedication to the company.",
+    "turkish_translation": "Onun terfi etmesi, şirkete olan bağlılığı göz önüne alındığında kaçınılmaz bir sondu."},
+
+  {"word": "a matter of life and death", "meaning": "hayat memat meselesi",
+    "sentence": "Choosing the right treatment was a matter of life and death.",
+    "turkish_translation": "Doğru tedaviyi seçmek hayat memat meselesiydi."},
+
+  {"word": "a matter of", "meaning": "meselesi",
+    "sentence": "Getting the project done on time is a matter of proper planning.",
+    "turkish_translation": "Projenin zamanında bitirilmesi uygun planlamanın bir meselesidir."},
+
+  {"word": "a month hence", "meaning": "bundan bir ay sonra",
+    "sentence": "The conference is scheduled to take place a month hence.",
+    "turkish_translation": "Konferansın bir ay sonra gerçekleşmesi planlanıyor."},
+
+  {"word": "a narrow escape", "meaning": "güç bela kurtulma",
+    "sentence": "Their narrow escape from the burning building was a miraculous turn of events.",
+    "turkish_translation": "Yanmakta olan binadan güç bela kurtulmaları mucizevi bir olaydı."},
+
+  {"word": "a narrow shave", "meaning": "kıl payı kaçış",
+      "sentence": "He had a narrow shave when the car narrowly missed hitting him.",
+      "turkish_translation": "Araba ona kıl payı çarpmaktan kaçındığında kıl payı kaçış yaşadı."},
+
+  {"word": "a number of", "meaning": "birkaç",
+      "sentence": "There are a number of reasons why people choose to travel.",
+      "turkish_translation": "İnsanların seyahat etmeyi tercih etme nedenlerinden birkaç tane var."},
+
+  {"word": "a one-track mind", "meaning": "sabit fikirlilik",
+      "sentence": "He has a one-track mind when it comes to sports; he can't stop talking about it.",
+      "turkish_translation": "Spor konusunda sabit fikirlilik sahibi; durmadan konuşmaktan vazgeçemiyor."},
+
+    {"word": "a paragon of virtue", "meaning": "fazilet örneği",
+      "sentence": "She is a paragon of virtue, always doing what's right.",
+      "turkish_translation": "O, her zaman doğru olanı yapan bir fazilet örneğidir."},
+
+    {"word": "a piece of cake", "meaning": "çocuk oyuncağı, basit iş",
+      "sentence": "For her, solving that puzzle was a piece of cake.",
+      "turkish_translation": "Onun için, o bulmacayı çözmek çocuk oyuncağıydı."},
+
+    {"word": "a posteriori", "meaning": "sonsal",
+      "sentence": "She arrived at that conclusion through a posteriori reasoning.",
+      "turkish_translation": "O sonucu sonsal akıl yürütme yoluyla elde etti."},
+
+    {"word": "a pretty penny", "meaning": "dünyanın parası, çok para",
+      "sentence": "That luxury car must have cost a pretty penny.",
+      "turkish_translation": "O lüks araba dünyanın parasına mal olmalı."},
+
+    {"word": "a priori", "meaning": "apriori, tecrübeden evvel, önce, evvelce",
+      "sentence": "His decision was based on a priori knowledge.",
+      "turkish_translation": "Kararı apriori bilgiye dayalıydı."},
+
+    {"word": "a raft of", "meaning": "yığınla, bir sürü",
+      "sentence": "She has a raft of ideas for the project.",
+      "turkish_translation": "Proje için yığınla fikri var."},
+
+    {"word": "a ready pen", "meaning": "iyi yazı yazma yeteneği",
+      "sentence": "Her ready pen impressed her teachers and peers.",
+      "turkish_translation": "Onun iyi yazı yazma yeteneği öğretmenlerini ve arkadaşlarını etkiledi."},
+
+    {"word": "a riot of colour", "meaning": "renk cümbüşü",
+      "sentence": "The garden was a riot of color with all the blooming flowers.",
+      "turkish_translation": "Bahçe, açan tüm çiçeklerle renk cümbüşüydü."},
+
+    {"word": "a rolling stone gathers no moss", "meaning": "Yuvarlanan taş yosun tutmaz",
+      "sentence": "He never stays in one place for long, following the motto that a rolling stone gathers no moss.",
+      "turkish_translation": "O, uzun süre aynı yerde durmaz; yuvarlanan taşın yosun tutmadığı ilkesini takip eder."},
+
+    {"word": "a stone's throw away", "meaning": "bir taş atımlık mesafede",
+      "sentence": "The café is just a stone's throw away from here.",
+      "turkish_translation": "Kafe buradan sadece bir taş atımlık mesafede."},
+
+    {"word": "a trifle", "meaning": "oldukça, epey, bir dereceye kadar",
+      "sentence": "He's a trifle tired after the long hike.",
+      "turkish_translation": "Uzun yürüyüşten sonra bir dereceye kadar yorgun."},
+
+    {"word": "a trip around the world", "meaning": "dünya turu",
+      "sentence": "They embarked on a trip around the world to experience different cultures.",
+      "turkish_translation": "Farklı kültürleri deneyimlemek için dünya turuna çıktılar."},
+
+    {"word": "a white lie", "meaning": "zararsız yalan",
+      "sentence": "He told a white lie to spare her feelings.",
+      "turkish_translation": "Onun duygularını korumak için zararsız bir yalan söyledi."},
+
+    {"word": "a word in your ear", "meaning": "gizli söz",
+      "sentence": "Can I have a word in your ear? I need to discuss something privately.",
+      "turkish_translation": "Kulağınıza bir kelime söyleyebilir miyim? Özel bir şeyi tartışmam gerekiyor."},
+
+    {"word": "a", "meaning": "bir, herhangi bir",
+      "sentence": "He took a book from the shelf.",
+      "turkish_translation": "Rafdan bir kitap aldı."},
+
+    {"word": "a-", "meaning": "-siz, -den",
+      "sentence": "The prefix 'a-' can change the meaning of a word.",
+      "turkish_translation": "'A-' ön eki bir kelimenin anlamını değiştirebilir."},
+
+    {"word": "A-bomb", "meaning": "atom bombası",
+      "sentence": "The A-bomb had a devastating impact on the city.",
+      "turkish_translation": "Atom bombası şehirde yıkıcı etkiler yarattı."},
+
+    {"word": "A.D.", "meaning": "MS, milattan sonra",
+      "sentence": "The year 476 A.D. marks the fall of the Western Roman Empire.",
+      "turkish_translation": "M.S. 476 yılı, Batı Roma İmparatorluğu'nun çöküşünü işaret eder."},
+
+    {"word": "aa", "meaning": "pürüzlü lav",
+      "sentence": "The volcanic rock is known as 'aa' due to its rough texture.",
+      "turkish_translation": "Volkanik kaya, pürüzlü dokusu nedeniyle 'aa' olarak bilinir."},
+
+    {"word": "aam", "meaning": "Bir Hollanda ve Alman sıvı ölçü birimi.",
+      "sentence": "He measured the liquid using an aam.",
+      "turkish_translation": "Sıvıyı bir aam kullanarak ölçtü."},
+
+    {"word": "aardvark", "meaning": "karınca yiyen, yerdomuzu, borudişli",
+      "sentence": "The aardvark is a nocturnal mammal native to Africa.",
+      "turkish_translation": "Karınca yiyen, Afrika'ya özgü gececi bir memeli türüdür."},
+
+    {"word": "aardwolf", "meaning": "yeleli sırtlan",
+      "sentence": "The aardwolf primarily feeds on termites.",
+      "turkish_translation": "Yeleli sırtlan başlıca termitlerle beslenir."},
+
+    {"word": "aarie", "meaning": "kuş yuvası",
+      "sentence": "The tiny nest in the tree was an aerie for a bird family.",
+      "turkish_translation": "Ağaçtaki minik yuva, bir kuş ailesi için bir kuş yuvasıydı."},
+
+    {"word": "Aaronical", "meaning": "Yahudiliğe göre ilk yüksek haham olan Aaron'a değişli",
+      "sentence": "The Aaronical priesthood is an important concept in Judaism.",
+      "turkish_translation": "Aaronical papazlığı, Yahudilikte önemli bir kavramdır."},
+  {"word": "aba", "meaning": "aba",
+    "sentence": "He wore a traditional aba to stay warm in the cold weather.",
+    "turkish_translation": "Soğuk havada sıcak kalmak için geleneksel bir aba giydi."},
+
+  {"word": "abaca", "meaning": "kenevir muzu",
+    "sentence": "Abaca fibers are used to make strong and durable ropes.",
+    "turkish_translation": "Kenevir muzu lifleri dayanıklı ve uzun ömürlü halatlar yapmak için kullanılır."},
+
+  {"word": "abacinate", "meaning": "kızgın demirle gözlere mil çekmek",
+    "sentence": "In ancient times, they would abacinate criminals as a form of execution.",
+    "turkish_translation": "Eski zamanlarda, suçluları idam etmek için kızgın demirle gözlere mil çekerlerdi."},
+
+  {"word": "abacination", "meaning": "kızgın demirle gözlere mil çekme",
+    "sentence": "Abacination was a brutal method of execution in certain cultures.",
+    "turkish_translation": "Abacination, bazı kültürlerde acımasız bir idam yöntemiydi."},
+
+  {"word": "abaciscus", "meaning": "mozaik kaplı bir kaldırımdaki karolardan veya karelerden biri, kare seramik parça, mozaik taşı",
+    "sentence": "The intricate patterns on the street were created using abaciscus tiles.",
+    "turkish_translation": "Sokaktaki karmaşık desenler, abaciscus karoları kullanılarak oluşturuldu."},
+
+  {"word": "abacist", "meaning": "abaküsçü",
+    "sentence": "The abacist was skilled in performing complex calculations using an abacus.",
+    "turkish_translation": "Abaküsçü, abaküs kullanarak karmaşık hesaplamaları yapma konusunda yetenekliydi."},
+
+  {"word": "aback", "meaning": "(denizcilik) faça, kenar",
+    "sentence": "The ship was caught aback by a sudden change in wind direction.",
+    "turkish_translation": "Gemiyi rüzgar yönündeki aniden değişen bir değişim arkaya aldı."},
+
+  {"word": "abacterial", "meaning": "bakterisiz",
+    "sentence": "The abacterial environment of the lab ensured sterile conditions.",
+    "turkish_translation": "Labordaki bakterisiz ortam, steril koşulların sağlanmasını sağladı."},
+
+  {"word": "abactinal", "meaning": "ışınsal simetrisi olan hayvanlarda ağzın yüzeyine veya ucuna değişli",
+    "sentence": "The abactinal surface of the sea star contains tiny tube feet.",
+    "turkish_translation": "Deniz yıldızının ışınsal simetrisine sahip olan abaktinal yüzeyi küçük tüp ayaklar içerir."},
+  {"word": "abactor", "meaning": "davar hırsızı",
+    "sentence": "The abactor was caught stealing sheep from the neighboring farm.",
+    "turkish_translation": "Davar hırsızı, komşu çiftlikten koyun çalarken yakalandı."},
+
+  {"word": "abacus", "meaning": "abaküs, sayıboncuğu, saygaç, çötke, (mimarlık) sütun başlığından geçen düz tabla",
+    "sentence": "Children use an abacus to learn basic arithmetic calculations.",
+    "turkish_translation": "Çocuklar temel aritmetik hesaplamaları öğrenmek için bir abaküs kullanır."},
+
+  {"word": "abaculous", "meaning": "abaküs benzeri, abaküse ait",
+    "sentence": "The abaculous tool was used by ancient civilizations for calculations.",
+    "turkish_translation": "Antik medeniyetler tarafından hesaplamalar için kullanılan abaküs benzeri bir araçtı."},
+
+  {"word": "abada", "meaning": "kalın kumaştan yapılan bir tür giysi, mevlevilerin giysisi",
+    "sentence": "The Sufi dervishes wore abadas during their ceremonial dances.",
+    "turkish_translation": "Sufi dervişleri, törensel danslarında abadalar giyerdi."},
+
+  {"word": "abaddon", "meaning": "cehennem, ölüler diyarı",
+    "sentence": "In religious texts, Abaddon is often associated with the realm of the dead.",
+    "turkish_translation": "Dini metinlerde, Abaddon genellikle ölüler diyarıyla ilişkilendirilir."},
+
+  {"word": "abaisance", "meaning": "boyun eğme, hürmet",
+    "sentence": "The people showed their abaisance to the king during the royal procession.",
+    "turkish_translation": "Halk, kraliyet geçidinde krala hürmetlerini gösterdi."},
+
+  {"word": "abaissé", "meaning": "aşağıda, aşağıda olan",
+    "sentence": "The abaissé layer of the painting depicted a dark and mysterious scene.",
+    "turkish_translation": "Tablonun abaissé katmanı, karanlık ve gizemli bir sahneyi tasvir etti."},
+
+  {"word": "abalienate", "meaning": "mal veya mülkiyet hakkını devretmek, elden çıkarmak",
+    "sentence": "He decided to abalienate his property and move to a different country.",
+    "turkish_translation": "Malını devretmeye karar verdi ve farklı bir ülkeye taşınmaya karar verdi."},
+
+  {"word": "abalienation", "meaning": "mal veya mülkiyet hakkını devretme, elden çıkarma",
+    "sentence": "The abalienation of land often involves legal procedures and documentation.",
+    "turkish_translation": "Arazi'nin devredilmesi genellikle yasal prosedürleri ve belgeleri içerir."},
+
+  {"word": "abalone", "meaning": "kabuklu bir deniz hayvanı",
+    "sentence": "Abalones are often enjoyed as seafood due to their tender meat.",
+    "turkish_translation": "Abalonlar, hassas etleri nedeniyle genellikle deniz ürünü olarak tüketilir."},
+  {"word": "abandon", "meaning": "terk etmek, bırakmak, vazgeçmek, el çekmek, atıp gitmek, kaçmak, başlı-başına koymak, koyup gitmek, özünü tamamıyla vermek, özünü kaptırmak, durdurmak, dayandırmak, tehire salmak",
+    "sentence": "The sailor had to abandon the sinking ship and swim to safety.",
+    "turkish_translation": "Denizci, battıkça batan gemiyi terk etmek zorunda kaldı ve güvenliğe yüzmek zorunda kaldı."},
+
+  {"word": "abandoned", "meaning": "terk edilmiş, arsız, çapkın, ahlâksız, bozgun",
+    "sentence": "The abandoned building was a haunting reminder of the past.",
+    "turkish_translation": "Terk edilmiş bina, geçmişin ürkütücü bir hatırlatmasıydı."},
+
+  {"word": "abandonment", "meaning": "terk, metrukiyet, terk edilmiş olma, tam feragat ile özünü teslim etme",
+    "sentence": "The abandonment of the project was a difficult decision, but it was necessary.",
+    "turkish_translation": "Projenin terk edilmesi zor bir karardı, ancak gerekliydi."},
+
+  {"word": "abase", "meaning": "küçük düşürmek, aşağılamak, gururunu kırmak, hürmetten salmak, gözden düşürmek, alçaltmak",
+    "sentence": "He wouldn't let anyone abase him and always stood up for his rights.",
+    "turkish_translation": "Kimse onu küçük düşüremezdi ve her zaman hakları için dik dururdu."},
+
+  {"word": "abasement", "meaning": "hürmetten salma, alçaltma, alçalma",
+    "sentence": "The constant abasement eventually took a toll on her self-esteem.",
+    "turkish_translation": "Sürekli alçaltma sonunda onun özsaygısına zarar verdi."},
+
+  {"word": "abash", "meaning": "utandırmak, bozmak, kırmak, mahcup etmek, karıktırmak, pert etmek",
+    "sentence": "His sudden praise for her talent didn't abash her; she was used to it.",
+    "turkish_translation": "Onun yeteneğine yönelik aniden övgüsü onu utandırmadı; buna alışıktı."},
+
+  {"word": "abashed", "meaning": "utanmış, hacalet çekmiş, pert olmuş, şaşırmış",
+    "sentence": "She felt abashed when she realized she had been speaking to the wrong person.",
+    "turkish_translation": "Yanlış kişiye konuştuğunu fark ettiğinde utanmış hissetti."},
+
+  {"word": "abashment", "meaning": "utanma, mahcubiyet, karıktırma",
+    "sentence": "The unexpected attention from the crowd led to a feeling of abashment.",
+    "turkish_translation": "Kalabalıktan gelen beklenmedik ilgi, utangaçlık hissine yol açtı."},
+
+  {"word": "abatable", "meaning": "azaltılabilir, yok edilebilir, durdurulabilir",
+    "sentence": "The noise pollution from the construction site was deemed abatable.",
+    "turkish_translation": "İnşaat alanından gelen gürültü kirliliği azaltılabilir olarak kabul edildi."},
+
+  {"word": "abate", "meaning": "(rüzgâr/fırtına/ağrı/rahatsızlık) azalmak, hafiflemek, zayıflamak, azaltmak, kırmak, tenzil etmek, indirmek, aşağı varmak, aşağı salmak, zayıflatmak, kütleştirmek, ortadan kaldırmak",
+    "sentence": "The storm began to abate as the winds gradually calmed down.",
+    "turkish_translation": "Fırtına, rüzgarlar yavaşça sakinleştikçe azalmaya başladı."},
+  {"word": "abater", "meaning": "hafifletici, azaltıcı",
+    "sentence": "The medicine acted as an abater for his pain, providing some relief.",
+    "turkish_translation": "İlaç, onun acısı için hafifletici olarak etki etti ve biraz rahatlama sağladı."},
+
+  {"word": "abating", "meaning": "azalan, hafifleyen, dinen",
+    "sentence": "With each passing day, the storm was abating and the skies were clearing.",
+    "turkish_translation": "Her geçen gün fırtına azalıyor ve gökyüzü açılıyordu."},
+
+  {"word": "abatis", "meaning": "dikenli engel, hendek arkasına konulan engeller",
+    "sentence": "The soldiers set up an abatis to slow down the enemy's advance.",
+    "turkish_translation": "Askerler, düşmanın ilerlemesini yavaşlatmak için dikenli engel kurdu."},
+
+  {"word": "abator", "meaning": "hayvan kesme yeri, mezbaha",
+    "sentence": "The abator was responsible for processing and preparing meat for consumption.",
+    "turkish_translation": "Mezbaha, etin işlenmesi ve tüketim için hazırlanması konusunda sorumluydu."},
+
+  {"word": "abattis", "meaning": "dikenli çit, hendek arkasına kurulan engel",
+    "sentence": "The abattis proved to be an effective defense against enemy troops.",
+    "turkish_translation": "Dikenli çit, düşman birliklerine karşı etkili bir savunma yöntemi olduğunu kanıtladı."},
+
+  {"word": "abaxial", "meaning": "eksen dışı",
+    "sentence": "The abaxial surface of the leaf is often rougher than the upper surface.",
+    "turkish_translation": "Yaprakların eksojen yüzeyi, genellikle üst yüzeyden daha pürüzlüdür."},
+
+  {"word": "abaze", "meaning": "şaşkın, sersemlemiş",
+    "sentence": "The unexpected news left him abaze for a few moments.",
+    "turkish_translation": "Beklenmedik haber onu birkaç anlığına sersemlemiş bıraktı."},
+
+  {"word": "abb", "meaning": "rahip, papaz, din adamı",
+    "sentence": "The abb delivered a sermon to the congregation on Sunday morning.",
+    "turkish_translation": "Rahip, pazar sabahı cemaate bir vaaz verdi."},
+
+  {"word": "abbacy", "meaning": "rahiplik makamı, manastır başrahipliği",
+    "sentence": "He dedicated his life to serving the church and eventually attained the abbacy.",
+    "turkish_translation": "Hayatını kiliseye hizmet etmeye adadı ve sonunda rahiplik makamına ulaştı."},
+
+  {"word": "abbot", "meaning": "rahip, papaz, manastır başrahibi",
+    "sentence": "The abbot of the monastery was known for his wisdom and compassion.",
+    "turkish_translation": "Manastırın rahibi, bilgeliği ve merhameti ile tanınıyordu."},
+  {"word": "abbreviate", "meaning": "kısaltmak, ihtisar etmek, ihtisarlamak, gödeltmek",
+    "sentence": "To save space, the author had to abbreviate some sections of the book.",
+    "turkish_translation": "Yerden tasarruf etmek için yazar, kitabın bazı bölümlerini kısaltmak zorunda kaldı."},
+
+  {"word": "abbreviated", "meaning": "kısa, muhtasar",
+    "sentence": "The lecturer provided an abbreviated version of the complex topic.",
+    "turkish_translation": "Konuşmacı, karmaşık konunun kısaltılmış bir versiyonunu sundu."},
+
+  {"word": "abbreviation", "meaning": "kısaltma, ihtisar, muhtasar",
+    "sentence": "The abbreviation 'etc.' is commonly used to indicate 'et cetera.'",
+    "turkish_translation": "Kısaltma 'etc.', 'et cetera'yı göstermek için yaygın olarak kullanılır."},
+
+  {"word": "abdicate", "meaning": "tahttan çekilmek, terki saltanat etmek, saltanattan çekilmek, hakkından vazgeçmek, el çekmek, boynundan atmak, bırakmak, feragat etmek, imtina etmek",
+    "sentence": "The king chose to abdicate the throne in favor of his successor.",
+    "turkish_translation": "Kral, tahttan çekilmeyi ve yerine geçen varisi lehine feragat etmeyi tercih etti."},
+
+  {"word": "abdication", "meaning": "tahttan vazgeçme, çekilme, hakkından vazgeçme, el çekme, imtina etme, üzerinden atma, üzerinden götürme (mesuliyeti, vazifeyi, vs.)",
+    "sentence": "The abdication of the queen surprised the entire nation.",
+    "turkish_translation": "Kraliçenin tahttan çekilmesi bütün milleti şaşırttı."},
+
+  {"word": "abdomen", "meaning": "karın, karın boşluğu, karıncık",
+    "sentence": "The pain in his abdomen made him visit the doctor.",
+    "turkish_translation": "Karın bölgesindeki ağrı, onun doktora gitmesine neden oldu."},
+
+  {"word": "abdominal cavity", "meaning": "karın boşluğu",
+    "sentence": "The surgeon carefully examined the abdominal cavity during the operation.",
+    "turkish_translation": "Cerrah, operasyon sırasında karın boşluğunu dikkatlice inceledi."},
+
+  {"word": "abdominal murmur", "meaning": "karın gurultusu",
+    "sentence": "The doctor listened for any abnormal abdominal murmur during the examination.",
+    "turkish_translation": "Doktor, muayene sırasında herhangi bir anormal karın gurultusunu dinledi."},
+  {"word": "abdominal viscera", "meaning": "bağırsaklar",
+    "sentence": "The surgeon carefully examined the abdominal viscera to identify any abnormalities.",
+    "turkish_translation": "Cerrah, herhangi bir anormalliği tespit etmek için bağırsakları dikkatlice inceledi."},
+
+  {"word": "abdominal wall", "meaning": "karın duvarı",
+    "sentence": "The doctor checked for any weakness in the abdominal wall.",
+    "turkish_translation": "Doktor, karın duvarında herhangi bir zayıflığı kontrol etti."},
+
+  {"word": "abdominal", "meaning": "karın ile ilgili, karın",
+    "sentence": "She complained about abdominal pain after eating a heavy meal.",
+    "turkish_translation": "Ağır bir yemek yedikten sonra karın ağrısı şikayeti etti."},
+
+  {"word": "abdominous", "meaning": "yeke karın, yoğun karın, kök",
+    "sentence": "The character in the story was described as having an abdominous physique.",
+    "turkish_translation": "Hikayedeki karakter, yeke bir fiziksel görünüme sahip olarak tanımlandı."},
+
+  {"word": "abduct", "meaning": "(zorla, aldatmakla, hususen kadını, kızı veya uşağı) oğurlamak, kaçırmak",
+    "sentence": "The criminals attempted to abduct the child from the park.",
+    "turkish_translation": "Suçlular, çocuğu parktan oğurlamaya çalıştı."},
+
+  {"word": "abduction", "meaning": "adam kaçırma, zorla kaçırma, oğurlama",
+    "sentence": "The abduction of the heiress shocked the entire city.",
+    "turkish_translation": "Varis olan kızın kaçırılması bütün şehri şok etti."},
+
+  {"word": "abductor", "meaning": "adam kaçıran, oğurlayan, oğru, uzaklaştırıcı",
+    "sentence": "The police were searching for the abductor of the missing child.",
+    "turkish_translation": "Polis, kayıp çocuğun kaçıranını arıyordu."},
+
+  {"word": "abeam", "meaning": "omurgaya dik olarak, (denizcilik) apazlama",
+    "sentence": "The ship sailed abeam of the lighthouse.",
+    "turkish_translation": "Gemi, deniz fenerinin omurgaya dik şekilde seyretti."},
+
+  {"word": "abecedarian", "meaning": "çok basit, çok kolay, okumayı yeni öğrenen kimse",
+    "sentence": "The abecedarian puzzle was designed for young children to solve.",
+    "turkish_translation": "Abecedarian bulmaca, genç çocukların çözmek için tasarlandı."},
+  {"word": "aberration", "meaning": "doğru yoldan ayrılma, düz yoldan uzaklaşma, azma, şaşma, sapkınlık, kısa süreli hafıza kaybı, sapınç, yayılma, uzaklaşma",
+    "sentence": "The sudden temperature drop was an aberration in the otherwise warm climate.",
+    "turkish_translation": "Ani sıcaklık düşüşü, genelde sıcak olan iklimde bir sapma oldu."},
+
+  {"word": "abet", "meaning": "yüz vermek, suça katılmak, yardakçılık etmek, yardım etmek, suç ortaklığı yapmak, tahrik etmek, sevk etmek, fitlemek, kızıştırmak",
+    "sentence": "She refused to abet her friend in cheating on the exam.",
+    "turkish_translation": "Arkadaşının sınavda kopya çekmesine yardakçılık etmeyi reddetti."},
+
+  {"word": "abetment", "meaning": "suça katılma, tahrikçilik, kızıştırma",
+    "sentence": "The prosecution claimed that his actions amounted to abetment of the crime.",
+    "turkish_translation": "Dava tarafı, onun eylemlerinin suça katılmaya eşit olduğunu iddia etti."},
+
+  {"word": "abettor", "meaning": "suç ortağı, cinayet yoldaşı, yardakçı, fitneci, tahrikçi",
+    "sentence": "The abettor of the crime was also sentenced to prison.",
+    "turkish_translation": "Suç ortağı da suça yardakçılıktan hapis cezasına çarptırıldı."},
+
+  {"word": "abeyance", "meaning": "geçerli olmama, kullanılmama, etkinliğini yitirmiş olma, lağvedilme, tehire salınma",
+    "sentence": "The project was put in abeyance until further funding could be secured.",
+    "turkish_translation": "Proje, daha fazla finansman sağlanana kadar tehir edildi."},
+
+  {"word": "abhor", "meaning": "nefret etmek, tiksinmek, hiç sevmemek, menfur tutmak",
+    "sentence": "She abhorred any form of animal cruelty and advocated for animal rights.",
+    "turkish_translation": "O, hayvanlara karşı işlenen her türlü zalimliği nefretle karşılıyordu ve hayvan haklarını savunuyordu."},
+
+  {"word": "abhorrence", "meaning": "nefret, teneffür, iğrenme, ikrah, nefret edilen şey, leclik",
+    "sentence": "The abhorrence of violence was evident in her passionate speeches.",
+    "turkish_translation": "Şiddete olan nefreti, tutkulu konuşmalarında belirgin bir şekilde görülüyordu."},
+
+  {"word": "abhorrent", "meaning": "nefret uyandırıcı, tiksindirici, iğrenç, karşıt, zıt",
+    "sentence": "The abhorrent behavior of the dictator shocked the international community.",
+    "turkish_translation": "Diktatörün tiksindirici davranışları uluslararası toplumu şok etti."},
+
+  {"word": "abib", "meaning": "Nisan ayının eski bir adı",
+    "sentence": "The term 'abib' was used in ancient times to refer to the month of April.",
+    "turkish_translation": "'Abib' terimi, antik zamanlarda Nisan ayını ifade etmek için kullanılırdı."},
+  {"word": "abide by", "meaning": "uymak, bağlı kalmak, katlanmak, razı olmak",
+    "sentence": "It's important to abide by the rules of the organization.",
+    "turkish_translation": "Kuruluşun kurallarına uymak önemlidir."},
+  {"word": "abide", "meaning": "bir yerde kalmak, sabit durmak, oturmak, sakin olmak, kalmak, yaşamak, olmak, katlanmak, çekmek, tahammül etmek, çıdamak, dözmek, tap getirmek, gözlemek",
+    "sentence": "He decided to abide by his promise and stay until the end.",
+    "turkish_translation": "Vaadine sadık kalmaya ve sona kadar kalmaya karar verdi."},
+
+  {"word": "abiding", "meaning": "sonsuz, ebedi, devamlı, muhkem",
+    "sentence": "Their abiding friendship has endured for many years.",
+    "turkish_translation": "Sonsuz dostlukları yıllarca devam etti."},
+
+  {"word": "abietic acid", "meaning": "abiyetik asit, çam asidi",
+    "sentence": "Abietic acid is commonly found in the resin of pine trees.",
+    "turkish_translation": "Abiyetik asit genellikle çam ağaçlarının reçinesinde bulunur."},
+
+  {"word": "abietic", "meaning": "abiyetik",
+    "sentence": "The substance has an abietic structure.",
+    "turkish_translation": "Bu madde abiyetik bir yapıya sahiptir."},
+
+  {"word": "ability", "meaning": "becerik, zeka, yetenek, kabiliyet, istidat, hüner, güç, iktidar, kudret",
+    "sentence": "Her ability to solve complex problems was truly impressive.",
+    "turkish_translation": "Karmaşık problemleri çözme yeteneği gerçekten etkileyiciydi."},
+
+  {"word": "abinitio", "meaning": "başlangıçtan, aslından",
+    "sentence": "The project was designed ab initio to meet specific needs.",
+    "turkish_translation": "Proje, belirli ihtiyaçları karşılamak üzere başlangıçtan tasarlandı."},
+
+  {"word": "abiogenesis", "meaning": "abiyogenez, cansızdan canlı oluşumu",
+    "sentence": "Abiogenesis is a theory about the spontaneous origin of life from non-living matter.",
+    "turkish_translation": "Abiyogenez, cansız maddeden canlı yaşamın aniden ortaya çıkma teorisidir."},
+
+  {"word": "abiosis", "meaning": "abiyoz",
+    "sentence": "Abiosis refers to the state of non-living things.",
+    "turkish_translation": "Abiyoz, cansız şeylerin durumunu ifade eder."},
+
+  {"word": "abiota", "meaning": "cansız çevre",
+    "sentence": "The early Earth's abiota was quite different from the present environment.",
+    "turkish_translation": "Erken Dünya'nın cansız çevresi, bugünkü çevreden oldukça farklıydı."},
+
+  {"word": "abiotic environment", "meaning": "cansız çevre",
+    "sentence": "The abiotic environment plays a crucial role in shaping ecosystems.",
+    "turkish_translation": "Cansız çevre, ekosistemleri şekillendirmede önemli bir rol oynar."},
+
+  {"word": "abiotic", "meaning": "abiyotik, cansız",
+    "sentence": "Abiotic factors like temperature and humidity affect plant growth.",
+    "turkish_translation": "Sıcaklık ve nem gibi cansız faktörler bitki büyümesini etkiler."},
+
+  {"word": "abiotrophic", "meaning": "abiotrofik",
+    "sentence": "Certain genetic mutations can lead to abiotrophic changes in organisms.",
+    "turkish_translation": "Bazı genetik mutasyonlar organizmalarda abiotrofik değişikliklere neden olabilir."},
+
+  {"word": "abiotrophy", "meaning": "abiyotrofi",
+    "sentence": "Abiotrophy refers to the degeneration of tissues or organs due to non-genetic factors.",
+    "turkish_translation": "Abiyotrofi, doku veya organların genetik faktörler dışında nedenlerle dejenerasyonunu ifade eder."},
+  {"word": "abject", "meaning": "umutsuz, sefil, perişan, acınası, bedbaht, yazık, miskin, alçak, rezil, iğrenç, aşağılık",
+    "sentence": "The refugees lived in abject poverty after fleeing their war-torn country.",
+    "turkish_translation": "Mülteciler, savaş yıkımı içindeki ülkelerinden kaçtıktan sonra aşağılayıcı bir yoksulluk içinde yaşadılar."},
+
+  {"word": "abjectly", "meaning": "alçakça",
+    "sentence": "He apologized abjectly for his hurtful words.",
+    "turkish_translation": "Zarar verici sözleri için alçakça özür diledi."},
+
+  {"word": "abjectness", "meaning": "alçaklık, adilik, sefillik",
+    "sentence": "The abjectness of the living conditions in the slums was heartbreaking.",
+    "turkish_translation": "Kenar mahallelerdeki yaşam koşullarının alçaklığı yürek parçalayıcıydı."},
+
+  {"word": "abjuration", "meaning": "yeminle vazgeçme, feragat etme, imtina etme, boyun kaçırma, yüz döndürme, dönme",
+    "sentence": "His abjuration of his former beliefs shocked his friends.",
+    "turkish_translation": "Eski inançlarından feragat etmesi arkadaşlarını şaşırttı."},
+
+  {"word": "abjure", "meaning": "vazgeçtiğine dair yemin etmek, yemin edip bırakmak, terk etmek, yüz döndürmek, el çekmek",
+    "sentence": "He abjured his allegiance to the old regime and embraced the new government.",
+    "turkish_translation": "Eski rejime olan bağlılığını terk etti ve yeni hükümeti benimsedi."},
+
+  {"word": "Abkhas", "meaning": "Abhaz, Abhazca",
+    "sentence": "Abkhas is a language spoken in the Abkhazia region.",
+    "turkish_translation": "Abhaz Abhazya bölgesinde konuşulan bir dildir."},
+
+  {"word": "Abkhazia", "meaning": "Abhazya",
+    "sentence": "Abkhazia is a disputed region in the South Caucasus.",
+    "turkish_translation": "Abhazya, Güney Kafkasya'da tartışmalı bir bölgedir."},
+
+  {"word": "Abkhazian", "meaning": "Abhaz, Abhazca",
+    "sentence": "The Abkhazian people have a rich cultural heritage.",
+    "turkish_translation": "Abhaz halkının zengin bir kültürel mirası vardır."},
+  {"word": "ablactate", "meaning": "sütten kesmek",
+    "sentence": "It's important to gradually ablactate a baby from breastfeeding.",
+    "turkish_translation": "Bir bebeği emzirmeyi yavaşça kesmek önemlidir."},
+
+  {"word": "ablactation", "meaning": "sütten kesme",
+    "sentence": "Ablactation should be done with care to ensure the baby's health.",
+    "turkish_translation": "Sütten kesme işlemi bebek sağlığını korumak için dikkatle yapılmalıdır."},
+
+  {"word": "ablation", "meaning": "(ur/kılgan/vb.) bedenden alma, kesip çıkarma, (taşlar) zamanla aşınma, (buzul) yüzden erime",
+    "sentence": "Ablation is the removal of tissue or a mass from the body.",
+    "turkish_translation": "Ablasyon, dokunun veya bir kitleyi vücuttan çıkarma işlemidir."},
+
+  {"word": "ablative", "meaning": "ablasyonla ilgili, ayrılma durumu, vazgeçme hali",
+    "sentence": "The ablative case in Latin often indicates movement away from something.",
+    "turkish_translation": "Latincede ablasyon durumu genellikle bir şeyden uzaklaşma hareketini gösterir."},
+
+  {"word": "ablaut", "meaning": "ses değişmesi, ses oynaması",
+    "sentence": "Ablaut is a phenomenon where the vowel in a root word changes to create different forms.",
+    "turkish_translation": "Ablaut, kök kelimenin ünlüsünün farklı biçimler oluşturmak için değiştiği bir olgudur."},
+
+  {"word": "ablaze", "meaning": "alev içinde, yanmakta, parlamakta",
+    "sentence": "The entire building was ablaze by the time the firefighters arrived.",
+    "turkish_translation": "İtfaiyeciler geldiğinde bina tamamen alevler içindeydi."},
+
+  {"word": "able", "meaning": "yetenekli, kabiliyetli, becerikli",
+    "sentence": "She is an able student who excels in both math and science.",
+    "turkish_translation": "O, hem matematikte hem de bilimde başarılı olan yetenekli bir öğrencidir."},
+
+  {"word": "able-bodied", "meaning": "çalışmaya elverişli, sağlam, sağlıklı",
+    "sentence": "An able-bodied workforce is essential for a thriving economy.",
+    "turkish_translation": "Sağlıklı bir işgücü, gelişen bir ekonomi için önemlidir."},
+
+  {"word": "ablution", "meaning": "yıkama, temizleme, abdest",
+    "sentence": "Ablution is an important ritual in many religious traditions.",
+    "turkish_translation": "Ablution birçok dini geleneğin önemli bir ritüelidir."},
+  {"word": "abnegate", "meaning": "vazgeçmek, feragat etmek, kendini geri çekmek",
+    "sentence": "He chose to abnegate his personal desires for the greater good of the community.",
+    "turkish_translation": "Toplumun genel yararı için kişisel isteklerinden vazgeçmeyi seçti."},
+
+  {"word": "abnegation", "meaning": "vazgeçme, feragat, kendini geri çekme, özgecilik",
+    "sentence": "Her abnegation of personal luxuries allowed her to contribute more to charitable causes.",
+    "turkish_translation": "Kişisel lükslerden vazgeçişi, hayır işlerine daha fazla katkıda bulunmasına olanak tanıdı."},
+
+  {"word": "abnormal", "meaning": "anormal, olağan dışı, alışılmadık",
+    "sentence": "The test results indicated an abnormality in his blood count.",
+    "turkish_translation": "Test sonuçları, kan sayımında anormal bir durumu işaret etti."},
+
+  {"word": "abnormality", "meaning": "anormallik, olağan dışılık, bozukluk",
+    "sentence": "The genetic abnormality led to certain health challenges for the individual.",
+    "turkish_translation": "Genetik anormallik, birey için belirli sağlık zorluklarına neden oldu."},
+
+  {"word": "abnormally", "meaning": "anormal bir şekilde, olağan dışı olarak",
+    "sentence": "The weather has been abnormally hot for this time of year.",
+    "turkish_translation": "Hava, bu dönem için olağan dışı bir şekilde sıcak olmuş."},
+
+  {"word": "aboard", "meaning": "gemi, uçak vb. taşıt araçlarında, gemi, uçak vb. taşıt araçlarında, gemi, uçak vb. taşıt araçlarında",
+    "sentence": "We were excited to finally be aboard the cruise ship.",
+    "turkish_translation": "Sonunda gemiye binmek için heyecanlıydık."},
+
+  {"word": "abode", "meaning": "ikametgah, ev, mesken, konut",
+    "sentence": "His abode was a cozy cottage in the countryside.",
+    "turkish_translation": "Onun ikametgahı, kırsal alandaki hoş bir kulübeydi."},
+
+  {"word": "abolish", "meaning": "feshetmek, yürürlükten kaldırmak, sona erdirmek",
+    "sentence": "The government decided to abolish the outdated law.",
+    "turkish_translation": "Hükümet, demode hukuku yürürlükten kaldırmaya karar verdi."},
+  {"word": "abolition", "meaning": "yürürlükten kaldırma, feshetme, köleliğin kaldırılması",
+    "sentence": "The abolition of slavery was a significant milestone in history.",
+    "turkish_translation": "Köleliğin kaldırılması, tarih açısından önemli bir kilometre taşıydı."},
+
+  {"word": "abolitionist", "meaning": "köleliğin kaldırılmasını savunan, köleliği kaldırmayı amaçlayan",
+    "sentence": "The abolitionist movement played a crucial role in advocating for the end of slavery.",
+    "turkish_translation": "Köleliğin sona erdirilmesini savunan hareket, köleliğin sona erdirilmesi için savunma yapmada önemli bir rol oynadı."},
+
+  {"word": "abominable", "meaning": "iğrenç, tiksindirici, berbat",
+    "sentence": "The conditions in the prison were abominable and inhumane.",
+    "turkish_translation": "Hapishanedeki koşullar iğrenç ve insanlık dışıydı."},
+
+  {"word": "abominate", "meaning": "nefret etmek, tiksinmek, iğrenmek",
+    "sentence": "She abominates any form of cruelty towards animals.",
+    "turkish_translation": "O, hayvanlara karşı her türlü zalimliğe karşı nefret eder."},
+
+  {"word": "abomination", "meaning": "iğrenç şey, tiksindirici durum, nefret edilen şey",
+    "sentence": "The massacre was considered an abomination against humanity.",
+    "turkish_translation": "Katliam, insanlığa karşı bir iğrençlik olarak kabul edildi."},
+
+  {"word": "aboriginal", "meaning": "yerli, özgün, ilk halklara ait",
+    "sentence": "The aboriginal people have a rich cultural heritage.",
+    "turkish_translation": "Yerli halkların zengin bir kültürel mirası vardır."},
+
+  {"word": "aborigines", "meaning": "yerli halk, asli halk, yerli",
+    "sentence": "The aborigines have lived on this land for thousands of years.",
+    "turkish_translation": "Yerli halk binlerce yıldır bu topraklarda yaşıyor."},
+
+  {"word": "abort", "meaning": "gebeliği sonlandırmak, durdurmak, iptal etmek",
+    "sentence": "The doctor advised her to abort the pregnancy due to medical complications.",
+    "turkish_translation": "Doktor, tıbbi komplikasyonlar nedeniyle hamileliği sonlandırmasını önerdi."},
+
+  {"word": "abortion", "meaning": "kürtaj, gebeliğin sonlandırılması",
+    "sentence": "The debate over abortion rights continues to be a contentious issue.",
+    "turkish_translation": "Kürtaj hakları üzerine yapılan tartışma devam eden bir çekişmeli konu olmaya devam ediyor."},
+
+  {"word": "abortive", "meaning": "başarısız, sonuçsuz, kesikli, yarıda kalan",
+    "sentence": "The attempt to start a new business proved to be abortive.",
+    "turkish_translation": "Yeni bir işletme kurma girişimi başarısız olduğu ortaya çıktı."},
+
+  {"word": "abound", "meaning": "bolluk içinde olmak, çokça bulunmak, var olmak",
+    "sentence": "In this forest, wildlife abounds and creates a rich ecosystem.",
+    "turkish_translation": "Bu ormanda, vahşi yaşam bol miktarda bulunur ve zengin bir ekosistem oluşturur."},
+
+  {"word": "about", "meaning": "hakkında, yaklaşık, etrafında, yaklaşık olarak, üzere",
+    "sentence": "I read a book about space exploration.",
+    "turkish_translation": "Uzay keşfi hakkında bir kitap okudum."},
+
+  {"word": "above", "meaning": "üstünde, üzerinde, yukarıda, üzerine, üstün, fevkalade",
+    "sentence": "The stars are shining above us.",
+    "turkish_translation": "Yıldızlar üzerimizde parlıyor."},
+  {"word": "abrade", "meaning": "ovmak, aşındırmak, yıpratmak",
+    "sentence": "The constant friction will abrade the surface of the material.",
+    "turkish_translation": "Sürekli sürtünme, malzemenin yüzeyini ovacaktır."},
+
+  {"word": "abrasion", "meaning": "aşındırma, ovma, yüzey hasarı",
+    "sentence": "The abrasion on the car's paint was caused by rubbing against a rough surface.",
+    "turkish_translation": "Arabanın boyasındaki aşındırma, kaba bir yüzeye sürtünme nedeniyle oluştu."},
+
+  {"word": "abrasive", "meaning": "aşındırıcı, yıpratıcı, zımparalayıcı, sert",
+    "sentence": "Abrasive materials are used for sanding and polishing surfaces.",
+    "turkish_translation": "Aşındırıcı malzemeler yüzeyleri zımparalamak ve cilalamak için kullanılır."},
+
+  {"word": "abreast", "meaning": "yan yana, beraber, aynı hizada",
+    "sentence": "They walked abreast along the path.",
+    "turkish_translation": "Yolda yan yana yürüdüler."},
+
+  {"word": "abridge", "meaning": "kısaltmak, özetlemek, sınırlamak",
+    "sentence": "The editor had to abridge the lengthy manuscript to fit within the magazine's page limit.",
+    "turkish_translation": "Editör, uzun metni derginin sayfa sınırına uydurmak için kısaltmak zorunda kaldı."},
+
+  {"word": "abridgment", "meaning": "özetleme, kısaltma, özet, sınırlama",
+    "sentence": "The abridgment of the novel left out some of the less significant details.",
+    "turkish_translation": "Romanın özetlemesi, daha az önemli bazı detayları dışarıda bıraktı."},
+
+  {"word": "abroad", "meaning": "yurt dışında, yabancı ülkede",
+    "sentence": "She studied abroad for a semester.",
+    "turkish_translation": "Bir dönem yurt dışında eğitim aldı."},
+
+  {"word": "abrogate", "meaning": "feshetmek, yürürlükten kaldırmak, iptal etmek",
+    "sentence": "The government decided to abrogate the outdated law.",
+    "turkish_translation": "Hükümet, demode olan yasayı feshetmeye karar verdi."},
+
+  {"word": "abrupt", "meaning": "ani, keskin, beklenmedik, sert, birdenbire",
+    "sentence": "His abrupt departure surprised everyone.",
+    "turkish_translation": "Ani ayrılışı herkesi şaşırttı."},
+
+  {"word": "abruptly", "meaning": "aniden, beklenmedik şekilde",
+    "sentence": "The music stopped abruptly.",
+    "turkish_translation": "Müzik aniden durdu."},
+
+  {"word": "abscess", "meaning": "apse, cerahat",
+    "sentence": "The infection resulted in the formation of an abscess.",
+    "turkish_translation": "Enfeksiyon, bir apse oluşumuna neden oldu."},
+
+  {"word": "abscond", "meaning": "kaçmak, firar etmek",
+    "sentence": "The prisoner absconded from the detention center.",
+    "turkish_translation": "Hükümlü, gözaltı merkezinden kaçtı."},
+
+  {"word": "absence", "meaning": "yokluk, bulunmama, eksiklik",
+    "sentence": "Her absence from the meeting was noted by the team.",
+    "turkish_translation": "Toplantıdaki yokluğu, takım tarafından fark edildi."},
+
+  {"word": "absent", "meaning": "yok, mevcut değil, bulunmayan",
+    "sentence": "She was absent from work due to illness.",
+    "turkish_translation": "O, hastalık nedeniyle işten ayrıydı."},
+
+  {"word": "absentee", "meaning": "kayıp, bulunmayan, devamsız, gıyaben",
+    "sentence": "An absentee ballot can be mailed in for voting.",
+    "turkish_translation": "Gıyaben oy kullanmak için bir gıyaben oy pusulası posta yoluyla gönderilebilir."},
+
+  {"word": "absenteeism", "meaning": "devamsızlık, gıyaben",
+    "sentence": "The company addressed the issue of absenteeism among its employees.",
+    "turkish_translation": "Şirket, çalışanları arasındaki devamsızlık sorununu ele aldı."},
+
+  {"word": "absently", "meaning": "dalgın bir şekilde, farkında olmadan",
+    "sentence": "He stared absently out the window.",
+    "turkish_translation": "O, camdan dalgın bir şekilde baktı."},
+
+  {"word": "absinth", "meaning": "absinthe, kara melekotu",
+    "sentence": "Absinth is a strong alcoholic drink with a distinctive green color.",
+    "turkish_translation": "Absinth, karakteristik yeşil rengi olan güçlü bir alkollü içkidir."},
+
+  {"word": "absinthe", "meaning": "absinth, kara melekotu",
+    "sentence": "Absinthe has a high alcohol content and is often consumed by diluting it with water.",
+    "turkish_translation": "Absinthe yüksek alkol içeriğine sahiptir ve genellikle suyla seyreltilerek tüketilir."},
+
+  {"word": "absolute", "meaning": "mutlak, kesin, tam, nihai, sınırsız",
+    "sentence": "The truth is not always absolute; it can be subjective.",
+    "turkish_translation": "Gerçek her zaman mutlak değildir; subjektif olabilir."},
+
+  {"word": "absolutely", "meaning": "kesinlikle, tamamen, mutlaka",
+    "sentence": "I absolutely love this movie.",
+    "turkish_translation": "Bu filmi kesinlikle çok seviyorum."},
+
+  {"word": "absolve", "meaning": "bağışlamak, affetmek, suçlamaktan kurtarmak",
+    "sentence": "The court absolved him of all charges.",
+    "turkish_translation": "Mahkeme, onu tüm suçlamalardan akladı."},
+
+  {"word": "absorb", "meaning": "emmek, içine çekmek, soğurmak, gözlemlemek",
+    "sentence": "Sponges absorb water easily.",
+    "turkish_translation": "Süngerler suyu kolayca emer."},
+
+  {"word": "absorbent", "meaning": "emici, emme yeteneğine sahip, sıcak karşı emilime sahip",
+    "sentence": "Paper towels are absorbent and useful for cleaning up spills.",
+    "turkish_translation": "Kağıt havlular emici ve dökülmeleri temizlemek için kullanışlıdır."},
+
+  {"word": "absorption", "meaning": "emilim, emme, içine çekme",
+    "sentence": "The absorption of nutrients takes place in the small intestine.",
+    "turkish_translation": "Besin maddelerinin emilimi ince bağırsakta gerçekleşir."},
+
+  {"word": "abstain", "meaning": "kaçınmak, sakınmak, çekinmek",
+    "sentence": "She chose to abstain from voting on that issue.",
+    "turkish_translation": "O, o konuda oy vermeyi reddetmeyi seçti."},
+
+  {"word": "abstemious", "meaning": "az yiyen, az içen, tutumlu",
+    "sentence": "He is known for his abstemious eating habits.",
+    "turkish_translation": "O, tutumlu yeme alışkanlıklarıyla tanınır."},
+
+  {"word": "abstention", "meaning": "çekimserlik, oy kullanmama",
+    "sentence": "His abstention from voting surprised his colleagues.",
+    "turkish_translation": "Oy kullanmama kararı, meslektaşlarını şaşırttı."},
+
+  {"word": "abstinence", "meaning": "kaçınma, irtikap, içki ve yiyecekten kaçınma",
+    "sentence": "His abstinence from alcohol is due to health reasons.",
+    "turkish_translation": "Alkolü reddetmesi, sağlık nedenlerine bağlıdır."},
+
+  {"word": "abstract", "meaning": "soyut, soyutlamak, özetlemek, öz",
+    "sentence": "The concept of time is abstract and can be difficult to define.",
+    "turkish_translation": "Zaman kavramı soyut bir kavramdır ve tanımlaması zor olabilir."},
+
+  {"word": "abstraction", "meaning": "soyutlama, soyut kavram, özetleme",
+    "sentence": "The painting is an abstraction of the artist's emotions.",
+    "turkish_translation": "Tablo, sanatçının duygularının soyut bir ifadesidir."},
+
+  {"word": "absurd", "meaning": "saçma, anlamsız, mantıksız",
+    "sentence": "The whole situation seemed absurd to me.",
+    "turkish_translation": "Bütün durum bana saçma göründü."},
+
+  {"word": "absurdity", "meaning": "saçmalık, mantıksızlık, anlamsızlık",
+    "sentence": "The absurdity of the argument was evident.",
+    "turkish_translation": "Tartışmanın saçmalığı açıktı."},
+
+  {"word": "abundance", "meaning": "bolluk, bereket, çokluk, zenginlik",
+    "sentence": "The garden was filled with an abundance of colorful flowers.",
+    "turkish_translation": "Bahçe, renkli çiçeklerin bolluğuyla doluydu."},
+
+  {"word": "abundant", "meaning": "bol, çok, bereketli, zengin",
+    "sentence": "The region is known for its abundant natural resources.",
+    "turkish_translation": "Bölge, bol doğal kaynaklarıyla tanınır."},
+
+  {"word": "abundantly", "meaning": "bolca, bereketli bir şekilde, çokça",
+    "sentence": "Fruits were abundantly available at the market.",
+    "turkish_translation": "Meyveler pazarda bolca bulunuyordu."},
+
+  {"word": "abuse", "meaning": "kötüye kullanma, istismar etme, suistimal etme, kötü davranış",
+    "sentence": "Child abuse is a serious issue that needs to be addressed.",
+    "turkish_translation": "Çocuk istismarı ciddi bir sorundur ve ele alınması gereken bir konudur."},
+
+  {"word": "abusive", "meaning": "kötüye kullanıcı, istismarcı, ağza alınmayacak, kötü davranan",
+    "sentence": "He was fired for making abusive comments towards his coworkers.",
+    "turkish_translation": "İş arkadaşlarına kötü sözler söylediği için işten çıkarıldı."},
+
+  {"word": "abut", "meaning": "dayanmak, bitişmek, sınır oluşturmak",
+    "sentence": "The backyard of the house abuts the edge of the forest.",
+    "turkish_translation": "Evden arkadaki bahçe, ormanın kenarına dayanır."},
+
+  {"word": "abutment", "meaning": "destek, dayanak, istinat, dayanma noktası",
+    "sentence": "The bridge's abutments provide the necessary support.",
+    "turkish_translation": "Köprünün dayanakları gerekli desteği sağlar."},
+
+  {"word": "abysmal", "meaning": "sonsuza kadar uzanan, derin, feci, berbat",
+    "sentence": "The movie received abysmal reviews from critics.",
+    "turkish_translation": "Film, eleştirmenlerden feci eleştiriler aldı."},
+
+  {"word": "abyss", "meaning": "derin uçurum, uçurum, dip, boşluk, enginlik",
+    "sentence": "The abyss seemed to go on forever.",
+    "turkish_translation": "Uçurum sonsuza kadar devam ediyormuş gibi görünüyordu."},
+
+  {"word": "academic", "meaning": "akademik, bilimsel, eğitimsel",
+    "sentence": "He has an academic background in physics.",
+    "turkish_translation": "Fizik alanında akademik bir geçmişi var."},
+
+  {"word": "academically", "meaning": "akademik olarak, eğitimsel olarak",
+    "sentence": "She is doing well academically in school.",
+    "turkish_translation": "Okulda akademik olarak iyi gidiyor."},
+
+  {"word": "academy", "meaning": "akademi, okul, enstitü",
+    "sentence": "He studied acting at a prestigious academy.",
+    "turkish_translation": "O, seçkin bir akademide oyunculuk okudu."},
+  {"word": "accelerate", "meaning": "hızlandırmak, ivmelendirmek, hız kazandırmak",
+    "sentence": "Pressing the gas pedal will accelerate the car.",
+    "turkish_translation": "Gaz pedalına basmak aracı hızlandıracaktır."},
+
+  {"word": "acceleration", "meaning": "hızlanma, ivme, hız artışı",
+    "sentence": "The acceleration of the rocket was impressive.",
+    "turkish_translation": "Roketin hızlanması etkileyiciydi."},
+
+  {"word": "accent", "meaning": "şive, aksan, vurgu",
+    "sentence": "Her accent revealed that she was from the southern region.",
+    "turkish_translation": "Şivesi, onun güney bölgesinden geldiğini ortaya koydu."},
+
+  {"word": "accept", "meaning": "kabul etmek, razı olmak",
+    "sentence": "He was happy to accept the job offer.",
+    "turkish_translation": "İş teklifini kabul etmekten memnun oldu."},
+
+  {"word": "acceptable", "meaning": "kabul edilebilir, makul, hoşgörülebilir",
+    "sentence": "Your proposal is acceptable to us.",
+    "turkish_translation": "Teklifiniz bizim için kabul edilebilir."},
+
+  {"word": "acceptance", "meaning": "kabul, razı olma",
+    "sentence": "Her acceptance of the apology was sincere.",
+    "turkish_translation": "Özrü kabul etmesi samimiydi."},
+
+  {"word": "access", "meaning": "erişim, giriş, ulaşım",
+    "sentence": "The password is required to access the secure file.",
+    "turkish_translation": "Güvenli dosyaya erişim için parola gereklidir."},
+
+  {"word": "accessible", "meaning": "erişilebilir, ulaşılabilir",
+    "sentence": "The park is easily accessible by public transportation.",
+    "turkish_translation": "Park toplu taşıma araçlarıyla kolayca ulaşılabilir."},
+
+  {"word": "accessory", "meaning": "aksesuar, tamamlayıcı, yardımcı",
+    "sentence": "She wore a stylish necklace as an accessory.",
+    "turkish_translation": "Bir aksesuar olarak şık bir kolye takmıştı."},
+
+  {"word": "accident", "meaning": "kaza, rastlantı, tesadüf",
+    "sentence": "The car accident caused a traffic jam.",
+    "turkish_translation": "Araç kazası trafik sıkışıklığına neden oldu."},
+
+  {"word": "accidental", "meaning": "kazara, tesadüfen, rastlantı sonucu",
+    "sentence": "The broken vase was accidental and not intentional.",
+    "turkish_translation": "Kırık vazo kazara oldu ve kasıtlı değildi."},
+
+  {"word": "accidentally", "meaning": "kazara, tesadüfen, istemeden",
+    "sentence": "He accidentally spilled the drink on the table.",
+    "turkish_translation": "Kazara içeceği masanın üzerine döktü."},
+
+  {"word": "acclaim", "meaning": "alkışlamak, övmek, takdir etmek",
+    "sentence": "The audience gave a loud acclaim to the performers.",
+    "turkish_translation": "İzleyiciler, sanatçılara büyük bir alkış verdi."},
+
+  {"word": "accommodate", "meaning": "yerleştirmek, barındırmak, kolaylık sağlamak",
+    "sentence": "The hotel can accommodate up to 200 guests.",
+    "turkish_translation": "Otel, en fazla 200 misafiri ağırlayabilir."},
+
+  {"word": "accommodation", "meaning": "konaklama, kalacak yer",
+    "sentence": "The cabin provides comfortable accommodation.",
+    "turkish_translation": "Kabin, konforlu konaklama imkanı sunuyor."},
+
+  {"word": "accompany", "meaning": "eşlik etmek, refakat etmek",
+    "sentence": "He will accompany me to the concert.",
+    "turkish_translation": "Beni konsere refakat edecek."},
+
+  {"word": "accomplice", "meaning": "ortak, suç ortağı, işbirlikçi",
+    "sentence": "The police arrested his accomplice in the crime.",
+    "turkish_translation": "Polis, suça yardım eden ortağını tutukladı."},
+
+  {"word": "accomplish", "meaning": "başarmak, tamamlamak, sonuçlandırmak",
+    "sentence": "She worked hard to accomplish her goals.",
+    "turkish_translation": "Hedeflerini başarmak için çok çalıştı."},
+
+  {"word": "accomplishment", "meaning": "başarı, tamamlama, yapma",
+    "sentence": "Graduating from college was a significant accomplishment for him.",
+    "turkish_translation": "Üniversiteden mezun olmak onun için önemli bir başarıydı."},
+
+  {"word": "accord", "meaning": "uyum, anlaşma, uygunluk",
+    "sentence": "The two parties reached an accord on the terms of the contract.",
+    "turkish_translation": "İki taraf, sözleşme şartları konusunda anlaşmaya vardı."},
+
+  {"word": "accordance", "meaning": "uyum, uygunluk, anlaşma",
+    "sentence": "In accordance with the rules, the competition was fair.",
+    "turkish_translation": "Kurallara uygun olarak yarışma adildi."},
+
+  {"word": "according", "meaning": "göre, nazaran",
+    "sentence": "According to the weather forecast, it will rain tomorrow.",
+    "turkish_translation": "Hava tahminine göre, yarın yağmur yağacak."},
+
+  {"word": "accordingly", "meaning": "buna göre, bu nedenle",
+    "sentence": "He adjusted his plans accordingly.",
+    "turkish_translation": "Planlarını buna göre ayarladı."},
+  {"word": "account", "meaning": "hesap, hesaplamak, düşünmek, değerlendirmek",
+    "sentence": "I need to check my bank account.",
+    "turkish_translation": "Banka hesabımı kontrol etmem lazım."},
+
+  {"word": "accountable", "meaning": "sorumlu, hesap vermek zorunda",
+    "sentence": "Government officials should be accountable to the citizens.",
+    "turkish_translation": "Hükümet yetkilileri vatandaşlara karşı sorumlu olmalıdır."},
+
+  {"word": "accountant", "meaning": "muhasip, hesap uzmanı, mali müşavir",
+    "sentence": "The accountant prepares the company's financial statements.",
+    "turkish_translation": "Muhasip şirketin mali tablolarını hazırlar."},
+
+  {"word": "accumulate", "meaning": "biriktirmek, toplamak, artmak",
+    "sentence": "Over the years, he managed to accumulate a significant amount of wealth.",
+    "turkish_translation": "Yıllar içinde, önemli bir servet biriktirmeyi başardı."},
+
+  {"word": "accumulation", "meaning": "birikim, toplama, yığılma",
+    "sentence": "The accumulation of snow caused traffic problems.",
+    "turkish_translation": "Kar birikimi trafik sorunlarına neden oldu."},
+
+  {"word": "accuracy", "meaning": "doğruluk, kesinlik, isabetlilik",
+    "sentence": "The accuracy of his predictions was impressive.",
+    "turkish_translation": "Tahminlerinin doğruluğu etkileyiciydi."},
+
+  {"word": "accurate", "meaning": "doğru, kesin, isabetli",
+    "sentence": "Her measurements were accurate to the millimeter.",
+    "turkish_translation": "Ölçümleri milimetreye kadar doğruydu."},
+
+  {"word": "accuse", "meaning": "suçlamak, itham etmek, suçlamak",
+    "sentence": "He was falsely accused of stealing.",
+    "turkish_translation": "Haksız yere çalmakla suçlandı."},
+
+  {"word": "accustomed", "meaning": "alışık, alışkın",
+    "sentence": "She was accustomed to waking up early.",
+    "turkish_translation": "Erken uyanmaya alışıktı."},
+
+  {"word": "ache", "meaning": "ağrı, ağrımak, acımak",
+    "sentence": "My head started to ache after a long day at work.",
+    "turkish_translation": "Uzun bir iş gününden sonra başım ağrımaya başladı."},
+
+  {"word": "achieve", "meaning": "başarmak, elde etmek, gerçekleştirmek",
+    "sentence": "With determination, you can achieve your goals.",
+    "turkish_translation": "Kararlılıkla hedeflerinizi başarabilirsiniz."},
+
+  {"word": "achievement", "meaning": "başarı, elde etme, gerçekleştirme",
+    "sentence": "Winning the championship was a great achievement for the team.",
+    "turkish_translation": "Şampiyonluğu kazanmak, takım için büyük bir başarıydı."},
+
+  {"word": "acid", "meaning": "asit, ekşi, keskin",
+    "sentence": "Citrus fruits like oranges contain natural acid.",
+    "turkish_translation": "Portakal gibi narenciye meyveleri doğal asit içerir."},
+
+  {"word": "acknowledge", "meaning": "kabul etmek, itiraf etmek, onaylamak",
+    "sentence": "He was quick to acknowledge his mistake and apologize.",
+    "turkish_translation": "Hatasını hızlıca kabul edip özür diledi."},
+
+  {"word": "acquaintance", "meaning": "tanıdık, bilgi, tanışıklık",
+    "sentence": "He is a casual acquaintance, not a close friend.",
+    "turkish_translation": "O, sıradan bir tanıdıktır, yakın bir arkadaş değil."},
+
+  {"word": "acquire", "meaning": "edinmek, kazanmak, elde etmek",
+    "sentence": "She worked hard to acquire new skills.",
+    "turkish_translation": "Yeni beceriler kazanmak için çok çalıştı."},
+
+  {"word": "acquisition", "meaning": "edinim, kazanç, elde etme",
+    "sentence": "The company's recent acquisition of another company boosted its market share.",
+    "turkish_translation": "Şirketin yakın zamandaki başka bir şirketi satın alması pazar payını artırdı."},
+
+  {"word": "acre", "meaning": "dönüm, arazi ölçü birimi",
+    "sentence": "The farm consists of several acres of land.",
+    "turkish_translation": "Çiftlik birkaç dönümlük araziden oluşuyor."},
+  {"word": "acrobat", "meaning": "akrobat, cambaz",
+    "sentence": "The circus performer amazed the audience with his acrobatic skills.",
+    "turkish_translation": "Sirk sanatçısı akrobatik yetenekleriyle izleyicileri etkiledi."},
+
+  {"word": "acronym", "meaning": "kısaltma, baş harflerden oluşan kelime",
+    "sentence": "NASA is an acronym for National Aeronautics and Space Administration.",
+    "turkish_translation": "NASA Ulusal Havacılık ve Uzay Dairesi için bir kısaltmadır."},
+
+  {"word": "across", "meaning": "karşıya, öteye, karşı, boyunca",
+    "sentence": "The bridge spans across the river.",
+    "turkish_translation": "Köprü nehrin üzerine uzanıyor."},
+
+  {"word": "act", "meaning": "hareket etmek, davranmak, rol almak, eylem",
+    "sentence": "He decided to act in the school play.",
+    "turkish_translation": "Okul oyununda rol almayı kararlaştırdı."},
+
+  {"word": "action", "meaning": "hareket, eylem, işlem, faaliyet",
+    "sentence": "The government took swift action to address the crisis.",
+    "turkish_translation": "Hükümet krize çözüm bulmak için hızlıca harekete geçti."},
+
+  {"word": "activate", "meaning": "etkinleştirmek, çalıştırmak",
+    "sentence": "Press the button to activate the alarm system.",
+    "turkish_translation": "Alarm sistemini etkinleştirmek için düğmeye basın."},
+
+  {"word": "active", "meaning": "etkin, aktif, faal",
+    "sentence": "Regular exercise is important to maintain an active lifestyle.",
+    "turkish_translation": "Düzenli egzersiz aktif bir yaşam tarzını sürdürmek için önemlidir."},
+
+  {"word": "activity", "meaning": "etkinlik, faaliyet, aktivite",
+    "sentence": "The school offers a variety of extracurricular activities.",
+    "turkish_translation": "Okul çeşitli ders dışı etkinlikler sunuyor."},
+
+  {"word": "actor", "meaning": "oyuncu, aktör",
+    "sentence": "He is a talented actor who has starred in many films.",
+    "turkish_translation": "O, birçok filmde başrol oynamış yetenekli bir oyuncudur."},
+
+  {"word": "actress", "meaning": "kadın oyuncu, aktris",
+    "sentence": "The actress received an award for her outstanding performance.",
+    "turkish_translation": "Aktris olağanüstü performansıyla ödül kazandı."},
+
+  {"word": "actual", "meaning": "gerçek, asıl, hakiki",
+    "sentence": "The actual cost was higher than the estimated amount.",
+    "turkish_translation": "Gerçek maliyet tahmin edilen miktarın üstündeydi."},
+
+  {"word": "actually", "meaning": "aslında, gerçekten, hatta",
+    "sentence": "I thought he was joking, but he actually meant it.",
+    "turkish_translation": "Şaka yaptığını düşünmüştüm, ama aslında ciddi demek istedi."},
+
+  {"word": "acute", "meaning": "şiddetli, akut, keskin",
+    "sentence": "He experienced an acute pain in his chest.",
+    "turkish_translation": "Göğsünde şiddetli bir ağrı yaşadı."},
+
+  {"word": "adapt", "meaning": "uyum sağlamak, uyarlamak",
+    "sentence": "Some animals can adapt to different environments.",
+    "turkish_translation": "Bazı hayvanlar farklı ortamlara uyum sağlayabilir."},
+
+  {"word": "add", "meaning": "eklemek, ilave etmek",
+    "sentence": "She likes to add extra spices to her dishes.",
+    "turkish_translation": "Yemeklerine ekstra baharatlar eklemeyi sever."},
+
+  {"word": "addict", "meaning": "bağımlı, tiryaki",
+    "sentence": "He struggled to overcome his addiction to gambling.",
+    "turkish_translation": "Kumar bağımlılığını yenmek için mücadele etti."},
+
+  {"word": "addition", "meaning": "ekleme, ilave, artış",
+    "sentence": "The new addition to the house provided extra space for the family.",
+    "turkish_translation": "Evdeki yeni ilave, aile için ekstra alan sağladı."},
+
+  {"word": "additional", "meaning": "ek, ilave, ekstra",
+    "sentence": "There are additional charges for using certain services.",
+    "turkish_translation": "Bazı hizmetleri kullanmak için ek ücretler var."},
+  {"word": "address", "meaning": "adres, hitap etmek, ele almak",
+    "sentence": "Please write down your address on this form.",
+    "turkish_translation": "Lütfen adresinizi bu form üzerine yazın."},
+
+  {"word": "adept", "meaning": "uzman, mahir, yetenekli",
+    "sentence": "She is an adept pianist who can play complex pieces with ease.",
+    "turkish_translation": "O, kolaylıkla karmaşık parçaları çalabilen mahir bir piyanisttir."},
+
+  {"word": "adequate", "meaning": "yeterli, uygun, elverişli",
+    "sentence": "The company provides adequate training for its employees.",
+    "turkish_translation": "Şirket çalışanlarına yeterli eğitim sağlar."},
+
+  {"word": "adhere", "meaning": "bağlı kalmak, yapışmak",
+    "sentence": "Make sure the tape adheres securely to the surface.",
+    "turkish_translation": "Bantın yüzeye sağlamca yapıştığından emin olun."},
+
+  {"word": "adhesive", "meaning": "yapışkan, yapıştırıcı",
+    "sentence": "This adhesive is strong enough to hold the pieces together.",
+    "turkish_translation": "Bu yapışkan parçaları bir arada tutacak kadar güçlüdür."},
+
+  {"word": "adjacent", "meaning": "bitişik, komşu",
+    "sentence": "The two buildings are located in adjacent neighborhoods.",
+    "turkish_translation": "İki bina bitişik mahallelerde bulunuyor."},
+
+  {"word": "adjust", "meaning": "ayarlamak, düzenlemek",
+    "sentence": "You can adjust the temperature using this knob.",
+    "turkish_translation": "Bu düğme ile sıcaklığı ayarlayabilirsiniz."},
+
+  {"word": "administration", "meaning": "idare, yönetim, hükümet",
+    "sentence": "The new administration introduced several policy changes.",
+    "turkish_translation": "Yeni yönetim birkaç politika değişikliği getirdi."},
+
+  {"word": "administrator", "meaning": "yönetici, idareci",
+    "sentence": "The school's administrator is responsible for overseeing daily operations.",
+    "turkish_translation": "Okulun yöneticisi günlük işlemleri denetlemekten sorumludur."},
+
+  {"word": "admirable", "meaning": "hayranlık uyandıran, takdire değer",
+    "sentence": "Her dedication to charity work is truly admirable.",
+    "turkish_translation": "Hayır işlerine olan bağlılığı gerçekten takdire değer."},
+
+  {"word": "admire", "meaning": "hayran olmak, takdir etmek",
+    "sentence": "Many people admire her for her talent and determination.",
+    "turkish_translation": "Birçok insan onun yeteneği ve azmi için onu takdir eder."},
+
+  {"word": "admission", "meaning": "giriş, kabul, itiraf",
+    "sentence": "The admission fee for the museum is quite reasonable.",
+    "turkish_translation": "Müze giriş ücreti oldukça makul."},
+
+  {"word": "admit", "meaning": "itiraf etmek, kabul etmek, içeri almak",
+    "sentence": "He finally admitted his mistake and apologized.",
+    "turkish_translation": "Sonunda hatasını itiraf etti ve özür diledi."},
+
+  {"word": "adolescence", "meaning": "ergenlik, gençlik dönemi",
+    "sentence": "Adolescence is a time of significant physical and emotional changes.",
+    "turkish_translation": "Ergenlik, önemli fiziksel ve duygusal değişikliklerin yaşandığı bir dönemdir."},
+
+  {"word": "adolescent", "meaning": "ergen, genç",
+    "sentence": "Adolescents often seek independence and explore their identities.",
+    "turkish_translation": "Ergenler genellikle bağımsızlık arayışında ve kimliklerini keşfetme eğilimindedir."},
+
+  {"word": "adopt", "meaning": "benimsemek, evlat edinmek, kabul etmek",
+    "sentence": "They decided to adopt a rescue dog from the shelter.",
+    "turkish_translation": "Barınaktan kurtarılan bir köpeği evlat edinmeye karar verdiler."},
+
+  {"word": "adore", "meaning": "hayran olmak, tapmak, çok sevmek",
+    "sentence": "She absolutely adores her younger sister and takes care of her.",
+    "turkish_translation": "Küçük kız kardeşini kesinlikle çok seviyor ve ona bakıyor."},
+
+  {"word": "adult", "meaning": "yetişkin, ergin",
+    "sentence": "An adult is expected to take responsibility for their actions.",
+    "turkish_translation": "Bir yetişkinin eylemlerinden sorumluluk alması beklenir."},
+
+  {"word": "advance", "meaning": "ilerleme, ilerleme kaydetmek, geliştirmek",
+    "sentence": "Medical science has made significant advances in recent years.",
+    "turkish_translation": "Tıp bilimi son yıllarda önemli ilerlemeler kaydetti."},
+
+  {"word": "advantage", "meaning": "avantaj, üstünlük, fayda",
+    "sentence": "One advantage of living in the city is easy access to amenities.",
+    "turkish_translation": "Şehirde yaşamanın bir avantajı, olanaklara kolay erişimdir."},
+
+  {"word": "adventure", "meaning": "macera, serüven",
+    "sentence": "They embarked on a thrilling adventure to explore the jungle.",
+    "turkish_translation": "Ormanı keşfetmek için heyecan verici bir maceraya atıldılar."},
+
+  {"word": "adverb", "meaning": "zarf",
+    "sentence": "An adverb modifies a verb, adjective, or another adverb.",
+    "turkish_translation": "Zarf, bir fiili, sıfatı veya başka bir zarfı değiştirir."},
+  {"word": "adversary", "meaning": "düşman, rakip, hasım",
+    "sentence": "In the competitive world of business, every company has its adversaries.",
+    "turkish_translation": "İş dünyasının rekabetçi ortamında, her şirketin rakipleri vardır."},
+
+  {"word": "adverse", "meaning": "olumsuz, kötü, karşıt, zıt",
+    "sentence": "The adverse weather conditions forced the cancellation of the outdoor event.",
+    "turkish_translation": "Olumsuz hava koşulları açık hava etkinliğinin iptal edilmesine neden oldu."},
+
+  {"word": "advertise", "meaning": "reklam yapmak, ilan vermek",
+    "sentence": "They plan to advertise their new product on social media.",
+    "turkish_translation": "Yeni ürünlerini sosyal medyada reklam yapmayı planlıyorlar."},
+
+  {"word": "advertisement", "meaning": "reklam, ilan",
+    "sentence": "The advertisement in the magazine caught my attention.",
+    "turkish_translation": "Dergideki reklam benim dikkatimi çekti."},
+
+  {"word": "advice", "meaning": "tavsiye, öğüt, nasihat",
+    "sentence": "I sought advice from my mentor before making a major decision.",
+    "turkish_translation": "Büyük bir karar vermeden önce mentorumdan tavsiye istedim."},
+
+  {"word": "advise", "meaning": "tavsiye vermek, öğütlemek, bildirmek",
+    "sentence": "She advised me to read more books to improve my vocabulary.",
+    "turkish_translation": "Kelime dağarcığımı geliştirmek için daha çok kitap okumamı önerdi."},
+
+  {"word": "advocate", "meaning": "savunmak, desteklemek, avukat",
+    "sentence": "He is an advocate for equal rights and social justice.",
+    "turkish_translation": "O, eşit haklar ve sosyal adalet için bir savunucudur."},
+
+  {"word": "aerial", "meaning": "hava, hava ile ilgili, anten",
+    "sentence": "The aerial view of the city from the plane was breathtaking.",
+    "turkish_translation": "Uçaktan şehrin hava manzarası nefes kesiciydi."},
+
+  {"word": "aerodynamic", "meaning": "aerodinamik",
+    "sentence": "The car's design was optimized for better aerodynamic performance.",
+    "turkish_translation": "Aracın tasarımı daha iyi aerodinamik performans için optimize edildi."},
+
+  {"word": "aeroplane", "meaning": "uçak, hava aracı",
+    "sentence": "The aeroplane took off smoothly and flew towards its destination.",
+    "turkish_translation": "Uçak düzgün bir şekilde havalanarak hedefine doğru uçtu."},
+
+  {"word": "aerospace", "meaning": "uzay ve atmosfer, havacılık ve uzay",
+    "sentence": "The aerospace industry has seen significant technological advancements.",
+    "turkish_translation": "Havacılık endüstrisi önemli teknolojik ilerlemeler gördü."},
+
+  {"word": "aesthetic", "meaning": "estetik, güzellik anlayışı",
+    "sentence": "The museum's design is a perfect blend of historical and modern aesthetics.",
+    "turkish_translation": "Müzenin tasarımı tarihi ve modern estetiğin mükemmel bir karışımıdır."},
+
+  {"word": "affair", "meaning": "iş, mesele, ilişki, ilişki dışı ilişki",
+    "sentence": "The company handled the financial affairs of its clients with care.",
+    "turkish_translation": "Şirket, müşterilerinin mali işlerini özenle yönetti."},
+
+  {"word": "affect", "meaning": "etkilemek, etkisi altına almak",
+    "sentence": "Lack of sleep can affect your mood and overall health.",
+    "turkish_translation": "Uykusuzluk ruh halinizi ve genel sağlığınızı etkileyebilir."},
+
+  {"word": "affection", "meaning": "sevgi, şefkat, düşkünlük",
+    "sentence": "He shows affection for his pets by spending time with them.",
+    "turkish_translation": "Evcil hayvanlarına zaman ayırarak onlara sevgi gösterir."},
+
+  {"word": "affiliate", "meaning": "bağlı şube, üye, bağlamak, ilişkilendirmek",
+    "sentence": "The local business became an affiliate of a well-known national chain.",
+    "turkish_translation": "Yerel işletme, tanınmış bir ulusal zincirin bağlı şubesi oldu."},
+
+  {"word": "affirm", "meaning": "doğrulamak, onaylamak, tasdik etmek",
+    "sentence": "She affirmed her commitment to the project during the meeting.",
+    "turkish_translation": "Toplantıda projeye olan taahhüdünü doğruladı."},
+
+  {"word": "affix", "meaning": "ilave etmek, yapıştırmak, takmak",
+    "sentence": "Please affix your signature at the bottom of the document.",
+    "turkish_translation": "Lütfen imzanızı belgenin altına yapıştırın."},
+
+  {"word": "afflict", "meaning": "rahatsız etmek, acı vermek, sıkıntı vermek",
+    "sentence": "The region was afflicted by a severe drought that affected crops.",
+    "turkish_translation": "Bölgeyi etkileyen şiddetli kuraklık tarımsal ürünleri etkiledi."},
+
+  {"word": "affliction", "meaning": "sıkıntı, hastalık, bela",
+    "sentence": "He faced many afflictions in his life, but he remained resilient.",
+    "turkish_translation": "Hayatında birçok sıkıntıyla karşılaştı, ama dirençli kaldı."},
+
+  {"word": "affluent", "meaning": "zengin, varlıklı",
+    "sentence": "The neighborhood is known for its affluent residents and luxurious homes.",
+    "turkish_translation": "Mahalle, zengin sakinleri ve lüks evleri ile tanınır."},
+
+  {"word": "afford", "meaning": "gücü yetmek, parası yetmek",
+    "sentence": "I can't afford to buy a new car right now.",
+    "turkish_translation": "Şu anda yeni bir araba alacak gücüm yok."},
+
+  {"word": "afraid", "meaning": "korkan, korkmuş, ürkek",
+    "sentence": "The little girl was afraid of the thunderstorm.",
+    "turkish_translation": "Küçük kız gök gürültüsünden korkuyordu."},
+  {"word": "after", "meaning": "sonra, ardından, peşinden",
+    "sentence": "We'll meet at the park after school.",
+    "turkish_translation": "Okuldan sonra parkta buluşacağız."},
+
+  {"word": "aftermath", "meaning": "sonuç, akıbet, etki, yankı",
+    "sentence": "The aftermath of the earthquake left the city in ruins.",
+    "turkish_translation": "Depremin akıbeti şehri enkaz içinde bıraktı."},
+
+  {"word": "afternoon", "meaning": "öğleden sonra",
+    "sentence": "Let's have a picnic in the park this afternoon.",
+    "turkish_translation": "Bugün öğleden sonra parkta piknik yapalım."},
+
+  {"word": "afterward", "meaning": "sonradan, daha sonra",
+    "sentence": "She realized her mistake afterward.",
+    "turkish_translation": "Hatasını daha sonra fark etti."},
+
+  {"word": "again", "meaning": "tekrar, yeniden",
+    "sentence": "If at first you don't succeed, try again.",
+    "turkish_translation": "İlk seferinde başaramazsan, tekrar dene."},
+
+  {"word": "against", "meaning": "karşısında, aleyhine, -e karşı",
+    "sentence": "The wind was blowing against us during the hike.",
+    "turkish_translation": "Rüzgar yürüyüş sırasında bize karşı esiyordu."},
+
+  {"word": "age", "meaning": "yaş, çağ, dönem",
+    "sentence": "He is at the age when children start going to school.",
+    "turkish_translation": "Çocukların okula gitmeye başladığı yaşta."},
+
+  {"word": "agency", "meaning": "ajans, acenta, kuruluş",
+    "sentence": "The advertising agency created a captivating campaign for the product.",
+    "turkish_translation": "Reklam ajansı ürün için etkileyici bir kampanya oluşturdu."},
+
+  {"word": "agenda", "meaning": "gündem, program",
+    "sentence": "The items on the agenda include discussions about budget and projects.",
+    "turkish_translation": "Gündemdeki konular arasında bütçe ve projeler hakkında görüşmeler bulunuyor."},
+
+  {"word": "agent", "meaning": "ajan, temsilci, etken madde",
+    "sentence": "The real estate agent showed us several houses in the area.",
+    "turkish_translation": "Gayrimenkul acentesi bize bölgedeki birkaç evi gösterdi."},
+
+  {"word": "aggregate", "meaning": "toplam, birleştirmek, toplamak",
+    "sentence": "The aggregate number of attendees was higher than expected.",
+    "turkish_translation": "Katılımcıların toplam sayısı beklenenden daha yüksekti."},
+
+  {"word": "aggressive", "meaning": "saldırgan, saldırganca",
+    "sentence": "The dog's aggressive behavior made people nervous.",
+    "turkish_translation": "Köpeğin saldırgan davranışları insanları tedirgin etti."},
+
+  {"word": "agitate", "meaning": "huzursuz etmek, kışkırtmak, çalkalamak",
+    "sentence": "His passionate speech agitated the crowd.",
+    "turkish_translation": "Coşkulu konuşması kalabalığı huzursuz etti."},
+
+  {"word": "agony", "meaning": "ızdırap, acı çekme, sıkıntı",
+    "sentence": "She endured agonizing pain after the accident.",
+    "turkish_translation": "Kazadan sonra dayanılmaz acılar çekti."},
+
+  {"word": "agree", "meaning": "katılmak, aynı fikirde olmak, razı olmak",
+    "sentence": "We all agree that the proposal needs further discussion.",
+    "turkish_translation": "Hepimiz önerinin daha fazla tartışmayı gerektirdiğine katılıyoruz."},
+
+  {"word": "agriculture", "meaning": "tarım, ziraat",
+    "sentence": "Agriculture is a vital industry for providing food and resources.",
+    "turkish_translation": "Tarım, gıda ve kaynak sağlama açısından hayati bir endüstridir."},
+
+  {"word": "ahead", "meaning": "önünde, ilerde, önce",
+    "sentence": "The road ahead was clear, and we continued driving.",
+    "turkish_translation": "Önümüzdeki yol açıktı ve sürmeye devam ettik."},
+
+  {"word": "aid", "meaning": "yardım etmek, yardım",
+    "sentence": "The organization's mission is to provide aid to disaster-stricken areas.",
+    "turkish_translation": "Kuruluşun misyonu felakete uğramış bölgelere yardım sağlamaktır."},
+
+  {"word": "aim", "meaning": "amaç, hedef, amaçlamak",
+    "sentence": "His aim is to become a successful entrepreneur.",
+    "turkish_translation": "Amacı başarılı bir girişimci olmaktır."},
+
+  {"word": "air", "meaning": "hava, havalandırmak, yayınlamak",
+    "sentence": "Fresh air is important for maintaining good health.",
+    "turkish_translation": "Temiz hava, iyi sağlığı korumak için önemlidir."},
+
+  {"word": "aircraft", "meaning": "hava aracı, uçaklar",
+    "sentence": "The airport is bustling with various types of aircraft.",
+    "turkish_translation": "Havalimanı çeşitli tipte hava araçlarıyla dolup taşıyor."},
+
+  {"word": "airline", "meaning": "hava yolu şirketi",
+    "sentence": "The airline announced new routes for international travel.",
+    "turkish_translation": "Hava yolu şirketi uluslararası seyahat için yeni rotalar açıkladı."},
+
+  {"word": "airmail", "meaning": "hava postası, hava yoluyla göndermek",
+    "sentence": "I sent the letter by airmail to ensure faster delivery.",
+    "turkish_translation": "Mektubu daha hızlı teslimat için hava postasıyla gönderdim."},
+
+  {"word": "airport", "meaning": "havalimanı",
+    "sentence": "We arrived at the airport well before our flight's departure time.",
+    "turkish_translation": "Uçuşumuzun kalkış saati çok önce havalimanına vardık."},
+
+  {"word": "aisle", "meaning": "koridor, geçit, yol",
+    "sentence": "Please move to the aisle to make room for other passengers.",
+    "turkish_translation": "Lütfen diğer yolcular için yer açmak için koridora geçin."},
+
+  {"word": "alarm", "meaning": "alarm, alarm vermek, korkutmak",
+    "sentence": "The fire alarm rang loudly, causing panic.",
+    "turkish_translation": "Yangın alarmı yüksek sesle çaldı, panik yarattı."},
+
+  {"word": "alcohol", "meaning": "alkol",
+    "sentence": "It's important to consume alcohol in moderation.",
+    "turkish_translation": "Alkolu makul miktarlarda tüketmek önemlidir."},
+
+  {"word": "alert", "meaning": "uyarı, alarm, uyarıda bulunmak",
+    "sentence": "The weather alert warned of a possible storm in the area.",
+    "turkish_translation": "Hava durumu uyarısı bölgede olası bir fırtına için uyardı."},
+
+  {"word": "alien", "meaning": "yabancı, uzaylı, yabancılaşma",
+    "sentence": "The concept of time travel can seem alien to many people.",
+    "turkish_translation": "Zaman yolculuğu kavramı birçok insan için yabancı gelebilir."},
+
+  {"word": "align", "meaning": "hizalamak, sıralamak, uyumlu hale getirmek",
+    "sentence": "Please align the text to the left for a cleaner look.",
+    "turkish_translation": "Daha temiz bir görünüm için lütfen metni sola hizalayın."},
+
+  {"word": "alike", "meaning": "aynı, benzer",
+    "sentence": "The twins look so much alike that it's hard to tell them apart.",
+    "turkish_translation": "İkizler o kadar çok benzeyiyor ki onları ayırt etmek zor."},
+
+  {"word": "alive", "meaning": "canlı, hayatta",
+    "sentence": "The rescue team found the lost hiker alive and well.",
+    "turkish_translation": "Kurtarma ekibi kaybolmuş dağcıyı canlı ve iyi bir şekilde buldu."},
+
+  {"word": "all", "meaning": "tümü, hepsi",
+    "sentence": "All the students were excited about the upcoming field trip.",
+    "turkish_translation": "Tüm öğrenciler yaklaşan geziye heyecanlıydı."},
+
+  {"word": "allocate", "meaning": "ayırmak, tahsis etmek, paylaştırmak",
+    "sentence": "The company will allocate resources for the new project.",
+    "turkish_translation": "Şirket yeni proje için kaynakları ayıracak."},
+
+  {"word": "allow", "meaning": "izin vermek, müsaade etmek",
+    "sentence": "Please allow me to explain my perspective.",
+    "turkish_translation": "Lütfen bakış açımı açıklamama izin verin."},
+
+  {"word": "ally", "meaning": "müttefik, dost, birleşmek, ittifak yapmak",
+    "sentence": "During times of conflict, countries often seek allies for support.",
+    "turkish_translation": "Çatışma dönemlerinde ülkeler genellikle destek için müttefik arar."},
+
+  {"word": "almost", "meaning": "neredeyse, hemen hemen",
+    "sentence": "I've almost finished reading this long book.",
+    "turkish_translation": "Bu uzun kitabı neredeyse bitirdim."},
+
+  {"word": "alone", "meaning": "yalnız, tek başına",
+    "sentence": "Sometimes it's nice to spend a quiet evening alone.",
+    "turkish_translation": "Bazen sakin bir akşamı tek başına geçirmek güzel olabilir."},
+
+  {"word": "along", "meaning": "boyunca, ile birlikte",
+    "sentence": "We walked along the beach, enjoying the sound of the waves.",
+    "turkish_translation": "Dalgaların sesini dinlerken sahil boyunca yürüdük."},
+
+  {"word": "alphabet", "meaning": "alfabe",
+    "sentence": "Learning the alphabet is the first step in reading and writing.",
+    "turkish_translation": "Alfabe öğrenmek okuma ve yazma sürecindeki ilk adımdır."},
+
+  {"word": "already", "meaning": "zaten, zaten olan",
+    "sentence": "I haven't started cooking yet, but the guests will arrive soon.",
+    "turkish_translation": "Henüz yemek yapmaya başlamadım, ama misafirler yakında gelecek."},
+
+  {"word": "also", "meaning": "ayrıca, bunun yanı sıra",
+    "sentence": "She's not only talented but also very hardworking.",
+    "turkish_translation": "O sadece yetenekli değil, aynı zamanda çok çalışkan da."},
+
+  {"word": "alter", "meaning": "değiştirmek, dönüştürmek",
+    "sentence": "He decided to alter his plans after receiving new information.",
+    "turkish_translation": "Yeni bilgi aldıktan sonra planlarını değiştirmeye karar verdi."},
+
+  {"word": "although", "meaning": "rağmen, -e rağmen, -sa bile",
+    "sentence": "Although it was raining, we went for a walk.",
+    "turkish_translation": "Yağmur yağıyordu ama yine de yürüyüşe çıktık."},
+
+  {"word": "always", "meaning": "her zaman, daima",
+    "sentence": "She's always there to lend a helping hand.",
+    "turkish_translation": "Her zaman yardım etmek için oradadır."},
+
+  {"word": "amazing", "meaning": "şaşırtıcı, harika",
+    "sentence": "The view from the mountaintop was absolutely amazing.",
+    "turkish_translation": "Dağın tepesinden görünen manzara kesinlikle şaşırtıcıydı."},
+
+  {"word": "ambassador", "meaning": "büyükelçi",
+    "sentence": "The ambassador played a key role in diplomatic negotiations.",
+    "turkish_translation": "Büyükelçi diplomatik müzakerelerde önemli bir rol oynadı."},
+
+  {"word": "ambitious", "meaning": "hırslı, amaçlı",
+    "sentence": "He has ambitious goals for his career.",
+    "turkish_translation": "Kariyeri için hırslı hedefleri var."},
+
+  {"word": "among", "meaning": "arasında, içinde, arasına",
+    "sentence": "The book was hidden among the other items on the shelf.",
+    "turkish_translation": "Kitap raflardaki diğer eşyalar arasına gizlenmişti."},
+
+  {"word": "amount", "meaning": "miktar, tutar",
+    "sentence": "The total amount of money raised for the charity was impressive.",
+    "turkish_translation": "Hayır işi için toplanan toplam para miktarı etkileyiciydi."},
+
+  {"word": "amuse", "meaning": "eğlendirmek, güldürmek",
+    "sentence": "The comedian's jokes never fail to amuse the audience.",
+    "turkish_translation": "Komedyenin şakaları seyirciyi her zaman eğlendirir."},
+
+  {"word": "analysis", "meaning": "analiz, inceleme",
+    "sentence": "The data analysis revealed interesting patterns.",
+    "turkish_translation": "Veri analizi ilginç desenler ortaya çıkardı."},
+
+  {"word": "ancestor", "meaning": "ata, soy",
+    "sentence": "Many people are interested in tracing their ancestry.",
+    "turkish_translation": "Birçok insan atalarının izini sürmeye ilgi gösterir."},
+
+  {"word": "ancient", "meaning": "eski, antik",
+    "sentence": "The museum displays artifacts from ancient civilizations.",
+    "turkish_translation": "Müze, antik medeniyetlere ait eserleri sergiliyor."},
+
+  {"word": "and", "meaning": "ve, ile",
+    "sentence": "She likes to read novels and watch movies.",
+    "turkish_translation": "Roman okumayı ve film izlemeyi sever."},
+
+  {"word": "anger", "meaning": "öfke, kızgınlık",
+    "sentence": "His sudden outburst of anger surprised everyone in the room.",
+    "turkish_translation": "Aniden patlayan öfkesi odadaki herkesi şaşırttı."},
+
+  {"word": "angle", "meaning": "açı, bakış açısı",
+    "sentence": "Adjust the camera to capture the best angle.",
+    "turkish_translation": "Kamerayı en iyi açıyı yakalamak için ayarlayın."},
+
+  {"word": "angry", "meaning": "sinirli, kızgın",
+    "sentence": "She was angry about the unfair treatment.",
+    "turkish_translation": "Adaletsiz muameleden dolayı sinirliydi."},
+
+  {"word": "animal", "meaning": "hayvan",
+    "sentence": "The zoo has a wide variety of animal species.",
+    "turkish_translation": "Hayvanat bahçesinde geniş bir hayvan türü çeşitliliği bulunuyor."},
+
+  {"word": "announce", "meaning": "duyurmak, ilan etmek",
+    "sentence": "The company will announce its new product next week.",
+    "turkish_translation": "Şirket gelecek hafta yeni ürününü duyuracak."},
+
+  {"word": "annoy", "meaning": "rahatsız etmek, sinirlendirmek",
+    "sentence": "His constant interruptions started to annoy the teacher.",
+    "turkish_translation": "Sürekli kesintileri öğretmeni rahatsız etmeye başladı."},
+
+  {"word": "annual", "meaning": "yıllık, senelik",
+    "sentence": "The company holds an annual meeting to discuss its progress.",
+    "turkish_translation": "Şirket ilerlemeyi tartışmak için yıllık bir toplantı düzenler."},
+
+  {"word": "another", "meaning": "başka, bir diğeri",
+    "sentence": "She has to prepare for another important meeting.",
+    "turkish_translation": "Başka önemli bir toplantıya hazırlanması gerekiyor."},
+
+  {"word": "answer", "meaning": "cevap, yanıt, cevaplamak, yanıtlamak",
+    "sentence": "Please provide a clear and concise answer to the question.",
+    "turkish_translation": "Lütfen soruya net ve özlü bir cevap verin."},
+
+  {"word": "anticipate", "meaning": "beklemek, öngörmek, tahmin etmek",
+    "sentence": "We anticipate a large turnout for the event.",
+    "turkish_translation": "Etkinlik için büyük bir katılım bekliyoruz."},
+
+  {"word": "anxiety", "meaning": "anksiyete, endişe",
+    "sentence": "Her anxiety about the exam made it difficult to sleep.",
+    "turkish_translation": "Sınavla ilgili endişeleri uyumayı zorlaştırdı."},
+
+  {"word": "any", "meaning": "herhangi, hiç",
+    "sentence": "Is there any milk left in the refrigerator?",
+    "turkish_translation": "Buz dolabında herhangi bir süt kaldı mı?"},
+
+  {"word": "apart", "meaning": "ayrı, uzak",
+    "sentence": "They live thousands of miles apart from each other.",
+    "turkish_translation": "Birbirlerinden binlerce mil uzakta yaşıyorlar."},
+  {"word": "apartment", "meaning": "daire, apartman",
+    "sentence": "She moved into a new apartment in the city.",
+    "turkish_translation": "Şehirde yeni bir daireye taşındı."},
+
+  {"word": "apologize", "meaning": "özür dilemek",
+    "sentence": "He had to apologize for arriving late to the meeting.",
+    "turkish_translation": "Toplantıya geç gelmek için özür dilemek zorunda kaldı."},
+
+  {"word": "apparent", "meaning": "açık, belli, görünür",
+    "sentence": "The cause of the problem was not immediately apparent.",
+    "turkish_translation": "Sorunun nedeni hemen görünür değildi."},
+
+  {"word": "apparently", "meaning": "görünüşe göre, anlaşılan",
+    "sentence": "Apparently, the concert tickets are already sold out.",
+    "turkish_translation": "Görünüşe göre, konser biletleri zaten tükenmiş."},
+
+  {"word": "appeal", "meaning": "çağrı, rica, başvuruda bulunmak",
+    "sentence": "The charity made an appeal for donations to support its cause.",
+    "turkish_translation": "Vakıf, amacını desteklemek için bağış yapma çağrısı yaptı."},
+
+  {"word": "appear", "meaning": "görünmek, belirmek",
+    "sentence": "The stars appear in the sky as the sun sets.",
+    "turkish_translation": "Yıldızlar güneş battıkça gökyüzünde belirir."},
+
+  {"word": "appearance", "meaning": "görünüş, dış görünüş",
+    "sentence": "Her appearance at the event surprised everyone.",
+    "turkish_translation": "Etkinlikteki görünüşü herkesi şaşırttı."},
+
+  {"word": "apple", "meaning": "elma",
+    "sentence": "She enjoyed a crisp and juicy apple for a snack.",
+    "turkish_translation": "Atıştırmalık olarak taze ve sulu bir elma zevk aldı."},
+
+  {"word": "application", "meaning": "uygulama, başvuru",
+    "sentence": "He submitted his job application online.",
+    "turkish_translation": "İş başvurusunu çevrimiçi olarak gönderdi."},
+
+  {"word": "apply", "meaning": "uygulamak, başvurmak",
+    "sentence": "You can apply this cream to your skin to moisturize it.",
+    "turkish_translation": "Cildinize nemlendirmek için bu kremi uygulayabilirsiniz."},
+
+  {"word": "appoint", "meaning": "atanmak, atamak, tayin etmek",
+    "sentence": "They will appoint a new manager for the department.",
+    "turkish_translation": "Bölüm için yeni bir müdür atayacaklar."},
+
+  {"word": "approach", "meaning": "yaklaşım, yaklaşmak",
+    "sentence": "We need to find a more efficient approach to solve this problem.",
+    "turkish_translation": "Bu sorunu çözmek için daha verimli bir yaklaşım bulmamız gerekiyor."},
+
+  {"word": "appropriate", "meaning": "uygun, yerinde",
+    "sentence": "He chose the most appropriate outfit for the formal event.",
+    "turkish_translation": "Resmi etkinlik için en uygun kıyafeti seçti."},
+
+  {"word": "approval", "meaning": "onay, tasdik",
+    "sentence": "The project received approval from the committee.",
+    "turkish_translation": "Proje komiteden onay aldı."},
+
+  {"word": "approve", "meaning": "onaylamak, tasdik etmek",
+    "sentence": "The board of directors will review and approve the budget.",
+    "turkish_translation": "Yönetim kurulu bütçeyi gözden geçirecek ve onaylayacak."},
+
+  {"word": "approximately", "meaning": "yaklaşık olarak",
+    "sentence": "The journey took approximately three hours.",
+    "turkish_translation": "Yolculuk yaklaşık üç saat sürdü."},
+
+  {"word": "architect", "meaning": "mimar",
+    "sentence": "The architect designed a modern and functional building.",
+    "turkish_translation": "Mimar modern ve işlevsel bir bina tasarladı."},
+
+  {"word": "area", "meaning": "alan, bölge",
+    "sentence": "The park is a popular recreational area for families.",
+    "turkish_translation": "Park aileler için popüler bir dinlenme alanıdır."},
+
+  {"word": "argue", "meaning": "tartışmak, savunmak",
+    "sentence": "They always argue about politics during family gatherings.",
+    "turkish_translation": "Aile toplantılarında her zaman siyaset konusunda tartışırlar."},
+
+  {"word": "argument", "meaning": "tartışma, argüman",
+    "sentence": "Their argument escalated into a heated debate.",
+    "turkish_translation": "Tartışmaları hararetli bir tartışmaya dönüştü."},
+
+  {"word": "arise", "meaning": "ortaya çıkmak, meydana gelmek",
+    "sentence": "Difficulties can arise when working on complex projects.",
+    "turkish_translation": "Karmaşık projeler üzerinde çalışırken zorluklar ortaya çıkabilir."},
+
+  {"word": "arm", "meaning": "kol",
+    "sentence": "She had a tattoo on her arm.",
+    "turkish_translation": "Kolunda bir dövme vardı."},
+
+  {"word": "armed", "meaning": "silahlı, donanımlı",
+    "sentence": "The guards were armed with rifles to ensure security.",
+    "turkish_translation": "Güvenliği sağlamak için bekçiler tüfeklerle silahlandırılmıştı."},
+
+  {"word": "army", "meaning": "ordu",
+    "sentence": "He served in the army for several years.",
+    "turkish_translation": "Birkaç yıl boyunca orduda hizmet etti."},
+
+  {"word": "around", "meaning": "etrafında, çevresinde",
+    "sentence": "There are beautiful gardens around the palace.",
+    "turkish_translation": "Sarayın etrafında güzel bahçeler var."},
+
+  {"word": "arrange", "meaning": "düzenlemek, ayarlamak",
+    "sentence": "She will arrange the flowers for the party decorations.",
+    "turkish_translation": "Parti süslemeleri için çiçekleri düzenleyecek."},
+
+  {"word": "arrangement", "meaning": "düzenleme, ayarlama",
+    "sentence": "The seating arrangement for the event was carefully planned.",
+    "turkish_translation": "Etkinlik için oturma düzenlemesi dikkatlice planlandı."},
+
+  {"word": "arrest", "meaning": "tutuklama, tutuklamak",
+    "sentence": "The police made an arrest in connection with the robbery.",
+    "turkish_translation": "Polis, soygunla bağlantılı bir tutuklama yaptı."},
+
+  {"word": "arrival", "meaning": "varış, geliş",
+    "sentence": "The arrival of the train was delayed due to technical issues.",
+    "turkish_translation": "Trenin varışı teknik sorunlar nedeniyle gecikti."},
+
+  {"word": "arrive", "meaning": "varmak, gelmek",
+    "sentence": "We will arrive at the destination by evening.",
+    "turkish_translation": "Akşama kadar varış noktasına ulaşacağız."},
+
+  {"word": "art", "meaning": "sanat",
+    "sentence": "She's passionate about studying and creating art.",
+    "turkish_translation": "Sanatı çalışmak ve yaratmak konusunda tutkulu."},
+
+  {"word": "article", "meaning": "makale, yazı, madde",
+    "sentence": "She published an article about climate change.",
+    "turkish_translation": "İklim değişikliği hakkında bir makale yayımladı."},
+
+  {"word": "artificial", "meaning": "sunî, yapay",
+    "sentence": "The lake is surrounded by beautiful artificial gardens.",
+    "turkish_translation": "Göl, güzel yapay bahçelerle çevrilidir."},
+
+  {"word": "artist", "meaning": "sanatçı",
+    "sentence": "The artist is known for her innovative sculptures.",
+    "turkish_translation": "Sanatçı yenilikçi heykelleriyle tanınıyor."},
+
+  {"word": "artwork", "meaning": "sanat eseri, eser",
+    "sentence": "The gallery is filled with stunning artworks.",
+    "turkish_translation": "Galeri etkileyici sanat eserleriyle dolu."},
+
+  {"word": "as", "meaning": "olarak, gibi, iken",
+    "sentence": "She works as a nurse in a local hospital.",
+    "turkish_translation": "Yerel bir hastanede hemşire olarak çalışıyor."},
+
+  {"word": "ashamed", "meaning": "utanmış, mahçup",
+    "sentence": "He felt ashamed for forgetting his friend's birthday.",
+    "turkish_translation": "Arkadaşının doğum gününü unuttuğu için utanmıştı."},
+
+  {"word": "aside", "meaning": "bir kenara, bir tarafa",
+    "sentence": "She put her book aside and stood up.",
+    "turkish_translation": "Kitabını bir kenara koydu ve ayağa kalktı."},
+
+  {"word": "ask", "meaning": "sormak, istemek",
+    "sentence": "She will ask her teacher for help with the assignment.",
+    "turkish_translation": "Ödevle ilgili yardım için öğretmenine soracak."},
+
+  {"word": "asleep", "meaning": "uyuyan, uykuda",
+    "sentence": "The baby is finally asleep in the crib.",
+    "turkish_translation": "Bebek sonunda karyolasında uyuyor."},
+
+  {"word": "aspect", "meaning": "yön, bakış açısı, görünüş",
+    "sentence": "The cultural aspect of the city is fascinating.",
+    "turkish_translation": "Şehrin kültürel yönü büyüleyici."},
+
+  {"word": "assault", "meaning": "saldırı, saldırmak",
+    "sentence": "The police arrested the suspect for the assault.",
+    "turkish_translation": "Polis, saldırı nedeniyle şüpheliyi gözaltına aldı."},
+
+  {"word": "assemble", "meaning": "toplanmak, bir araya gelmek",
+    "sentence": "The participants will assemble in the conference hall.",
+    "turkish_translation": "Katılımcılar konferans salonunda toplanacaklar."},
+
+  {"word": "assert", "meaning": "iddia etmek, savunmak",
+    "sentence": "He wanted to assert his opinion during the meeting.",
+    "turkish_translation": "Toplantı sırasında görüşünü savunmak istedi."},
+
+  {"word": "assess", "meaning": "değerlendirmek, belirlemek",
+    "sentence": "The teacher will assess the students' performance on the test.",
+    "turkish_translation": "Öğretmen, öğrencilerin sınav performansını değerlendirecek."},
+
+  {"word": "asset", "meaning": "varlık, mal, mülk",
+    "sentence": "The company's most valuable asset is its intellectual property.",
+    "turkish_translation": "Şirketin en değerli varlığı fikri mülkiyetidir."},
+
+  {"word": "assign", "meaning": "atamak, görevlendirmek",
+    "sentence": "The manager will assign tasks to the team members.",
+    "turkish_translation": "Yönetici, görevleri takım üyelerine atayacak."},
+
+  {"word": "assignment", "meaning": "görev, ödev",
+    "sentence": "The students were given a challenging assignment.",
+    "turkish_translation": "Öğrencilere zorlayıcı bir ödev verildi."},
+
+  {"word": "assist", "meaning": "yardım etmek, desteklemek",
+    "sentence": "She offered to assist him with his project.",
+    "turkish_translation": "Ona projesinde yardım etmeyi teklif etti."},
+
+  {"word": "assistant", "meaning": "asistan, yardımcı",
+    "sentence": "The executive hired a new assistant to help with administrative tasks.",
+    "turkish_translation": "Yönetici, idari görevlerde yardımcı olması için yeni bir asistan tuttu."},
+
+  {"word": "associate", "meaning": "ilişkilendirmek, ortak olmak",
+    "sentence": "He wants to associate his brand with quality and innovation.",
+    "turkish_translation": "Markasını kalite ve inovasyonla ilişkilendirmek istiyor."},
+
+  {"word": "association", "meaning": "dernek, birlik, ilişki",
+    "sentence": "The local association organized a charity event.",
+    "turkish_translation": "Yerel dernek bir hayır etkinliği düzenledi."},
+
+  {"word": "assume", "meaning": "varsaymak, farz etmek",
+    "sentence": "Don't assume that everyone will agree with your opinion.",
+    "turkish_translation": "Herkesin görüşünüzü kabul edeceğini varsaymayın."},
+
+  {"word": "assure", "meaning": "garanti etmek, temin etmek",
+    "sentence": "He assured her that everything would be fine.",
+    "turkish_translation": "Her şeyin iyi olacağını temin etti."},
+
+  {"word": "athlete", "meaning": "sporcu",
+    "sentence": "The athlete won a gold medal in the Olympics.",
+    "turkish_translation": "Sporcu Olimpiyatlar'da altın madalya kazandı."},
+
+  {"word": "atmosphere", "meaning": "atmosfer, ortam, hava",
+    "sentence": "The atmosphere in the concert hall was electric.",
+    "turkish_translation": "Konser salonundaki atmosfer elektrik gibiydi."},
+
+  {"word": "attach", "meaning": "eklemek, bağlamak",
+    "sentence": "Please attach your resume to the job application.",
+    "turkish_translation": "Lütfen iş başvurusuna özgeçmişinizi ekleyin."},
+
+  {"word": "attack", "meaning": "saldırı, saldırmak",
+    "sentence": "The army launched an attack on the enemy's position.",
+    "turkish_translation": "Ordu düşmanın pozisyonuna saldırı başlattı."},
+
+  {"word": "attempt", "meaning": "deneme, girişim",
+    "sentence": "He made an attempt to climb the steep mountain.",
+    "turkish_translation": "Dik dağı tırmanmaya teşebbüs etti."},
+
+  {"word": "attend", "meaning": "katılmak, iştirak etmek",
+    "sentence": "She plans to attend the conference next month.",
+    "turkish_translation": "Gelecek ay konferansa katılmayı planlıyor."},
+
+  {"word": "attention", "meaning": "ilgi, dikkat",
+    "sentence": "The teacher asked for the students' attention before explaining the lesson.",
+    "turkish_translation": "Öğretmen dersi açıklamadan önce öğrencilerden dikkat istedi."},
+
+  {"word": "attitude", "meaning": "tutum, tavır",
+    "sentence": "Her positive attitude is infectious and inspiring.",
+    "turkish_translation": "Olumlu tutumu bulaşıcı ve ilham vericidir."},
+
+  {"word": "attorney", "meaning": "avukat",
+    "sentence": "He hired an attorney to handle his legal case.",
+    "turkish_translation": "Hukuki durumunu ele alması için bir avukat tuttu."},
+
+  {"word": "attract", "meaning": "çekmek, cezbetmek",
+    "sentence": "The colorful flowers attract butterflies to the garden.",
+    "turkish_translation": "Renkli çiçekler bahçeye kelebekleri çeker."},
+
+  {"word": "attraction", "meaning": "çekicilik, cazibe",
+    "sentence": "The Eiffel Tower is a famous tourist attraction.",
+    "turkish_translation": "Eiffel Kulesi ünlü bir turistik cazibedir."},
+
+  {"word": "audience", "meaning": "seyirci, izleyici",
+    "sentence": "The performance received a standing ovation from the audience.",
+    "turkish_translation": "Gösteri seyircilerden ayakta alkış aldı."},
+
+  {"word": "author", "meaning": "yazar, yazarlık yapmak",
+    "sentence": "The author of the book is known for his captivating stories.",
+    "turkish_translation": "Kitabın yazarı etkileyici hikayeleriyle tanınıyor."},
+
+  {"word": "authority", "meaning": "yetki, otorite",
+    "sentence": "The government has the authority to make important decisions.",
+    "turkish_translation": "Hükümetin önemli kararlar alma yetkisi vardır."},
+
+  {"word": "auto", "meaning": "oto, otomatik",
+    "sentence": "He prefers driving an auto transmission car.",
+    "turkish_translation": "Oto şanzımanlı bir araba kullanmayı tercih eder."},
+
+  {"word": "automatic", "meaning": "otomatik",
+    "sentence": "The doors of the mall open automatically when someone approaches.",
+    "turkish_translation": "Alışveriş merkezinin kapıları biri yaklaştığında otomatik olarak açılır."},
+
+  {"word": "autumn", "meaning": "sonbahar",
+    "sentence": "The leaves change color in autumn.",
+    "turkish_translation": "Yapraklar sonbaharda renk değiştirir."},
+
+  {"word": "available", "meaning": "mevcut, uygun",
+    "sentence": "Is this product available in other colors?",
+    "turkish_translation": "Bu ürün diğer renklerde mevcut mu?"},
+
+  {"word": "average", "meaning": "ortalama, vasat",
+    "sentence": "The student's grades are above average.",
+    "turkish_translation": "Öğrencinin notları ortalamanın üstünde."},
+
+  {"word": "avoid", "meaning": "kaçınmak, sakınmak",
+    "sentence": "She tries to avoid eating sugary snacks.",
+    "turkish_translation": "Şekerli atıştırmalıklar yemekten kaçınmaya çalışıyor."},{"word": "await", "meaning": "beklemek, beklemekte olmak",
+  "sentence": "They await the arrival of the guest.",
+  "turkish_translation": "Misafirin varışını bekliyorlar."},
+
+  {"word": "awake", "meaning": "uyanık, uyanmak",
+    "sentence": "I am usually awake by 7 in the morning.",
+    "turkish_translation": "Genellikle sabah 7'de uyanık olurum."},
+
+  {"word": "award", "meaning": "ödül, ödül vermek",
+    "sentence": "She received an award for her outstanding performance.",
+    "turkish_translation": "Olağanüstü performansı nedeniyle bir ödül aldı."},
+
+  {"word": "aware", "meaning": "farkında, haberdar",
+    "sentence": "He is aware of the potential risks.",
+    "turkish_translation": "Potansiyel risklerin farkında."},
+
+  {"word": "away", "meaning": "uzakta, uzak, gitmek",
+    "sentence": "They went away on vacation.",
+    "turkish_translation": "Tatile gittiler."},
+
+  {"word": "awkward", "meaning": "beceriksiz, sakar, garip",
+    "sentence": "He felt awkward in the unfamiliar environment.",
+    "turkish_translation": "Yabancı bir ortamda kendini garip hissetti."},
+
+  {"word": "awful", "meaning": "berbat, korkunç, çok kötü",
+    "sentence": "The weather was awful during the storm.",
+    "turkish_translation": "Fırtına sırasında hava korkunçtu."},
+
+  {"word": "awkward", "meaning": "beceriksiz, sakar, garip",
+    "sentence": "He felt awkward in the unfamiliar environment.",
+    "turkish_translation": "Yabancı bir ortamda kendini garip hissetti."},
+  {"word": "axe", "meaning": "balta, kesmek, kırmak",
+    "sentence": "He used an axe to chop firewood.",
+    "turkish_translation": "Odun kesmek için bir balta kullandı."}
+
+]
