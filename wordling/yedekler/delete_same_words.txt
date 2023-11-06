@@ -1,0 +1,64 @@
+
+import 'package:firebase_core/firebase_core.dart';
+import 'package:flutter/material.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+
+class delete_same_words extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Firestore Example',
+      home: Scaffold(
+        appBar: AppBar(
+          title: Text('Firestore Example'),
+        ),
+        body: Center(
+          child: ElevatedButton(
+            onPressed: () async {
+              await findAndRemoveDuplicateWords();
+            },
+            child: Text('Find and Remove Duplicate Words'),
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+Future<void> findAndRemoveDuplicateWords() async {
+  final CollectionReference wordsCollection = FirebaseFirestore.instance.collection('words');
+  final removedWordsList = <String>[];
+
+  for (var letterCode = 'a'.codeUnitAt(0); letterCode <= 'z'.codeUnitAt(0); letterCode++) {
+    final letter = String.fromCharCode(letterCode);
+    final querySnapshot = await wordsCollection.doc(letter).get();
+
+    if (querySnapshot.exists) {
+      final wordsData = querySnapshot.data() as Map<String, dynamic>;
+      final wordsList = wordsData['words'] as List<dynamic>;
+      final updatedWordsList = <Map<String, dynamic>>[];
+
+      for (var wordData in wordsList) {
+        final word = wordData['word'].toString();
+        final meaning = wordData['meaning'].toString();
+
+        if (word != meaning) {
+          // Sadece aynı 'word' ve 'meaning' kısmına sahip olmayanları ekleyin
+          updatedWordsList.add(wordData);
+        } else {
+          removedWordsList.add(word); // Kaldırılan kelimeyi listeye ekle
+        }
+      }
+
+      // Firestore koleksiyonunu güncelle
+      await wordsCollection.doc(letter).update({
+        'words': updatedWordsList,
+      });
+    }
+  }
+
+  // Kaldırılan kelimeleri konsola yazdır
+  print('Removed Words: $removedWordsList');
+}
+
+

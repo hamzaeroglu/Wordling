@@ -1,6 +1,7 @@
 import 'package:circular_menu/circular_menu.dart';
 import 'package:flutter/material.dart';
 import 'package:sqflite/sqflite.dart';
+import 'package:wordling/games.dart';
 import 'package:wordling/random_word.dart';
 import 'package:wordling/search.dart';
 import 'package:wordling/widgets.dart';
@@ -81,7 +82,7 @@ class _FavoritesPageState extends State<FavoritesPage> {
                   Navigator.push(
                     context,
                     MaterialPageRoute(
-                      builder: (context) => WordleGamePage(),
+                      builder: (context) => chooseGame(),
                     ),
                   );
                 },

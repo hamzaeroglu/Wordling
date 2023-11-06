@@ -1,9 +1,10 @@
 import 'package:circular_menu/circular_menu.dart';
 import 'package:flutter/material.dart';
+import 'package:wordling/feedback.dart';
 import 'package:wordling/games.dart';
 import 'package:wordling/random_word.dart';
 import 'package:wordling/search.dart';
-
+import 'feedback.dart';
 import 'favorites_page.dart';
 
 class Widgets{
@@ -11,10 +12,20 @@ class Widgets{
     return AppBar(
       automaticallyImplyLeading: false, // Geri butonunu kaldır
       shape: border(20),
-      backgroundColor: Color(0xFFCDE9E8),
-      title: Center(child: Text('${appBar_text}', textAlign: TextAlign.center, style: text_style(),)),
+      backgroundColor: Color(0xFFFFB959),
+      title: Text(
+        '${appBar_text}',
+        textAlign: TextAlign.center,
+        style: text_style(),
+      ),
+      centerTitle: true, // Text'i tam ortalamak için centerTitle kullanın
+      actions: <Widget>[
+        FeedbackButton(),
+      ],
     );
   }
+
+
 
   TextStyle text_style() => TextStyle(color: Colors.black, fontFamily: 'Montserrat', fontWeight:FontWeight.bold ,);
 

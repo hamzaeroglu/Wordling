@@ -29,13 +29,14 @@ class FirstTimeOpenScreen extends StatelessWidget {
         },
         addButton: true,
         background: [
-          buildImage(context, '1', MediaQuery.of(context).size.height * 0.7),
+          buildImage(context, '1', MediaQuery.of(context).size.height * 0.6),
           buildImage(context, '2',MediaQuery.of(context).size.height * 0.7),
           buildImage(context, '3-4',MediaQuery.of(context).size.height * 0.9),
           buildImage(context, '5-6-7',MediaQuery.of(context).size.height * 0.9),
         ],
         totalPage: 4,
         speed: 1.8,
+
         pageBodies: [
           Container(
             padding: EdgeInsets.symmetric(horizontal: 40),

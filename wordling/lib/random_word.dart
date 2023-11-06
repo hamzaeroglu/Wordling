@@ -1,7 +1,10 @@
 import 'dart:async';
 import 'package:circular_menu/circular_menu.dart';
+import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:wordling/favorites_page.dart';
+import 'package:wordling/firebase_messaging.dart';
 import 'package:wordling/games.dart';
 import 'package:wordling/search.dart';
 import 'package:wordling/widgets.dart';
@@ -14,20 +17,63 @@ import 'database.dart';
 class RandomWordScreen extends StatefulWidget {
   @override
   _RandomWordScreenState createState() => _RandomWordScreenState();
+
 }
 
 class _RandomWordScreenState extends State<RandomWordScreen> {
+  final _service = FirebaseNotificationService();
   Widgets widgets = Widgets();
   Timer? _timer;
   Map<String, dynamic> wordData = {};
+  String? fcmToken; // FCM token'ını saklayacak değişken
+  List<Map<String, dynamic>> allWords = [];
+
+
+
 
   @override
   void initState() {
-    super.initState();
+      super.initState();
+      _service.connectNotification();
+      FirebaseMessaging.instance.subscribeToTopic("all").then((value) {
+        print("ABONELİK BAŞARILI");
+        // Abonelik başarılı
+      }).catchError((error) {
+        // Abonelik hatası
+      });
+      loadWords();
+    // FCM token'ını al ve değişkeni güncelle
 
     // Uygulama başladığında belirli saatteki kelimeyi kontrol et ve çek
     checkAndFetchWordAtScheduledDate();
   }
+   Future<void> loadWords() async {
+    final words = await DataProvider().getWords();
+    setState(() {
+      allWords = words;
+    });
+  }
+
+
+  Future<void> subscribeToTopicOnce(String topic) async {
+    final prefs = await SharedPreferences.getInstance();
+    bool alreadySubscribed = prefs.getBool('subscribed_to_$topic') ?? false;
+
+    if (!alreadySubscribed) {
+      await FirebaseMessaging.instance.subscribeToTopic(topic);
+      prefs.setBool('subscribed_to_$topic', true); // Abonelik yapıldı, artık tekrar abone olunmayacak
+    } else {
+      // Token değiştiğinde güncelle
+      String? currentToken = await FirebaseMessaging.instance.getToken();
+      String? storedToken = prefs.getString('fcm_token');
+
+      if (currentToken != storedToken) {
+        await FirebaseMessaging.instance.subscribeToTopic(topic);
+        prefs.setString('fcm_token', currentToken!); // Yeni tokeni sakla
+      }
+    }
+  }
+
 
   void checkAndFetchWordAtScheduledDate() async {
     final prefs = await SharedPreferences.getInstance();
@@ -81,6 +127,7 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
     return Stack(
       children:
       [
+
       Scaffold(
         backgroundColor: Color(0xFFECEAE8),
         appBar: widgets.buildAppBar("WORDLING"),
@@ -93,8 +140,10 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
               padding: const EdgeInsets.all(3.0),
               child: Stack(
                 children: [
+
                   Card(
-                    color: Color(0xFFCDE9E8),
+                    color: Color(0xFFFFB959),
+                   // color: Color(0xFFB5D6FF),
                     elevation: 20,
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(20),
@@ -262,7 +311,11 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
         ),
 
 
+
       ]
+
     );
+
   }
+
 }

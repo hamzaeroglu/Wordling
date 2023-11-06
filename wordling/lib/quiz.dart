@@ -2,7 +2,8 @@ import 'dart:async';
 import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:wordling/widgets.dart';
-import 'data_provider.dart'; // DataProvider sınıfını içe aktarın
+import 'data_provider.dart';
+import 'feedback.dart'; // DataProvider sınıfını içe aktarın
 
 class QuizPage extends StatefulWidget {
   const QuizPage({Key? key}) : super(key: key);
@@ -18,20 +19,41 @@ class _QuizPageState extends State<QuizPage> {
   String correctAnswer = ''; // Doğru cevap
   List<String> choices = []; // Seçeneklerin listesi
   Color boxColor = Color(0xFFBCEFD0);
+  Color boxShadowColor = Colors.grey;
   Random random = Random();
   bool containsForbiddenLetters = false;
+  bool isAnswerCorrect = false; // Sorunun doğru cevap verilip verilmediğini takip etmek için bir değişken
+  Map<int, Color> boxColors = {}; // Şıkların renklerini saklamak için bir Map kullanın
+  Map<int, Color?> boxShadows = {}; // Şıkların renklerini saklamak için bir Map kullanın
+
+
 
   @override
   void initState() {
     super.initState();
+    for (int i = 0; i < 3; i++) {
+      boxShadows[i] = boxShadowColor;
+      boxColors[i] = boxColor;
+    }
     _initializeQuiz();
+
+
   }
+
 
   void _initializeQuiz() async {
     // DataProvider ile rastgele 3 kelime çekme işlemi
     final List<Map<String, dynamic>?> randomWordsData = [];
 
     for (int i = 0; i < 3; i++) {
+      final randomWordData = await dataProvider.getRandomWord();
+      if (randomWordData != null) {
+        randomWordsData.add(randomWordData);
+      }
+    }
+
+    // Eğer randomWordsData listesi hala 3 öğeden azsa, yeni kelimeler ekleyin
+    while (randomWordsData.length < 3) {
       final randomWordData = await dataProvider.getRandomWord();
       if (randomWordData != null) {
         randomWordsData.add(randomWordData);
@@ -59,7 +81,6 @@ class _QuizPageState extends State<QuizPage> {
           question = '${randomWordData?['word']}';
           correctAnswer = randomWordData?['meaning'];
 
-          // Şıkları karıştırın ve sırayla A, B, C olarak atayın
           choices = [
             randomWordsData[0]!['meaning'] as String,
             randomWordsData[1]!['meaning'] as String,
@@ -69,7 +90,6 @@ class _QuizPageState extends State<QuizPage> {
           question = '${randomWordData?['meaning']}';
           correctAnswer = randomWordData?['word'];
 
-          // Şıkları karıştırın ve sırayla A, B, C olarak atayın
           choices = [
             randomWordsData[0]!['word'] as String,
             randomWordsData[1]!['word'] as String,
@@ -77,6 +97,11 @@ class _QuizPageState extends State<QuizPage> {
           ]..shuffle();
         }
       });
+
+      for (int i = 0; i < 3; i++) {
+        boxShadows[i] = boxShadowColor;
+        boxColors[i] = boxColor;
+      }
     } else {
       // Uygun kelime bulunamazsa, isteğe bağlı olarak bir hata mesajı gösterilebilir
       print("Uygun kelime bulunamadı.");
@@ -85,9 +110,11 @@ class _QuizPageState extends State<QuizPage> {
 
 
 
+
   void _failedMessage(){
     final snackBar = SnackBar(
-      content: Text("YANLIŞ CEVAP!",style: widgets.text_style(),),
+      backgroundColor: Colors.redAccent,
+      content: Text(" CEVAP YANLIŞ!",style:TextStyle(color: Colors.black, fontFamily: 'Montserrat', fontWeight:FontWeight.bold ,)),
       action: SnackBarAction(
         label: 'Tamam',
         onPressed: () {
@@ -101,7 +128,8 @@ class _QuizPageState extends State<QuizPage> {
   }
   void _successMessage(){
     final snackBar = SnackBar(
-      content: Text("CEVAP DOĞRU", style: widgets.text_style(),),
+      backgroundColor: Colors.greenAccent,
+      content: Text("CEVAP DOĞRU", style: TextStyle(color: Colors.black, fontFamily: 'Montserrat', fontWeight:FontWeight.bold ,)),
 
     );
 
@@ -116,12 +144,13 @@ class _QuizPageState extends State<QuizPage> {
     return Stack(
       children:
       [
-      Scaffold(
+        Scaffold(
         appBar: widgets.buildAppBar("Kelimenin Karşılığı Nedir"),
         body: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
+
             Card(
               shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
               elevation: 20,
@@ -147,25 +176,58 @@ class _QuizPageState extends State<QuizPage> {
                       final index = entry.key;
                       final choice = entry.value;
 
-                      return ListTile(
-
-                        title: Container(
-                            decoration: BoxDecoration(borderRadius: BorderRadius.circular(20), color: boxColor),
-                            height: MediaQuery.of(context).size.height*0.07,
-                            child: Center(child: Text('$choice', textAlign: TextAlign.center, style: widgets.text_style()))), // A, B, C şeklinde şıkları numaralandırır
+                      return GestureDetector(
                         onTap: () {
-
                           if (choice == correctAnswer) {
-                            // Doğru cevap verildiğinde yeni soruyu oluşturun
+                            setState(() {
+                              isAnswerCorrect = true;
+                              boxShadows[index] = Colors.transparent; // Şık doğruysa, box shadow rengini transparan yapın
+                              boxColors[index] = Colors.green;
+
+                            });
                             _successMessage();
                             _initializeQuiz();
                           } else {
+                            setState(() {
+                              boxShadows[index] = Colors.transparent; // Şık doğruysa, box shadow rengini transparan yapın
+                              boxColors[index] = Colors.red;
+                            });
                             _failedMessage();
                           }
+                          // Şık seçimine basıldığında bekleyin ve rengi tekrar orijinal hale getirin
+                          Future.delayed(Duration(seconds: 3), () {
+                            setState(() {
+                              boxColors[index] = boxColor;
+                              isAnswerCorrect = false;
+                              boxShadows[index] = boxShadowColor;
+                            });
+                          });
                         },
+                        child: Padding(
+                          padding: const EdgeInsets.all(8.0),
+                          child: Container(
+                            decoration: BoxDecoration(
+                              borderRadius: BorderRadius.circular(20),
+                              color: boxColors[index],
+                              boxShadow: [
+                                BoxShadow(
+                                  color: boxShadows[index] = boxShadows[index] ?? Colors.transparent, // Varsayılan olarak nullsa, şeffaf yapabilirsiniz
+
+                            offset: Offset(0, 2),
+                                  blurRadius: 2,
+                                  spreadRadius: 2,
+                                )
+                              ],
+                            ),
+                            height: MediaQuery.of(context).size.height * 0.07,
+                            child: Center(child: Text('$choice', textAlign: TextAlign.center, style: widgets.text_style())),
+                          ),
+                        ),
                       );
+
                     }).toList(),
                   ),
+
                   SizedBox(height: 20),
 
                 ],
@@ -177,7 +239,10 @@ class _QuizPageState extends State<QuizPage> {
         ),
       ),
         widgets.buttonShortCut(context),
+
       ]
     );
   }
+
+
 }
