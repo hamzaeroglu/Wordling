@@ -116,10 +116,10 @@ class _WordleGamePageState extends State<WordleGamePage> {
       value: dropdownValue2,
       icon: const Icon(Icons.arrow_downward),
       elevation: 16,
-      style: const TextStyle(color: Colors.deepPurple),
+      style: const TextStyle(color: Color(0xffFC3A30)),
       underline: Container(
         height: 2,
-        color: Colors.deepPurpleAccent,
+        color: Color(0xFFA7FFBC),
       ),
       onChanged: (String? value) {
         // This is called when the user selects an item.
@@ -150,10 +150,10 @@ class _WordleGamePageState extends State<WordleGamePage> {
       value: dropdownValue,
       icon: const Icon(Icons.arrow_downward),
       elevation: 16,
-      style: const TextStyle(color: Colors.deepPurple),
+      style: const TextStyle(color: Color(0xFF30CCFC)),
       underline: Container(
         height: 2,
-        color: Colors.deepPurpleAccent,
+        color: Color(0xFFA7FFBC),
       ),
       onChanged: (String? value) {
         // This is called when the user selects an item.
@@ -185,18 +185,24 @@ class _WordleGamePageState extends State<WordleGamePage> {
 
     currentGuesses[currentAttempt] = currentGuess.toLowerCase();
     List<String> currentGuessLetters = currentGuess.split('');
-    List<String> remainingLetters = List.from(correctWord);
+
+    List<bool> correctLettersInCorrectPosition = List.filled(wordToGuess.length, false);
+    List<bool> correctLettersInWrongPosition = List.filled(wordToGuess.length, false);
 
     for (int i = 0; i < currentGuessLetters.length; i++) {
       String letter = currentGuessLetters[i];
-      if (remainingLetters.contains(letter)) {
-        int index = remainingLetters.indexOf(letter);
-        if (index == i) {
-          cellColors[currentAttempt][i] = Colors.green; // Doğru harf, doğru sırada
-        } else {
-          cellColors[currentAttempt][i] = Colors.yellow; // Doğru harf, yanlış sırada
-        }
-        remainingLetters[index] = ''; // Aynı harfi birden fazla kez kullanmayı engelle
+      if (correctWord[i] == letter) {
+        correctLettersInCorrectPosition[i] = true;
+      } else if (correctWord.contains(letter)) {
+        correctLettersInWrongPosition[correctWord.indexOf(letter)] = true;
+      }
+    }
+
+    for (int i = 0; i < wordToGuess.length; i++) {
+      if (correctLettersInCorrectPosition[i]) {
+        cellColors[currentAttempt][i] = Colors.green; // Doğru harf, doğru sırada
+      } else if (correctLettersInWrongPosition[i]) {
+        cellColors[currentAttempt][i] = Colors.yellow; // Doğru harf, yanlış sırada
       }
     }
 
@@ -205,12 +211,13 @@ class _WordleGamePageState extends State<WordleGamePage> {
       _textEditingController.clear(); // Denetleyiciyi temizle
     });
 
-    if (currentGuess == wordToGuess) {
+    if (correctLettersInCorrectPosition.every((element) => element == true)) {
       _showCongratulationsDialog();
     } else if (currentAttempt >= 7) {
       _showLoseDialog();
     }
   }
+
 
   void _showLengthWarning() {
     final snackBar = SnackBar(

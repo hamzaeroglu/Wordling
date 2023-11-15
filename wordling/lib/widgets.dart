@@ -12,11 +12,11 @@ class Widgets{
     return AppBar(
       automaticallyImplyLeading: false, // Geri butonunu kaldır
       shape: border(20),
-      backgroundColor: Color(0xFFFFB959),
+      backgroundColor: Color(0xFF648870),
       title: Text(
         '${appBar_text}',
         textAlign: TextAlign.center,
-        style: text_style(),
+        style: TextStyle(color: Colors.black, fontFamily: 'Montserrat', fontWeight:FontWeight.bold, fontSize: 25 ),
       ),
       centerTitle: true, // Text'i tam ortalamak için centerTitle kullanın
       actions: <Widget>[
