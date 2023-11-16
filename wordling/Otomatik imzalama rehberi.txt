@@ -1,0 +1,38 @@
+-terminale-
+keytool -genkey -v -keystore upload-keystore.jks -storetype JKS -keyalg RSA -keysize 2048 -validity 10000 -alias upload
+** jks dosyasını ve konumunu kontrol et
+
+
+- android/app/build.gradle -
+
+** androidin üzerine**
+
+def keystoreProperties = new Properties()
+def keystorePropertiesFile = rootProject.file('key.properties')
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+}
+
+
+**android içinde defaultconfig altına**
+
+    signingConfigs {
+        release {
+            keyAlias keystoreProperties['keyAlias']
+            keyPassword keystoreProperties['keyPassword']
+            storeFile file(keystoreProperties['storeFile']) // Doğru yol burada belirtilmeli
+            storePassword keystoreProperties['storePassword']
+        }
+    }
+
+
+-android içine key.properties adında ayar dosyası oluştur-
+storePassword=Hh123456Ee
+keyPassword=Hh123456Ee
+keyAlias=my-key-alias
+storeFile=D:/flutter/projects/wordling/my-release-key.jks
+
+
+-terminale dön-
+flutter clean
+flutter build appbundle --release
