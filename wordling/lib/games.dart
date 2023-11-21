@@ -4,6 +4,8 @@ import 'package:wordling/quiz.dart';
 import 'package:wordling/widgets.dart';
 import 'package:wordling/wordle.dart';
 
+import 'feedback.dart';
+
 class chooseGame extends StatefulWidget {
   chooseGame({Key? key}) : super(key: key);
 
@@ -19,8 +21,8 @@ class _chooseGameState extends State<chooseGame> {
     return Stack(
       children:
       [Scaffold(
-        backgroundColor: Color(0xFFECEAE8),
-        appBar: widgets.buildAppBar("Oyun Seç"),
+        backgroundColor: Color(0xFFA7FFD0),
+        appBar: widgets.buildAppBar("WORDLING"),
         body: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
@@ -32,7 +34,7 @@ class _chooseGameState extends State<chooseGame> {
                     height: MediaQuery.of(context).size.height * 0.1,
                     width: MediaQuery.of(context).size.width * 0.7,
                     child: ElevatedButton(
-                      style: ButtonStyle(backgroundColor: MaterialStatePropertyAll(Color(0XFF9A61F9)), elevation: MaterialStatePropertyAll(20), shadowColor: MaterialStatePropertyAll(Colors.black)),
+                      style: ButtonStyle(backgroundColor: MaterialStatePropertyAll(Color(0XFFFEF1DA)), elevation: MaterialStatePropertyAll(20), shadowColor: MaterialStatePropertyAll(Colors.black)),
                       onPressed: (){
                         Navigator.push(
                           context,
@@ -57,7 +59,7 @@ class _chooseGameState extends State<chooseGame> {
                               padding: const EdgeInsets.only(left: 8.0),
                               child: Animate(
                                   effects: [FadeEffect(), SlideEffect()],
-                                  child: Text("Wordling - Kelime Bilmece", style: widgets.text_style(),textAlign: TextAlign.end)),
+                                  child: Text("Wordling - Wordle", style: TextStyle(fontWeight: FontWeight.bold, color: Colors.black, fontSize: 18),textAlign: TextAlign.end)),
                             ),
                           ],
                         ),
@@ -89,7 +91,7 @@ class _chooseGameState extends State<chooseGame> {
                     width: MediaQuery.of(context).size.width * 0.7,
 
                     child: ElevatedButton(
-                      style: ButtonStyle(backgroundColor: MaterialStatePropertyAll(Color(0XFF9A61F9)), elevation: MaterialStatePropertyAll(20)),
+                      style: ButtonStyle(backgroundColor: MaterialStatePropertyAll(Color(0XFFFEF1DA)), elevation: MaterialStatePropertyAll(20)),
 
                       onPressed: (){
                         Navigator.push(
@@ -115,7 +117,7 @@ class _chooseGameState extends State<chooseGame> {
                               padding: const EdgeInsets.only(left: 8.0),
                               child: Animate(
                                   effects: [SlideEffect(),FadeEffect()],
-                                  child: Text("Temel Kelime Testi", style: widgets.text_style(),textAlign: TextAlign.end)),
+                                  child: Text("Temel Kelime Testi", style: TextStyle(fontWeight: FontWeight.bold, color: Colors.black, fontSize: 18),textAlign: TextAlign.end)),
                             ),
                           ],
                         ),

@@ -1,0 +1,54 @@
+            NASIL OYNANIR?
+
+Wordling, kelime dağarcığınızı ve kelime çözme becerilerinizi sınayan bir kelime bulmaca oyunudur. Bu oyun, tahmin etmeniz gereken bir kelime ile başlar ve amacınız sınırlı bir sayıda denemede doğru kelimeyi bulmaktır. İşte nasıl oynayacağınız:
+
+1. Dil Seçimi:
+
+İlk adım olarak, tercih ettiğiniz dili açılır menüden seçin. Türkçe ve İngilizce arasından seçim yapabilirsiniz.
+
+
+2. Zorluk Seviyesi Seçimi:
+
+Ardından, ikinci açılır menüden zorluk seviyesini seçin. Üç seviye arasından seçim yapabilirsiniz: Kolay, Orta veya Zor. Zorluk seviyesi, tahmin etmeniz gereken kelimenin uzunluğunu belirler.
+
+
+3. Oyun Tahtası:
+
+Oyun tahtası, kelimeyi tahmin etmeniz gereken harf kutularından oluşur.
+
+
+4. Tahmin Yapma:
+
+Tahminlerinizi girmek için oyun tahtasının altındaki metin giriş alanını kullanın. Tahmininiz, seçilen zorluk seviyesi için belirlenen uzunluk sınırları içinde olmalıdır.
+Bir tahmin girdikten sonra, onaylamak için yeşil onay işaretini tıklayın.
+Tahminleriniz, oyun tahtasındaki ilgili satırlarda görünecektir.
+
+
+5. Tahminlere Geri Bildirim:
+
+Tahminlerde bulundukça, oyun tahtasındaki kutuların rengi geri bildirim sağlamak için değişecektir:
+Yeşil: Doğru harf, doğru konumda.
+Sarı: Doğru harf, yanlış konumda.
+Gri: Yanlış harf.
+
+
+6. Kazanma ve Kaybetme:
+
+Belirtilen deneme sayısı içinde doğru tahmin ederseniz, oyunu kazanırsınız.
+Doğru kelimeyi bulmadan deneme hakkınız bitirse oyunu kaybedersiniz.
+
+
+7. Oyun Sonu:
+
+Oyun sona erdiğinde (kazanma veya kaybetme), doğru kelimeyi ve anlamını gösteren bir iletişim kutusu görüntülenir.
+
+
+8. Yeni Bir Oyun Başlatma:
+
+Her zaman "Yeni Oyun" düğmesini tıklayarak yeni bir oyun başlatabilirsiniz.
+
+
+9. Eğlenin ve Öğrenin:
+
+Wordling sadece eğlenceli bir kelime bulmaca oyunu değil, aynı zamanda kelime bilginizi ve kelime tanıma becerilerinizi geliştirmenin harika bir yoludur.
+Wordling'i oynarken gizli kelimeleri bulmayı deneyin ve kelime bilginizi geliştirin! İyi eğlenceler!

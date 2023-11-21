@@ -12,16 +12,23 @@ dependencies:
     sdk: flutter
   http: ^1.1.0
   cloud_firestore: ^4.9.0
-  firebase_core: ^2.15.1
-  flutter_local_notifications: ^15.1.1
-  firebase_messaging: ^14.6.7
-  grock: ^0.3.3
+  firebase_core: ^2.17.0
+  flutter_local_notifications: ^16.1.0
+  firebase_messaging: ^14.6.9
+  grock: ^0.4.3
   onesignal_flutter: ^5.0.0
   shared_preferences: ^2.2.1
   cupertino_icons: ^1.0.2
   cron: ^0.5.1
   sqflite: ^2.3.0
   circular_menu: ^2.0.1
+  flutter_animate: ^4.2.0+1
+  android_alarm_manager_plus: ^3.0.2
+  flutter_background_service: ^5.0.1
+  easy_splash_screen: ^1.0.4
+  flutter_onboarding_slider: ^1.0.10
+  permission_handler: ^11.0.1
+
 
 dev_dependencies:
   flutter_test:
@@ -31,6 +38,9 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
+    - assets/images/
+    - assets/texts/
+    - assets/images/opening/
     - lib/dictionary/
 
   fonts:

@@ -129,22 +129,23 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
       [
 
       Scaffold(
-        backgroundColor: Color(0xFFECEAE8),
+        backgroundColor: Color(0xFF8FC2A0),
         appBar: widgets.buildAppBar("WORDLING"),
 
         body: Center(
           child: Container(
             height: MediaQuery.of(context).size.height* 0.6,
-            decoration: BoxDecoration( borderRadius: BorderRadius.circular(15)),
+            decoration: BoxDecoration( borderRadius: BorderRadius.circular(15),),
             child: Padding(
               padding: const EdgeInsets.all(3.0),
               child: Stack(
                 children: [
 
                   Card(
-                    color: Color(0xFFFFB959),
+                    color: Color(0xFFF5E0C9),
                    // color: Color(0xFFB5D6FF),
-                    elevation: 20,
+                    elevation: 40,
+                    shadowColor: Color(0xffF5E0C9),
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(20),
                     ),
@@ -224,7 +225,7 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
                     child: Container(
                       height: 50,
                       decoration: BoxDecoration(
-                        color: Colors.white70,
+                        color: Color(0XFFC7E1D0),
                         borderRadius: BorderRadius.only(
                           bottomLeft: Radius.circular(20),
                           bottomRight: Radius.circular(20),

@@ -1,0 +1,28 @@
+        NASIL OYNANIR?
+
+Bu kelime bilmece oyunu, kelime bilginizi test etmenin ve eğlenmenin harika bir yoludur. Oyunda size bir soru ve çeşitli seçenekler sunulur, amacınız doğru cevabı bulmaktır
+
+1. Soruları Cevaplayın:
+
+Oyuna başladığınızda, size bir soru ve bu soruya ait üç farklı seçenek sunulacaktır.
+
+
+2. Doğru Cevabı Bulun:
+
+Soruyu dikkatlice okuyun ve doğru cevabı seçmek için A, B veya C seçeneklerinden birini tıklayın.
+
+
+3. Geri Bildirim:
+
+Doğru cevap verdiğinizde veya yanlış cevapladığınızda, altta bir bilgilendirme mesajı görüntülenecektir.
+
+
+4. Yeni Sorular:
+
+Doğru cevap verdiğinizde veya yanlış cevapladığınızda, otomatik olarak yeni bir soruya geçilecektir.
+
+5. Eğlenin ve Öğrenin:
+
+
+Bu kelime bilmece oyunu hem eğlenceli hem de öğretici bir deneyim sunar. Kelime bilginizi geliştirmek için harika bir fırsattır.
+Kelimeleri tanıma yeteneğinizi test etmek ve eğlenmek için bu Quiz oyununu deneyin! İyi şanslar!
