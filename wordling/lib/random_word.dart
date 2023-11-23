@@ -1,8 +1,11 @@
 import 'dart:async';
+import 'dart:ffi';
 import 'package:circular_menu/circular_menu.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:google_mobile_ads/google_mobile_ads.dart';
+import 'package:wordling/bannerAd.dart';
 import 'package:wordling/favorites_page.dart';
 import 'package:wordling/firebase_messaging.dart';
 import 'package:wordling/games.dart';
@@ -27,13 +30,14 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
   Map<String, dynamic> wordData = {};
   String? fcmToken; // FCM token'ını saklayacak değişken
   List<Map<String, dynamic>> allWords = [];
-
+  BannerAd? _bannerAd;
 
 
 
   @override
   void initState() {
       super.initState();
+      _loadBannerAd();
       _service.connectNotification();
       FirebaseMessaging.instance.subscribeToTopic("all").then((value) {
         print("ABONELİK BAŞARILI");
@@ -47,6 +51,12 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
     // Uygulama başladığında belirli saatteki kelimeyi kontrol et ve çek
     checkAndFetchWordAtScheduledDate();
   }
+  Future<void> _loadBannerAd() async {
+    _bannerAd = AdMobService.createBannerAd();
+
+    _bannerAd!.load();
+  }
+
    Future<void> loadWords() async {
     final words = await DataProvider().getWords();
     setState(() {
@@ -124,16 +134,19 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
   Color buttonColor = Colors.white; // Başlangıçta pasif olarak beyaz renkte
   @override
   Widget build(BuildContext context) {
-    return Stack(
-      children:
-      [
+
+
+    return
 
       Scaffold(
         backgroundColor: Color(0xFF8FC2A0),
         appBar: widgets.buildAppBar("WORDLING"),
 
-        body: Center(
+        body: Stack(
+          children:[
+        Center(
           child: Container(
+            margin: EdgeInsets.only(bottom: 85),
             height: MediaQuery.of(context).size.height* 0.6,
             decoration: BoxDecoration( borderRadius: BorderRadius.circular(15),),
             child: Padding(
@@ -142,6 +155,7 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
                 children: [
 
                   Card(
+
                     color: Color(0xFFF5E0C9),
                    // color: Color(0xFFB5D6FF),
                     elevation: 40,
@@ -259,61 +273,74 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
             ),
           ),
         ),
-      ),
+
         Positioned(
 
-          child: CircularMenu(
+          child: Padding(
+            padding: const EdgeInsets.only(bottom:70 ),
+            child: CircularMenu(
+              alignment: Alignment.bottomCenter,
+              radius: 60, // Yarıçapı ayarlayabilirsiniz
+              toggleButtonColor: Color(0xff402B04),
+              items: [
+                CircularMenuItem(
+                  color: Color(0XFFDB56AD),
 
-            alignment: Alignment.bottomRight,
-            radius: 60, // Yarıçapı ayarlayabilirsiniz
-            toggleButtonColor: Colors.black,
-            items: [
-              CircularMenuItem(
-                color: Color(0XFFDB56AD),
+                  icon: Icons.favorite,
+                  onTap: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => FavoritesPage(),
+                      ),
+                    );
+                  },
+                ),
+                CircularMenuItem(
+                  color: Color(0XFFDB56AD),
 
-                icon: Icons.favorite,
-                onTap: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (context) => FavoritesPage(),
-                    ),
-                  );
-                },
-              ),
-              CircularMenuItem(
-                color: Color(0XFFDB56AD),
+                  icon: Icons.search,
+                  onTap: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => SearchWords(),
+                      ),
+                    );
+                  },
+                ),
+                CircularMenuItem(
+                  color: Color(0XFFDB56AD),
 
-                icon: Icons.search,
-                onTap: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (context) => SearchWords(),
-                    ),
-                  );
-                },
-              ),
-              CircularMenuItem(
-                color: Color(0XFFDB56AD),
-
-                icon: Icons.videogame_asset_rounded,
-                onTap: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (context) => chooseGame(),
-                    ),
-                  );
-                },
-              ),
-            ],
+                  icon: Icons.videogame_asset_rounded,
+                  onTap: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => chooseGame(),
+                      ),
+                    );
+                  },
+                ),
+              ],
+            ),
           ),
         ),
+        if (_bannerAd != null)
+          Positioned(
+            bottom: 0,
+            left: 0,
+            right: 0,
+            child: Container(
+              width: _bannerAd!.size.width.toDouble(),
+              height: _bannerAd!.size.height.toDouble(),
+              child: AdWidget(ad: _bannerAd!),
+            ),
+          ),
+    ]
+    )
 
 
-
-      ]
 
     );
 

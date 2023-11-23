@@ -5,12 +5,15 @@ import 'package:grock/grock.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:wordling/random_word.dart';
 import 'package:wordling/splash.dart';
-
+import 'package:google_mobile_ads/google_mobile_ads.dart';
+import 'bannerAd.dart';
 import 'firebase_options.dart';
 
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  AdMobService.initialize();
+
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );

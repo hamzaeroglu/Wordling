@@ -1,11 +1,14 @@
 import 'package:circular_menu/circular_menu.dart';
 import 'package:flutter/material.dart';
+import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:wordling/data_provider.dart';
 import 'package:wordling/random_word.dart';
 import 'package:wordling/search.dart';
 import 'package:wordling/widgets.dart';
 
+import 'bannerAd.dart';
 import 'favorites_page.dart';
+import 'games.dart';
 
 enum Difficulty { Easy, Medium, Hard }
 
@@ -38,12 +41,20 @@ class _WordleGamePageState extends State<WordleGamePage> {
   int maxLength = 7; // Maksimum kelime uzunluğu
   String meaning = ''; // Kelimenin anlamını tutacak değişken
   Widgets widgets = Widgets();
+  BannerAd? _bannerAd;
+
 
 
   @override
   void initState() {
     super.initState();
+    _loadBannerAd();
     _initializeGame();
+  }
+  Future<void> _loadBannerAd() async {
+    _bannerAd = AdMobService.createBannerAd();
+
+    _bannerAd!.load();
   }
   void _initializeGame() async {
     final dataProvider = DataProvider();
@@ -377,7 +388,68 @@ class _WordleGamePageState extends State<WordleGamePage> {
           ),
         ),
       ),
-        widgets.buttonShortCut(context),
+        Positioned(
+
+          child: Padding(
+            padding: const EdgeInsets.only(top:120 ),
+            child: CircularMenu(
+              alignment: Alignment.topRight,
+              radius: 60, // Yarıçapı ayarlayabilirsiniz
+              toggleButtonColor: Color(0xff402B04),
+              items: [
+                CircularMenuItem(
+                  color: Color(0XFFDB56AD),
+
+                  icon: Icons.favorite,
+                  onTap: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => FavoritesPage(),
+                      ),
+                    );
+                  },
+                ),
+                CircularMenuItem(
+                  color: Color(0XFFDB56AD),
+
+                  icon: Icons.search,
+                  onTap: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => SearchWords(),
+                      ),
+                    );
+                  },
+                ),
+                CircularMenuItem(
+                  color: Color(0XFFDB56AD),
+                  icon: Icons.my_library_books_sharp,
+                  onTap: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => RandomWordScreen(),
+                      ),
+                    );
+                  },
+                ),
+              ],
+            ),
+          ),
+        ),
+        if (_bannerAd != null)
+          Positioned(
+            bottom: 0,
+            left: 0,
+            right: 0,
+            child: Container(
+              width: _bannerAd!.size.width.toDouble(),
+              height: _bannerAd!.size.height.toDouble(),
+              child: AdWidget(ad: _bannerAd!),
+            ),
+          ),
 
       ]
     );

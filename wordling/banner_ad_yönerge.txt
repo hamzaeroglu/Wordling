@@ -1,0 +1,71 @@
+  google_mobile_ads: ^3.1.0
+
+ 1- xml'e bunları ekle:
+  <meta-data
+             android:name="com.google.android.gms.ads.APPLICATION_ID"
+             android:value="ca-app-pub-4065499643683154~1502066191"/> // uygulama id'si
+
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
+
+*********************************************************************************************************
+
+ 2- bir dosyaya reklam kodlarını yaz
+
+import 'package:google_mobile_ads/google_mobile_ads.dart';
+
+class AdMobService {
+
+  static BannerAd? myBanner;
+  static void initialize() {
+    if (myBanner == null) {
+      myBanner = createBannerAd();
+      myBanner!.load();
+    }
+  }
+
+  static BannerAd? createBannerAd() {
+    return BannerAd(
+      adUnitId: "ca-app-pub-4065499643683154/3910120574",
+      size: AdSize.banner,
+      request: AdRequest(),
+      listener: BannerAdListener(
+        onAdLoaded: (_) {
+          print('Reklam yüklendi');
+        },
+        onAdFailedToLoad: (ad, error) {
+          ad.dispose();
+          print('Reklam yüklenemedi: $error');
+        },
+      ),
+    );
+  }
+}
+*********************************************************************************************************
+3- main fonksiyonunda çağır:
+  AdMobService.initialize();
+
+*********************************************************************************************************
+
+4- Bu kodları uygulama sayfasına ekle:
+değişken tanımla:   BannerAd? _bannerAd;
+initstate içine:     _loadBannerAd();
+
+  Future<void> _loadBannerAd() async {
+    _bannerAd = AdMobService.createBannerAd();
+
+    _bannerAd!.load();
+  }
+
+ widget olarak yerleştir:
+ if (_bannerAd != null)
+           Positioned(
+             bottom: 0,
+             left: 0,
+             right: 0,
+             child: Container(
+               width: _bannerAd!.size.width.toDouble(),
+               height: _bannerAd!.size.height.toDouble(),
+               child: AdWidget(ad: _bannerAd!),
+             ),
+           ),
+

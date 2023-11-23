@@ -8,6 +8,8 @@ import 'package:wordling/widgets.dart';
 import 'package:wordling/database.dart';
 import 'package:wordling/word_details.dart';
 import 'package:wordling/wordle.dart';
+
+import 'bannerAd.dart';
 class FavoritesPage extends StatefulWidget {
   const FavoritesPage({Key? key}) : super(key: key);
 
@@ -42,6 +44,7 @@ class _FavoritesPageState extends State<FavoritesPage> {
         backgroundColor: Color(0xFFECEAE8),
         appBar: widgets.buildAppBar("FAVORİ KELİMELER", ),
         body: _buildFavoritesList(),
+
       ),
         Positioned(
 

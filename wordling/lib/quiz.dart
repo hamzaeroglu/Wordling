@@ -1,7 +1,9 @@
 import 'dart:async';
 import 'dart:math';
 import 'package:flutter/material.dart';
+import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:wordling/widgets.dart';
+import 'bannerAd.dart';
 import 'data_provider.dart';
 import 'feedback.dart'; // DataProvider sınıfını içe aktarın
 
@@ -25,19 +27,24 @@ class _QuizPageState extends State<QuizPage> {
   bool isAnswerCorrect = false; // Sorunun doğru cevap verilip verilmediğini takip etmek için bir değişken
   Map<int, Color> boxColors = {}; // Şıkların renklerini saklamak için bir Map kullanın
   Map<int, Color?> boxShadows = {}; // Şıkların renklerini saklamak için bir Map kullanın
+  BannerAd? _bannerAd;
 
 
 
   @override
   void initState() {
     super.initState();
+    _loadBannerAd();
     for (int i = 0; i < 3; i++) {
       boxShadows[i] = boxShadowColor;
       boxColors[i] = boxColor;
     }
     _initializeQuiz();
+  }
+  Future<void> _loadBannerAd() async {
+    _bannerAd = AdMobService.createBannerAd();
 
-
+    _bannerAd!.load();
   }
 
 
@@ -141,17 +148,17 @@ class _QuizPageState extends State<QuizPage> {
 
   @override
   Widget build(BuildContext context) {
-    return Stack(
-      children:
-      [
-        Scaffold(
-        appBar: widgets.buildAppBar("Kelimenin Karşılığı Nedir"),
-        body: Column(
-          crossAxisAlignment: CrossAxisAlignment.center,
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
+    return Scaffold(
+    appBar: widgets.buildAppBar("Kelimenin Karşılığı Nedir"),
+    body: Stack(
+      children: [Column(
+        crossAxisAlignment: CrossAxisAlignment.center,
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
 
-            Card(
+          Container(
+            margin: EdgeInsets.only(bottom: 70),
+            child: Card(
               shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
               elevation: 20,
               color:Color(0XFF09B7E6) ,
@@ -234,14 +241,30 @@ class _QuizPageState extends State<QuizPage> {
               ),
 
             ),
+          ),
 
-          ],
-        ),
+        ],
       ),
-        widgets.buttonShortCut(context),
+        Padding(
+          padding: const EdgeInsets.only(bottom:75.0),
+          child: widgets.buttonShortCut(context),
+        ),
+
+        if (_bannerAd != null)
+          Positioned(
+            bottom: 0,
+            left: 0,
+            right: 0,
+            child: Container(
+              width: _bannerAd!.size.width.toDouble(),
+              height: _bannerAd!.size.height.toDouble(),
+              child: AdWidget(ad: _bannerAd!),
+            ),
+          ),
 
       ]
-    );
+    ),
+      );
   }
 
 
