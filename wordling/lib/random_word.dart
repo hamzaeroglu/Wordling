@@ -16,6 +16,7 @@ import 'data_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import 'database.dart';
+import 'intersistalAd.dart';
 
 class RandomWordScreen extends StatefulWidget {
   @override
@@ -31,6 +32,11 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
   String? fcmToken; // FCM token'ını saklayacak değişken
   List<Map<String, dynamic>> allWords = [];
   BannerAd? _bannerAd;
+  int buttonPressCount = 0;
+  InterstitialExampleState interstitialState = InterstitialExampleState();
+
+
+
 
 
 
@@ -255,15 +261,21 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
                     right: MediaQuery.of(context).size.width*0.3,
                     left: MediaQuery.of(context).size.width*0.3,
 
-                    child: ElevatedButton(
+                    child:
+                    ElevatedButton(
                       style: widgets.button(),
                       onPressed: () {
                         buttonColor = Colors.white;
-                        // "Yeni Kelime" düğmesine tıklanığında yeni kelimeyi çek ve göster
+                        buttonPressCount++; // Buton basım sayısını artır
+                        if (buttonPressCount % 10 == 0) {
+                          // Her 10 basışta reklamı göster
+                          interstitialState.loadAd();
+                        }
                         _loadNewWord();
                       },
                       child: Text("YENİ KELİME", style: widgets.text_style()),
                     ),
+
                   ),
                   // Circular Menu ekleme
 
