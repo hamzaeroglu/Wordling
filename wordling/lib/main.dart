@@ -3,6 +3,7 @@ import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:grock/grock.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:wordling/intersistalAd.dart';
 import 'package:wordling/random_word.dart';
 import 'package:wordling/splash.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';

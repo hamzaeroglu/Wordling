@@ -1,11 +1,16 @@
 import 'dart:async';
 import 'dart:math';
+import 'package:circular_menu/circular_menu.dart';
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
+import 'package:wordling/random_word.dart';
+import 'package:wordling/search.dart';
 import 'package:wordling/widgets.dart';
 import 'bannerAd.dart';
 import 'data_provider.dart';
-import 'feedback.dart'; // DataProvider sınıfını içe aktarın
+import 'favorites_page.dart';
+import 'feedback.dart';
+import 'games.dart'; // DataProvider sınıfını içe aktarın
 
 class QuizPage extends StatefulWidget {
   const QuizPage({Key? key}) : super(key: key);
@@ -149,122 +154,173 @@ class _QuizPageState extends State<QuizPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-    appBar: widgets.buildAppBar("Kelimenin Karşılığı Nedir"),
-    body: Stack(
-      children: [Column(
-        crossAxisAlignment: CrossAxisAlignment.center,
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
+      appBar: widgets.buildAppBar("Kelimenin Karşılığı Nedir"),
+      body: Stack(
+    children:
+    [
+    Column(
+    crossAxisAlignment: CrossAxisAlignment.center,
+    mainAxisAlignment: MainAxisAlignment.center,
+    children: [
 
-          Container(
-            margin: EdgeInsets.only(bottom: 70),
-            child: Card(
-              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
-              elevation: 20,
-              color:Color(0XFF09B7E6) ,
-              child: Column(
-                children: [
+      Container(
+        margin: EdgeInsets.only(bottom: 70),
+        child: Card(
+          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
+          elevation: 20,
+          color:Color(0XFF09B7E6) ,
+          child: Column(
+            children: [
 
-                  Container(
+              Container(
 
-                    width: MediaQuery.of(context).size.width*0.7,
-                    decoration: BoxDecoration( border: Border.all(width: 0.6, style: BorderStyle.solid), borderRadius: BorderRadius.circular(20), color: Color(0xFFF0C70A)),
-                    alignment: Alignment.center,
-                    margin: EdgeInsets.only(top: 10),
-                    padding: EdgeInsets.all(16.0),
-                    child: Text(
-                      question,
-                      style: widgets.text_style(),
-                    ),
-                  ),
-                  SizedBox(height: 20),
-                  Column(
-                    children: choices.asMap().entries.map((entry) {
-                      final index = entry.key;
-                      final choice = entry.value;
+                width: MediaQuery.of(context).size.width*0.7,
+                decoration: BoxDecoration( border: Border.all(width: 0.6, style: BorderStyle.solid), borderRadius: BorderRadius.circular(20), color: Color(0xFFF0C70A)),
+                alignment: Alignment.center,
+                margin: EdgeInsets.only(top: 10),
+                padding: EdgeInsets.all(16.0),
+                child: Text(
+                  question,
+                  style: widgets.text_style(),
+                ),
+              ),
+              SizedBox(height: 20),
+              Column(
+                children: choices.asMap().entries.map((entry) {
+                  final index = entry.key;
+                  final choice = entry.value;
 
-                      return GestureDetector(
-                        onTap: () {
-                          if (choice == correctAnswer) {
-                            setState(() {
-                              isAnswerCorrect = true;
-                              boxShadows[index] = Colors.transparent; // Şık doğruysa, box shadow rengini transparan yapın
-                              boxColors[index] = Colors.green;
+                  return GestureDetector(
+                    onTap: () {
+                      if (choice == correctAnswer) {
+                        setState(() {
+                          isAnswerCorrect = true;
+                          boxShadows[index] = Colors.transparent; // Şık doğruysa, box shadow rengini transparan yapın
+                          boxColors[index] = Colors.green;
 
-                            });
-                            _successMessage();
-                            _initializeQuiz();
-                          } else {
-                            setState(() {
-                              boxShadows[index] = Colors.transparent; // Şık doğruysa, box shadow rengini transparan yapın
-                              boxColors[index] = Colors.red;
-                            });
-                            _failedMessage();
-                          }
-                          // Şık seçimine basıldığında bekleyin ve rengi tekrar orijinal hale getirin
-                          Future.delayed(Duration(seconds: 3), () {
-                            setState(() {
-                              boxColors[index] = boxColor;
-                              isAnswerCorrect = false;
-                              boxShadows[index] = boxShadowColor;
-                            });
-                          });
-                        },
-                        child: Padding(
-                          padding: const EdgeInsets.all(8.0),
-                          child: Container(
-                            decoration: BoxDecoration(
-                              borderRadius: BorderRadius.circular(20),
-                              color: boxColors[index],
-                              boxShadow: [
-                                BoxShadow(
-                                  color: boxShadows[index] = boxShadows[index] ?? Colors.transparent, // Varsayılan olarak nullsa, şeffaf yapabilirsiniz
+                        });
+                        _successMessage();
+                        _initializeQuiz();
+                      } else {
+                        setState(() {
+                          boxShadows[index] = Colors.transparent; // Şık doğruysa, box shadow rengini transparan yapın
+                          boxColors[index] = Colors.red;
+                        });
+                        _failedMessage();
+                      }
+                      // Şık seçimine basıldığında bekleyin ve rengi tekrar orijinal hale getirin
+                      Future.delayed(Duration(seconds: 3), () {
+                        setState(() {
+                          boxColors[index] = boxColor;
+                          isAnswerCorrect = false;
+                          boxShadows[index] = boxShadowColor;
+                        });
+                      });
+                    },
+                    child: Padding(
+                      padding: const EdgeInsets.all(8.0),
+                      child: Container(
+                        decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(20),
+                          color: boxColors[index],
+                          boxShadow: [
+                            BoxShadow(
+                              color: boxShadows[index] = boxShadows[index] ?? Colors.transparent, // Varsayılan olarak nullsa, şeffaf yapabilirsiniz
 
-                            offset: Offset(0, 2),
-                                  blurRadius: 2,
-                                  spreadRadius: 2,
-                                )
-                              ],
-                            ),
-                            height: MediaQuery.of(context).size.height * 0.07,
-                            child: Center(child: Text('$choice', textAlign: TextAlign.center, style: widgets.text_style())),
-                          ),
+                        offset: Offset(0, 2),
+                              blurRadius: 2,
+                              spreadRadius: 2,
+                            )
+                          ],
                         ),
-                      );
+                        height: MediaQuery.of(context).size.height * 0.07,
+                        child: Center(child: Text('$choice', textAlign: TextAlign.center, style: widgets.text_style())),
+                      ),
+                    ),
+                  );
 
-                    }).toList(),
-                  ),
-
-                  SizedBox(height: 20),
-
-                ],
+                }).toList(),
               ),
 
-            ),
+              SizedBox(height: 20),
+
+            ],
           ),
 
-        ],
-      ),
-        Padding(
-          padding: const EdgeInsets.only(bottom:75.0),
-          child: widgets.buttonShortCut(context),
         ),
+      ),
 
-        if (_bannerAd != null)
-          Positioned(
-            bottom: 0,
-            left: 0,
-            right: 0,
-            child: Container(
-              width: _bannerAd!.size.width.toDouble(),
-              height: _bannerAd!.size.height.toDouble(),
-              child: AdWidget(ad: _bannerAd!),
-            ),
-          ),
-
-      ]
+    ],
     ),
-      );
+
+
+
+      Positioned(
+
+        child: Padding(
+          padding: const EdgeInsets.only(top:120 ),
+          child: CircularMenu(
+            alignment: Alignment.topRight,
+            radius: 60, // Yarıçapı ayarlayabilirsiniz
+            toggleButtonColor: Color(0xff402B04),
+            items: [
+              CircularMenuItem(
+                color: Color(0XFFDB56AD),
+
+                icon: Icons.favorite,
+                onTap: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => FavoritesPage(),
+                    ),
+                  );
+                },
+              ),
+              CircularMenuItem(
+                color: Color(0XFFDB56AD),
+
+                icon: Icons.search,
+                onTap: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => SearchWords(),
+                    ),
+                  );
+                },
+              ),
+              CircularMenuItem(
+                color: Color(0XFFDB56AD),
+                icon: Icons.my_library_books_sharp,
+                onTap: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => RandomWordScreen(),
+                    ),
+                  );
+                },
+              ),
+            ],
+          ),
+        ),
+      ),
+
+
+      if (_bannerAd != null)
+      Positioned(
+    bottom: 0,
+    left: 0,
+    right: 0,
+    child: Container(
+      width: _bannerAd!.size.width.toDouble(),
+      height: _bannerAd!.size.height.toDouble(),
+      child: AdWidget(ad: _bannerAd!),
+    ),
+      ),
+    ]
+    ));
   }
 
 

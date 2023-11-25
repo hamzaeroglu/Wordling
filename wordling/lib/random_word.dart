@@ -33,7 +33,7 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
   List<Map<String, dynamic>> allWords = [];
   BannerAd? _bannerAd;
   int buttonPressCount = 0;
-  InterstitialExampleState interstitialState = InterstitialExampleState();
+  AdManager interstitialState = AdManager();
 
 
 
@@ -44,6 +44,7 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
   void initState() {
       super.initState();
       _loadBannerAd();
+      AdManager.loadInterstitialAd();
       _service.connectNotification();
       FirebaseMessaging.instance.subscribeToTopic("all").then((value) {
         print("ABONELİK BAŞARILI");
@@ -269,7 +270,7 @@ class _RandomWordScreenState extends State<RandomWordScreen> {
                         buttonPressCount++; // Buton basım sayısını artır
                         if (buttonPressCount % 10 == 0) {
                           // Her 10 basışta reklamı göster
-                          interstitialState.loadAd();
+                          AdManager.showInterstitialAd();
                         }
                         _loadNewWord();
                       },
