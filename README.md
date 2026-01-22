@@ -1,60 +1,31 @@
-# Wordling 🌍🔤
+# Wordling
 
-**Wordling**, hem kelime davarcığınızı geliştirebileceğiniz hem de eğlenceli vakit geçirebileceğiniz kapsamlı bir Flutter kelime oyunudur. Klasik Wordle deneyimini, testler ve sözlük özellikleriyle birleştirir.
+## Proje Özeti
+Wordling, kelime dağarcığını geliştirmeyi hedefleyen, içerisinde Wordle benzeri bir bulmaca, çoktan seçmeli bilgi yarışması (Quiz) ve kapsamlı bir sözlük modülü barındıran Flutter tabanlı mobil uygulamadır. Proje, tek bir uygulama içerisinde farklı oyun mekaniklerini barındırması ve yerel/uzak veri kaynaklarını hibrit bir yapıda kullanması ile öne çıkar.
 
-![App Banner](assets/images/banner_placeholder.png)
+## Teknik Öne Çıkanlar
+*   **Hibrit Veri Yönetimi:**
+    *   **Statik Veri:** Performans optimizasyonu için on binlerce kelimeyi içeren sözlük veritabanı, harf bazlı parçalanmış JSON dosyaları (`a.json`, `b.json` vb.) olarak tutulmaktadır. Bu yapı, tek bir büyük veritabanı dosyasını belleğe yüklemek yerine, ihtiyaç duyulan veri setinin anlık olarak parse edilmesini sağlar.
+    *   **Kullanıcı Verisi:** Favorilere eklenen kelimeler gibi kullanıcıya özgü dinamik veriler için **SQLite (`sqflite`)** kullanılarak kalıcı veri saklama (persistence) sağlanmıştır.
+    *   **Uzak Konfigürasyon:** Uygulama içi kritik güncellemeler ve bildirim yönetimi için **Firebase** altyapısı entegre edilmiştir.
+*   **Oyun Mantığı ve Algoritmalar:**
+    *   Wordle oyun motoru, kullanıcının girdiği kelimeleri harf-konum doğrulaması yapan ve oyun durumunu (kazanma/kaybetme/haklar) yöneten özel bir mantıkla geliştirilmiştir.
+    *   Quiz modülü, mevcut sözlük veri setinden rastgele örneklem oluşturarak dinamik soru üretim algoritmasına sahiptir.
+*   **Modüler Mimari:** Oyun modülleri (Wordle, Quiz) ve yardımcı araçlar (Sözlük, Arama), birbirinden bağımsız çalışabilecek şekilde ayrıştırılmış ancak ortak veri sağlayıcıları (`DataProvider`) üzerinden beslenen bir yapıda kurgulanmıştır.
 
+## Kullanılan Teknolojiler
+*   **Dil & Framework:** Dart, Flutter
+*   **Backend & Servisler:**
+    *   **Firebase:** Core, Firestore (NoSQL veritabanı), Authentication, Messaging (FCM).
+    *   **OneSignal:** Gelişmiş push bildirim yönetimi.
+*   **Yerel Veritabanı:** Sqflite (SQLite)
+*   **UI & Animasyon:** `flutter_animate`, `circular_menu`, `grock` (UI kit/Navigation).
+*   **Monetization:** Google Mobile Ads (AdMob).
 
-## 🚀 Özellikler
-
-### 1. 🧩 Wordle (Kelime Bulmaca)
-Klasik Wordle deneyimi şimdi cebinizde!
-- **Çoklu Dil Desteği:** İster **Türkçe** ister **İngilizce** oynayın.
-- **Zorluk Seviyeleri:**
-  - **Easy (Kolay):** 4 harfli kelimeler
-  - **Medium (Orta):** 5 harfli kelimeler
-  - **Hard (Zor):** 6 harfli kelimeler
-- **Görsel İpuçları:** Doğru harf (Yeşil), Yanlış yer (Sarı), Yanlış harf (Gri).
-
-### 2. ❓ Kelime Testi (Quiz)
-Kelime bilginizi test edin!
-- Size bir kelime verilir ve anlamı sorulur (veya tam tersi).
-- 3 şık arasından doğruyu bulmaya çalışın.
-- Hatalı cevaplarda doğrusunu öğrenerek gelişin.
-
-### 3. 📚 Sözlük & Rastgele Kelime
-- **Rastgele Kelime:** Her gün veya istediğiniz an yeni bir kelime öğrenin.
-- **Detaylı Arama:** Veritabanındaki binlerce kelime arasında arama yapın.
-- **Örnek Cümleler:** Kelimelerin cümle içinde kullanımlarını görerek pekiştirin.
-
-### 4. ❤️ Favorilerim
-- Öğrendiğiniz veya sevdiğiniz kelimeleri favorilerinize ekleyin.
-- Daha sonra tekrar etmek için favoriler listenize erişin.
-- SQLite veritabanı sayesinde internet olmasa bile favorilerinize ulaşın.
-
----
-
-## 🛠️ Teknolojiler & Kütüphaneler
-
-Bu proje **Flutter** kullanılarak geliştirilmiştir.
-
-- **Frontend:** Flutter (Dart)
-- **State & UI Yönetimi:** `grock`, `flutter_animate`, `circular_menu`
-- **Veri Tabanı (Lokal):** `sqflite` (Favoriler için)
-- **Backend & Servisler:**
-  - **Firebase Core & Firestore:** Uzak konfigürasyon ve veri.
-  - **Firebase Messaging:** Push bildirimleri.
-  - **OneSignal:** Gelişmiş bildirim yönetimi.
-- **Reklam:** `google_mobile_ads` (AdMob Banner & Interstitial)
-- **Veri Kaynağı:** JSON tabanlı yerel sözlük veritabanı.
-
----
-
-## 📸 Ekran Görüntüleri
-
-| Ana Sayfa | Wordle Oyunu | Quiz Ekranı |
-|-----------|--------------|-------------|
-| ![Home](assets/ss/home.png) | ![Wordle](assets/ss/wordle.png) | ![Quiz](assets/ss/quiz.png) |
-
-
----
+## Bu Proje Neyi Gösteriyor
+Bu proje aşağıdaki yazılım geliştirme yetkinliklerini örneklemektedir:
+*   **Full-Stack Mobil Geliştirme:** UI tasarımından backend entegrasyonuna kadar uçtan uca uygulama geliştirme süreci.
+*   **Veri Modelleme ve Optimizasyon:** Büyük veri setlerinin (sözlük) mobil cihaz kaynaklarını verimli kullanacak şekilde (JSON partitioning) yönetilmesi.
+*   **Asenkron Programlama:** `Future` ve `Stream` yapıları ile veri okuma, veritabanı işlemleri ve ağ isteklerinin yönetimi.
+*   **Üçüncü Parti Entegrasyonlar:** Reklam ağları, bildirim servisleri ve analitik araçlarının bir mobil projeye başarılı entegrasyonu.
+*   **State Management:** Karmaşık oyun durumlarının ve kullanıcı etkileşimlerinin yönetimi.
