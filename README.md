@@ -23,7 +23,6 @@ Wordling, kelime dağarcığını geliştirmeyi hedefleyen, içerisinde Wordle b
 *   **Monetization:** Google Mobile Ads (AdMob).
 
 ## Bu Proje Neyi Gösteriyor
-Bu proje aşağıdaki yazılım geliştirme yetkinliklerini örneklemektedir:
 *   **Full-Stack Mobil Geliştirme:** UI tasarımından backend entegrasyonuna kadar uçtan uca uygulama geliştirme süreci.
 *   **Veri Modelleme ve Optimizasyon:** Büyük veri setlerinin (sözlük) mobil cihaz kaynaklarını verimli kullanacak şekilde (JSON partitioning) yönetilmesi.
 *   **Asenkron Programlama:** `Future` ve `Stream` yapıları ile veri okuma, veritabanı işlemleri ve ağ isteklerinin yönetimi.
